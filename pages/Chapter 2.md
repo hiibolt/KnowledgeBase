@@ -9,3 +9,5 @@
 	  **__Is__ a vector**
 	- #### Scalar Quantity
 	  Is a vector without direction.
+	- #### Vectors
+	  No arrow over a vector
