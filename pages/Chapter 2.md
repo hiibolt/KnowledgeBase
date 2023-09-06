@@ -10,4 +10,4 @@
 	- #### Scalar Quantity
 	  Is a vector without direction.
 	- #### Vectors
-	  No arrow over a vector
+	  No arrow over a vector stands for the magnitude of the vector.
