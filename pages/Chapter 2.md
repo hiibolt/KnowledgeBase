@@ -11,3 +11,5 @@
 	  Is a vector without direction.
 	- #### Vectors
 	  No arrow over a vector stands for the magnitude of the vector.
+		- ##### Unit Vectors
+		  $$\hat{x}$$
