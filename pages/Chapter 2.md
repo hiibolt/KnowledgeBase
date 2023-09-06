@@ -12,4 +12,4 @@
 	- #### Vectors
 	  No arrow over a vector stands for the magnitude of the vector.
 		- ##### Unit Vectors
-		  $$\hat{x}$$
+		  $$\hat{x}, \hat{y}, \text{ and } \hat{z}$$ are unit vectors in their according direction.
