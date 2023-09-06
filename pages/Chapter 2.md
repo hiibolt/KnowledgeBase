@@ -8,4 +8,4 @@
 	  $$\frac{d_1-d_0}{t_1-t_0}$$
 	  **__Is__ a vector**
 	- #### Scalar Quantity
-	  Is a vector,
+	  Is a vector without direction.
