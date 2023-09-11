@@ -8,3 +8,5 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
   * A x B = {(1, 3), (1, 4), (1, d), (2, 3), (2, 4), (2, d)}
 	- ### Relation
 	  Given sets A and B, relation R from A to B \subset of the Cartesian Product of A * B.
+	  
+	  A relation on a set S is a relation from S to S.
