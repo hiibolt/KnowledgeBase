@@ -3,5 +3,6 @@ An ordered pair $( a, b )$ becomes
 $$\{\{a\}\text{, }\{a,b\}\}$$
 	- ### Cartesian Product
 	  A * B = {(a, b): a $$\epsilon$$A and b $$\epsilon$$ B}
-	  *Example: * A = {1, 2}, B = {3, 4, d}
-	  A x B = {(1, 3), (1, 4), }
+	  
+	  Example: _ A = {1, 2}, B = {3, 4, d}
+	  A x B = {(1, 3), (1, 4), (1, d), (2, 3), (2, 4), (2, d)}
