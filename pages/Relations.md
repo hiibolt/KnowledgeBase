@@ -1,5 +1,5 @@
 # Relation
-Given sets A and B, relation R from A to B \subset
+Given sets A and B, relation R from A to B \subset A * B.
 - ## Ordered Pair
   An ordered pair $( a, b )$ becomes 
   $$\{\{a\}\text{, }\{a,b\}\}$$
