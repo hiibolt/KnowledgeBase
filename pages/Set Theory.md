@@ -1,6 +1,7 @@
 # Set
 Collection of elements
 	- ## Set Notation
+	  collapsed:: true
 	  $$\{ E_1, E_2, ... E_n \}$$
 	  * No duplicates
 	  * Can be finite or infinite
@@ -26,3 +27,4 @@ Collection of elements
 		  Also, $$\phi \subset \phi$$ and $$\phi \notin \phi$$
 	- ## Set Builder Notation
 	  $$\{x : \text{ proposition about }x\}$$
+- [[Relations]]
