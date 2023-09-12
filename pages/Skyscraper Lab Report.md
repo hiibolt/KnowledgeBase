@@ -16,7 +16,10 @@ Professor: *Jarod Adelman*
 		  Width = 450ft
 		  
 		  With this information, we can calculate the area in $$\text{ft}^2$$:
-		  $$450ft * 450ft = 202500$$
+		  $$450\text{ft} * 450\text{ft} = 202500\text{ft}^2$$
+		  
+		  However, we need the area in meters:
+		  $$202500\text{ft}^2*\frac($$
 		- ### 2. Use Figure 1 to estimate how much of the space that you calculated is actually usable. (Hint: not onlydo you have to consider the space used up by the white space, but also the amount of room used forstorage, conference rooms, walkways, and so on. It may behoove you find the area of the boxes andthen consider the number of boxes being taken up by the aforementioned areas).
 		- ### 3. Use Figure 2 to estimate the amount of floors in each section of the building and calculate the totalavailable surface area in the building. (Hint: notice that each section, as the height increases, becomesthinner, which means more ”unusable space”.)
 		- ### 4. Estimate the size of a cubicle that a person would need to work comfortably and efficiently.
