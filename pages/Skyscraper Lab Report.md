@@ -24,6 +24,7 @@ Professor: *Jarod Adelman*
 		  I estimate roughly only $$\frac{14}{18}$$ of the first floor is actually usable.
 		  
 		  Therefore, we can calculate the usable area as follows:
+		  $$19000m^2*\frac{14}{18}=$$
 		- ### 3. Use Figure 2 to estimate the amount of floors in each section of the building and calculate the totalavailable surface area in the building. (Hint: notice that each section, as the height increases, becomesthinner, which means more ”unusable space”.)
 		- ### 4. Estimate the size of a cubicle that a person would need to work comfortably and efficiently.
 		- ### 5. Using your estimation from Step 4, calculate the total number of workers in the Willis Tower.
