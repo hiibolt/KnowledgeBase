@@ -20,7 +20,8 @@ Professor: *Jarod Adelman*
 		  
 		  However, we need the area in meters:
 		  $$202500ft^2*(\frac{12in}{1ft})^2*(\frac{2.54cm}{1in})^2*(\frac{1m}{100cm})^2=19000m^2$$
-		- ### 2. Use Figure 1 to estimate how much of the space that you calculated is actually usable. (Hint: not onlydo you have to consider the space used up by the white space, but also the amount of room used forstorage, conference rooms, walkways, and so on. It may behoove you find the area of the boxes andthen consider the number of boxes being taken up by the aforementioned areas).
+		- ### 2. Use Figure 1 to estimate how much of the space that you calculated is actually usable. 
+		  I estimate roughly
 		- ### 3. Use Figure 2 to estimate the amount of floors in each section of the building and calculate the totalavailable surface area in the building. (Hint: notice that each section, as the height increases, becomesthinner, which means more ”unusable space”.)
 		- ### 4. Estimate the size of a cubicle that a person would need to work comfortably and efficiently.
 		- ### 5. Using your estimation from Step 4, calculate the total number of workers in the Willis Tower.
