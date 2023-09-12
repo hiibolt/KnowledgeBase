@@ -27,9 +27,11 @@ Professor: *Jarod Adelman*
 		  $$19000m^2*\frac{14}{18}=15000m^2$$
 		- ### 3. Use Figure 2 to estimate the amount of floors in each section of the building and calculate the total available surface area in the building. 
 		  
-		  For the sake of the problem, I will assume that parts of the building *not* visible are eliminated via any symmetrical eliminations.
+		  For the sake of the problem, I will assume that parts of the building *not* visible are eliminated/present via any symmetrical chunks.
 		  
 		  I will split each set of like floors into their multiplied 'actual available area'.
-		  $$15000m^2 * (50 * \frac{9}{9} + 20 * \frac{7}{9} + )$$
+		  $$15000m^2 * (50 * \frac{9}{9} + 20 * \frac{7}{9} + 30 * \frac{5}{9})$$
+		  
+		  4. Estimate the size of a cubicle that a person would need to work comfortably and efficiently.
 		- ### 4. Estimate the size of a cubicle that a person would need to work comfortably and efficiently.
 		- ### 5. Using your estimation from Step 4, calculate the total number of workers in the Willis Tower.
