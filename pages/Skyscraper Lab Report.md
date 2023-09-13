@@ -30,7 +30,7 @@ Professor: *Jarod Adelman*
 		  For the sake of the problem, I will assume that parts of the building *not* visible are eliminated/present via any symmetrical chunks.
 		  
 		  I will split each set of like floors into their multiplied 'actual available area'. I will also assume only a third is actually 
-		  $$15000m^2 * (50 * \frac{9}{9} + 20 * \frac{7}{9} + 20 * \frac{5}{9} + 20 * \frac{2}{9}) * \frac{1}{3} = 43000m^2$$
+		  $$15000m^2 * (50 * \frac{9}{9} + 20 * \frac{7}{9} + 20 * \frac{5}{9} + 20 * \frac{2}{9}) * \frac{1}{3} = 41000m^2$$
 		- ### 4. Estimate the size of a cubicle that a person would need to work comfortably and efficiently.
 		  I believe that most people need around 2 meters both in width and length to work properly.
 		  
@@ -38,10 +38,10 @@ Professor: *Jarod Adelman*
 		  $$2m*2m=4m^2$$
 		- ### 5. Using your estimation from Step 4, calculate the total number of workers in the Willis Tower.
 		  We can do this by dividing the usable area by the area per cubicle:
-		  $$43000m^2*\frac{1worker}{4m^2}=11000 \text{workers}$$
+		  $$41000m^2*\frac{1worker}{4m^2}=10000 \text{workers}$$
 	- ## 2.2 Calculating the Water Usage
 		- ### 1. Using the given that city planners assume that each person uses 100 gallons of water per day and your results from Part 1, calculate the total water usage per day in the Willis Tower.
 		  We can do this by converting the number of workers to the number of liters as follows:
-		  $$11000workers*\frac{100gallons}{1worker}=1100000gallons/day$$
+		  $$10*10^3workers*\frac{100gallons}{1worker}=1000000gallons/day$$
 		- ### 2. Convert your result in Step 1 from gallons per day to liters per minute.
 		  $$1100000gallons/day*\frac{1day}{24hours}*\frac{1hour}{60minutes}*\frac{1min}{60seconds}*\frac{1m^3}{264gallons}*\frac{1000liters}{1m^3}=$$
