@@ -15,7 +15,7 @@ Professor: *Jarod Adelman*
   |2|367357|58000|15000|
   |3|533000|106000|28000|
   |4|4.0e5|1.0e5|2.6e4|
-  |5||||
+  |5|369000|94000|24000|
   *Table 1: Final resultant data extracted from each group*
 - # Results
 	- ## 2.1 Estimating How Many People Work in the Willis Tower
