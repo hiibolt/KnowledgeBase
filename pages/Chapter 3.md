@@ -1,5 +1,5 @@
-- $$a=\frac{dv}{dv}$$
+- $$a=\frac{dv}{dv} \text{ or } \frac{\Delta v}{\Delta t}$$
 - $$\Delta x=x-x_0$$
 - $$\Delta v=v-v_0$$$$$$
 - $$\avg v=\frac{\Delta x}{\Delta t}$$
--
+- $$x=x_0+vt = $$
