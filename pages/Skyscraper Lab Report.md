@@ -46,11 +46,11 @@ Professor: *Jarod Adelman*
 		  $$2m*2m=4m^2$$
 		- ### 5. Using your estimation from Step 4, calculate the total number of workers in the Willis Tower.
 		  We can do this by dividing the usable area by the area per cubicle:
-		  $$4.0*10^5m^2*\frac{1worker}{4m^2}=10*10^5 \text{workers}$$
+		  $$4.0*10^5m^2*\frac{1worker}{4m^2}=1.0*10^5 \text{workers}$$
 	- ## 2.2 Calculating the Water Usage
 		- ### 1. Using the given that city planners assume that each person uses 100 gallons of water per day and your results from Part 1, calculate the total water usage per day in the Willis Tower.
 		  We can do this by converting the number of workers to the number of liters as follows:
-		  $$10*10^5workers*\frac{100gallons}{1worker}=10*10^5gallons/day$$
+		  $$1.0*10^5workers*\frac{100gallons}{1worker}=10*10^7gallons/day$$
 		- ### 2. Convert your result in Step 1 from gallons per day to liters per minute.
-		  $$10*10^5gallons/day*\frac{1day}{24hr}*\frac{1hr}{60mins}*\frac{1m^3}{264gallons}*\frac{1000liters}{1m^3}=2600liters/min$$
+		  $$1.0*10^7gallons/day*\frac{1day}{24hr}*\frac{1hr}{60mins}*\frac{1m^3}{264gallons}*\frac{1000liters}{1m^3}=2600liters/min$$
 - #
