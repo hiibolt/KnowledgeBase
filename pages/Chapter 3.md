@@ -2,6 +2,6 @@
 - $$\Delta x=x-x_0$$
 - $$\Delta v=v-v_0$$$$$$
 - $$\avg v=\frac{\Delta x}{\Delta t}$$
-- $$x=(x_0+vt) \text{ or } (x+0+\frac{v_0+v}{2})$$
+- $$x=(x_0+vt) \text{ or } (x+x_0+\frac{v_0+v}{2})$$
 - $$\Delta v_x=v_{fx}-v_{ix}=a_x\Delta t$$
   $$\Delta x = \frac{1}{2}(v_{fx}+v_{ix})$$
