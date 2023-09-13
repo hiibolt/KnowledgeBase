@@ -58,5 +58,5 @@ Professor: *Jarod Adelman*
   
   However, I do have concerns with how the usable area was calculated, as 7/9th (or 14/18ths) is a serious estimate. There are many factors, such as breathing room for cubicles and the walkways between them, lounges, etc.
   
-  Not knowing the size of cubicles also drastically reduces the accuracy and ability to calculate, however, because the Willis Tower states there are 15000 employees, and by my estimates I calculated around 10000. This could be because I chose a different cubicle size, but I also believe I should have been more leniant with my multiplier of available space (currently 1/3rd)
+  Not knowing the size of cubicles also drastically reduces the accuracy and ability to calculate, however, because the Willis Tower states there are 15000 employees, and by my estimates I calculated around 10000. This could be because I chose a different cubicle size, but I also believe I should have been more lenient with my multiplier of available space (currently 1/3rd), as only a third of a floor being usable is a bit of a guess.
 - # Conclusion
