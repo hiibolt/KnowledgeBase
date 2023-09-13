@@ -37,3 +37,6 @@ Professor: *Jarod Adelman*
 		  This gives us the following area per cubicle:
 		  $$2m*2m=4m^2$$
 		- ### 5. Using your estimation from Step 4, calculate the total number of workers in the Willis Tower.
+		  We can do this by dividing the usable area by the area per cubicle:
+		  $$43000m^2*\frac{1worker}{4m^2}=$$
+-
