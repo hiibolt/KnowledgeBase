@@ -54,5 +54,7 @@ Professor: *Jarod Adelman*
 		- ### 2. Converting to liters per minute
 		  $$1.0*10^7gallons/day*\frac{1day}{24hr}*\frac{1hr}{60mins}*\frac{1m^3}{264gallons}*\frac{1000liters}{1m^3}=26000liters/min$$
 - # Discussion
-  I believe that the area I calculated is relatively accurate, since the numbers are pulled from their website, and the only way to have error would be small
+  I believe that the area I calculated is relatively accurate, since the numbers are pulled from their website, and the only way to have error would be small portions that could jutt in or out. 
+  
+  However, I do have concerns with how the usable area was calcu
 - # Conclusion
