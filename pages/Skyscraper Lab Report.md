@@ -41,5 +41,6 @@ Professor: *Jarod Adelman*
 		  $$43000m^2*\frac{1worker}{4m^2}=11000 \text{workers}$$
 	- ## 2.2 Calculating the Water Usage
 		- ### 1. Using the given that city planners assume that each person uses 100 gallons of water per day and your results from Part 1, calculate the total water usage per day in the Willis Tower.
-		  We can do this by converting the number of workers to
+		  We can do this by converting the number of workers to the number of liters as follows:
+		  $$$$
 		- ### 2. Convert your result in Step 1 from gallons per day to liters per minute.
