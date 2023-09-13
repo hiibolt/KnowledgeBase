@@ -37,7 +37,7 @@ Professor: *Jarod Adelman*
 		  
 		  For the sake of the problem, I will assume that parts of the building *not* visible are eliminated/present via any symmetrical chunks.
 		  
-		  I will split each set of like floors into their multiplied 'actual available area'. I will also assume only a third is actually 
+		  I will split each set of like floors into their multiplied 'actual available area'. I will also assume only a third is actually usable past that.
 		  $$15000m^2 * (50 * \frac{9}{9} + 20 * \frac{7}{9} + 20 * \frac{5}{9} + 20 * \frac{2}{9}) * \frac{1}{3} = 4.1*10^5m^2$$
 		- ### 4. Estimating the size of a cubicle that a person would need to work comfortably and efficiently
 		  I believe that most people need around 2 meters both in width and length to work properly.
@@ -58,5 +58,5 @@ Professor: *Jarod Adelman*
   
   However, I do have concerns with how the usable area was calculated, as 7/9th (or 14/18ths) is a serious estimate. There are many factors, such as breathing room for cubicles and the walkways between them, lounges, etc.
   
-  Not knowing the size of cubicles also drastically reduces the accuracy and ability to calculate, however, because the Willis Tower states there are 15000 employees, and by my estimates I calculated around 10000. This could be because
+  Not knowing the size of cubicles also drastically reduces the accuracy and ability to calculate, however, because the Willis Tower states there are 15000 employees, and by my estimates I calculated around 10000. This could be because I chose a different cubicle size, but I also believe I should have been more leniant with my multiplier of available space (currently 1/3rd)
 - # Conclusion
