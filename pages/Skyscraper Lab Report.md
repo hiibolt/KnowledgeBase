@@ -19,7 +19,7 @@ Professor: *Jarod Adelman*
   *Table 1: Final resultant data extracted from each group*
 - # Results
 	- ## 2.1 Estimating How Many People Work in the Willis Tower
-		- ### 1. Starting with the length and width of the ground floor provided, calculate the total area in meters.
+		- ### 1. Calculating the total area of the base floors of the tower
 		  Length = 450ft
 		  Width = 450ft
 		  
@@ -28,30 +28,30 @@ Professor: *Jarod Adelman*
 		  
 		  However, we need the area in meters:
 		  $$202500ft^2*(\frac{12in}{1ft})^2*(\frac{2.54cm}{1in})^2*(\frac{1m}{100cm})^2=19000m^2$$
-		- ### 2. Estimate how much of the space that you calculated is actually usable. 
+		- ### 2. Estimating how much of the space is actually usable. 
 		  I estimate roughly only $$\frac{14}{18}$$ of the first floor is actually usable.
 		  
 		  Therefore, we can calculate the usable area as follows:
 		  $$19000m^2*\frac{14}{18}=15000m^2$$
-		- ### 3. Estimate the amount of floors in each section of the building and calculate the total available surface area in the building. 
+		- ### 3. Estimating the amount of floors in each section of the building + calculating the total available surface area in the building. 
 		  
 		  For the sake of the problem, I will assume that parts of the building *not* visible are eliminated/present via any symmetrical chunks.
 		  
 		  I will split each set of like floors into their multiplied 'actual available area'. I will also assume only a third is actually 
 		  $$15000m^2 * (50 * \frac{9}{9} + 20 * \frac{7}{9} + 20 * \frac{5}{9} + 20 * \frac{2}{9}) * \frac{1}{3} = 4.1*10^5m^2$$
-		- ### 4. Estimate the size of a cubicle that a person would need to work comfortably and efficiently.
+		- ### 4. Estimating the size of a cubicle that a person would need to work comfortably and efficiently
 		  I believe that most people need around 2 meters both in width and length to work properly.
 		  
 		  This gives us the following area per cubicle:
 		  $$2.0m*2.0m=4.0m^2$$
-		- ### 5. Using your estimation from Step 4, calculate the total number of workers in the Willis Tower.
+		- ### 5. Calculating the total number of workers in the Willis Tower.
 		  We can do this by dividing the usable area by the area per cubicle:
 		  $$4.1*10^5m^2*\frac{1worker}{4m^2}=1.0*10^5 \text{workers}$$
 	- ## 2.2 Calculating the Water Usage
 		- ### 1. Calculating the total water usage per day in the Willis Tower.
 		  We can do this by converting the number of workers to the number of liters as follows:
 		  $$1.0*10^5workers*\frac{100gallons}{1worker}=10*10^7gallons/day$$
-		- ### 2. Converty to liters per minute.
+		- ### 2. Converting to liters per minute.
 		  $$1.0*10^7gallons/day*\frac{1day}{24hr}*\frac{1hr}{60mins}*\frac{1m^3}{264gallons}*\frac{1000liters}{1m^3}=26000liters/min$$
 - # Discussion
 - # Conclusion
