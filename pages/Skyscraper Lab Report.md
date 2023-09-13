@@ -44,3 +44,4 @@ Professor: *Jarod Adelman*
 		  We can do this by converting the number of workers to the number of liters as follows:
 		  $$11000workers*\frac{100gallons}{1worker}=1100000gallons/day$$
 		- ### 2. Convert your result in Step 1 from gallons per day to liters per minute.
+		  $$1100000gallons/day*\frac{1day}{24hours}*\frac{1hour}{60minutes}*\frac{}{}$$
