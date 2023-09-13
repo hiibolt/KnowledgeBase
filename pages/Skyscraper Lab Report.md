@@ -67,3 +67,5 @@ Professor: *Jarod Adelman*
   I enjoyed overcoming my fear of converting units. It was previously something I hated from AP Chem, and never worked out, but I was able to deduce my own quick method of converting units while maintaining readability and usability. I did not particularly enjoy having to 'create' constants, as this leaves significant room for error. It also eliminates the ability to differentiate between errors when comparing to other people, unless you choose to agree on constants.
   
   There was no theory for this lab, but the objectives provided were all completed.
+  
+  I did enjoy this lab, I believe it helped with my unit conversion skills significantly. Besides providing solely genuine
