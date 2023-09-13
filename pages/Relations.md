@@ -15,5 +15,4 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 	  
 	  The number of relations is $$2^{|A|*|B|}$$.
 		- #### Notation
-		  If (x, y) $$x\element y$$ R, then xRy.
--
+		  If (x, y) \epsilon R, then xRy.
