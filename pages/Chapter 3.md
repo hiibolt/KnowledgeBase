@@ -2,4 +2,5 @@
 - $$\Delta x=x-x_0$$
 - $$\Delta v=v-v_0$$$$$$
 - $$\avg v=\frac{\Delta x}{\Delta t}$$
-- $$x=x_0+vt = $$
+- $$x=(x_0+vt) \text{ or } (x+0+\frac{v_0+v}{2})$$
+- $$\Delta v_x=v_$$
