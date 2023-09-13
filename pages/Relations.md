@@ -11,4 +11,6 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 	  
 	  A relation on a set S is a relation from S to S.
 	  
-	  To find all relations from C to D, list all subsets
+	  To find all relations from C to D, list all subsets of A * B.
+	  
+	  The number of relations is $$2^{|A|*|B|}$$
