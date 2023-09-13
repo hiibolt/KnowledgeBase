@@ -9,8 +9,12 @@ Professor: *Jarod Adelman*
 	  * Determine the number of people working in the Willis Tower
 	  * Calculate the water usage of the Willis Tower in liters per minutes.
 - # Data
-  |Group|Usable Area ($$m^2$$)|Workers|Water Usage ($$$$)
-  |00.0|02020|
+  |Group|Usable Area ($$m^2$$)|Workers|Water Usage ($$\frac{liters}{min}$$)|
+  |1||||
+  |2||||
+  |3||||
+  |4||||
+  |5||||
 - # Results
 	- ## 2.1 Estimating How Many People Work in the Willis Tower
 		- ### 1. Starting with the length and width of the ground floor provided, calculate the total area in meters.
