@@ -10,6 +10,7 @@ Professor: *Jarod Adelman*
 	  * Calculate the water usage of the Willis Tower in liters per minutes.
 - # Data
   |Group|Usable Area ($$m^2$$)|Workers|Water Usage ($$\frac{liters}{min}$$)|
+  |------|:------------------------:|:-------:|-------------------------------------:|
   |1||||
   |2||||
   |3||||
