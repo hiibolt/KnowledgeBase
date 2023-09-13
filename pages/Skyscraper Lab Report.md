@@ -56,5 +56,7 @@ Professor: *Jarod Adelman*
 - # Discussion
   I believe that the area I calculated is relatively accurate, since the numbers are pulled from their website, and the only way to have error would be small portions that could jutt in or out. 
   
-  However, I do have concerns with how the usable area was calculated, as 7/9th (or 14/18ths) is such an incredible estimate
+  However, I do have concerns with how the usable area was calculated, as 7/9th (or 14/18ths) is a serious estimate. There are many factors, such as breathing room for cubicles and the walkways between them, lounges, etc.
+  
+  Not knowing the size of cubicles
 - # Conclusion
