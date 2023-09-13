@@ -1,2 +1,5 @@
 - $$a=\frac{dv}{dv}$$
-- $$\delta x=x-x_0$$
+- $$\Delta x=x-x_0$$
+- $$\Delta v=v-v_0$$$$$$
+- $$\avg v=\frac{\Delta x}{\Delta t}$$
+-
