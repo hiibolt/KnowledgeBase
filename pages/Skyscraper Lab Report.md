@@ -16,6 +16,7 @@ Professor: *Jarod Adelman*
   |3||||
   |4||||
   |5||||
+  *Table 1: Final resultant data extracted from each group*
 - # Results
 	- ## 2.1 Estimating How Many People Work in the Willis Tower
 		- ### 1. Starting with the length and width of the ground floor provided, calculate the total area in meters.
