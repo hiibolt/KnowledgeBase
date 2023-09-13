@@ -44,14 +44,14 @@ Professor: *Jarod Adelman*
 		  
 		  This gives us the following area per cubicle:
 		  $$2.0m*2.0m=4.0m^2$$
-		- ### 5. Calculating the total number of workers in the Willis Tower.
+		- ### 5. Calculating the total number of workers
 		  We can do this by dividing the usable area by the area per cubicle:
 		  $$4.1*10^5m^2*\frac{1worker}{4m^2}=1.0*10^5 \text{workers}$$
 	- ## 2.2 Calculating the Water Usage
-		- ### 1. Calculating the total water usage per day in the Willis Tower.
+		- ### 1. Calculating the total water usage per day
 		  We can do this by converting the number of workers to the number of liters as follows:
 		  $$1.0*10^5workers*\frac{100gallons}{1worker}=10*10^7gallons/day$$
-		- ### 2. Converting to liters per minute.
+		- ### 2. Converting to liters per minute
 		  $$1.0*10^7gallons/day*\frac{1day}{24hr}*\frac{1hr}{60mins}*\frac{1m^3}{264gallons}*\frac{1000liters}{1m^3}=26000liters/min$$
 - # Discussion
 - # Conclusion
