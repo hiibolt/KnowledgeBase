@@ -54,7 +54,7 @@ Professor: *Jarod Adelman*
 		- ### 2. Converting to liters per minute
 		  $$1.0*10^7gallons/day*\frac{1day}{24hr}*\frac{1hr}{60mins}*\frac{1m^3}{264gallons}*\frac{1000liters}{1m^3}=26000liters/min$$
 - # Discussion
-  I believe that the area I calculated is relatively accurate, since the numbers are pulled from their website, and the only way to have error would be small portions that could jutt in or out. 
+  I believe that the area of the  I calculated is relatively accurate, since the numbers are pulled from their website, and the only way to have error would be small portions that could jutt in or out. 
   
   However, I do have concerns with how the usable area was calculated, as 7/9th (or 14/18ths) is a serious estimate. There are many factors, such as breathing room for cubicles and the walkways between them, lounges, etc.
   
@@ -62,5 +62,5 @@ Professor: *Jarod Adelman*
   
   I don't see how a worker could use 100gallons of water in the slightest. Maybe 2-10 accounting for water fountains, sinks, and restrooms - but not 100. Therefore, I do not believe that the total water usage is accurate.
   
-  However, there was another group which was completely separate from us, and reached a very similar final answer
+  However, there was another group which was completely separate from us, and reached a very similar final answer. This leads me to believe that our reasoning and final answer are sound considering the information we were provided.
 - # Conclusion
