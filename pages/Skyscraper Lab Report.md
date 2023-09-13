@@ -44,4 +44,4 @@ Professor: *Jarod Adelman*
 		  We can do this by converting the number of workers to the number of liters as follows:
 		  $$10*10^3workers*\frac{100gallons}{1worker}=10*10^5gallons/day$$
 		- ### 2. Convert your result in Step 1 from gallons per day to liters per minute.
-		  $$10*10^5gallons/day*\frac{1day}{24hr}*\frac{1hr}{60mins}*\frac{1min}{60secs}*\frac{1m^3}{264gallons}*\frac{1000liters}{1m^3}=44liters/min$$
+		  $$10*10^5gallons/day*\frac{1day}{24hr}*\frac{1hr}{60mins}*\frac{1m^3}{264gallons}*\frac{1000liters}{1m^3}=2600liters/min$$
