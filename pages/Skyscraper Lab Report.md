@@ -68,4 +68,4 @@ Professor: *Jarod Adelman*
   
   There was no theory for this lab, but the objectives provided were all completed.
   
-  I did enjoy this lab, I believe it helped with my unit conversion skills significantly. Besides providing solely genuine
+  I did enjoy this lab, I believe it helped with my unit conversion skills significantly. Besides providing solely genuine constants, I would not change anything for future iterations.
