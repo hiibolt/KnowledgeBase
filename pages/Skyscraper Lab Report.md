@@ -42,5 +42,5 @@ Professor: *Jarod Adelman*
 	- ## 2.2 Calculating the Water Usage
 		- ### 1. Using the given that city planners assume that each person uses 100 gallons of water per day and your results from Part 1, calculate the total water usage per day in the Willis Tower.
 		  We can do this by converting the number of workers to the number of liters as follows:
-		  $$11000workers*\frac{100}{}$$
+		  $$11000workers*\frac{100gallons}{1worker}=$$
 		- ### 2. Convert your result in Step 1 from gallons per day to liters per minute.
