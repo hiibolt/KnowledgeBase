@@ -10,3 +10,5 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 	  Given sets A and B, relation R from A to B \subset of the Cartesian Product of A * B.
 	  
 	  A relation on a set S is a relation from S to S.
+	  
+	  To find all relations from C to D, list all subsets
