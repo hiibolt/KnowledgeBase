@@ -28,12 +28,12 @@ Professor: *Jarod Adelman*
 		  
 		  However, we need the area in meters:
 		  $$202500ft^2*(\frac{12in}{1ft})^2*(\frac{2.54cm}{1in})^2*(\frac{1m}{100cm})^2=19000m^2$$
-		- ### 2. Use Figure 1 to estimate how much of the space that you calculated is actually usable. 
+		- ### 2. Estimate how much of the space that you calculated is actually usable. 
 		  I estimate roughly only $$\frac{14}{18}$$ of the first floor is actually usable.
 		  
 		  Therefore, we can calculate the usable area as follows:
 		  $$19000m^2*\frac{14}{18}=15000m^2$$
-		- ### 3. Use Figure 2 to estimate the amount of floors in each section of the building and calculate the total available surface area in the building. 
+		- ### 3. Estimate the amount of floors in each section of the building and calculate the total available surface area in the building. 
 		  
 		  For the sake of the problem, I will assume that parts of the building *not* visible are eliminated/present via any symmetrical chunks.
 		  
