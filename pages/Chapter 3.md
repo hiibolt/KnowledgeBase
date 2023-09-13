@@ -1,1 +1,2 @@
 - $$a=\frac{dv}{dv}$$
+- $$\delta x=x-x_0$$
