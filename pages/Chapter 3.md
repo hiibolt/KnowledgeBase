@@ -5,3 +5,5 @@
 - $$x=(x_0+vt) \text{ or } (x+x_0+\frac{v_0+v}{2})$$
 - $$\Delta v_x=v_{fx}-v_{ix}=a_x\Delta t$$
   $$\Delta x = \frac{1}{2}(v_{fx}+v_{ix})$$
+  $$\Delta x = v_{ix}\Delta t+\frac{1}{2}a_x(\Delta t)^2$$
+  $$$$
