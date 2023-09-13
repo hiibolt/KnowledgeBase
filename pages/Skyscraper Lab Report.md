@@ -64,4 +64,4 @@ Professor: *Jarod Adelman*
   
   However, there was another group which was completely separate from us, and reached a very similar final answer. This leads me to believe that our reasoning and final answer are sound considering the information we were provided.
 - # Conclusion
-  I did not enjoy having to 'create' numbers, this leaves significant room
+  I did not enjoy having to 'create' numbers, this leaves significant room for error. It also eliminates the ability to differentiate between error or opinion by compa
