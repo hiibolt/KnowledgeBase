@@ -13,4 +13,7 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 	  
 	  To find all relations from C to D, list all subsets of A * B.
 	  
-	  The number of relations is $$2^{|A|*|B|}$$
+	  The number of relations is $$2^{|A|*|B|}$$.
+		- #### Notation
+		  If (x, y) $$x\element y$$ R, then xRy.
+-
