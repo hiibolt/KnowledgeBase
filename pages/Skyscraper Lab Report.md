@@ -58,9 +58,9 @@ Professor: *Jarod Adelman*
   
   However, I do have concerns with how I calculated the usable area, as 7/9th (or 14/18ths) of a given floor being usable is a serious estimate. There are many factors, such as breathing room for cubicles and the walkways between them, lounges, etc.
   
-  Not knowing the size of cubicles also drastically reduces the accuracy and ability to calculate the number of employees, however, because the Willis Tower states there are 15000 employees, and by my estimates I calculated around 10000. This could be because I chose a different cubicle size, but I also believe I should have been more lenient with my multiplier of available space (currently 1/3rd), as only a third of a floor being usable is a bit of a guess.
+  Not knowing the size of cubicles also drastically reduces the accuracy and ability to calculate the number of employees, however, because the Willis Tower states there are 15000 employees, and by my estimates I calculated around 10000. This could be because I chose a different cubicle size, but I also believe I should have been more lenient with my multiplier of available space (currently 1/3rd), as only a third of a floor being usable is a bit of a rough estimate.
   
-  I don't see how a worker could use 100gallons of water in the slightest. Maybe 2-10 accounting for water fountains, sinks, and restrooms - but not 100. Therefore, I do not believe that the total water usage is accurate.
+  In relation to calculating the actual daily water usage, I don't see how a worker could use 100 gallons of water a day in the slightest. Maybe 2-10 gallons, accounting for water fountains; sinks; and restrooms, but not 100. Therefore, I do not believe that the total water usage is accurate.
   
   However, there was another group which was completely separate from us, and reached a very similar final answer. This leads me to believe that our reasoning and final answer are sound considering the information we were provided.
 - # Conclusion
