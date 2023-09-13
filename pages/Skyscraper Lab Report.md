@@ -7,7 +7,7 @@ Professor: *Jarod Adelman*
 	- ## Primary Objectives
 	  * Learn to convert between typical units while adhering to the laws of significant figures
 	  * Determine the number of people working in the Willis Tower
-	  * Calculate the water usage of the Willis Tower in $$\frac{\text{liters}}{\text{minute}}$$
+	  * Calculate the water usage of the Willis Tower in liters per minutes.
 - # Data
 - # Results
 	- ## 2.1 Estimating How Many People Work in the Willis Tower
@@ -31,7 +31,5 @@ Professor: *Jarod Adelman*
 		  
 		  I will split each set of like floors into their multiplied 'actual available area'. I will also assume only a third is actually 
 		  $$15000m^2 * (50 * \frac{9}{9} + 20 * \frac{7}{9} + 30 * \frac{5}{9} + 20 * \frac{2}{9}) * \frac{1}{3} = $$
-		  
-		  4. Estimate the size of a cubicle that a person would need to work comfortably and efficiently.
 		- ### 4. Estimate the size of a cubicle that a person would need to work comfortably and efficiently.
 		- ### 5. Using your estimation from Step 4, calculate the total number of workers in the Willis Tower.
