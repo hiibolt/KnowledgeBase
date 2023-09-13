@@ -30,7 +30,7 @@ Professor: *Jarod Adelman*
 		  For the sake of the problem, I will assume that parts of the building *not* visible are eliminated/present via any symmetrical chunks.
 		  
 		  I will split each set of like floors into their multiplied 'actual available area'. I will also assume only a third is actually 
-		  $$15000m^2 * (50 * \frac{9}{9} + 20 * \frac{7}{9} + 30 * \frac{5}{9} + 20 * \frac{2}{9}) * \frac{1}{3} = 43000m^2$$
+		  $$15000m^2 * (50 * \frac{9}{9} + 20 * \frac{7}{9} + 20 * \frac{5}{9} + 20 * \frac{2}{9}) * \frac{1}{3} = 43000m^2$$
 		- ### 4. Estimate the size of a cubicle that a person would need to work comfortably and efficiently.
 		  I believe that most people need around 2 meters both in width and length to work properly.
 		  
