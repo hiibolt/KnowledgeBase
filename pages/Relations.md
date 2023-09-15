@@ -16,3 +16,5 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 	  The number of relations is $$2^{|A|*|B|}$$.
 		- #### Notation
 		  If (x, y) \epsilon R, then xRy.
+		- #### Reflexive Property
+		  If for every element in A, the relation has (e, e), it
