@@ -18,3 +18,5 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 		  If (x, y) \epsilon R, then xRy.
 		- #### Reflexive Property
 		  If for every element in A, the relation has (e, e), it is reflexive.
+		- #### Symmetric Property
+		  If, for (y, x) \epsilon R, there is (x ,y)
