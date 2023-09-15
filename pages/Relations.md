@@ -20,3 +20,4 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 	  If for every element in A the relation has (e, e), it is reflexive.
 	- #### Symmetric Property
 	  If, for (y, x) \epsilon R, there is (x ,y), relation R is symmetrical.
+	- #### Transitive Property
