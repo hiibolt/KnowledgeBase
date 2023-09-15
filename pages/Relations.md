@@ -19,4 +19,4 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 		- #### Reflexive Property
 		  If for every element in A, the relation has (e, e), it is reflexive.
 		- #### Symmetric Property
-		  If, for (y, x) \epsilon R, there is (x ,y)
+		  If, for (y, x) \epsilon A, there is (x ,y), relation R is symmetrical.
