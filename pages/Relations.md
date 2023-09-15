@@ -17,4 +17,4 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 		- #### Notation
 		  If (x, y) \epsilon R, then xRy.
 		- #### Reflexive Property
-		  If for every element in A, the relation has (e, e), it
+		  If for every element in A, the relation has (e, e), it is reflexive.
