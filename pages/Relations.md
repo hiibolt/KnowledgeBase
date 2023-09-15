@@ -21,4 +21,4 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 	- #### Symmetric Property
 	  If, for (y, x) \epsilon R, there is (x ,y), relation R is symmetrical.
 	- #### Transitive Property
-	  If xRy and yRz implies xRz.
+	  If xRy and yRz implies xRz. Check for cases wher
