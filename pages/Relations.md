@@ -22,3 +22,5 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 	  If, for (y, x) \epsilon R, there is (x ,y), relation R is symmetrical.
 	- #### Transitive Property
 	  If xRy and yRz implies xRz. Check for cases where not xRz.
+	- ### Equivalence Relation
+	  A relation R is only an equivalence relation if it is reflexive, symmetric, and transitive
