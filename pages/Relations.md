@@ -14,7 +14,7 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
   To find all relations from C to D, list all subsets of A * B.
   
   The number of relations is $$2^{|A|*|B|}$$.
-	- #### Notation
+	- ### Notation
 	  If (x, y) \epsilon R, then xRy.
 	- #### Reflexive Property
 	  If for every element in A the relation has (e, e), it is reflexive.
