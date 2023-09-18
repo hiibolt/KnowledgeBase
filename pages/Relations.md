@@ -25,5 +25,6 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 	- ### Equivalence Relation
 	  A relation R is only an equivalence relation if it is reflexive, symmetric, and transitive
 - ## Partition
-  A collection of subsets where S = $$A_u \union A_2\union ... \union A_n$$
+  A collection of subsets where S = $$A_u U A_2 U ... U A_n$$
+  A
 -
