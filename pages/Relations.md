@@ -6,7 +6,7 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
   
   Example: A = {1, 2}, B = {3, 4, d}
   * A x B = {(1, 3), (1, 4), (1, d), (2, 3), (2, 4), (2, d)}
-- ### Relation
+- ## Relation
   Given sets A and B, relation R from A to B \subset of the Cartesian Product of A * B.
   
   A relation on a set S is a relation from S to S.
@@ -24,3 +24,4 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 	  If xRy and yRz implies xRz. Check for cases where not xRz.
 	- ### Equivalence Relation
 	  A relation R is only an equivalence relation if it is reflexive, symmetric, and transitive
+- ## Partition
