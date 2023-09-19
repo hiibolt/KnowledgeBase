@@ -1,1 +1,2 @@
 - [[Skyscraper Lab Report]]
+- [[Coin Toss]]
