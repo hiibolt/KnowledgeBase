@@ -68,7 +68,7 @@ Professor: *Jarod Adelman*
 		  **Perimeter:** 
 		  $$\sigma_{perimeter}=\sqrt{(0.1cm)^2+(0.1cm)^2}=\sqrt{0.01cm^2+0.01cm^2}=\sqrt{0.02cm^2}=0.14cm$$ 
 		  **Area:**
-		  $$\sigma_{area}=(1.70e4cm^2)\sqrt{(\frac{0.1cm}{92.3cm})^2+(\frac{0.1cm}{183.8cm})^2}=20.6$$
+		  $$\sigma_{area}=(1.70e4cm^2)\sqrt{(\frac{0.1cm}{92.3cm})^2+(\frac{0.1cm}{183.8cm})^2}=20.6cm^2$$
 - # Discussion
   ~~
 - # Conclusion
