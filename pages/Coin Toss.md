@@ -12,8 +12,8 @@ Professor: *Jarod Adelman*
 	- ## 2.1 Coin Toss
 	  I will be omitting the data section, as the data is generated each run by my code. Please see **3.1 Coin Toss** for an in-depth explanation.
 	- ## 2.2 Table Measurements
-	  Length: 92cm
-	  Width: 183cm
+	  Length: 92.3+/-0.1cm
+	  Width: 183.8+/-0.1cm
 - # Results
 	- ## 3.1 Coin Toss
 		- ### 3.1.1 Data Template
