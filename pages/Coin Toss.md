@@ -76,7 +76,10 @@ Professor: *Jarod Adelman*
 	  Width: 183cm
 - # Results
 	- ## 3.2 Table Measurements
-		- ### 1.) Calculating the Perimeter and Area
+		- #### 1.) Calculating the Perimeter and Area
+		  Perimeter = 5.5e2cm
+		  Area = 1.7e4cm
+		- #### 2.)
 - # Discussion
   I believe that the area of the base I calculated is relatively accurate, since the numbers are pulled from their website, and the only way to have error would be small portions that could jutt in or out. 
   
