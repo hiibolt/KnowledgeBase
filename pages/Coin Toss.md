@@ -75,7 +75,8 @@ Professor: *Jarod Adelman*
 	  Length: 92cm
 	  Width: 183cm
 - # Results
-	- ## 3.2
+	- ## 3.2 Table Measurements
+		- ### 1.) Calculating the Perimeter and Area
 - # Discussion
   I believe that the area of the base I calculated is relatively accurate, since the numbers are pulled from their website, and the only way to have error would be small portions that could jutt in or out. 
   
