@@ -20,27 +20,9 @@ Professor: *Jarod Adelman*
 - # Results
 	- ## 2.1 Coin Toss
 		- ### 1. Code
-		- #### Results
-		  ![image.png](../assets/image_1695168961756_0.png) Length = 450ft
-		- ### 2. Estimating how much of the space is actually usable. 
-		  I estimate roughly only $$\frac{14}{18}$$ of the first floor is actually usable.
-		  
-		  Therefore, we can calculate the usable area as follows:
-		  $$19000m^2*\frac{14}{18}=15000m^2$$
-		- ### 3. Estimating the amount of floors in each section of the building + calculating the total available surface area in the building. 
-		  
-		  For the sake of the problem, I will assume that parts of the building *not* visible are eliminated/present via any symmetrical chunks.
-		  
-		  I will split each set of like floors into their multiplied 'actual available area'. I will also assume only a third is actually usable past that.
-		  $$15000m^2 * (50 * \frac{9}{9} + 20 * \frac{7}{9} + 20 * \frac{5}{9} + 20 * \frac{2}{9}) * \frac{1}{3} = 4.1*10^5m^2$$
-		- ### 4. Estimating the size of a cubicle that a person would need to work comfortably and efficiently
-		  I believe that most people need around 2 meters both in width and length to work properly.
-		  
-		  This gives us the following area per cubicle:
-		  $$2.0m*2.0m=4.0m^2$$
-		- ### 5. Calculating the total number of workers
-		  We can do this by dividing the usable area by the area per cubicle:
-		  $$4.1*10^5m^2*\frac{1worker}{4m^2}=1.0*10^5 \text{workers}$$
+		  ```![image.png](../assets/image_1695169008760_0.png)```
+		- #### 2. Results
+			- ![image.png](../assets/image_1695168961756_0.png) Length = 450ft
 	- ## 2.2 Calculating the Water Usage
 		- ### 1. Calculating the total water usage per day
 		  We can do this by converting the number of workers to the number of liters as follows:
