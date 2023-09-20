@@ -23,7 +23,7 @@ Professor: *Jarod Adelman*
 	  
 	  I started with an array (list, for python'ers), with an entry for each of the 4 experiments. I accordingly titled it ``experiments``.
 	  
-	  For each entry of ``experiments`` (each ``experiment``, if you will), I included an object (dict, in python)
+	  For each entry of ``experiments`` (each experiment, if you will), I included an object (dict, in python). There are 2 constants: ``total_trials``; which is the number of trials to run for that experiment, and ``total_tosses``; which is the number of tosses for each trial
 	  ![image.png](../assets/image_1695230188595_0.png)
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
