@@ -42,7 +42,7 @@ Professor: *Jarod Adelman*
 		  
 		  Calculating the average itself is as simple as adding all elements of the ``trial_outcomes`` and dividing by the number of flips, which is ``total_trials * total_tosses``.
 		  
-		  In Python, using the ``reduce`` function on a list reduces
+		  In Python, using the ``reduce`` function on a list reduces each element to a starting accumulator. By using a basic ``lambda`` function which adds each new element to said accumulator, the following code correctly calculates the average, and stores it in ``average``
 		- ![image.png](../assets/image_1695230188595_0.png)
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
