@@ -19,6 +19,9 @@ Professor: *Jarod Adelman*
 	  Width: 183cm
 - # Results
 	- ## 3.1 Coin Toss
+	  I first decided to omit the manual entry nature, I would rather instead calculate new data on each run - this helps to omit outliers.
+	  
+	  I started 
 	  ![image.png](../assets/image_1695230188595_0.png)
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
