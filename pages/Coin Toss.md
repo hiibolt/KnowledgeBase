@@ -72,7 +72,9 @@ Professor: *Jarod Adelman*
 		- #### 2. Results
 		  ![image.png](../assets/image_1695168961756_0.png)
 	- ## 2.2 Table Measurements
-	  Length
+	  Length: 92cm
+	  Width: 183cm
+- #
 - # Discussion
   I believe that the area of the base I calculated is relatively accurate, since the numbers are pulled from their website, and the only way to have error would be small portions that could jutt in or out. 
   
