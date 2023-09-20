@@ -71,7 +71,7 @@ Professor: *Jarod Adelman*
 		  ```
 		- #### 2. Results
 		  ![image.png](../assets/image_1695168961756_0.png)
-	- ## 2.2 Calculating the Water Usage
+	- ## 2.2
 		- ### 1. Calculating the total water usage per day
 		  We can do this by converting the number of workers to the number of liters as follows:
 		  $$1.0*10^5workers*\frac{100gallons}{1worker}=10*10^7gallons/day$$
