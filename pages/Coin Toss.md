@@ -54,7 +54,11 @@ Professor: *Jarod Adelman*
 		  
 		  Finally, we must take the ``sqrt`` of the top divided by the bottom. Our final code follows:
 		  ![image.png](../assets/image_1695231357087_0.png)
-		-
+		- ### 3.1.5 Logging
+		  Last, we need a way to interpret this data. I accomplish this with basic usage of the print function and Python's (strange) syntax for string interpolation:
+		  ![image.png](../assets/image_1695231434298_0.png)
+		  
+		  **
 		- ![image.png](../assets/image_1695230188595_0.png){:height 656, :width 713}
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
