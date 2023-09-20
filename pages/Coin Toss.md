@@ -11,9 +11,7 @@ Professor: *Jarod Adelman*
 - # Data
 	- ## 2.1 Coin Toss
 		- #### 2. Results
-		  I will be omitting the data section, as the data is generated each run by my code.
-		  
-		  This allows for
+		  I will be omitting the data section, as the data is generated each run by my code. Please see *3.1 Coin
 	- ## 2.2 Table Measurements
 	  Length: 92cm
 	  Width: 183cm
