@@ -66,7 +66,7 @@ Professor: *Jarod Adelman*
 		  Area = 1.70e4cm
 		- ### 2.) Calculating the Uncertainties
 		  **Perimeter:** 
-		  $$\sigma_{perimeter}=$$
+		  $$\sigma_{perimeter}=\sqrt{(0.1cm)^2+(0.1cm)^2}=\sqrt{(}$$
 - # Discussion
   ~~
 - # Conclusion
