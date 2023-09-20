@@ -19,7 +19,7 @@ Professor: *Jarod Adelman*
 	  Width: 183cm
 - # Results
 	- ## 3.1 Coin Toss
-	  ![image.png](../assets/image_1695229978762_0.png)
+	  ![image.png](../assets/image_1695230188595_0.png)
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
 		  Perimeter = 5.5e2cm
