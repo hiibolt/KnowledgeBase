@@ -31,4 +31,4 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
   $A_i \bigcap A_j = \{\}$
   $A_i =/ \{\}$
 	- ### Partitions vs ((6508b564-f18f-4d56-aa4a-3430136636db))
-	  A partition has an according equivalence relation, and an equivalence relation creates a partition
+	  A partition has an according equivalence relation, and an equivalence relation creates a partition.
