@@ -38,7 +38,7 @@ Professor: *Jarod Adelman*
 		- ### 3.1.3 Calculating the Averages
 		  For each dataset, I am required to present the average between all trials per experiment.
 		  
-		  Logically, to do so, we
+		  Logically, to do so, we must first iterate each experiment, and then calculate after the data is generated
 		- ![image.png](../assets/image_1695230188595_0.png)
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
