@@ -18,16 +18,10 @@ Professor: *Jarod Adelman*
   |5|369000|94000|24000|
   *Table 1: Final resultant data extracted from each group*
 - # Results
-	- ## 2.1 Estimating How Many People Work in the Willis Tower
-		- ### 1. Calculating the total area of the base floors of the tower
-		  Length = 450ft
-		  Width = 450ft
-		  
-		  With this information, we can calculate the area in $$\text{ft}^2$$:
-		  $$450\text{ft} * 450\text{ft} = 202500\text{ft}^2$$
-		  
-		  However, we need the area in meters:
-		  $$202500ft^2*(\frac{12in}{1ft})^2*(\frac{2.54cm}{1in})^2*(\frac{1m}{100cm})^2=19000m^2$$
+	- ## 2.1 Coin Toss
+		- ### 1. Code
+		- #### Results
+		  ![image.png](../assets/image_1695168961756_0.png) Length = 450ft
 		- ### 2. Estimating how much of the space is actually usable. 
 		  I estimate roughly only $$\frac{14}{18}$$ of the first floor is actually usable.
 		  
