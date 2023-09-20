@@ -45,7 +45,12 @@ Professor: *Jarod Adelman*
 		  In Python, using the ``reduce`` function on a list reduces each element to a starting accumulator. By using a basic ``lambda`` function which adds each new element to said accumulator, the following code correctly calculates the average ()and stores it in ``average`` for later data logging):
 		  ![image.png](../assets/image_1695231114076_0.png)
 		- ### 3.1.4 Calculating the Standard Deviation
-		  We can start by calculating the bottom half of the inner fraction of the formula for standard deviation. This is accomplished by subtracting 1 from the toto
+		  We can start by calculating the bottom half of the inner fraction of the formula for standard deviation. This is accomplished by subtracting 1 from the total number of tosses, ``total_trials * total_losses``.
+		  
+		  Accordingly: 
+		  ![image.png](../assets/image_1695231227676_0.png)
+		  
+		  Next, to calculate the deviation itself, we must SUM each
 		- ![image.png](../assets/image_1695230188595_0.png)
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
