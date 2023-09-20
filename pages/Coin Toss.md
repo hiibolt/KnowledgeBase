@@ -61,10 +61,12 @@ Professor: *Jarod Adelman*
 		  **Results:**
 		  ![image.png](../assets/image_1695230188595_0.png){:height 656, :width 713}
 	- ## 3.2 Table Measurements
-		- #### 1.) Calculating the Perimeter and Area
+		- ### 1.) Calculating the Perimeter and Area
 		  Perimeter = 552.2cm (gains a sigfig from addition)
 		  Area = 1.70e4cm
-		- #### 2.)
+		- ### 2.) Calculating the Uncertainties
+		  **Perimeter:** 
+		  $$$$
 - # Discussion
   ~~
 - # Conclusion
