@@ -1,5 +1,5 @@
-## Metadata
-Date: *September 2, 2022*
+### Metadata
+Date: *September 21, 2022*
 Class: *PHYS253 - Section 1*
 Author: *John White*
 Professor: *Jarod Adelman*
@@ -55,7 +55,9 @@ Professor: *Jarod Adelman*
 		  Last, we need a way to interpret this data. I accomplish this with basic usage of the print function and Python's (strange) syntax for string interpolation, and some escape characters for sake of line numbers:
 		  ![image.png](../assets/image_1695231434298_0.png)
 		  *Note: The print statements are split in favor of taking the screenshot.*
-		- ### 3.1.6 Final Results
+		- ### 3.1.6 Final Code and Results
+		  
+		  ![image.png](../assets/image_1695231733222_0.png) 
 		  ![image.png](../assets/image_1695230188595_0.png){:height 656, :width 713}
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
