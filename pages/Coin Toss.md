@@ -17,7 +17,7 @@ Professor: *Jarod Adelman*
   |4|4.0e5|1.0e5|2.6e4|
   |5|369000|94000|24000|
   *Table 1: Final resultant data extracted from each group*
-- # Results
+- # Data
 	- ## 2.1 Coin Toss
 		- #### 2. Results
 		  ![image.png](../assets/image_1695168961756_0.png)
