@@ -40,7 +40,9 @@ Professor: *Jarod Adelman*
 		  
 		  Logically, to do so, we must first iterate each experiment, and then calculate after the data is generated. Therefore, I place the calculation in the first level loop after the data is found.
 		  
-		  Calculating the average itself is as simple as adding all elements of the ``trial_outcomes`` and d
+		  Calculating the average itself is as simple as adding all elements of the ``trial_outcomes`` and dividing by the number of flips, which is ``total_trials * total_tosses``.
+		  
+		  In Python, using the ``reduce`` function on a list reduces
 		- ![image.png](../assets/image_1695230188595_0.png)
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
