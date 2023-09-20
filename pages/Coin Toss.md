@@ -28,10 +28,13 @@ Professor: *Jarod Adelman*
 		  
 		  After filling in the constants according to the lab, this is the resulting dataset template:
 		  ![image.png](../assets/image_1695230604670_0.png)
-		- ### Data Generation
+		- ### 3.1.2 Data Generation
 		  Now, to populate each of the ``trial_outcomes``, we must first iterate each experiment. Following this, we must iterate through each trial. And finally, we must iterate through each coin toss, and add the resulting coin toss to a counter.
 		  
-		  After the final coin toss,
+		  After the final coin toss, this counter is appended to its corresponding ``trial_outcomes``.
+		  
+		  The code for this section looks as such:
+		  ![image.png](../assets/image_1695230775911_0.png)
 		- ![image.png](../assets/image_1695230188595_0.png)
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
