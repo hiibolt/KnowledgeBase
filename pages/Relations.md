@@ -23,10 +23,11 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
 	- #### Transitive Property
 	  If xRy and yRz implies xRz. Check for cases where not xRz.
 	- ### Equivalence Relation
+	  id:: 6508b564-f18f-4d56-aa4a-3430136636db
 	  A relation R is only an equivalence relation if it is reflexive, symmetric, and transitive
 - ## Partition
   A collection of subsets where 
   S = $$A_u \bigcup A_2 \bigcup ... \bigcup A_n$$
   $A_i \bigcap A_j = \{\}$
   $A_i =/ \{\}$
-	- ### blehh
+	- ### Partitions vs ((6508b564-f18f-4d56-aa4a-3430136636db))
