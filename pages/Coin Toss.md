@@ -35,6 +35,10 @@ Professor: *Jarod Adelman*
 		  
 		  The code for this section looks as such:
 		  ![image.png](../assets/image_1695230775911_0.png)
+		- ### 3.1.3 Calculating the Averages
+		  For each dataset, I am required to present the average between all trials per experiment.
+		  
+		  Logically, to do so, we
 		- ![image.png](../assets/image_1695230188595_0.png)
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
