@@ -71,12 +71,8 @@ Professor: *Jarod Adelman*
 		  ```
 		- #### 2. Results
 		  ![image.png](../assets/image_1695168961756_0.png)
-	- ## 2.2
-		- ### 1. Calculating the total water usage per day
-		  We can do this by converting the number of workers to the number of liters as follows:
-		  $$1.0*10^5workers*\frac{100gallons}{1worker}=10*10^7gallons/day$$
-		- ### 2. Converting to liters per minute
-		  $$1.0*10^7gallons/day*\frac{1day}{24hr}*\frac{1hr}{60mins}*\frac{1m^3}{264gallons}*\frac{1000liters}{1m^3}=26000liters/min$$
+	- ## 2.2 Table Measurements
+	  Length
 - # Discussion
   I believe that the area of the base I calculated is relatively accurate, since the numbers are pulled from their website, and the only way to have error would be small portions that could jutt in or out. 
   
