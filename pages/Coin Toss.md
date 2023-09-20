@@ -50,7 +50,9 @@ Professor: *Jarod Adelman*
 		  Accordingly: 
 		  ![image.png](../assets/image_1695231227676_0.png)
 		  
-		  Next, to calculate the deviation itself, we must SUM each
+		  Next, to calculate the deviation itself, we must take the sum of each element minus the average square. Here, I use the same ``reduce`` function from before to do so - it calculates that formula and adds it to the accumulator.
+		  
+		  Finally, we mu
 		- ![image.png](../assets/image_1695230188595_0.png)
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
