@@ -58,7 +58,8 @@ Professor: *Jarod Adelman*
 		  Last, we need a way to interpret this data. I accomplish this with basic usage of the print function and Python's (strange) syntax for string interpolation, and some escape characters for sake of line numbers:
 		  ![image.png](../assets/image_1695231434298_0.png)
 		  *Note: The print statements are split in favor of taking the screenshot.*
-		- ![image.png](../assets/image_1695230188595_0.png){:height 656, :width 713}
+		- ### 3.1.6 Final Results
+		  ![image.png](../assets/image_1695230188595_0.png){:height 656, :width 713}
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
 		  Perimeter = 5.5e2cm
