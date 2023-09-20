@@ -9,15 +9,6 @@ Professor: *Jarod Adelman*
 	  * Determine the number of people working in the Willis Tower
 	  * Calculate the water usage of the Willis Tower in liters per minutes.
 - # Data
-  |Group|Usable Area ($$m^2$$)|Workers|Water Usage ($$\frac{liters}{min}$$)|
-  |------|:------------------------:|:-------:|-------------------------------------:|
-  |1|123000|176000|46800|
-  |2|367357|58000|15000|
-  |3|533000|106000|28000|
-  |4|4.0e5|1.0e5|2.6e4|
-  |5|369000|94000|24000|
-  *Table 1: Final resultant data extracted from each group*
-- # Data
 	- ## 2.1 Coin Toss
 		- #### 2. Results
 		  ![image.png](../assets/image_1695168961756_0.png)
