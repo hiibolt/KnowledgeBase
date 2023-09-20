@@ -67,7 +67,8 @@ Professor: *Jarod Adelman*
 		- ### 2.) Calculating the Uncertainties
 		  **Perimeter:** 
 		  $$\sigma_{perimeter}=\sqrt{(0.1cm)^2+(0.1cm)^2}=\sqrt{0.01cm^2+0.01cm^2}=\sqrt{0.02cm^2}=0.14cm$$ 
-		  (extra sigfig for conversion)
+		  **Area:**
+		  $$\sigma_{area}=$$
 - # Discussion
   ~~
 - # Conclusion
