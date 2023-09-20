@@ -56,8 +56,9 @@ Professor: *Jarod Adelman*
 		  ![image.png](../assets/image_1695231434298_0.png)
 		  *Note: The print statements are split in favor of taking the screenshot.*
 		- ### 3.1.6 Final Code and Results
-		  
+		  **Code:**
 		  ![image.png](../assets/image_1695231733222_0.png) 
+		  **Results:**
 		  ![image.png](../assets/image_1695230188595_0.png){:height 656, :width 713}
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
