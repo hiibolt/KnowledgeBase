@@ -21,7 +21,9 @@ Professor: *Jarod Adelman*
 	- ## 3.1 Coin Toss
 	  I first decided to omit the manual entry nature, I would rather instead calculate new data on each run - this helps to omit outliers.
 	  
-	  I started with an array (list, for python'ers), with an entry for each of the 4 experiments. I accordingly titled it ```experiments.`
+	  I started with an array (list, for python'ers), with an entry for each of the 4 experiments. I accordingly titled it ``experiments``.
+	  
+	  For each entry of ``experiments`` (each ``experiment``, if you will), I included an object (dict, in python)
 	  ![image.png](../assets/image_1695230188595_0.png)
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
