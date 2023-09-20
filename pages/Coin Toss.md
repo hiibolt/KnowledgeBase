@@ -62,7 +62,7 @@ Professor: *Jarod Adelman*
 		  ![image.png](../assets/image_1695230188595_0.png){:height 656, :width 713}
 	- ## 3.2 Table Measurements
 		- #### 1.) Calculating the Perimeter and Area
-		  Perimeter = 5.5e2cm
+		  Perimeter = 552cm
 		  Area = 1.7e4cm
 		- #### 2.)
 - # Discussion
