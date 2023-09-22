@@ -86,4 +86,4 @@ Professor: *Jarod Adelman*
   
   Finally, I tackled calculating the **error propagation**. My resulting values were around the final answers I predicted, especially the area. I will be frank and state that I do not understand how the error propogation formula for area was derived.
 - # Conclusion
-  I enjoyed this lab, and it was refreshing to use Python for the first time in a long while. I can't say I enjoy using it, and I'd
+  I enjoyed this lab, and it was refreshing to use Python for the first time in a long while. I can't say I enjoy using it, but it's hard not to appreciate how little has to be written. It's prone to developer error, unstable, and slow, but perfectly suited for fast statistical and mathematical computations.
