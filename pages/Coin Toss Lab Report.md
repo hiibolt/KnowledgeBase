@@ -88,6 +88,6 @@ Professor: *Jarod Adelman*
 - # Conclusion
   I enjoyed this lab, and it was refreshing to use Python for the first time in a long while. I can't say I enjoy using it, but it's hard not to appreciate how little has to be written. It's prone to developer error and slow, but perfectly suited for fast statistical and mathematical computations. I did not enjoy the table section because I did not understand how the error propagation formulas were derived.
   
-  I believe the theory was met satiably.
+  I believe the theory was satiated.
   
-  I know Python like the back of my hand, so considering that was likely the point of the lab, it's hard to say that I learned something substantial. I did think the
+  I know Python like the back of my hand, so considering that leaning it was likely the point of the lab, it's hard to say that I learned something substantial. I do think the lab was a success for others, as they seemed to learn a lot about Python through the slides linked on the course material section. I would only
