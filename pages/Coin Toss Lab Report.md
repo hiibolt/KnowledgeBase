@@ -5,8 +5,8 @@ Author: *John White*
 Professor: *Jarod Adelman*
 - # Theory
 	- ## Primary Objectives
-	  * ~~
-	  * ~~
+	  * Learn to use Python
+	  * Learn to propogate error
 	  * ~~
 - # Data
 	- ## 2.1 Coin Toss
@@ -90,4 +90,4 @@ Professor: *Jarod Adelman*
   
   I believe the theory was satiated.
   
-  I know Python like the back of my hand, so considering that leaning it was likely the point of the lab, it's hard to say that I learned something substantial. I do think the lab was a success for others, as they seemed to learn a lot about Python through the slides linked on the course material section. I would only
+  I used Python frequently prior, so considering that leaning it was likely the point of the lab, it's hard to say that I learned something substantial. I do think the lab was a success for others, as they seemed to learn a lot about Python through the slides linked on the course material section. I would add more explanation regarding the derivation of the error propagation formulas.
