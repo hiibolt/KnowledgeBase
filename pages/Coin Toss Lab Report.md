@@ -90,4 +90,4 @@ Professor: *Jarod Adelman*
   
   I believe the theory was met satiably.
   
-  I did not learn anything, but I d
+  I know Python like the back of my hand, so considering that was likely the point of the lab, it's hard to say that I learned something substantial. I did think the
