@@ -80,5 +80,8 @@ Professor: *Jarod Adelman*
   The resulting data and the statistics gleaned from them do in fact line up with a rough 50% average heads (skewed one way or another slightly), and the standard deviations are low enough to not raise flags.
   
   **Table Measurements**:
+  I was first asked to measure the table, and I eyeballed the final digit. I dislike the idea of having to eyeball, but I understand that ironically it can add more accuracy to a given measurement.
+  
+  Next, I found the raw
 - # Conclusion
   ~~
