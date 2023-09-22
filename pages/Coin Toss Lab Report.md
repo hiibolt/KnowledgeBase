@@ -82,6 +82,6 @@ Professor: *Jarod Adelman*
   **Table Measurements**:
   I was first asked to measure the table, and I eyeballed the final digit. I dislike the idea of having to eyeball, but I understand that ironically it can add more accuracy to a given measurement.
   
-  Next, I found the raw
+  Next, I found the directly computed perimeter and area, with no standard deviation. I have no comments on this step
 - # Conclusion
   ~~
