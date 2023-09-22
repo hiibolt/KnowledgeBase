@@ -71,10 +71,10 @@ Professor: *Jarod Adelman*
 		  $$\sigma_{area}=(1.70e4cm^2)\sqrt{(\frac{0.1cm}{92.3cm})^2+(\frac{0.1cm}{183.8cm})^2}=20cm^2$$
 - # Discussion
   **Coin Toss**:
-  I was first tasked with generating 4 sets of data for later usage. However, I think this adds an unnecessary level of error-prone manual entry. As a result, I decided to instead generate the data on the fly for each different run of the program. Therefore, my results can be run multiple times to create a better picture of the random nature of the experiment. 
+  I was first tasked with generating **4 sets of data** for later usage. However, I think this adds an unnecessary level of error-prone manual entry. As a result, I decided to instead generate the data on the fly for each different run of the program. Therefore, my results can be run multiple times to create a better picture of the random nature of the experiment. 
   
-  I was next tasked with finding the average of the datasets, which I do so by adding each element together. Here, it is worth noting that I use Python's embedded library ``functool``, as it is far more optimized than using manual iteration with an accumulator. This allows me to, combined with Python's ``lambda`` syntax, makes for a clean and readable one-line sum function. I also enjoy using new methods of coding in general.
+  I was next tasked with finding the **average** of the datasets, which I do so by adding each element together. Here, it is worth noting that I use Python's embedded library ``functools.reduce``, as it is far more optimized than using manual iteration with an accumulator. This allows me to, combined with Python's ``lambda`` syntax, makes for a clean and readable one-line sum function. I also enjoy using new methods of coding in general.
   
-  Next, I was tasked with finding the
+  Next, I was tasked with finding the **standard deviation**. I accomplish this with the same ``functools.reduce``
 - # Conclusion
   ~~
