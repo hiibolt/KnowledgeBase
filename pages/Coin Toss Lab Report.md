@@ -11,7 +11,7 @@ Professor: *Jarod Adelman*
 	  * Find the average and standard deviations of large datasets
 - # Data
 	- ## 2.1 Coin Toss
-	  I will be omitting the data for the *Coin Toss* section, as the data is both generated and used procedurally in a single run. Please see **3.1 Coin Toss** for an in-depth explanation.
+	  I will be omitting the data for the *Coin Toss* section, as the data is both generated procedurally and used  in a single run. Please see **3.1 Coin Toss** for an in-depth explanation.
 	- ## 2.2 Table Measurements
 	  Length: 92.3\plusmn0.1cm
 	  Width: 183.8\plusmn0.1cm
