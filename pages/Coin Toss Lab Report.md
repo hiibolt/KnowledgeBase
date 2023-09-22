@@ -77,6 +77,8 @@ Professor: *Jarod Adelman*
   
   Next, I was tasked with finding the **standard deviation**. I accomplish this with the same ``functools.reduce`` approach, taking each element; subtracting the average; squaring the result; and adding the final result to the built in accumulator. I finally divide by the lower half of the fraction, which I labeled N, although technically it's N - 1.
   
-  The resulting data and the statistics gleaned from them do in fact line up with a rough 50% average heads (skewed one way or another slightly), and the standard deviations are as low
+  The resulting data and the statistics gleaned from them do in fact line up with a rough 50% average heads (skewed one way or another slightly), and the standard deviations are low enough to not raise flags.
+  
+  **Table Measurements**:
 - # Conclusion
   ~~
