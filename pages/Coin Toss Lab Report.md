@@ -84,6 +84,6 @@ Professor: *Jarod Adelman*
   
   Next, I found the directly computed perimeter and area, with no standard deviation. I have no comments on this step, it is basic usage of the formulas $$a = w*h$$ and $$p=2w+2h$$.
   
-  Finally, I tackled calculating the error propagation. My resulting value
+  Finally, I tackled calculating the error propagation. My resulting values were around the final answers I predicted, especially the area. I will be frank and state that I do not understand how the error propo
 - # Conclusion
   ~~
