@@ -70,6 +70,7 @@ Professor: *Jarod Adelman*
 		  **Area:**
 		  $$\sigma_{area}=(1.70e4cm^2)\sqrt{(\frac{0.1cm}{92.3cm})^2+(\frac{0.1cm}{183.8cm})^2}=20cm^2$$
 - # Discussion
-  ~~
+  **Coin Toss**:
+  I was first tasked with generating 4 sets of data for later usage. However, I don
 - # Conclusion
   ~~
