@@ -28,5 +28,5 @@ Collection of elements
 	- ## Set Builder Notation
 	  $$\{x : \text{ proposition about }x\}$$
 	- ## Common Sets
-	  \R^2
+	  $\R^2$ = the plane
 - [[Relations]]
