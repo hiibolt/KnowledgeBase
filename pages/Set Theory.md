@@ -30,3 +30,4 @@ Collection of elements
 	- ## Common Sets
 	  $\R^2$ = the plane
 - [[Relations]]
+- [[Functions]]
