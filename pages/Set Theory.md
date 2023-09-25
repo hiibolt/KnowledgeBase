@@ -27,4 +27,6 @@ Collection of elements
 		  Also, $$\phi \subset \phi$$ and $$\phi \notin \phi$$
 	- ## Set Builder Notation
 	  $$\{x : \text{ proposition about }x\}$$
+	- ## Common Sets
+	  \R^2
 - [[Relations]]
