@@ -6,9 +6,9 @@ Set Y is called the co-domain
 	  R: A -> B (R \subset A x B)
 	  **Used most frequently when relation R is a function.
 	- ### Properties
-	  - Injective
+	  * **Injective
 	  No repeated elements of Y.
-	  - Surjective
-	  If some a \epsilon A = b \epsilon B, f is surjective.
-	  - Bijective
-	  I
+	  * #### Surjective
+	  If some a \epsilon A = b \epsilon B, \f is surjective.
+	  * #### Bijective
+	  If \f is both injective and surjective, \f is said to be bijective.
