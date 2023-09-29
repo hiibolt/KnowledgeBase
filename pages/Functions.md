@@ -11,3 +11,4 @@ Set Y is called the co-domain
 	  - Surjective
 	  If some a \epsilon A = b \epsilon B, f is surjective.
 	  - Bijective
+	  I
