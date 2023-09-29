@@ -1,8 +1,10 @@
-### Metadata
-Date: *September 21, 2022*
-Class: *PHYS253 - Section 1*
-Author: *John White*
-Professor: *Jarod Adelman*
+public:: true
+
+- ### Metadata
+  Date: *September 21, 2022*
+  Class: *PHYS253 - Section 1*
+  Author: *John White*
+  Professor: *Jarod Adelman*
 - # Theory
 	- ## Primary Objectives
 	  In this lab, we will...
