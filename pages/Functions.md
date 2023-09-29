@@ -7,7 +7,7 @@ Set Y is called the co-domain
 	  **Used most frequently when relation R is a function.
 	- ### Properties
 	  * **Injective**
-	  No repeated elements of Y.
+	  No repeated elements of Y.  ($$f( \~ ) = f( \~ )$$)
 	  * **Surjective**
 	  If some a \epsilon A = b \epsilon B, \f is surjective.
 	  * **Bijective**
