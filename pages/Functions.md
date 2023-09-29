@@ -8,3 +8,5 @@ Set Y is called the co-domain
 	- ### Properties
 	  - Injective
 	  No repeated elements of Y
+	  - Surjective
+	  TODO
