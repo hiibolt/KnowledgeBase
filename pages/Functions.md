@@ -13,4 +13,5 @@ Set Y is called the co-domain
 	  * **Bijective**
 	  If \f is both injective and surjective, \f is said to be bijective.
 	- ### Composition
-	  f: X -> Y,
+	  f: X -> Y, g: Y -> Z
+	  Composition $g o f$: X -> Z is $(gof)(x) = g(f(x))$
