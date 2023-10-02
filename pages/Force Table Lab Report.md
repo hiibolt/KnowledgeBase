@@ -13,7 +13,7 @@ public:: true
 	  * ~~
 - # Data
 	- ## 2.1 Vector X and Y components
-	  I will be omitting the data for the *Coin Toss* section, as the data is both generated procedurally and used  in a single run. Please see **3.1 Coin Toss** for an in-depth explanation.
+	  ~~
 - # Results
 	- ## 3.1 Coin Toss
 		- ### 3.1.1 Data Template
@@ -60,15 +60,6 @@ public:: true
 		  ![image.png](../assets/image_1695231733222_0.png) 
 		  **Results:**
 		  ![image.png](../assets/image_1695230188595_0.png){:height 656, :width 713}
-	- ## 3.2 Table Measurements
-		- ### 1.) Calculating the Perimeter and Area
-		  Perimeter = 552.2cm (gains a sigfig from addition)
-		  Area = 1.70e4cm
-		- ### 2.) Calculating the Uncertainties
-		  **Perimeter:** 
-		  $$\sigma_{perimeter}=\sqrt{(0.1cm)^2+(0.1cm)^2}=\sqrt{0.01cm^2+0.01cm^2}=\sqrt{0.02cm^2}=0.14cm$$ 
-		  **Area:**
-		  $$\sigma_{area}=(1.70e4cm^2)\sqrt{(\frac{0.1cm}{92.3cm})^2+(\frac{0.1cm}{183.8cm})^2}=20cm^2$$
 - # Discussion
   **Coin Toss**:
   I was first tasked with generating **4 sets of data** for later usage. However, I think this adds an unnecessary level of error-prone manual entry. As a result, I decided to instead generate the data on the fly for each different run of the program. Therefore, my results can be run multiple times to create a better picture of the random nature of the experiment. 
