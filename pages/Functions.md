@@ -9,6 +9,6 @@ Set Y is called the co-domain
 	  * **Injective**
 	  No repeated elements of Y.  ($$f( n ) = f( m )$$)
 	  * **Surjective**
-	  If some a \epsilon A = b \epsilon B, \f is surjective.
+	  If some a \epsilon A = b \epsilon B, \f is surjective. Alternatively, if so b \epsilon B is not 
 	  * **Bijective**
 	  If \f is both injective and surjective, \f is said to be bijective.
