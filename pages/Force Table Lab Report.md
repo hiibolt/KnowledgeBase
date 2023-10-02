@@ -8,15 +8,12 @@ public:: true
 - # Theory
 	- ## Primary Objectives
 	  In this lab, we will...
-	  * Learn to use Python
-	  * Learn to propagate error
-	  * Find the average and standard deviations of large datasets
+	  * ~~
+	  * ~~
+	  * ~~
 - # Data
-	- ## 2.1 Coin Toss
+	- ## 2.1 Vector X and Y components
 	  I will be omitting the data for the *Coin Toss* section, as the data is both generated procedurally and used  in a single run. Please see **3.1 Coin Toss** for an in-depth explanation.
-	- ## 2.2 Table Measurements
-	  Length: 92.3\plusmn0.1cm
-	  Width: 183.8\plusmn0.1cm
 - # Results
 	- ## 3.1 Coin Toss
 		- ### 3.1.1 Data Template
