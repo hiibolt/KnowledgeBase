@@ -16,6 +16,8 @@ public:: true
 	  ~~
 - # Results
 	- ## 3.1 Equilibrium Weight
-	  ~~
+	  ![image.png](../assets/image_1696277462627_0.png)
+	  ffff
+	- 1
 - # Conclusion
   ~~
