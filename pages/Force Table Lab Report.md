@@ -70,4 +70,4 @@ public:: true
   
   In my case, I created a calculator to streamline my work. I believe that the masses were not accurate, which contributed to the errors.
 - # Conclusion
-  This was a very fun lab. I enjoyed being able to physically see equations in motion, even if there
+  This was a very fun lab. I enjoyed being able to physically see equations in motion, even if there was some error.
