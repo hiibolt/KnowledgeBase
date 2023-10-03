@@ -26,6 +26,11 @@ public:: true
 	  
 	  **Equations 7-8:**
 	  These two calculate the **x** and **y** components of the vector (the flip effect is not calculated, I do it manually to ensure my results are relevant.)
+	  
+	  **Equations 9-10:**
+	  The first calculates the magnitude (N).
+	  The second calculates the angle (deg), but 180 still needs to be added.
+	  
 	  ![image.png](../assets/image_1696277462627_0.png)
 		- ### Section 1:
 		  I go ahead and plug in the angle and magnitude into the calculator. 
