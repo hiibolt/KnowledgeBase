@@ -68,5 +68,6 @@ public:: true
   Finally, I calculate the percent error using the above formula.
   
   
-  In my case, I created a calculator to streamline my work.
+  In my case, I created a calculator to streamline my work. I believe that the masses were not accurate, which contributed to the errors.
 - # Conclusion
+  This was a very fun lab. I enjoyed being able to physically see equations in motion, even if there
