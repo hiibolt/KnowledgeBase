@@ -14,9 +14,8 @@ public:: true
 - # Data
 	- ## 2.1 Vector X and Y components
 		- ### Section 1
-		  ae
+		  1.96N @ 60deg and 1.96N %
 		- ### Section 2
-		  tt
 		- ### Section 3
 		  tt
 - # Results
