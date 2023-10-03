@@ -13,18 +13,18 @@ public:: true
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
 	- ## 2.1 Vector X and Y components
-		- ### Section 1
+		- ## Section 1
 		  **Forces**
 		  1.96N @ 60deg and 1.96N @ 300deg
 		  
 		  **Measured Balancing Weight**
 		  150g @ 180deg
-		- ### Section 2
+		- ## Section 2
 		  **Forces**
 		  2.45N @ 30deg and 2.45N @ 120deg
 		  
 		  **Measured Balancing Weight**
-		  150g @ 180deg
+		  282g @ 255deg
 		- ### Section 3
 		  **Forces**
 		  1.47N @ 30deg and 1.96N @ 270deg
