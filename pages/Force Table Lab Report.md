@@ -21,7 +21,7 @@ public:: true
 	  
 	  This allows me to plug in the weight and angle of the weights and calculate the result.
 		- ### Section 1:
-		  
+		  I go ahead and plug in the angle and magnitude into the calculator. 
 		  ![image.png](../assets/image_1696298957854_0.png)
 		- ### Section 2:
 		  tttt
