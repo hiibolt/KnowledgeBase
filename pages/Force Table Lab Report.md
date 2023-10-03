@@ -33,8 +33,8 @@ public:: true
 	  
 	  ![image.png](../assets/image_1696277462627_0.png)
 		- ### Section 1:
-		  I go ahead and plug in the angle and magnitude into the calculator. 
 		  ![image.png](../assets/image_1696298957854_0.png)
+			- calculator
 		- ### Section 2:
 		  tttt
 		  ![image.png](../assets/image_1696299002530_0.png)
