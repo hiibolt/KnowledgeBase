@@ -13,7 +13,12 @@ public:: true
 	  * ~~
 - # Data
 	- ## 2.1 Vector X and Y components
-	  ~~
+		- ### Section 1
+		  tt
+		- ### Section 2
+		  tt
+		- ### Section 3
+		  tt
 - # Results
 	- ## 3.1 Equilibrium Weight
 	  First, I created a Desmos calculator to calculate the components of the final vector. **a** and **b** are the **x** and **y** components respectively of the first weight, and **c** and **d** are the **x** and **y** components of the second weight.
