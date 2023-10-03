@@ -60,3 +60,5 @@ public:: true
 	  $$\frac{true - measured}{true}*100\% \text{ = Percent Error.} $$
 - # Conclusion
   I was first tasked with calculating the **x** and **y** components of each weight. I did this by first adding the mass of the weight and hanger together, converting to **kg**, and converting to Newtons.
+  
+  Next, I multiply by the cosine and sin
