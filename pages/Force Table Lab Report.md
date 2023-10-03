@@ -68,5 +68,5 @@ public:: true
   Finally, I calculate the percent error using the above formula.
   
   
-  In my case, I created a calculator to streamline my work. However
+  In my case, I created a calculator to streamline my work.
 - # Conclusion
