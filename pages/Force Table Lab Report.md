@@ -38,6 +38,8 @@ public:: true
 		  ![image.png](../assets/image_1696299002530_0.png)
 		- ### Section 3:
 		  ![image.png](../assets/image_1696299027545_0.png)
-	- aied
+	- ## Percent Error
+	  I calculated each percent error with the following formula:
+	  $$$$
 - # Conclusion
   ~~
