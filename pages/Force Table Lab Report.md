@@ -21,7 +21,7 @@ public:: true
 		  150g @ 180deg
 		- ### Section 2
 		  **Forces**
-		  1.96N @ 60deg and 1.96N @ 300deg
+		  2.45N @ 30deg and 2.45N @ 120deg
 		  
 		  **Measured Balancing Weight**
 		  150g @ 180deg
