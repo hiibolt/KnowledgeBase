@@ -25,7 +25,7 @@ public:: true
 	  These calculate the **x** and **y** components of each system.
 	  
 	  **Equations 7-8:**
-	  These two calculate the **x** and **y**
+	  These two calculate the **x** and **y** components of the vector (the flip effect is not calculated, I do it manually to ensure my results are )
 	  ![image.png](../assets/image_1696277462627_0.png)
 	  
 	  This allows me to plug in the weight and angle of the weights and calculate the result.
