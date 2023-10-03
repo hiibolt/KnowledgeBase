@@ -1,7 +1,7 @@
 public:: true
 
 - ### Metadata
-  Date: *September 21, 2022*
+  Date: *September 29, 2022*
   Class: *PHYS253 - Section 1*
   Author: *John White*
   Professor: *Jarod Adelman*
@@ -71,3 +71,5 @@ public:: true
   In my case, I created a calculator to streamline my work. I believe that the masses were not accurate, which contributed to the errors.
 - # Conclusion
   This was a very fun lab. I enjoyed being able to physically see equations in motion, even if there was some error.
+  
+  The only thing I would change would be to provide an explanation for said error in the final result, whether it be an excerpt in the manual or a full section dedicated to the concept.
