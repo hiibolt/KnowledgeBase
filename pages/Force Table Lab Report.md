@@ -20,7 +20,10 @@ public:: true
 	  ![image.png](../assets/image_1696277462627_0.png)
 	  
 	  This allows me to plug in the weight and angle of the weights and calculate the result.
-		- ####
+		- ### Section 1:
+		  tttt
+		  ![image.png](../assets/image_1696298957854_0.png)
+		- ### Section 2:
 	- 1
 - # Conclusion
   ~~
