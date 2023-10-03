@@ -22,7 +22,10 @@ public:: true
 	  These calculate the actual weight of each hook-weight system.
 	  
 	  **Equations 3-6:**
-	  These calculate the 
+	  These calculate the **x** and **y** components of each system.
+	  
+	  **Equations 7-8:**
+	  These two calculate the **x** and **y**
 	  ![image.png](../assets/image_1696277462627_0.png)
 	  
 	  This allows me to plug in the weight and angle of the weights and calculate the result.
