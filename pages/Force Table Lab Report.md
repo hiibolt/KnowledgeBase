@@ -30,6 +30,7 @@ public:: true
 		  1.47N @ 30deg and 1.96N @ 270deg
 		  
 		  **Measured Balancing Weight**
+		  132g @ 136deg
 - # Results
 	- ## 3.1 Equilibrium Weight
 	  First, I created a Desmos calculator to calculate the components of the final vector. **a** and **b** are the **x** and **y** components respectively of the first weight, and **c** and **d** are the **x** and **y** components of the second weight.
