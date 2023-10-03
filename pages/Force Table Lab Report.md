@@ -58,7 +58,11 @@ public:: true
 	- ## Percent Error
 	  I calculated each percent error with the following formula:
 	  $$\frac{true - measured}{true}*100\% \text{ = Percent Error.} $$
-- # Conclusion
+- # Discussion
   I was first tasked with calculating the **x** and **y** components of each weight. I did this by first adding the mass of the weight and hanger together, converting to **kg**, and converting to Newtons.
   
-  Next, I multiply by the cosine and sine of the angle of the weight (relative to the +x axis) respectively to get the
+  Next, I multiply by the cosine and sine of the angle of the weight (relative to the +x axis) to get the **x** and **y** components.
+  
+  
+  Following this, I am tasked with finding the components of the equivalence vector.
+- # Conclusion
