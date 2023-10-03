@@ -63,9 +63,10 @@ public:: true
   
   Next, I multiply by the cosine and sine of the angle of the weight (relative to the +x axis) to get the **x** and **y** components.
   
-  
   Following this, I am tasked with finding the components of the equivalence vector. I do this by simply adding the **x** and **y** components, then taking the square root of both squared added to get the magnitude. I find the angle by taking $$arctan(\frac{y}{x})$$ and adding 180.
   
+  Finally, I calculate the percent error using the above formula.
   
-  Finalll
+  
+  In my case, I created a calculator to streamline my work. However
 - # Conclusion
