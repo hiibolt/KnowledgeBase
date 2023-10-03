@@ -29,6 +29,5 @@ public:: true
 		- ### Section 3:
 		  tttt
 		  ![image.png](../assets/image_1696299027545_0.png)
-	- 1
 - # Conclusion
   ~~
