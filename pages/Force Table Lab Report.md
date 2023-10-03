@@ -34,12 +34,9 @@ public:: true
 	  ![image.png](../assets/image_1696277462627_0.png)
 		- ### Section 1:
 		  ![image.png](../assets/image_1696298957854_0.png)
-			- calculator
 		- ### Section 2:
-		  tttt
 		  ![image.png](../assets/image_1696299002530_0.png)
 		- ### Section 3:
-		  tttt
 		  ![image.png](../assets/image_1696299027545_0.png)
 - # Conclusion
   ~~
