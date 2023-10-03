@@ -14,7 +14,11 @@ public:: true
 - # Data
 	- ## 2.1 Vector X and Y components
 		- ### Section 1
-		  1.96N @ 60deg and 1.96N %
+		  **Placed Forces**
+		  1.96N @ 60deg and 1.96N @ 300deg
+		  
+		  **Measured Balancing Weight**
+		  150g @
 		- ### Section 2
 		- ### Section 3
 		  tt
