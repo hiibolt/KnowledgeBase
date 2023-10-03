@@ -40,6 +40,6 @@ public:: true
 		  ![image.png](../assets/image_1696299027545_0.png)
 	- ## Percent Error
 	  I calculated each percent error with the following formula:
-	  $$\frac{true - measured}{true}*100% \text{ = percent error.} $$
+	  $$\frac{true - measured}{true}*100\% \text{ = Percent Error.} $$
 - # Conclusion
   ~~
