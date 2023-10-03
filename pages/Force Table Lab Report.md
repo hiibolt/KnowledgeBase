@@ -14,7 +14,7 @@ public:: true
 - # Data
 	- ## 2.1 Vector X and Y components
 		- ### Section 1
-		  aedc
+		  ae
 		- ### Section 2
 		  tt
 		- ### Section 3
