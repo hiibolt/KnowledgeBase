@@ -25,7 +25,7 @@ public:: true
 		  
 		  **Measured Balancing Weight**
 		  282g @ 255deg
-		- ### Section 3
+		- ## Section 3
 		  **Forces**
 		  1.47N @ 30deg and 1.96N @ 270deg
 		  
@@ -59,4 +59,4 @@ public:: true
 	  I calculated each percent error with the following formula:
 	  $$\frac{true - measured}{true}*100\% \text{ = Percent Error.} $$
 - # Conclusion
-  ~~
+  I was first tasked with calculating the
