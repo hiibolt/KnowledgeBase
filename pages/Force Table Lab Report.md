@@ -8,7 +8,7 @@ public:: true
 - # Theory
 	- ## Primary Objectives
 	  In this lab, we will...
-	  * ~~
+	  * 
 	  * ~~
 	  * ~~
 - # Data
