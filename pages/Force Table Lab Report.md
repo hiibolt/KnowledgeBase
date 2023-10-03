@@ -16,9 +16,10 @@ public:: true
 	  ~~
 - # Results
 	- ## 3.1 Equilibrium Weight
-	  First, I created a Desmos calculator to calculate the components of the final vector. **a** and **b** are the **x** and **y** components respectively of the first weight, and **c** and **d** are the **x
+	  First, I created a Desmos calculator to calculate the components of the final vector. **a** and **b** are the **x** and **y** components respectively of the first weight, and **c** and **d** are the **x** and **y** components of the second weight.
 	  ![image.png](../assets/image_1696277462627_0.png)
-	  ffff
+	  
+	  This allows me to plug in the weight and angle of the weights and calculate the result.
 	- 1
 - # Conclusion
   ~~
