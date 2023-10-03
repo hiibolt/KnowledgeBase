@@ -10,7 +10,7 @@ public:: true
 	  In this lab, we will...
 	  * Calculate the **x** and **y** components of vectors
 	  * Compute the equal and opposite force to a pair of vectors
-	  * Calculate the
+	  * Calculate the error
 - # Data
 	- ## 2.1 Vector X and Y components
 		- ### Section 1
