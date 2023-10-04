@@ -21,3 +21,4 @@ Set Y is called the co-domain
 		- ### Identity Function
 		  $$I_A:A\rarr A\text{ with formula }I_A(x)=x$$
 		- ### Inverse Function
+		  $$$$
