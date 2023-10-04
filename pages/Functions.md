@@ -15,4 +15,6 @@ Set Y is called the co-domain
 	- ### Composition
 	  f: X -> Y, g: Y -> Z
 	  Composition $g o f$: X -> Z is $(gof)(x) = g(f(x))$
-- If for some $$f(x) = y$$, $x$ is the preimage of $y$ and $$y$$ is the image of $x$ under $$f$$.
+- # Definitions
+  If for some $$f(x) = y$$, $x$ is the preimage of $y$ and $$y$$ is the image of $x$ under $$f$$.
+	- ## Identity Functions
