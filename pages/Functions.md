@@ -22,4 +22,4 @@ Set Y is called the co-domain
 		  $$I_A:A\rarr A\text{ with formula }I_A(x)=x$$
 		- ### Inverse Function
 		  If f:A->B is a bijection,
-		  $$f^{-1}:B\rarr A$$
+		  $$f^{-1}:B\rarr A\text{ with formula }f(y)=x$$
