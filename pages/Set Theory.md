@@ -29,5 +29,6 @@ Collection of elements
 	  $$\{x : \text{ proposition about }x\}$$
 	- ## Common Sets
 	  $\R^2$ = the plane
+	  $\Z
 - [[Relations]]
 - [[Functions]]
