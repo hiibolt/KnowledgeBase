@@ -17,6 +17,7 @@ Set Y is called the co-domain
 	  Composition $g o f$: X -> Z is $(gof)(x) = g(f(x))$
 - # Definitions
   If for some $$f(x) = y$$, $x$ is the preimage of $y$ and $$y$$ is the image of $x$ under $$f$$.
-	- ## Identity Functions
+	- ## Special Functions
 		- ### Identity Function
 		  $$I_A:A\rarr A\text{ with formula }I_A(x)=x$$
+		- ### Inverse Function
