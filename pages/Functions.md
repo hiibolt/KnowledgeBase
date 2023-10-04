@@ -19,4 +19,4 @@ Set Y is called the co-domain
   If for some $$f(x) = y$$, $x$ is the preimage of $y$ and $$y$$ is the image of $x$ under $$f$$.
 	- ## Identity Functions
 		- ### Identity Function
-		  $$I_A:A\rarrowA\text{ with formula }I_A(x)=x$$
+		  $$I_A:A\rarr A\text{ with formula }I_A(x)=x$$
