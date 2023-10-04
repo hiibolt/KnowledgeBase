@@ -4,7 +4,7 @@ Set X is called the domain
 Set Y is called the co-domain
 	- ## Notation
 	  R: A -> B (R \subset A x B)
-	  **Used most frequently when relation R is a function.
+	  **Used most frequently when relation R is a function.**
 	- ### Properties
 	  * **Injective**
 	  No repeated elements of Y.  ($$f( n ) = f( m )$$)
@@ -18,3 +18,4 @@ Set Y is called the co-domain
 - # Definitions
   If for some $$f(x) = y$$, $x$ is the preimage of $y$ and $$y$$ is the image of $x$ under $$f$$.
 	- ## Identity Functions
+	-
