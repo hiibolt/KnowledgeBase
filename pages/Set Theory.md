@@ -29,6 +29,8 @@ Collection of elements
 	  $$\{x : \text{ proposition about }x\}$$
 	- ## Common Sets
 	  $\R^2$ = the plane
-	  $\Z
+	  $\Z$ = integers
+	  $Q$ = rational numbers
+	  $\N$ = natural numbers
 - [[Relations]]
 - [[Functions]]
