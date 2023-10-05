@@ -12,4 +12,6 @@ Professor: *Noi*
 	  To explain why LLMs cannot be used without plagarism.
 - # Introduction
 	- ## Attention Grabber
-	  In 2019, a man on Avianca Airlines was hit by an attendant aggressively pushing a metal drink cart, heavily injuring him and ruining his vacation. Later, in court against the flight company, his lawyer testifies against him with what he believes is strong evidence - from ChatGPT. The case is post
+	  In 2019, a man on Avianca Airlines was hit by an attendant aggressively pushing a metal drink cart, heavily injuring him and ruining his vacation. Later, in court against the flight company, his lawyer testifies against him with what he believes is strong evidence - from ChatGPT. The case is postponed, and now the lawyer is also standing trial in his own case. Why?
+	- ## Credibility Statement
+	  I'm a CS + Math student here, and I've been
