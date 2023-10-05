@@ -29,4 +29,6 @@ Professor: *Noi*
 		  
 		  Next the model encodes it, turning each text into a huge web of probability.
 		  
-		  Finally, the model can make predictions with this probability. Let's
+		  Finally, the model can make predictions with this probability. Let's look at what a prediction actually looks like.
+		- ### Prediction
+		  Let's say we look at this sentence here. We've already written most of it, e
