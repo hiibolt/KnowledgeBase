@@ -19,6 +19,7 @@ Professor: *Noi*
 	  So let's talk about what AI is, how it works, and what went wrong in that case.
 - # Body
 	- ### So let's define some things first.
-		- #### Artificial Intelligence
-		  This is an umbrella term that encapsulates anything with the ability to think or act like a intelligent being could. Under this umbrella, we will be talking about...
+		- #### Artificial Intelligence...
+		  ...is an umbrella term that encapsulates anything with the ability to think or act like a intelligent being could. Under this umbrella, we will be talking about...
 		- #### ...LLMs
+		  A LLM is essentially a huge database of text that can predict the 'next most likely word' given an input.
