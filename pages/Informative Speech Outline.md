@@ -7,4 +7,8 @@ Professor: *Noi*
 	- ### Topic
 	  Artificial Intelligence - LLMs (Large Language Models)
 	- ### General Purpose
-	  To inform and educate on what
+	  To inform and educate on what AI, and more importantly, a LLM is.
+	- ### Specific Purpose
+	  To explain why LLMs cannot be used without plagarism.
+- # Introduction
+	- #@
