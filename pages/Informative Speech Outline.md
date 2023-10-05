@@ -18,4 +18,5 @@ Professor: *Noi*
 	- ## Central Idea + Preview Statement
 	  So let's talk about what AI is, how it works, and what went wrong in that case.
 - # Body
-	- ##
+	- ### Technical Definitions
+		- #### Artificial Intelligence
