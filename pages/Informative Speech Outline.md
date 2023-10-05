@@ -1,5 +1,6 @@
 ### Metadata
-Date: *September 21, 2022*
-Class: *COMS*
+Date: *October 5, 2022*
+Class: *COMS100*
 Author: *John White*
-Professor: *Jarod Adelman*
+Professor: *Noi*
+	- ## Purpose
