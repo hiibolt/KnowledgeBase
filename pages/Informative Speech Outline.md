@@ -12,4 +12,4 @@ Professor: *Noi*
 	  To explain why LLMs cannot be used without plagarism.
 - # Introduction
 	- ## Attention Grabber
-	  In 2019, a man on Avianca Airlines was hit by an attendant aggressively pushing a metal drink cart, heavily injuring him and ruining his vacation. In court
+	  In 2019, a man on Avianca Airlines was hit by an attendant aggressively pushing a metal drink cart, heavily injuring him and ruining his vacation. Later, in court, his lawyer tests against him
