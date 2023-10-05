@@ -25,4 +25,6 @@ Professor: *Noi*
 		  A LLM is essentially a huge database of text that can predict the 'next most likely word' given an input.
 	- ## LLM inner workings
 		- ### Training
-		  So how is that database made?
+		  So how is that database made? Well, first, the model is fed information. This can be books, articles, movie scripts, or in the case of ChatGPT, all of the above.
+		  
+		  Next the
