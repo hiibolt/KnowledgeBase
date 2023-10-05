@@ -20,4 +20,5 @@ Professor: *Noi*
 - # Body
 	- ### So let's define some things first.
 		- #### Artificial Intelligence
-		  Artificial Intelligence is an umbrella term that encapsulates anything with the ability to think or act like a intelligent being could. However, what we will be talking about are
+		  This is an umbrella term that encapsulates anything with the ability to think or act like a intelligent being could. Under this umbrella, we will be talking about...
+		- #### ...LLMs
