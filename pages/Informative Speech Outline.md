@@ -18,6 +18,6 @@ Professor: *Noi*
 	- ## Central Idea + Preview Statement + Transition
 	  So let's talk about what AI is, how it works, and what went wrong in that case.
 - # Body
-	- ### Technical Definitions
+	- ### So let's define some things first.
 		- #### Artificial Intelligence
-		  Artificial Intelligence is an umbrella term that encapsulates anything with the ability to think or act like a intelligent being could. Howere
+		  Artificial Intelligence is an umbrella term that encapsulates anything with the ability to think or act like a intelligent being could. However, what we will be talking about are
