@@ -23,3 +23,6 @@ Professor: *Noi*
 		  ...is an umbrella term that encapsulates anything with the ability to think or act like a intelligent being could. Under this umbrella, we will be talking about...
 		- #### ...LLMs
 		  A LLM is essentially a huge database of text that can predict the 'next most likely word' given an input.
+	- ## LLM inner workings
+		- ### Training
+		  So how is that database made?
