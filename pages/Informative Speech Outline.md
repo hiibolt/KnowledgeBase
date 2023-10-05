@@ -27,4 +27,6 @@ Professor: *Noi*
 		- ### Training
 		  So how is that database made? Well, first, the model is fed information. This can be books, articles, movie scripts, or in the case of ChatGPT, all of the above.
 		  
-		  Next the
+		  Next the model encodes it, turning each text into a huge web of probability.
+		  
+		  Finally, the model can make predictions with this probability. Let's
