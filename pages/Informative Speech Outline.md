@@ -55,9 +55,10 @@ Professor: *Noi*
 		  
 		  Yes. Much of the information that's fed to LLMs or artistic models is often used without permission, and can be considered plagiarism - just because it's taking bits and pieces from thousands of sources doesn't mean it isn't plagiarism.
 - # Summary
-  So with added context, it's not surprising that the lawyer was put on trial - he presented hallucinated, plagarised, and fabricated evidence in front of a court - a jailable offence. 
+  So with added context, it's not surprising that the lawyer was put on trial - he presented hallucinated, plagiarized, and fabricated evidence in front of a court - a jailable offence. 
   
   It was fabricated because he prompted ChatGPT with a task that produced evidence in his favor.
   it was hallucinated because the cases do not truly exist - they only do statistically.
-  It was plagarised because it was based off
-	-
+  It was plagiarized because it was based off the works of many and not properly cited in court.
+- ## Concluding Remarks
+  I hope you all learned something today, and
