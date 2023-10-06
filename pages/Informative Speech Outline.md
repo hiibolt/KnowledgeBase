@@ -12,17 +12,17 @@ Professor: *Noi*
 	  To explain why LLMs cannot be used without plagarism.
 - # Introduction
 	- ## Attention Grabber
-	  In 2019, a man on Avianca Airlines was hit by an attendant aggressively pushing a metal drink cart, heavily injuring him and ruining his vacation. Later, in court against the flight company, his lawyer testifies against him with what he believes is strong evidence - from ChatGPT. The case was postponed, and now the lawyer is also standing trial in his own case. Why?
+	  In 2019, a man on Avianca Airlines was hit by an attendant aggressively pushing a metal drink cart, heavily injuring him and ruining his vacation. Later, in court against the flight company, his lawyer testifies against him with what he believes is strong evidence - from ChatGPT. The case was postponed, and according to Forbes, now the lawyer is also standing trial in his own case. Why?
 	- ## Credibility Statement
 	  I'm a CS + Math student here, and I've built personalized AI models for both entrepreneurs and existing companies.
 	- ## Central Idea + Preview Statement + Transition
 	  So let's talk about what AI is, how it works, and what went wrong in that case.
 - # Body
 	- ### So let's define some things first.
-		- #### Artificial Intelligence...
+		- #### Artificial Intelligence, according to Encyclopedia Britannica...
 		  ...is an umbrella term that encapsulates anything with the ability to think or act like a intelligent being could. Under this umbrella, we will be talking about...
-		- #### ...LLMs
-		  A LLM is essentially a huge database of text that can predict the 'next most likely word' given an input.
+		- #### ...LLMs.
+		  A LLM, according to  is essentially a huge database of text that can predict the 'next most likely word' given an input.
 	- ## LLM inner workings
 		- ### Training
 		  So how is that database made? Well, first, the model is fed information. This can be books, articles, movie scripts, or in the case of ChatGPT, all of the above.
