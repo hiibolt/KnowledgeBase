@@ -54,4 +54,6 @@ Professor: *Noi*
 		  So since no concepts are 'new', and are only based on the input material, does that mean they're stolen? 
 		  
 		  Yes. Much of the information that's fed to LLMs or artistic models is often used without permission, and can be considered plagiarism - just because it's taking bits and pieces from thousands of sources doesn't mean it isn't plagiarism.
+- # Summary
+  So with added context, it's not surprising that the lawyer was put on trial -
 	-
