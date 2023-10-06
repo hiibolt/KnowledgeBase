@@ -63,12 +63,13 @@ Professor: *Noi*
 - ## Concluding Remarks
   I hope you all learned something today, and understand some of the limitations and ethics when it comes to using ChatGPT for everyday tasks.
 - ### Works Cited
-  (N.d.-a). Retrieved October 5, 2023, from \https://i.pinimg.com/474x/84/41/3f/84413f6218e83bbc32f2bd7d033705f6--beverage-cart-airline-travel.jpg.
-  (N.d.-b). Retrieved October 5, 2023, from https://aimoneymastery.blogspot.com/2023/04/is-chatgpt-good-for-content-writing.html.(N.d.-c). Retrieved October 5, 2023, from https://content.api.news/v3/images/bin/ef034b77e487c6d85dbb90e668aacc1e.
-- (N.d.-d). Retrieved October 5, 2023, from \http://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1440/A-dreamstime_xxl_23971088_qlym7s.jpg.
-- (N.d.-e). Retrieved October 5, 2023, from \https://cdn1.vectorstock.com/i/1000x1000/11/95/thief-cartoon-with-sack-money-vector-1671195.jpg.
-- (N.d.-f). Retrieved October 5, 2023, from \https://cdn.pixabay.com/photo/2017/09/25/09/46/puzzle-2784471_960_720.png.
-- Bohannon, M. (2023, September 12). *Lawyer used Chatgpt in court-and cited fake cases. A judge is considering sanctions*. Forbes. https://www.forbes.com/sites/mollybohannon/2023/06/08/lawyer-used-chatgpt-in-court-and-cited-fake-cases-a-judge-is-considering-sanctions/
-- Encyclopædia Britannica, inc. (2023, October 5). *Artificial Intelligence*. Encyclopædia Britannica. https://www.britannica.com/technology/artificial-intelligence
-- *What is a large language model?: A comprehensive llms guide*. Elastic. (n.d.). https://www.elastic.co/what-is/large-language-models
-- *What is machine learning?*. IBM. (n.d.). https://www.ibm.com/topics/machine-learning
+  * (N.d.-a). Retrieved October 5, 2023, from \https://i.pinimg.com/474x/84/41/3f/84413f6218e83bbc32f2bd7d033705f6--beverage-cart-airline-travel.jpg.
+  * (N.d.-b). Retrieved October 5, 2023, from https://aimoneymastery.blogspot.com/2023/04/is-chatgpt-good-for-content-writing.html.
+  * (N.d.-c). Retrieved October 5, 2023, from https://content.api.news/v3/images/bin/ef034b77e487c6d85dbb90e668aacc1e.
+  * (N.d.-d). Retrieved October 5, 2023, from \http://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1440/A-dreamstime_xxl_23971088_qlym7s.jpg.
+  * (N.d.-e). Retrieved October 5, 2023, from \https://cdn1.vectorstock.com/i/1000x1000/11/95/thief-cartoon-with-sack-money-vector-1671195.jpg.
+  * (N.d.-f). Retrieved October 5, 2023, from \https://cdn.pixabay.com/photo/2017/09/25/09/46/puzzle-2784471_960_720.png.
+  * Bohannon, M. (2023, September 12). *Lawyer used Chatgpt in court-and cited fake cases. A judge is considering sanctions*. Forbes. https://www.forbes.com/sites/mollybohannon/2023/06/08/lawyer-used-chatgpt-in-court-and-cited-fake-cases-a-judge-is-considering-sanctions/
+  * Encyclopædia Britannica, inc. (2023, October 5). *Artificial Intelligence*. Encyclopædia Britannica. https://www.britannica.com/technology/artificial-intelligence
+  * What is a large language model?: A comprehensive llms guide*. Elastic. (n.d.). https://www.elastic.co/what-is/large-language-models*
+  * What is machine learning?*. IBM. (n.d.). https://www.ibm.com/topics/machine-learning
