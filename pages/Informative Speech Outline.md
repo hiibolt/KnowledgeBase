@@ -33,7 +33,9 @@ Professor: *Noi*
 		- ### Prediction
 		  Let's say we look at this sentence here. We've already written most of it, except for the last word. Now, WE can guess what comes next - but how does the model come to the same conclusion.
 		  
-		  Firstly, the model sees that it's possibly the end of a commanding sentence, and in most literature, these end in please. This is a 
+		  Firstly, the model sees that it's possibly the end of a commanding sentence, and in most literature, these end in please. This is a very surface level assumption, so the model is only 23% sure.
+		  
+		  Second, the model sees that it's a pirate speaking via the context of 'aye' and 'pirate'. As a result
 		  
 		  However, it a
 	-
