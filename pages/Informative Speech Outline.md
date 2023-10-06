@@ -61,4 +61,4 @@ Professor: *Noi*
   it was hallucinated because the cases do not truly exist - they only do statistically.
   It was plagiarized because it was based off the works of many and not properly cited in court.
 - ## Concluding Remarks
-  I hope you all learned something today, and
+  I hope you all learned something today, and understand some of the limitations and ethics when it comes to using ChatGPT for everyday tasks.
