@@ -31,4 +31,5 @@ Professor: *Noi*
 		  
 		  Finally, the model can make predictions with this probability. Let's look at what a prediction actually looks like.
 		- ### Prediction
-		  Let's say we look at this sentence here. We've already written most of it, except for the last word. Now, we can probably guess what comes next - but how does
+		  Let's say we look at this sentence here. We've already written most of it, except for the last word. Now, WE can guess what comes next - but how does the model come to the same conclusion.
+	-
