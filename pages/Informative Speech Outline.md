@@ -46,5 +46,6 @@ Professor: *Noi*
 		  
 		  Errors like this lead to ChatGPT generating information that never existed in the first place.
 		- ### Creativity
-		  Since the only information it has to operate is fed to it by
+		  Since the only information it has to operate is what's fed to it, these models don't have the ability to be 'creative'. Their idea of 'creativity' is a combination of every single work the model has access to, so it's not possible for them to create any 'new' concepts.
+		-
 	-
