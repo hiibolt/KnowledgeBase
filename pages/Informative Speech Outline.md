@@ -12,7 +12,7 @@ Professor: *Noi*
 	  To explain why LLMs cannot be used without plagarism.
 - # Introduction
 	- ## Attention Grabber
-	  In 2019, a man on Avianca Airlines was hit by an attendant aggressively pushing a metal drink cart, heavily injuring him and ruining his vacation. Later, in court against the flight company, his lawyer testifies against him with what he believes is strong evidence - from ChatGPT. The case is postponed, and now the lawyer is also standing trial in his own case. Why?
+	  In 2019, a man on Avianca Airlines was hit by an attendant aggressively pushing a metal drink cart, heavily injuring him and ruining his vacation. Later, in court against the flight company, his lawyer testifies against him with what he believes is strong evidence - from ChatGPT. The case was postponed, and now the lawyer is also standing trial in his own case. Why?
 	- ## Credibility Statement
 	  I'm a CS + Math student here, and I've built personalized AI models for both entrepreneurs and existing companies.
 	- ## Central Idea + Preview Statement + Transition
@@ -55,5 +55,5 @@ Professor: *Noi*
 		  
 		  Yes. Much of the information that's fed to LLMs or artistic models is often used without permission, and can be considered plagiarism - just because it's taking bits and pieces from thousands of sources doesn't mean it isn't plagiarism.
 - # Summary
-  So with added context, it's not surprising that the lawyer was put on trial - he fabricated evidence.
+  So with added context, it's not surprising that the lawyer was put on trial - he presented hallucinated and fabricated evidence in front of a court,
 	-
