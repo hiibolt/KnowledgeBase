@@ -37,7 +37,7 @@ Professor: *Noi*
 		  
 		  Second, the model sees that it's a pirate speaking via the context of 'aye' and 'pirate'. As a result, because pirates often end commanding sentences with 'matey', it has a higher confidence - 46%. 
 		  
-		  Finally, 
+		  Finally, in addition to all other context, it sees 'crew,' and realizes that the 
 		  
 		  However, it a
 	-
