@@ -55,5 +55,5 @@ Professor: *Noi*
 		  
 		  Yes. Much of the information that's fed to LLMs or artistic models is often used without permission, and can be considered plagiarism - just because it's taking bits and pieces from thousands of sources doesn't mean it isn't plagiarism.
 - # Summary
-  So with added context, it's not surprising that the lawyer was put on trial - he presented hallucinated and fabricated evidence in front of a court,
+  So with added context, it's not surprising that the lawyer was put on trial - he presented hallucinated and fabricated evidence in front of a court - a jailable offence.
 	-
