@@ -40,5 +40,5 @@ Professor: *Noi*
 		  Finally, in addition to all other context, it sees 'crew,' and realizes that 'matey' should be plural, since in context, he is addressing the 'crew'. Because there is no further context, the model is most confident about this option - 91%.
 	- # Limitations
 		- ### Hallucination
-		  Because it's generating the most likely next work
+		  Because it's generating the most likely next word, it's not always correct information. For instance, the model often misses context. Imagine if the model in the previous example was not fed enough material with pirate-speak,
 	-
