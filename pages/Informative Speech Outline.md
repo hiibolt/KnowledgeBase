@@ -22,7 +22,7 @@ Professor: *Noi*
 		- #### Artificial Intelligence, according to Encyclopedia Britannica...
 		  ...is an umbrella term that encapsulates anything with the ability to think or act like a intelligent being could. Under this umbrella, we will be talking about...
 		- #### ...LLMs.
-		  A LLM, according to  is essentially a huge database of text that can predict the 'next most likely word' given an input.
+		  A LLM, according to Elastic Research, is essentially a huge database of text that can predict the 'next most likely word' given an input.
 	- ## LLM inner workings
 		- ### Training
 		  So how is that database made? Well, first, the model is fed information. This can be books, articles, movie scripts, or in the case of ChatGPT, all of the above.
