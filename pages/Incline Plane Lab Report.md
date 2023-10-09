@@ -12,7 +12,7 @@ public:: true
 	  * Learn to draw trendlines and annotate R^2
 	  * Learn the relationships between data, their trendlines, and what the trendlines represent
 - # Data
-	- ## 2.1 All Sets - All 3 Angles
+	- ## 2.1 Data for 
 	  I will be omitting the data for the *Coin Toss* section, as the data is both generated procedurally and used  in a single run. Please see **3.1 Coin Toss** for an in-depth explanation.
 - # Results
 	- ## 3.1 Coin Toss
