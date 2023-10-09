@@ -29,7 +29,7 @@ public:: true
 			  This data can be seen above in the ``angle`` field of each experiment.
 			  
 			  I structured my data in the following pattern:
-			  ``Experiments``
+			  ``experiments`` is an array of each ``angle``'s experiments. Each ``experiment`` contains an ``angle`` and a ``trials`` field.
 			- ### 3.1.1.2
 		-
 - # Discussion
