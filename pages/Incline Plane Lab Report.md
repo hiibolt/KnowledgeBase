@@ -22,7 +22,8 @@ public:: true
 - # Results
 	- ## 3.1 Analyzing the Angle Data
 		- ### 3.1.1 Creating the Graph Generation Code
-		  I calculate each of the
+		  I calculate each of the angles using the following equation: 
+		  $$arctan(\frac{h_2-h_1}{\l}$$
 		-
 - # Discussion
   **Coin Toss**:
