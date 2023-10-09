@@ -5,4 +5,4 @@ Division Algorithm: ``n = qm + r``
 * n = quotient
 * m = devisor
 * q = integer
-* r = integer remainder
+* r = integer remainder (must be positive!)

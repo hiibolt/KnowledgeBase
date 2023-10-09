@@ -41,6 +41,7 @@ public:: true
 			  Then, I build a basic graph for each: 
 			  ![image.png](../assets/image_1696883629848_0.png)
 			  ![image.png](../assets/image_1696883645392_0.png)
+			- ### 3.1.1.3 Create a Trendline And Calculate $R^2$
 		-
 - # Discussion
   **Coin Toss**:
