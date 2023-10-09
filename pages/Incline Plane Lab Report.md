@@ -42,6 +42,7 @@ public:: true
 			  ![image.png](../assets/image_1696883629848_0.png)
 			  ![image.png](../assets/image_1696883645392_0.png)
 			- ### 3.1.1.3 Create a Trendline And Calculate $R^2$
+			  ![image.png](../assets/image_1696883920786_0.png)
 		-
 - # Discussion
   **Coin Toss**:
