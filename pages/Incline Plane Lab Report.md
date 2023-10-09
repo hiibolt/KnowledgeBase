@@ -20,7 +20,7 @@ public:: true
 		- ### 2.1.3 Angle 3
 		  ![image.png](../assets/image_1696882435470_0.png)
 - # Results
-	- ## 3.1 Analyizing
+	- ## 3.1 Analyzing the Angle Data
 		-
 - # Discussion
   **Coin Toss**:
