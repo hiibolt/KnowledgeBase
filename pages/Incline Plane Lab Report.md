@@ -22,11 +22,14 @@ public:: true
 - # Results
 	- ## 3.1 Analyzing the Angle Data
 		- ### 3.1.1 Creating the Graph Generation Code
-			- ### 
+			- ### 3.1.1.1 Calculating the Angles
 			  I calculate each of the angles using the following equation: 
 			  $$arctan(\frac{h_2-h_1}{l})=\theta$$
 			  
 			  This data can be seen above in the ``angle`` field of each experiment.
+			  
+			  I structured
+			- ### 3.1.1.2
 		-
 - # Discussion
   **Coin Toss**:
