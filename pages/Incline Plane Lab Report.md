@@ -29,7 +29,9 @@ public:: true
 			  This data can be seen above in the ``angle`` field of each experiment.
 			  
 			  I structured my data in the following pattern:
-			  ``experiments`` is an array of each ``angle``'s experiments. Each ``experiment`` contains an ``angle`` and a ``trials`` field.
+			  First, ``experiments`` is an array of each ``angle``'s experiments.
+			  Each ``experiment`` contains an ``angle`` and a ``trials`` field.
+			  ``trials`` is an array of ``trial`` objects, containing a ``time``, ``position``, and ``velocity`` data array.
 			- ### 3.1.1.2
 		-
 - # Discussion
