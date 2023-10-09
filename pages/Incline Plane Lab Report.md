@@ -44,8 +44,11 @@ public:: true
 			- ### 3.1.1.3 Create a Trendline And Calculate $R^2$
 			  I do this using the ``sklearn`` library, as they have a built-in $$R^2$$ function. I then plot them both.
 			  
-			  I use a polynomial line of degree 1, because while a second degree would be more accurate, I instead prefer the ease of calculation because the difference between the two in visual line representation is negilgible.
+			  I use a polynomial line of degree 1, because while a second degree would be more accurate, I instead prefer the ease of calculation because the difference between the two in visual line representation is negligible.
+			  
+			  I then include both figures in the title of the graph.
 			  ![image.png](../assets/image_1696883920786_0.png)
+			- ###
 		-
 - # Discussion
   **Coin Toss**:
