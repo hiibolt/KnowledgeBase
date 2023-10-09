@@ -42,6 +42,8 @@ public:: true
 			  ![image.png](../assets/image_1696883629848_0.png)
 			  ![image.png](../assets/image_1696883645392_0.png)
 			- ### 3.1.1.3 Create a Trendline And Calculate $R^2$
+			  I do this using the ``sklearn`` library, as they have a built-in $$R^2$$ function. I then plot them both.
+			  I use a polynomial line
 			  ![image.png](../assets/image_1696883920786_0.png)
 		-
 - # Discussion
