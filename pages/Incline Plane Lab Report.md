@@ -28,7 +28,8 @@ public:: true
 			  
 			  This data can be seen above in the ``angle`` field of each experiment.
 			  
-			  I structured
+			  I structured my data in the following pattern:
+			  ``Experiments``
 			- ### 3.1.1.2
 		-
 - # Discussion
