@@ -8,9 +8,9 @@ public:: true
 - # Theory
 	- ## Primary Objectives
 	  In this lab, we will...
-	  * Learn to use Matplot
-	  * Learn to propagate error
-	  * Find the average and standard deviations of large datasets
+	  * Learn to use Python's graphing library, matplotlib
+	  * Learn to draw trendlines and annotate R^2
+	  * Learn the relationships between data, their trendlines, and the meaning of the
 - # Data
 	- ## 2.1 Coin Toss
 	  I will be omitting the data for the *Coin Toss* section, as the data is both generated procedurally and used  in a single run. Please see **3.1 Coin Toss** for an in-depth explanation.
