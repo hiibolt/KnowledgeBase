@@ -21,6 +21,8 @@ public:: true
 		  ![image.png](../assets/image_1696882435470_0.png)
 - # Results
 	- ## 3.1 Analyzing the Angle Data
+		- ### 3.1.1 Creating the Graph Generation Code
+		  I calculate each of the
 		-
 - # Discussion
   **Coin Toss**:
