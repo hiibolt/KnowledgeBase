@@ -38,7 +38,9 @@ public:: true
 			  First, I iterate each of the experiments and trials: (I set aside the angle for later usage)
 			  ![image.png](../assets/image_1696883587851_0.png)
 			  
-			  Then, I build a basic graph:
+			  Then, I build a basic graph for each: 
+			  ![image.png](../assets/image_1696883629848_0.png)
+			  ![image.png](../assets/image_1696883645392_0.png)
 		-
 - # Discussion
   **Coin Toss**:
