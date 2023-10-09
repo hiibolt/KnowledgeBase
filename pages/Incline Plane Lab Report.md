@@ -17,7 +17,8 @@ public:: true
 		  ![image.png](../assets/image_1696882381416_0.png)
 		- ### 2.1.2 Angle 2
 		  ![image.png](../assets/image_1696882411066_0.png)
-		- ### 2.1.3 Angle
+		- ### 2.1.3 Angle 3
+		  ![image.png](../assets/image_1696882435470_0.png)
 - # Results
 	- ## 3.1 Coin Toss
 		- ### 3.1.1 Data Template
