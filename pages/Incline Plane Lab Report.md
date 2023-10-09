@@ -32,7 +32,7 @@ public:: true
 			  **First:** ``experiments`` is an array of each ``angle``'s experiments.
 			  **Second:** Each ``experiment`` contains an ``angle`` and a ``trials`` field.
 			  **Third:** ``trials`` is an array of ``trial`` objects, containing a ``time``, ``position``, and ``velocity`` data array.
-			- ### 3.1.1.2
+			- ### 3.1.1.2 Create Graphs For Position vs. Time and Velocity vs. Time
 		-
 - # Discussion
   **Coin Toss**:
