@@ -48,7 +48,7 @@ public:: true
 			  
 			  I then include both figures in the title of the graph.
 			  ![image.png](../assets/image_1696883920786_0.png)
-			- ###
+			- ### 3.1.1.4 Calculating Little G
 		-
 - # Discussion
   **Coin Toss**:
