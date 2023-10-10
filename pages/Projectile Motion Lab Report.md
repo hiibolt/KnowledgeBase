@@ -21,7 +21,7 @@ public:: true
 	  |8cm|26.7|
 	  |10cm|26.4|
 	- ## 2.2 Part B
-	  **Distance Between Photogates:** 82cm
+	  **Distance Between Photogates:** 77.5cm
 	  | Trial # | Time (s) |
 	  |1||
 	  |2||
