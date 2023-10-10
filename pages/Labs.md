@@ -2,4 +2,4 @@
 - [[Coin Toss Lab Report]]
 - [[Force Table Lab Report]]
 - [[Incline Plane Lab Report]]
--
+- [[Projectile Motion Lab Report]]
