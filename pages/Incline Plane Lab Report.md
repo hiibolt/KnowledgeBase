@@ -102,6 +102,8 @@ public:: true
   My group actually recorded our data in an Excel spreadsheet, but I translated it to code because I wanted to instead to it with Python instead of Excel.
   
   Next, I used ``sklearn`` and ``matplotlib`` to plot a complete set of graphs. I decided to have it save each graph for ease of upload to this lab report.
+  
+  I finally decided to
 - # Conclusion
   I enjoyed this lab, and it was refreshing to use Python for the first time in a long while. I can't say I enjoy using it, but it's hard not to appreciate how little has to be written. It's prone to developer error and slow, but perfectly suited for fast statistical and mathematical computations. I did not enjoy the table section because I did not understand how the error propagation formulas were derived.
   
