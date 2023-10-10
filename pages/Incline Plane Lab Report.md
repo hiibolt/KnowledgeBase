@@ -12,6 +12,7 @@ public:: true
 	  * Learn to draw trendlines and annotate R^2
 	  * Learn the relationships between data, their trendlines, and what the trendlines represent
 - # Data
+  id:: 1c5fb815-bc82-43f4-b19d-a7e2f78794e1
 	- ## 2.1 Data Per Angle
 		- ### 2.1.1 Angle 1
 		  ![image.png](../assets/image_1696882381416_0.png)
@@ -96,6 +97,7 @@ public:: true
 				  ![Angle 11.88865 - Trial 3 - Position vs. Time.png](../assets/Angle_11.88865_-_Trial_3_-_Position_vs._Time_1696901968847_0.png)
 				  ![Angle 11.88865 - Trial 3 - Velocity vs. Time.png](../assets/Angle_11.88865_-_Trial_3_-_Velocity_vs._Time_1696901973584_0.png)
 - # Discussion
+  For the first task of calculating the angles, I do this by hand, solely because I wished to leave the angles in the ((1c5fb815-bc82-43f4-b19d-a7e2f78794e1)) section to ea
 - # Conclusion
   I enjoyed this lab, and it was refreshing to use Python for the first time in a long while. I can't say I enjoy using it, but it's hard not to appreciate how little has to be written. It's prone to developer error and slow, but perfectly suited for fast statistical and mathematical computations. I did not enjoy the table section because I did not understand how the error propagation formulas were derived.
   
