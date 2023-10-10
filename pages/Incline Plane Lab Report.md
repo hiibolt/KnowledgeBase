@@ -49,7 +49,7 @@ public:: true
 			  I then include both figures in the title of the graph.
 			  ![image.png](../assets/image_1696883920786_0.png)
 			- ### 3.1.1.4 Calculating Little G
-			  I do this by 
+			  I do this by extracting the coefficient from the trendline - the acceleration. I then calculate the percent error compared to the expected little g, which I find via ``little_g = 9.80 * sin(radians``
 			  **Angle Set 1:**
 			  ![image.png](../assets/image_1696901513227_0.png)
 			  
