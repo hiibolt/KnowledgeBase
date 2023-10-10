@@ -109,4 +109,4 @@ public:: true
 - # Conclusion
   I have few comments on this lab. It was good as a proof-of-concept for ``matplotlib``, but otherwise was unnecessarily tedious.
   
-  It would have made some? sense
+  It would have made some sense to have 9 sets of data if we averaged them, but that's not the case, so it feels useless at best.
