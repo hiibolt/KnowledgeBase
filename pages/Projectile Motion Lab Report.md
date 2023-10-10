@@ -12,7 +12,7 @@ public:: true
 	  * ...
 	  * ...
 - # Data
-	- ## 2.1 Part 1
+	- ## 2.1 Part A
 	  | Distance | Height |
 	  |0cm|27.6|
 	  |2cm|27.5|
@@ -20,7 +20,7 @@ public:: true
 	  |6cm|27.0|
 	  |8cm|26.7|
 	  |10cm|26.4|
-	- ## 2.2 Part 2
+	- ## 2.2 Part B
 - # Results
 	- ## 3.1 ...
 	  ...
