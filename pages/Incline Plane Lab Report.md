@@ -96,21 +96,6 @@ public:: true
 				  ![Angle 11.88865 - Trial 3 - Position vs. Time.png](../assets/Angle_11.88865_-_Trial_3_-_Position_vs._Time_1696901968847_0.png)
 				  ![Angle 11.88865 - Trial 3 - Velocity vs. Time.png](../assets/Angle_11.88865_-_Trial_3_-_Velocity_vs._Time_1696901973584_0.png)
 - # Discussion
-  **Coin Toss**:
-  I was first tasked with generating **4 sets of data** for later usage. However, I think this adds an unnecessary level of error-prone manual entry. As a result, I decided to instead generate the data on the fly for each different run of the program. Therefore, my results can be run multiple times to create a better picture of the random nature of the experiment. 
-  
-  I was next tasked with finding the **average** of the datasets, which I do so by adding each element together. Here, it is worth noting that I use Python's embedded library ``functools.reduce``, as it is far more optimized than using manual iteration with an accumulator. This allows me to, combined with Python's ``lambda`` syntax, makes for a clean and readable one-line sum function. I also enjoy using new methods of coding in general.
-  
-  Next, I was tasked with finding the **standard deviation**. I accomplish this with the same ``functools.reduce`` approach, taking each element; subtracting the average; squaring the result; and adding the final result to the built in accumulator. I finally divide by the lower half of the fraction, which I labeled N, although technically it's N - 1.
-  
-  The resulting data and the statistics gleaned from them do in fact line up with a rough 50% average heads (skewed one way or another slightly), and the standard deviations are low enough to not raise flags.
-  
-  **Table Measurements**:
-  I was first asked to measure the table, and I **eyeballed** the final digit. I dislike the idea of having to eyeball, but I understand that ironically it can add more accuracy to a given measurement.
-  
-  Next, I found the directly computed perimeter and area, with no standard deviation. I have no comments on this step, it is basic usage of the formulas $$a = w*h$$ and $$p=2w+2h$$.
-  
-  Finally, I tackled calculating the **error propagation**. My resulting values were around the final answers I predicted, especially the area. I will be frank and state that I do not understand how the error propogation formula for area was derived.
 - # Conclusion
   I enjoyed this lab, and it was refreshing to use Python for the first time in a long while. I can't say I enjoy using it, but it's hard not to appreciate how little has to be written. It's prone to developer error and slow, but perfectly suited for fast statistical and mathematical computations. I did not enjoy the table section because I did not understand how the error propagation formulas were derived.
   
