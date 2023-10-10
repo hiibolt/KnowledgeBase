@@ -9,7 +9,7 @@ public:: true
 	- ## Primary Objectives
 	  In this lab, we will...
 	  * Practice equation substitution to solve for different variables in terms of other variables
-	  * Come the equal and opposite force to a pair of vectors
+	  * 
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
 	- ## 2.1 Vector X and Y components
