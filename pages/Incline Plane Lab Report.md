@@ -54,7 +54,7 @@ public:: true
 			  This is translated into code in the following way:
 			  ![image.png](../assets/image_1696901686444_0.png)
 			   
-			  Finally, I run my code - generating the graphs seen 
+			  Finally, I run my code - generating the graphs and the percent errors. Both are listed below.
 			  **Angle Set 1:**
 			  ![image.png](../assets/image_1696901513227_0.png)
 			  
@@ -63,6 +63,11 @@ public:: true
 			  
 			  **Angle Set 3:**
 			  ![image.png](../assets/image_1696901560860_0.png)
+			  
+			  **Graphs:**
+			- #### Angle 6.009deg
+			  ![Angle 6.009 - Trial 1 - Position vs. Time.png](../assets/Angle_6.009_-_Trial_1_-_Position_vs._Time_1696901743719_0.png)
+			  ![Angle 6.009 - Trial 1 - Velocity vs. Time.png](../assets/Angle_6.009_-_Trial_1_-_Velocity_vs._Time_1696901762583_0.png)
 - # Discussion
   **Coin Toss**:
   I was first tasked with generating **4 sets of data** for later usage. However, I think this adds an unnecessary level of error-prone manual entry. As a result, I decided to instead generate the data on the fly for each different run of the program. Therefore, my results can be run multiple times to create a better picture of the random nature of the experiment. 
