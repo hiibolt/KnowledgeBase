@@ -107,4 +107,6 @@ public:: true
   
   There are high percent errors for my numbers, but they are relatively consistent. Therefore, I do not believe they are calculation error. I believe this has to do with the error in measurement of both the angle and the velocity - technological error and measurement error.
 - # Conclusion
-  I have few comments on this lab. It was good as a proof-of-concept for ``matplotlib``, but otherwise was unnecessarily tedious
+  I have few comments on this lab. It was good as a proof-of-concept for ``matplotlib``, but otherwise was unnecessarily tedious.
+  
+  It would have made some? sense
