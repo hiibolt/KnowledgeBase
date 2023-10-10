@@ -49,6 +49,11 @@ public:: true
 			  I then include both figures in the title of the graph.
 			  ![image.png](../assets/image_1696883920786_0.png)
 			- ### 3.1.1.4 Calculating Little G
+			  I
+			  **Angle Set 1:**
+			  ![image.png](../assets/image_1696901513227_0.png)
+			  
+			  **Angle Set 2:**
 		-
 - # Discussion
   **Coin Toss**:
