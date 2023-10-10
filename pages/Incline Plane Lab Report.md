@@ -85,7 +85,14 @@ public:: true
 				- #### Trial 3
 				  ![Angle 8.61564 - Trial 3 - Position vs. Time.png](../assets/Angle_8.61564_-_Trial_3_-_Position_vs._Time_1696901886644_0.png)
 				  ![Angle 8.61564 - Trial 3 - Velocity vs. Time.png](../assets/Angle_8.61564_-_Trial_3_-_Velocity_vs._Time_1696901892873_0.png)
-			-
+			- ### Angle 11.8887deg
+				- #### Trial 1
+				  ![Angle 11.88865 - Trial 1 - Position vs. Time.png](../assets/Angle_11.88865_-_Trial_1_-_Position_vs._Time_1696901918162_0.png)
+				  ![Angle 11.88865 - Trial 1 - Velocity vs. Time.png](../assets/Angle_11.88865_-_Trial_1_-_Velocity_vs._Time_1696901922877_0.png)
+				- #### Trial 2
+				  ![Angle 11.88865 - Trial 2 - Position vs. Time.png](../assets/Angle_11.88865_-_Trial_2_-_Position_vs._Time_1696901950321_0.png)
+				  ![Angle 11.88865 - Trial 2 - Velocity vs. Time.png](../assets/Angle_11.88865_-_Trial_2_-_Velocity_vs._Time_1696901955988_0.png)
+				-
 - # Discussion
   **Coin Toss**:
   I was first tasked with generating **4 sets of data** for later usage. However, I think this adds an unnecessary level of error-prone manual entry. As a result, I decided to instead generate the data on the fly for each different run of the program. Therefore, my results can be run multiple times to create a better picture of the random nature of the experiment. 
