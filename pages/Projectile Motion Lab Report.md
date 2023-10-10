@@ -12,49 +12,12 @@ public:: true
 	  * 
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
-	- ## 2.1 Vector X and Y components
-		- ## Section 1
-		  **Forces**
-		  1.96N @ 60deg and 1.96N @ 300deg
-		  
-		  **Measured Balancing Weight**
-		  150g @ 180deg
-		- ## Section 2
-		  **Forces**
-		  2.45N @ 30deg and 2.45N @ 120deg
-		  
-		  **Measured Balancing Weight**
-		  282g @ 255deg
-		- ## Section 3
-		  **Forces**
-		  1.47N @ 30deg and 1.96N @ 270deg
-		  
-		  **Measured Balancing Weight**
-		  132g @ 136deg
+	- ## ...
+		- ## ...
+		  ...
 - # Results
-	- ## 3.1 Equilibrium Weight
-	  First, I created a Desmos calculator to calculate the components of the final vector. **a** and **b** are the **x** and **y** components respectively of the first weight, and **c** and **d** are the **x** and **y** components of the second weight.
-	  
-	  **First two equations:**
-	  These calculate the actual weight of each hook-weight system.
-	  
-	  **Equations 3-6:**
-	  These calculate the **x** and **y** components of each system.
-	  
-	  **Equations 7-8:**
-	  These two calculate the **x** and **y** components of the vector (the flip effect is not calculated, I do it manually to ensure my results are relevant.)
-	  
-	  **Equations 9-10:**
-	  The first calculates the magnitude (N).
-	  The second calculates the angle (deg), but 180 still needs to be added.
-	  
-	  ![image.png](../assets/image_1696277462627_0.png)
-		- ### Section 1:
-		  ![image.png](../assets/image_1696298957854_0.png)
-		- ### Section 2:
-		  ![image.png](../assets/image_1696299002530_0.png)
-		- ### Section 3:
-		  ![image.png](../assets/image_1696299027545_0.png)
+	- ## 3.1 ...
+	  ...
 	- ## Percent Error
 	  I calculated each percent error with the following formula:
 	  $$\frac{true - measured}{true}*100\% \text{ = Percent Error.} $$
