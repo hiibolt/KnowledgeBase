@@ -66,8 +66,16 @@ public:: true
 			  
 			  **Graphs:**
 			- #### Angle 6.009deg
-			  ![Angle 6.009 - Trial 1 - Position vs. Time.png](../assets/Angle_6.009_-_Trial_1_-_Position_vs._Time_1696901743719_0.png)
-			  ![Angle 6.009 - Trial 1 - Velocity vs. Time.png](../assets/Angle_6.009_-_Trial_1_-_Velocity_vs._Time_1696901762583_0.png)
+				- #### Trial 1
+				  ![Angle 6.009 - Trial 1 - Position vs. Time.png](../assets/Angle_6.009_-_Trial_1_-_Position_vs._Time_1696901743719_0.png)
+				  ![Angle 6.009 - Trial 1 - Velocity vs. Time.png](../assets/Angle_6.009_-_Trial_1_-_Velocity_vs._Time_1696901762583_0.png)
+				- #### Trial 2
+				  ![Angle 6.009 - Trial 2 - Position vs. Time.png](../assets/Angle_6.009_-_Trial_2_-_Position_vs._Time_1696901803105_0.png)
+				  ![Angle 6.009 - Trial 2 - Velocity vs. Time.png](../assets/Angle_6.009_-_Trial_2_-_Velocity_vs._Time_1696901809896_0.png)
+				- #### Trial 3
+				  ![Angle 6.009 - Trial 3 - Position vs. Time.png](../assets/Angle_6.009_-_Trial_3_-_Position_vs._Time_1696901819597_0.png)
+				  ![Angle 6.009 - Trial 3 - Velocity vs. Time.png](../assets/Angle_6.009_-_Trial_3_-_Velocity_vs._Time_1696901824218_0.png)
+			- ### Angle
 - # Discussion
   **Coin Toss**:
   I was first tasked with generating **4 sets of data** for later usage. However, I think this adds an unnecessary level of error-prone manual entry. As a result, I decided to instead generate the data on the fly for each different run of the program. Therefore, my results can be run multiple times to create a better picture of the random nature of the experiment. 
