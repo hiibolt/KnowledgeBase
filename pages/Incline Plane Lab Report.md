@@ -12,7 +12,7 @@ public:: true
 	  * Learn to draw trendlines and annotate R^2
 	  * Learn the relationships between data, their trendlines, and what the trendlines represent
 - # Data
-	- ## 2.1 Data For Each Angle
+	- ## 2.1 Data Per Angle
 		- ### 2.1.1 Angle 1
 		  ![image.png](../assets/image_1696882381416_0.png)
 		- ### 2.1.2 Angle 2
@@ -92,7 +92,9 @@ public:: true
 				- #### Trial 2
 				  ![Angle 11.88865 - Trial 2 - Position vs. Time.png](../assets/Angle_11.88865_-_Trial_2_-_Position_vs._Time_1696901950321_0.png)
 				  ![Angle 11.88865 - Trial 2 - Velocity vs. Time.png](../assets/Angle_11.88865_-_Trial_2_-_Velocity_vs._Time_1696901955988_0.png)
-				-
+				- #### Trial 3
+				  ![Angle 11.88865 - Trial 3 - Position vs. Time.png](../assets/Angle_11.88865_-_Trial_3_-_Position_vs._Time_1696901968847_0.png)
+				  ![Angle 11.88865 - Trial 3 - Velocity vs. Time.png](../assets/Angle_11.88865_-_Trial_3_-_Velocity_vs._Time_1696901973584_0.png)
 - # Discussion
   **Coin Toss**:
   I was first tasked with generating **4 sets of data** for later usage. However, I think this adds an unnecessary level of error-prone manual entry. As a result, I decided to instead generate the data on the fly for each different run of the program. Therefore, my results can be run multiple times to create a better picture of the random nature of the experiment. 
