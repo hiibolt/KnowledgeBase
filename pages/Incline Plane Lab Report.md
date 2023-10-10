@@ -107,8 +107,4 @@ public:: true
   
   There are high percent errors for my numbers, but they are relatively consistent. Therefore, I do not believe they are calculation error. I believe this has to do with the error in measurement of both the angle and the velocity - technological error and measurement error.
 - # Conclusion
-  I enjoyed this lab, and it was refreshing to use Python for the first time in a long while. I can't say I enjoy using it, but it's hard not to appreciate how little has to be written. It's prone to developer error and slow, but perfectly suited for fast statistical and mathematical computations. I did not enjoy the table section because I did not understand how the error propagation formulas were derived.
-  
-  I believe the theory was satiated.
-  
-  I used Python frequently prior, so considering that leaning it was likely the point of the lab, it's hard to say that I learned something substantial. I do think the lab was a success for others, as they seemed to learn a lot about Python through the slides linked on the course material section. I would add more explanation regarding the derivation of the error propagation formulas.
+  I have few comments on this lab. It was good as a proof-of-concept for ``matplotlib``, but otherwise was unnecessarily tedious
