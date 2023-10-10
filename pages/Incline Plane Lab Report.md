@@ -49,12 +49,15 @@ public:: true
 			  I then include both figures in the title of the graph.
 			  ![image.png](../assets/image_1696883920786_0.png)
 			- ### 3.1.1.4 Calculating Little G
-			  I
+			  I do this by 
 			  **Angle Set 1:**
 			  ![image.png](../assets/image_1696901513227_0.png)
 			  
 			  **Angle Set 2:**
-		-
+			  ![image.png](../assets/image_1696901547058_0.png)
+			  
+			  **Angle Set 3:**
+			  ![image.png](../assets/image_1696901560860_0.png)
 - # Discussion
   **Coin Toss**:
   I was first tasked with generating **4 sets of data** for later usage. However, I think this adds an unnecessary level of error-prone manual entry. As a result, I decided to instead generate the data on the fly for each different run of the program. Therefore, my results can be run multiple times to create a better picture of the random nature of the experiment. 
