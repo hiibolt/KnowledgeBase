@@ -28,7 +28,9 @@ public:: true
 	  
 	  Our photogates were damaged and hence unusable, so we borrowed data from another group according to our TA.
 	  
-	  Expected Range: $$R=(1.85)\sqrt{\frac{2(79.1)}{9.80}}$$
+	  Expected Range: $$R=(1.85)\sqrt{\frac{2(79.1)}{9.80}}=0.74$$
+	  Actual Range:
+	  |Trial ||
 - # Results
 	- ## 3.1 ...
 	  ...
