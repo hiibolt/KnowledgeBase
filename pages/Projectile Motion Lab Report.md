@@ -28,7 +28,7 @@ public:: true
 	  
 	  Our photogates were damaged and hence unusable, so we borrowed data from another group according to our TA.
 	  
-	  Expected Range: $$R=(1.85)\sqrt{\frac{2(79.1)}{9.80}}=0.74$$
+	  Expected Range: $$R=(1.85)\sqrt{\frac{2(79.1)}{9.80}}=0.74cm$$
 	  Actual Range:
 	  | Trial # | Distance (cm) |
 	  |1|51.0|
@@ -36,9 +36,11 @@ public:: true
 	  |3|52.6|
 	  |4|52.8|
 	  |5|53.1|
-	  |6||
-	-
-	-
+	  |6|53.8|
+	  |7|53.8|
+	  |8|54.3|
+	  |9|54.9|
+	  |10|55.2|
 - # Results
 	- ## 3.1 ...
 	  ...
