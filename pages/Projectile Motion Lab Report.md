@@ -28,7 +28,7 @@ public:: true
 	  
 	  Our photogates were damaged and hence unusable, so we borrowed data from another group according to our TA.
 	  
-	  Expected Range:
+	  Expected Range: $$(1.85)\sqrt{\frac{2h}{g}}$$
 - # Results
 	- ## 3.1 ...
 	  ...
