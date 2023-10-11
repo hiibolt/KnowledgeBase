@@ -30,7 +30,15 @@ public:: true
 	  
 	  Expected Range: $$R=(1.85)\sqrt{\frac{2(79.1)}{9.80}}=0.74$$
 	  Actual Range:
-	  |Trial ||
+	  | Trial # | Distance (cm) |
+	  |1|51.0|
+	  |2|51.3|
+	  |3|52.6|
+	  |4|52.8|
+	  |5|53.1|
+	  |6||
+	-
+	-
 - # Results
 	- ## 3.1 ...
 	  ...
