@@ -22,13 +22,11 @@ public:: true
 	  |10cm|26.4|
 	- ## 2.2 Part B
 	  **Distance Between Photogates:** 76.0cm
+	  **Time To Cross Photogates:** 0.41s
+	  **Velocity:** 1.85m
 	  **H_0:** 79.1cm
-	  | Trial # | Time (s) |
-	  |1||
-	  |2||
-	  |3||
-	  |4||
-	  |s||
+	  
+	  Our photogates were damaged and hence unusable, so we borrowed data from another group according to our TA.
 	  
 	  0.41
 	  76
