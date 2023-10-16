@@ -9,7 +9,7 @@ Set Y is called the co-domain
 	  * **Injective**
 	  No repeated elements of Y.  ($$f( n ) \neq f( m )$$ for for all combinations of n and m)
 	  * **Surjective**
-	  For each b \epsilon B, there must be at least one map to an element a \epsilon A. If an element b 
+	  For each b \epsilon B, there must be at least one map to an element a \epsilon A. If an element b \epsilon B is not contained in the co-domain, it is not surjective.
 	  * **Bijective**
 	  If \f is both injective and surjective, \f is said to be bijective.
 	- ### Composition
