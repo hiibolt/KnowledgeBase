@@ -7,7 +7,7 @@ Set Y is called the co-domain
 	  **Used most frequently when relation R is a function.**
 	- ### Properties
 	  * **Injective**
-	  No repeated elements of Y.  ($$f( n ) = f( m )$$)
+	  No repeated elements of Y.  ($$f( n ) =/ f( m ) \text{ for all combinations of n and m}$$)
 	  * **Surjective**
 	  If some a \epsilon A = b \epsilon B, \f is surjective. Alternatively, if some b \epsilon B is not contained in the co-domain of f, itis not surjective.
 	  * **Bijective**
