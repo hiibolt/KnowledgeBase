@@ -14,7 +14,8 @@ public:: true
 - # Data
 	- ## 2.1
 	  Weight 1: 111.3
-	  
+	  Weight 2: 118.0
+	  Together: 
 	  ...
 - # Results
 	- ## 3.1 ...
