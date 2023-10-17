@@ -4,3 +4,4 @@
 - [[Force Table Lab Report]]
 - [[Incline Plane Lab Report]]
 - [[Projectile Motion Lab Report]]
+- [[Atwood Machine Lab Report]]
