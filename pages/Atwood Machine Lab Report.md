@@ -17,6 +17,9 @@ public:: true
 	  Weight 2: 119.1g
 	  Pulley: 465g
 	  Distance between photogates: 64.5cm
+	  
+	  | Weight (g) | Time (s) |
+	  |||
 	- ...
 - # Results
 	- ## 3.1 ...
