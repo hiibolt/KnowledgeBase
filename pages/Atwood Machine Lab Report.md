@@ -8,8 +8,8 @@ public:: true
 - # Theory
 	- ## Primary Objectives
 	  In this lab, we will...
-	  * Practice equation substitution to solve for different variables in terms of other variables
-	  * 
+	  * Measure the relationship between mass difference between a two-weight pulley system
+	  * Calculate little G as
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
 	- ## 2.1
