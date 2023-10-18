@@ -9,7 +9,7 @@ public:: true
 	- ## Primary Objectives
 	  In this lab, we will...
 	  * Measure the relationship between mass difference between a two-weight pulley system
-	  * Calculate little G as
+	  * Calculate little G by the trendline of the relationship between weight difference and time
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
 	- ## 2.1
