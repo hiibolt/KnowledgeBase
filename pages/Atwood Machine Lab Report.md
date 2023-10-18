@@ -13,9 +13,9 @@ public:: true
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
 	- ## 2.1
-	  Weight 1: 111.0
-	  Weight 2: 118.5
-	  Pulley: 
+	  Weight 1: 111.0g
+	  Weight 2: 118.5g
+	  Pulley: 465g
 	  Distance between photogates: 64.5cm
 	- ...
 - # Results
