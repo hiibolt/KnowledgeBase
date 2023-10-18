@@ -57,4 +57,4 @@ public:: true
 - # Conclusion
   This was a fun lab! I struggled with visualizing the tension force due to mass difference, and was lost in the numbers that comes with substituting multiple equation into one another. 
   
-  I do think that it's important that the issue with the string falling off the pulley and a lack of sure-fire way to s
+  I do think that it's important that the issue with the string falling off the pulley and a lack of sure-fire way to slow the pulley should be addressed, as well as the weights being properly labeled. However, lab equipment is an easy fix.
