@@ -47,6 +47,101 @@ public:: true
 	  
 	  And finally, I get the following results: 
 	  ![image.png](../assets/image_1697658945438_0.png)
+	- ## Complete Code
+	  ```python
+	  import matplotlib.pyplot as plt
+	  import numpy as np
+	  from math import sin, cos, radians
+	  from sklearn.metrics import r2_score
+	  
+	  
+	  data = [
+	  	{
+	  		"m1": 50,
+	  		"m2": 75,
+	  		"time": 1.448311,
+	  		"weight_difference": None,
+	  		"acceleration": None
+	  	},
+	  	{
+	    	"m1": 45,
+	  		"m2": 80,
+	  		"time": 1.264709,
+	  		"weight_difference": None,
+	  		"acceleration": None
+	   	},
+	  	{
+	  		"m1": 40, 
+	  		"m2": 85,
+	  		"time": 1.090918,
+	  		"weight_difference": None,
+	  		"acceleration": None
+	  	},
+	  	{
+	  		"m1": 35,
+	  		"m2": 90,
+	  		"time": 1.039192,
+	  		"weight_difference": None,
+	  		"acceleration": None
+	  	},
+	  	{
+	  		"m1": 30,
+	  		"m2": 95,
+	  		"time": 0.9988435,
+	  		"weight_difference": None,
+	  		"acceleration": None
+	  	},
+	  	{
+	  		"m1": 25,
+	  		"m2": 100,
+	  		"time": 0.9724234,
+	  		"weight_difference": None,
+	  		"acceleration": None
+	  	},
+	  	{
+	  		"m1": 20,
+	  		"m2": 105,
+	  		"time": 0.936344,
+	  		"weight_difference": None,
+	  		"acceleration": None
+	  	},
+	  	{
+	  		"m1": 15,
+	  		"m2": 110,
+	  		"time": 0.908686,
+	  		"weight_difference": None,
+	  		"acceleration": None
+	  	}
+	  ]
+	  
+	  for point in data:
+	  	point['m1'] += 118.1
+	  	point['m2'] += 119.2
+	  	point['m1'] /= 1000
+	  	point['m2'] /= 1000
+	  	point['weight_difference'] = point['m2'] - point['m1']
+	  	point['acceleration'] = (point['weight_difference'] / (point['m1'] + point['m2'] + 0.465/2 )) * 9.80
+	  
+	  weight_difference = [i['weight_difference'] for i in data]
+	  accelerations = [i['acceleration'] for i in data]
+	  
+	  plt.scatter( np.array(weight_difference), np.array(accelerations) )
+	  plt.xlabel( "Weight Difference (kg)" )
+	  plt.ylabel( "Acceleration (m/s^2)" )
+	  
+	  trendline = np.polyfit( weight_difference, accelerations, 1 )
+	  trendline_function = np.poly1d( trendline )
+	  
+	  little_g = trendline_function[1] * ((118.1 + 119.2 + 50 + 75 + 465/2) / 1000)
+	  percent_error = abs(((little_g - 9.80) / 9.81 ) * 10)
+	  print( f"Calculated little G: {little_g} | Percent Error: {percent_error.round(6)}%" )
+	  
+	  plt.plot( weight_difference, trendline_function(weight_difference) )
+	  plt.title( f"Weight Difference vs. Acceleration\n{trendline_function[1].round(4)}x + {trendline_function[0]}" )
+	  plt.show()
+	  plt.savefig( f"foo{0+1}.png" )
+	  plt.clf()
+	  ```
 - # Discussion
 	- ### What would happen if we did not change the mass m1 at the same time as m2 ? (In other words, what if we kept m1 constant and just added mass to m2 ) Would the ultimate result change? Why or why not?
 	  The ultimate results would not change, however the data would be reduced in extremity, because the weight difference would be lower. The acceleration would still be correct.
