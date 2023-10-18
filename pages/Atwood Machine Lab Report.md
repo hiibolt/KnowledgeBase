@@ -48,12 +48,8 @@ public:: true
 	  And finally, I get the following results: 
 	  ![image.png](../assets/image_1697658945438_0.png)
 - # Discussion
-	- ## What would happen if we did not change the mass m1 at the same time as m2 ? (In other words, what if we kept m1 constant and just added mass to m2 ) Would the ultimate result change? Why or why
-	  not?
-	  2. Consider the scenario of releasing the cylinder above the photogates (say 10 cm above). Would this
-	  affect the results that you would get? If so, how could you account for this effect (other than releasing
-	  the cylinder at the photogate)?
-	  3. Describe what would happen if the friction within the pulley was not negligible. In other words, how
-	  would the system act if the pulley was not ideal or close to ideal?
+	- ### What would happen if we did not change the mass m1 at the same time as m2 ? (In other words, what if we kept m1 constant and just added mass to m2 ) Would the ultimate result change? Why or why not?
+	- ### Consider the scenario of releasing the cylinder above the photogates (say 10 cm above). Would this affect the results that you would get? If so, how could you account for this effect (other than releasing the cylinder at the photogate)?
+	- ### Describe what would happen if the friction within the pulley was not negligible. In other words, how would the system act if the pulley was not ideal or close to ideal?
 - # Conclusion
   ...
