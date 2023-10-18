@@ -40,7 +40,8 @@ public:: true
 	  ![image.png](../assets/image_1697658613875_0.png)
 	  My graph looks the following way:
 	  ![image.png](../assets/image_1697658748396_0.png)
-	- ## 3.3
+	- ## 3.3 Collecting the Slope and Calculating Little G
+	  I do this by grabbing the coefficient of the slope (m) and reversing the
 - # Discussion
   ...
 - # Conclusion
