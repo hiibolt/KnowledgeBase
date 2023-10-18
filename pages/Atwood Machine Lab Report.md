@@ -41,7 +41,9 @@ public:: true
 	  My graph looks the following way:
 	  ![image.png](../assets/image_1697658748396_0.png)
 	- ## 3.3 Collecting the Slope and Calculating Little G
-	  I do this by grabbing the coefficient of the slope (m) and reversing the equation $$a = \frac{m_2 - m_1}{m_2 + m_1 + \frac{m_p}{2}}g$$ to solve for g
+	  I do this by grabbing the coefficient of the slope ($$m$$) and reversing the equation $$a = \frac{m_2 - m_1}{m_2 + m_1 + \frac{m_p}{2}}g$$ to solve for $$g$$.
+	  
+	  The following code does so, as well as calculating the percent error between real little g: ![image.png](../assets/image_1697658929517_0.png)
 - # Discussion
   ...
 - # Conclusion
