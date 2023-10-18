@@ -16,7 +16,7 @@ public:: true
 	  Weight 1: 111.0
 	  Weight 2: 118.5
 	  Pulley: 
-	  Distance between photogates:
+	  Distance between photogates: 64.5cm
 	- ...
 - # Results
 	- ## 3.1 ...
