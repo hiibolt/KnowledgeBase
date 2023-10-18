@@ -51,7 +51,8 @@ public:: true
 	- ### What would happen if we did not change the mass m1 at the same time as m2 ? (In other words, what if we kept m1 constant and just added mass to m2 ) Would the ultimate result change? Why or why not?
 	  The ultimate results would not change, however the data would be reduced in extremity, because the weight difference would be lower. The acceleration would still be correct.
 	- ### Consider the scenario of releasing the cylinder above the photogates (say 10 cm above). Would this affect the results that you would get? If so, how could you account for this effect (other than releasing the cylinder at the photogate)?
-	  Yes, it would affect the results. Your time constant would not be as correct, as it would come in with a $$v_i \neq 0$$. This would lower the time to pass the second gate. You could
+	  Yes, it would affect the results. Your time constant would not be as correct, as it would come in with a $$v_i \neq 0$$. This would lower the time to pass the second gate. You could counter this by adjusting your acceleration equation to calculate with a $$v_i\neq 0$$.
 	- ### Describe what would happen if the friction within the pulley was not negligible. In other words, how would the system act if the pulley was not ideal or close to ideal?
+	  It would require more of a weight difference to create a gravitational force large
 - # Conclusion
   ...
