@@ -19,7 +19,7 @@ public:: true
 	  Distance between photogates: 64.5cm
 	  
 	  | Weight - Mass 1 (g) | Weight - Mass 2 (g) | Time (s) |
-	  | 50 | 75 |  |
+	  | 50 | 75 | 1.448311 |
 	- ...
 - # Results
 	- ## 3.1 ...
