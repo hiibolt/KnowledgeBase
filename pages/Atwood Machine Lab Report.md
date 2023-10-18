@@ -31,7 +31,7 @@ public:: true
 - # Results
   First, I decided to format my data as follows in a ``data`` variable:
 	- ## 3.1 Calculating Acceleration
-	  I acheive this by first adding the mass of the weights themselves and converting to kilograms. Next, I
+	  I achieve this by first adding the mass of the weights themselves and converting to kilograms. Next, I populate the ``weight_difference`` field, and finally I calculate and populate the ``acceleration`` field.
 - # Discussion
   ...
 - # Conclusion
