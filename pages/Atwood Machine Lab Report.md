@@ -20,7 +20,8 @@ public:: true
 	  
 	  | Weight - Mass 1 (g) | Weight - Mass 2 (g) | Time (s) |
 	  | 50 | 75 | 1.448311 |
-	  | 45 | 80 |  |
+	  | 45 | 80 | 1.264709 |
+	  | 40 | 85 |  |
 	- ...
 - # Results
 	- ## 3.1 ...
