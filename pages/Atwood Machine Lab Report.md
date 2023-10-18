@@ -33,7 +33,7 @@ public:: true
 	  I decided to format my data as follows in a ``data`` variable:
 	  ![image.png](../assets/image_1697658510310_0.png)
 	- ## 3.1 Calculating Acceleration
-	  I achieve this by first adding the mass of the weights themselves and converting to kilograms. Next, I populate the ``weight_difference`` field, and finally I calculate and populate the ``acceleration`` field.
+	  I achieve this by first adding the mass of the weights themselves and converting to kilograms. Next, I populate the ``weight_difference`` field, and finally I calculate and populate the ``acceleration`` field with the equation $$a = \frac{m_2 - m_1}{m_2 + m_1 + \frac{m_p}{2}}g$$
 	  ![image.png](../assets/image_1697658492894_0.png)
 	- ## 3.2 Graphing the data
 	  I then plot the data. I extract the data from each point into a list using a shorthand tactic called *list comprehension*.
@@ -41,7 +41,7 @@ public:: true
 	  My graph looks the following way:
 	  ![image.png](../assets/image_1697658748396_0.png)
 	- ## 3.3 Collecting the Slope and Calculating Little G
-	  I do this by grabbing the coefficient of the slope (m) and reversing the
+	  I do this by grabbing the coefficient of the slope (m) and reversing the equation $$a = \frac{m_2 - m_1}{m_2 + m_1 + \frac{m_p}{2}}g$$ to solve for g
 - # Discussion
   ...
 - # Conclusion
