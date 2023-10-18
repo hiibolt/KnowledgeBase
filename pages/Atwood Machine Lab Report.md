@@ -55,4 +55,6 @@ public:: true
 	- ### Describe what would happen if the friction within the pulley was not negligible. In other words, how would the system act if the pulley was not ideal or close to ideal?
 	  It would require more of a weight difference to create a gravitational force large enough to create a net vertical force greater than zero.
 - # Conclusion
-  This was a fun lab! I struggled with visualizing the tension force due to mass difference, and was lost in the numbers that comes with substituting multiple equation into one another.
+  This was a fun lab! I struggled with visualizing the tension force due to mass difference, and was lost in the numbers that comes with substituting multiple equation into one another. 
+  
+  I do think that it's important that the issue with the string falling off the pulley and a lack of sure-fire way to s
