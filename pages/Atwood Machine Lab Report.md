@@ -35,7 +35,8 @@ public:: true
 	- ## 3.1 Calculating Acceleration
 	  I achieve this by first adding the mass of the weights themselves and converting to kilograms. Next, I populate the ``weight_difference`` field, and finally I calculate and populate the ``acceleration`` field.
 	  ![image.png](../assets/image_1697658492894_0.png)
-	- ## 3.2 C
+	- ## 3.2 Graphing the data
+	  I then plot the data. I extract the data from each point into a list using a shorthand tactic called **
 - # Discussion
   ...
 - # Conclusion
