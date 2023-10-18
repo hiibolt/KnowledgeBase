@@ -29,9 +29,13 @@ public:: true
 	  | 15 | 110 | 0.908686 |
 	- ...
 - # Results
-  First, I decided to format my data as follows in a ``data`` variable:
+	- # Preface
+	  I decided to format my data as follows in a ``data`` variable:
+	  ![image.png](../assets/image_1697658510310_0.png)
 	- ## 3.1 Calculating Acceleration
 	  I achieve this by first adding the mass of the weights themselves and converting to kilograms. Next, I populate the ``weight_difference`` field, and finally I calculate and populate the ``acceleration`` field.
+	  ![image.png](../assets/image_1697658492894_0.png)
+	- ## 3.2 C
 - # Discussion
   ...
 - # Conclusion
