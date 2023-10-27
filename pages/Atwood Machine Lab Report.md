@@ -1,7 +1,7 @@
 public:: true
 
 - ### Metadata
-  Date: *October 10, 2023*
+  Date: *October 24, 2023*
   Class: *PHYS253 - Section 1*
   Author: *John White*
   Professor: *Jarod Adelman*
