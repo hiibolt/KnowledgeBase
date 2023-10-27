@@ -29,7 +29,7 @@ $$\{\{a\}\text{, }\{a,b\}\}$$
   A collection of subsets where 
   S = $$A_u \bigcup A_2 \bigcup ... \bigcup A_n$$
   $A_i \bigcap A_j = \{\}$
-  $A_i =/ \{\}$
+  $A_i \neq \{\}$
 	- ### Partitions vs ((6508b564-f18f-4d56-aa4a-3430136636db))
 	  A partition has an according equivalence relation, and an equivalence relation creates a partition.
 	- ### Equivalence Class
