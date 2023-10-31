@@ -56,7 +56,8 @@ public:: true
 		  The period of motion is entirely independent of the initial amplitude, but it is heavily impacted by the mass of the object.
 		- ### 3.3.4 K Calculation
 		  Depending on the mass of the object, the K constant increases drastically. I believe this is due to imperfect timing or perhaps an imperfect system.
-		- ### 3.3.5
+		- ### 3.3.5 Cosine vs. Sine Fit
+		  Nothing changes given my equation, it literally only adjusts the phase of the equation
 - # Discussion
   ...
 - # Conclusion
