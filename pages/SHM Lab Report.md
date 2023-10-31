@@ -305,4 +305,4 @@ public:: true
   '''
   ```
 - # Conclusion
-  ...
+  I enjoyed seeing the fundamental concept of circular motion and sine waves in real life and in data form. I believe this gave a better understanding of how spring force and constants work. I do think that perhaps the sections about horizontal offsets are unnecessary, and
