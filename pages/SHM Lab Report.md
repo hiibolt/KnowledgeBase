@@ -39,7 +39,8 @@ public:: true
 		- ### 3.1.3 Mass Location at V = 0
 		  The mass is located at either extreme of the position co-domain (peak or valley), which does line up with how the equations provided. ($$y = \sin(2\pi ft+\theta)$$ and $$v = A\omega \cos(\omega t + \theta)$$)
 		- ### 3.1.4 Mass Location at $V_{max}$
-		  The mass is located directly at the ori
+		  The mass is located directly at the origin ($y = 0$), which does make sense. This is because the mass has not yet started to slow down, and the velocity is at its max right before it begins to change in direction.
+	- ## 3.2 Offsets
 - # Discussion
   ...
 - # Conclusion
