@@ -8,8 +8,8 @@ public:: true
 - # Theory
 	- ## Primary Objectives
 	  In this lab, we will...
-	  * Practice using a sinusodal fit on a graph
-	  * 
+	  * Practice using a sinusoidal fit on a graph
+	  * Learn how springs behave depending on the mass
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
 	- ## 50g - 6cm
@@ -31,8 +31,8 @@ public:: true
 	  ![150g - 10cm - PvT.png](../assets/150g_-_10cm_-_PvT_1698780767099_0.png)
 	  ![150g - 10cm - VvT.png](../assets/150g_-_10cm_-_VvT_1698780772696_0.png)
 - # Results
-	- ## 3.1 ...
-	  ...
+	- ## 3.1 Graph Comparison
+		- ### 3.1.1
 - # Discussion
   ...
 - # Conclusion
