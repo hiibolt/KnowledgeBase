@@ -5,3 +5,4 @@
 - [[Incline Plane Lab Report]]
 - [[Projectile Motion Lab Report]]
 - [[Atwood Machine Lab Report]]
+- [[SHM Lab Report]]
