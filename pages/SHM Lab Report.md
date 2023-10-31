@@ -8,7 +8,7 @@ public:: true
 - # Theory
 	- ## Primary Objectives
 	  In this lab, we will...
-	  * Practice equation substitution to solve for different variables in terms of other variables
+	  * Practice using a sinusodal fit on a graph
 	  * 
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
@@ -23,6 +23,13 @@ public:: true
 	  ![100g - 6cm - VvT.png](../assets/100g_-_6cm_-_VvT_1698780721717_0.png)
 	- ## 100g - 10cm
 	  ![100g - 10cm - PvT.png](../assets/100g_-_10cm_-_PvT_1698780731910_0.png)
+	  ![100g - 10cm - VvT.png](../assets/100g_-_10cm_-_VvT_1698780736799_0.png)
+	- ## 150g - 6cm
+	  ![150g - 6cm - PvT.png](../assets/150g_-_6cm_-_PvT_1698780750493_0.png)
+	  ![150g - 6cm - VvT.png](../assets/150g_-_6cm_-_VvT_1698780754921_0.png)
+	- ## 150g - 10cm
+	  ![150g - 10cm - PvT.png](../assets/150g_-_10cm_-_PvT_1698780767099_0.png)
+	  ![150g - 10cm - VvT.png](../assets/150g_-_10cm_-_VvT_1698780772696_0.png)
 - # Results
 	- ## 3.1 ...
 	  ...
