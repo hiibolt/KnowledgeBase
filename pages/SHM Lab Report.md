@@ -51,7 +51,8 @@ public:: true
 			- #### A_i is relatively proportional to A.
 			- #### Mass is inverse to \omega.
 			- #### A_i and \omega are independent of oneanother.
-			-
+			- #### Velocity and Position fits have different phase offsets.
+		- ### 3.3.3
 - # Discussion
   ...
 - # Conclusion
