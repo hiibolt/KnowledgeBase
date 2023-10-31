@@ -59,6 +59,6 @@ public:: true
 			- ### 3.3.5 Cosine vs. Sine Fit
 			  Nothing changes given my equation, it only adjusts the phase of the equation - which makes sense. It could also have flipped the amplitude had I given slightly different data, but that did not happen for me.
 - # Discussion
-  First, I was tasked with creating a graph of each of the data sets
+  First, I was tasked with creating a graph of each of the data sets. I did this
 - # Conclusion
   ...
