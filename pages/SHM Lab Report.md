@@ -33,6 +33,7 @@ public:: true
 - # Results
 	- ## 3.1 Graph Comparison
 		- ### 3.1.1
+		  They are both sinusoidal graphs which fit perfectly with the function that the TA provided. They behave very similar to how the equations predict, alb
 - # Discussion
   ...
 - # Conclusion
