@@ -1,7 +1,7 @@
 public:: true
 
 - ### Metadata
-  Date: *October 10, 2023*
+  Date: *October 31, 2023*
   Class: *PHYS253 - Section 1*
   Author: *John White*
   Professor: *Jarod Adelman*
@@ -309,4 +309,4 @@ public:: true
   
   The idea of the derivative of position would make greater sense to others if that was done
   
-  Otherwise, the lab was easy to complete physically
+  Otherwise, the lab was easy to complete physically and it was not flawed in any way, so it was fun.
