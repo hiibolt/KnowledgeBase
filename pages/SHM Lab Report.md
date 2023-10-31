@@ -59,6 +59,51 @@ public:: true
 			- ### 3.3.5 Cosine vs. Sine Fit
 			  Nothing changes given my equation, it only adjusts the phase of the equation - which makes sense. It could also have flipped the amplitude had I given slightly different data, but that did not happen for me.
 - # Discussion
-  First, I was tasked with creating a graph of each of the data sets. I did this
+  First, I was tasked with creating a graph of each of the data sets. I did this by splitting the data into sheets and importing with `openpyxl`.
+  ```python
+  data_raw = load_workbook("data.xlsx", read_only = True)
+  data = [
+  	{
+  		"name": "50g - 6cm",
+  		"weight": 50,
+  		"height": 6,
+  		"data": data_raw["50g6"]
+  	},
+  	{
+  		"name": "50g - 10cm",
+  		"weight": 50,
+  		"height": 10,
+  		"data": data_raw["50g10"]
+  	},
+  	{
+  		"name": "100g - 6cm",
+  		"weight": 100,
+  		"height": 6,
+  		"data": data_raw["100g6"]
+  	},
+  	{
+  		"name": "100g - 10cm",
+  		"weight": 100,
+  		"height": 10,
+  		"data": data_raw["100g10"]
+  	},
+  	{
+  		"name": "150g - 6cm",
+  		"weight": 150,
+  		"height": 6,
+  		"data": data_raw["150g6"]
+  	},
+  	{
+  		"name": "150g - 10cm",
+  		"weight": 150,
+  		"height": 10,
+  		"data": data_raw["150g10"]
+  	}
+  ]
+  
+  for experiment in data:
+  	experiment_data = []
+  ```
+  I then translated the data in
 - # Conclusion
   ...
