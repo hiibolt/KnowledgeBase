@@ -32,8 +32,10 @@ public:: true
 	  ![150g - 10cm - VvT.png](../assets/150g_-_10cm_-_VvT_1698780772696_0.png)
 - # Results
 	- ## 3.1 Graph Comparison
-		- ### 3.1.1
-		  They are both sinusoidal graphs which fit perfectly with the function that the TA provided. They behave very similar to how the equations predict, alb
+		- ### 3.1.1 Similarities
+		  They are both sinusoidal graphs which fit perfectly with the function that the TA provided. They behave very similar to how the equations predict, albiet with some gradual decrease in amplitude, which is to be expected in an imperfect system.
+		- ### 3.1.2 Differences
+		  They do not have the same co-domains, the
 - # Discussion
   ...
 - # Conclusion
