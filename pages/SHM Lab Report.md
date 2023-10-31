@@ -170,8 +170,139 @@ public:: true
   	return {"amp": A, "omega": w, "phase": p, "offset": c, "freq": f, "period": 1./f, "fitfunc": fitfunc, "maxcov": np.max(pcov), "rawres": (guess,popt,pcov)}
   ```
   
-  F
--
--
+  Note that I output **k** and the sin function in the title of the graph and the file name.
+  
+  
+  
+  Full Code:
+  ```python
+  import matplotlib.pyplot as plt
+  import numpy as np
+  import scipy.optimize
+  from openpyxl import load_workbook
+  from math import sin, cos, radians
+  from sklearn.metrics import r2_score
+  
+  def fit_sin(tt, yy):
+  	'''Fit sin to the input time sequence, and return fitting parameters "amp", "omega", "phase", "offset", "freq", "period" and "fitfunc"'''
+  	tt = np.array(tt)
+  	yy = np.array(yy)
+  	ff = np.fft.fftfreq(len(tt), (tt[1]-tt[0]))   # assume uniform spacing
+  	Fyy = abs(np.fft.fft(yy))
+  	guess_freq = abs(ff[np.argmax(Fyy[1:])+1])   # excluding the zero frequency "peak", which is related to offset
+  	guess_amp = np.std(yy) * 2.**0.5
+  	guess_offset = np.mean(yy)
+  	guess = np.array([guess_amp, 2.*np.pi*guess_freq, 0., guess_offset])
+  
+  	def sinfunc(t, A, w, p, c):  return A * np.sin(w*t + p) + c
+  	popt, pcov = scipy.optimize.curve_fit(sinfunc, tt, yy, p0=guess)
+  	A, w, p, c = popt
+  	f = w/(2.*np.pi)
+  	fitfunc = lambda t: A * np.sin(w*t + p) + c
+  	return {"amp": A, "omega": w, "phase": p, "offset": c, "freq": f, "period": 1./f, "fitfunc": fitfunc, "maxcov": np.max(pcov), "rawres": (guess,popt,pcov)}
+  
+  
+  data_raw = load_workbook("data.xlsx", read_only = True)
+  data = [
+  	{
+  		"name": "50g - 6cm",
+  		"weight": 50,
+  		"height": 6,
+  		"data": data_raw["50g6"]
+  	},
+  	{
+  		"name": "50g - 10cm",
+  		"weight": 50,
+  		"height": 10,
+  		"data": data_raw["50g10"]
+  	},
+  	{
+  		"name": "100g - 6cm",
+  		"weight": 100,
+  		"height": 6,
+  		"data": data_raw["100g6"]
+  	},
+  	{
+  		"name": "100g - 10cm",
+  		"weight": 100,
+  		"height": 10,
+  		"data": data_raw["100g10"]
+  	},
+  	{
+  		"name": "150g - 6cm",
+  		"weight": 150,
+  		"height": 6,
+  		"data": data_raw["150g6"]
+  	},
+  	{
+  		"name": "150g - 10cm",
+  		"weight": 150,
+  		"height": 10,
+  		"data": data_raw["150g10"]
+  	}
+  ]
+  
+  for experiment in data:
+  	experiment_data = []
+  	for row in experiment["data"].iter_rows():
+  		values = [x.value for x in row]
+  		if ( values[0] != None ):
+  			experiment_data.append({
+  				"time": values[0],
+  				"acceleration": values[3],
+  				"velocity": values[2],
+  				"position": values[1]
+  			})
+  
+  
+  	# Velocity vs. Time
+  	plt.scatter( np.array([x["time"] for x in experiment_data]), np.array([x["velocity"] for x in experiment_data]) )
+  	plt.xlabel( "Time (s)" )
+  	plt.ylabel( "Velocity (cm)" )
+  
+  	res = fit_sin(np.array([x["time"] for x in experiment_data]), np.array([x["velocity"] for x in experiment_data]))
+  	k = float((experiment["name"].split('g'))[0])  * (res["omega"] ** 2)
+  	print("%(amp).4fsin(%(omega).4ft + %(phase).4f)" % res )
+  
+  	tt2 = np.linspace(0, experiment_data[len(experiment_data) - 1]["time"]) # x range
+  	plt.plot(tt2, res["fitfunc"](tt2), "r-", label="y fit curve", linewidth=2)
+  	plt.title( "%(amp).4fsin(%(omega).4ft + %(phase).4f)" % res )
+  	plt.savefig( f"{experiment['name']} - VvT - k {k}.png" )
+  	plt.clf()
+  
+  
+  	# Position vs. Time
+  	plt.scatter( np.array([x["time"] for x in experiment_data]), np.array([x["position"] for x in experiment_data]) )
+  	plt.xlabel( "Time (s)" )
+  	plt.ylabel( "Position (cm)" )
+  
+  	res = fit_sin(np.array([x["time"] for x in experiment_data]), np.array([x["position"] for x in experiment_data]))
+  
+  	tt2 = np.linspace(0, experiment_data[len(experiment_data) - 1]["time"]) # x range
+  	plt.plot(tt2, res["fitfunc"](tt2), "r-", label="y fit curve", linewidth=2)
+  	plt.title( "%(amp).4fsin(%(omega).4ft + %(phase).4f)" % res )
+  	plt.savefig( f"{experiment['name']} - PvT.png" )
+  	plt.clf()
+  
+  
+  '''
+  plt.scatter( np.array(weight_difference), np.array(accelerations) )
+  plt.xlabel( "Weight Difference (kg)" )
+  plt.ylabel( "Acceleration (m/s^2)" )
+  
+  trendline = np.polyfit( weight_difference, accelerations, 1 )
+  trendline_function = np.poly1d( trendline )
+  
+  little_g = trendline_function[1] * ((118.1 + 119.2 + 50 + 75 + 465/2) / 1000)
+  percent_error = abs(((little_g - 9.80) / 9.81 ) * 10)
+  print( f"Calculated little G: {little_g} | Percent Error: {percent_error.round(6)}%" )
+  
+  plt.plot( weight_difference, trendline_function(weight_difference) )
+  plt.title( f"Weight Difference vs. Acceleration\n{trendline_function[1].round(4)}x + {trendline_function[0]}" )
+  plt.show()
+  plt.savefig( f"foo{0+1}.png" )
+  plt.clf()
+  '''
+  ```
 - # Conclusion
   ...
