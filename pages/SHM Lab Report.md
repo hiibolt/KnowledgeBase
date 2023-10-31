@@ -45,7 +45,9 @@ public:: true
 		  The Y_0 position is lower depending on the mass, which does make sense according to our equations and Newton's laws. Because the mass is increased, gravity has more pull against the spring, creating a lower equilibrium point.
 	- ## 3.3 Data Fit
 		- ### 3.3.1 Fit of Data
-		  The data does fit, and is
+		  The data does fit, and is fairly consistent across all graphs. There are no objective outliers.
+		- ### 3.3.2 Effect on Constants Based on Mass and Amplitude
+			- #### Mass and
 - # Discussion
   ...
 - # Conclusion
