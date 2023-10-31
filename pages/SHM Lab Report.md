@@ -46,10 +46,11 @@ public:: true
 	- ## 3.3 Data Fit
 		- ### 3.3.1 Fit of Data
 		  The data does fit, and is fairly consistent across all graphs. There are no objective outliers.
-		- ### 3.3.2 Effect on Constants Based on Mass and Amplitude
+		- ### 3.3.2 Effect on Constants Based on Mass and A_i
 			- #### Mass and A are inverse to oneanother.
-			- #### Initial Amplitude is relatively proportional to A.
-			- ####
+			- #### A_i is relatively proportional to A.
+			- #### Mass is inverse to \omega.
+			- #### A_i and \omega are indepen
 - # Discussion
   ...
 - # Conclusion
