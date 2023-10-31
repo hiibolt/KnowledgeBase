@@ -116,6 +116,61 @@ public:: true
   				"position": values[1]
   			})
   ```
+  
+  Next, I plot each of the two graphs. I ignore acceleration.
+  ```python
+  	# Velocity vs. Time
+  	plt.scatter( np.array([x["time"] for x in experiment_data]), np.array([x["velocity"] for x in experiment_data]) )
+  	plt.xlabel( "Time (s)" )
+  	plt.ylabel( "Velocity (cm)" )
+  
+  	res = fit_sin(np.array([x["time"] for x in experiment_data]), np.array([x["velocity"] for x in experiment_data]))
+  	k = float((experiment["name"].split('g'))[0])  * (res["omega"] ** 2)
+  	print("%(amp).4fsin(%(omega).4ft + %(phase).4f)" % res )
+  
+  	tt2 = np.linspace(0, experiment_data[len(experiment_data) - 1]["time"]) # x range
+  	plt.plot(tt2, res["fitfunc"](tt2), "r-", label="y fit curve", linewidth=2)
+  	plt.title( "%(amp).4fsin(%(omega).4ft + %(phase).4f)" % res )
+  	plt.savefig( f"{experiment['name']} - VvT - k {k}.png" )
+  	plt.clf()
+  
+  
+  	# Position vs. Time
+  	plt.scatter( np.array([x["time"] for x in experiment_data]), np.array([x["position"] for x in experiment_data]) )
+  	plt.xlabel( "Time (s)" )
+  	plt.ylabel( "Position (cm)" )
+  
+  	res = fit_sin(np.array([x["time"] for x in experiment_data]), np.array([x["position"] for x in experiment_data]))
+  
+  	tt2 = np.linspace(0, experiment_data[len(experiment_data) - 1]["time"]) # x range
+  	plt.plot(tt2, res["fitfunc"](tt2), "r-", label="y fit curve", linewidth=2)
+  	plt.title( "%(amp).4fsin(%(omega).4ft + %(phase).4f)" % res )
+  	plt.savefig( f"{experiment['name']} - PvT.png" )
+  	plt.clf()
+  ```
+  
+  Above, I fit a sinusoidal curve with the trendline function
+  ```python
+  def fit_sin(tt, yy):
+  	'''Fit sin to the input time sequence, and return fitting parameters "amp", "omega", "phase", "offset", "freq", "period" and "fitfunc"'''
+  	tt = np.array(tt)
+  	yy = np.array(yy)
+  	ff = np.fft.fftfreq(len(tt), (tt[1]-tt[0]))   # assume uniform spacing
+  	Fyy = abs(np.fft.fft(yy))
+  	guess_freq = abs(ff[np.argmax(Fyy[1:])+1])   # excluding the zero frequency "peak", which is related to offset
+  	guess_amp = np.std(yy) * 2.**0.5
+  	guess_offset = np.mean(yy)
+  	guess = np.array([guess_amp, 2.*np.pi*guess_freq, 0., guess_offset])
+  
+  	def sinfunc(t, A, w, p, c):  return A * np.sin(w*t + p) + c
+  	popt, pcov = scipy.optimize.curve_fit(sinfunc, tt, yy, p0=guess)
+  	A, w, p, c = popt
+  	f = w/(2.*np.pi)
+  	fitfunc = lambda t: A * np.sin(w*t + p) + c
+  	return {"amp": A, "omega": w, "phase": p, "offset": c, "freq": f, "period": 1./f, "fitfunc": fitfunc, "maxcov": np.max(pcov), "rawres": (guess,popt,pcov)}
+  ```
+  
+  F
 -
 -
 - # Conclusion
