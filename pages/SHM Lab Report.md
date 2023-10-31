@@ -43,7 +43,9 @@ public:: true
 	- ## 3.2 Offsets
 		- ### 3.2.1 Y_0 Position vs. Mass
 		  The Y_0 position is lower depending on the mass, which does make sense according to our equations and Newton's laws. Because the mass is increased, gravity has more pull against the spring, creating a lower equilibrium point.
-	- ## 3.3
+	- ## 3.3 Data Fit
+		- ### 3.3.1 Fit of Data
+		  The data does fit, and is
 - # Discussion
   ...
 - # Conclusion
