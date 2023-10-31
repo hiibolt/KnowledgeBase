@@ -35,7 +35,9 @@ public:: true
 		- ### 3.1.1 Similarities
 		  They are both sinusoidal graphs which fit perfectly with the function that the TA provided. They behave very similar to how the equations predict, albiet with some gradual decrease in amplitude, which is to be expected in an imperfect system.
 		- ### 3.1.2 Differences
-		  They do not have the same co-domains, the
+		  They do not have the same co-domains, the velocity has a much lower while the position is much higher due to units. They also start at difference times on the sin wave's graph.
+		- ### 3.1.3 Mass Location at V = 0
+		  The mass is located at either extreme of the position co-domain (peak or valley), which does line up with how the
 - # Discussion
   ...
 - # Conclusion
