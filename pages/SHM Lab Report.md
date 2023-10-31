@@ -41,6 +41,8 @@ public:: true
 		- ### 3.1.4 Mass Location at $V_{max}$
 		  The mass is located directly at the origin ($y = 0$), which does make sense. This is because the mass has not yet started to slow down, and the velocity is at its max right before it begins to change in direction.
 	- ## 3.2 Offsets
+		- ### 3.2.1 Y_0 Position vs. Mass
+		  The Y_0 position is lower depending on the mass, which does make sense according to our equations and Newton's laws. Because the mass is more, gravity has more pull
 - # Discussion
   ...
 - # Conclusion
