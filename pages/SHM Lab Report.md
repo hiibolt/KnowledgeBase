@@ -104,6 +104,19 @@ public:: true
   for experiment in data:
   	experiment_data = []
   ```
-  I then translated the data in
+  I then translated the data into human-readable dicts that I could represent.
+  ```python
+  	for row in experiment["data"].iter_rows():
+  		values = [x.value for x in row]
+  		if ( values[0] != None ):
+  			experiment_data.append({
+  				"time": values[0],
+  				"acceleration": values[3],
+  				"velocity": values[2],
+  				"position": values[1]
+  			})
+  ```
+-
+-
 - # Conclusion
   ...
