@@ -50,7 +50,8 @@ public:: true
 			- #### Mass and A are inverse to oneanother.
 			- #### A_i is relatively proportional to A.
 			- #### Mass is inverse to \omega.
-			- #### A_i and \omega are indepen
+			- #### A_i and \omega are independent of oneanother.
+			-
 - # Discussion
   ...
 - # Conclusion
