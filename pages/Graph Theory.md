@@ -6,3 +6,6 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 - ## Theorems
 	- ### Handshaking Theorem
 	  $\sum{degree} = 2* n_{edges}$
+- ## Representations
+	- ### Adjacency Lists
+	- ### Adjacency Graphs
