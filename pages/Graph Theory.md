@@ -5,6 +5,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 	  Number of edges incident
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
+		- ### Complete Bipartile Graph Km,n
+		  Vertices left column length m are connected to each vertex in colm
 - ## Theorems
 	- ### Handshaking Theorem
 	  $\sum{degree} = 2* n_{edges}$
