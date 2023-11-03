@@ -10,7 +10,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 	- ### Isomorphism
 	  A function that proves two graphs have the same shape
 	  
-	  Bijection such that Vertices X and Y of G are adjacent
+	  Defined as a bijection such that Vertices X and Y of G are adjacent if and only if vertices f(X) and f(Y) are adjacent it H.
 - ## Theorems
 	- ### Handshaking Theorem
 	  $\sum{degree} = 2* n_{edges}$
