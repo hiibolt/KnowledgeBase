@@ -9,6 +9,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 		  Vertices left column length m are connected to each vertex in right column n.
 	- ### Isomorphism
 	  A function that proves two graphs have the same shape
+	  
+	  Bijection such that Vertices X and Y of G are adjacent
 - ## Theorems
 	- ### Handshaking Theorem
 	  $\sum{degree} = 2* n_{edges}$
