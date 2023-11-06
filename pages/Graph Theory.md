@@ -9,6 +9,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 		  Vertices left column length m are connected to each vertex in right column n.
 	- ### Multigraph
 	  A graph allowing parallel edges and loops (denoted by lowercase Latin lettering)
+	- ### Loop
+	  An edge which connects a node to itself. There contribute 2 to the degree of a vertex versus one.
 	- ### Parallel Edge
 	  An edge which connects two points that are already connected by another edge
 	- ### Isomorphism
