@@ -26,8 +26,9 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 	- ### Adjacency Lists
 	  $P_1 : P_2, P_3, ...$
 	  $P_2 : P_3, ...$
-	- ### Adjacency Graphs
+	- ### Adjacency Matrices
 	  |  | P_1 | P_2 |
 	  | P_1 | 0 | 1 |
 	  | P_2 | 1 | 0 |
+	  **Note: Multiple
 - ## Paths and Circuits
