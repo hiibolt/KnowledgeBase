@@ -7,6 +7,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 	  Path from U to V is a sequence which alternates between vertices and edges which starts and ends with a vertex. For an edge to be listed, the vertex one element prior and the following vertex must be adjacent.
 	  
 	  The length of a U-V path is the number of edges in the sequence.
+		- #### Simple
+		  A version of the U-
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
