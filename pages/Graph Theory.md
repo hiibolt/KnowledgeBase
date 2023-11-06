@@ -16,7 +16,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 	- ### Multigraph
 	  A graph allowing parallel edges and loops (denoted by lowercase Latin lettering)
 		- #### Connected Graph
-		  A multgraph that has a path to traverse from any
+		  A multigraph that has a path to traverse from any vertex from given vertices U and V.
 	- ### Loop
 	  An edge which connects a node to itself. There contribute 2 to the degree of a vertex versus one.
 	- ### Parallel Edge
