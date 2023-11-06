@@ -4,7 +4,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 	- ### Degree
 	  Number of edges incident
 	- ### U-V Path
-	  Path from U to V
+	  Path from U to V is a sequence which alternates between vertices and edges which starts and ends with a vertex.
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
