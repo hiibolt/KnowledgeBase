@@ -13,7 +13,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 	  Defined as a bijection such that Vertices X and Y of G are adjacent if and only if vertices f(X) and f(Y) are adjacent it H.
 		- #### Tactic 1 for checking against isomorphism:
 		  Count the number of vertices
-		-
+		- #### Tactic 2 for checking against isomorphism:
+		  List of the degrees of the vertices in ascending or descending order
 - ## Theorems
 	- ### Handshaking Theorem
 	  $\sum{degree} = 2* n_{edges}$
