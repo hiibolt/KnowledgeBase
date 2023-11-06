@@ -3,6 +3,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 - ## Terms
 	- ### Degree
 	  Number of edges incident
+	- ### U-V Path
+	  Path from U to V
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
