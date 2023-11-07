@@ -137,4 +137,4 @@ public:: true
 	  	print(f"Trial {trial['trial']}\nF_spring: {round(F_spring, 6)} \nF_centripital: {round(F_centripital, 6)}\nPercent Difference: {percent_difference}\n")
 	  ```
 - # Conclusion
-  This lab was
+  This lab was short but sweet and I believe that it accomplished its purpose of illustrates
