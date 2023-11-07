@@ -51,12 +51,8 @@ public:: true
 		  Percent Difference: 0.60696660302124%
 - # Discussion
   id:: 9bce9233-62d1-47bb-abea-6ec62c741849
-	- ## 4.1 Part 1
-	  I was tasked to increase the distance between the exit point and the hit point.
-	  
-	  As the distance increases, the ball has more room to drop further, exponentially so, which lines up with Equation 4.
-	  
-	  This is visible in the data as well as the graph, as the line is inversely exponential in nature.
+	- ## 4.1 Calculating Forces
+	  I was tasked to calculate both the spring force and the centripital force.
 	- ## 4.2 Part 2
 	  There is noticeable error between the expected range and there average range. The range points do actually increase slightly as time goes on, which may be the ball wearning down the tube and reducing the friction, allowing it to fly farther.
 	  
