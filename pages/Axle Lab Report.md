@@ -139,4 +139,8 @@ public:: true
 	  	print(f"Trial {trial['trial']}\nF_spring: {round(F_spring, 6)} \nF_centripital: {round(F_centripital, 6)}\nPercent Difference: {percent_difference}\n")
 	  ```
 - # Conclusion
-  This lab was short but sweet and I believe that it accomplished its purpose of illustrating the relationship between F_s and F_c in this system. However, I don't like that the time difference is 100% accurate, I believe that if there was another way to add impulse to the spin that it would be a much better lab and the percent errors would be lower. I did enjoy visualizing the force of the springs, and I believe that
+  This lab was short but sweet and I believe that it accomplished its purpose of illustrating the relationship between F_s and F_c in this system. However, I don't like that the time difference is 100% accurate, I believe that if there was another way to add impulse to the spin that it would be a much better lab and the percent errors would be lower. 
+  
+  I did enjoy visualizing the force of the springs, and I believe that this lab should stay as it is.
+  
+  I
