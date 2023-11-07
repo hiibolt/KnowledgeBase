@@ -9,8 +9,8 @@ public:: true
 	- ## Primary Objectives
 	  In this lab, we will...
 	  * To compare the forces of springs and centripetal force
-	  * To gain a better understanding of 
-	  * -
+	  * To gain a better understanding of springs in general
+	  * To learn the differences between percent error and difference
 - # Data
 	- ## 2.1 Experimental Procedure
 	  | Trial | Bob Mass (g)| Hanging Mass (g) | D (cm) | d (cm) | r (cm) | n | Time Difference (s) |
