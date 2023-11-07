@@ -20,15 +20,22 @@ public:: true
 	  |4|429.0|929.6|6|14|17|50|28.18|
 	  |5|429.0|1047.1|6|15|18|50|27.17|
 - # Results
-	- ## 3.1 Part A
-	  Data Graph:
-	  ![image.png](../assets/image_1697513709867_0.png) 
-	  I will discuss the relations between equation 4 and the trendline from this graph in **Discussion**.
-	  
-	  |I calculated the average distance via Python:
-	  ![image.png](../assets/image_1697512344560_0.png)
-	  Result:  
-	  ![image.png](../assets/image_1697512031810_0.png)
+	- ## 3.1 - Calculating Forces
+		- ### Trial 1
+		  F_spring: 5.65166 
+		  F_centripital: 5.361691
+		- ### Trial 2
+		  F_spring: 6.53072 
+		  F_centripital: 7.137429
+		- ### Trial 3
+		  F_spring: 8.3251 
+		  F_centripital: 8.049735
+		- ### Trial 4
+		  F_spring: 9.11008 
+		  F_centripital: 9.064085
+		- ### Trial 5
+		  F_spring: 10.26158 
+		  F_centripital: 10.324054
 	- ## 3.2 Part B
 	  I also calculated the percent error in Python with the following code:
 	  ![image.png](../assets/image_1697512335537_0.png)
