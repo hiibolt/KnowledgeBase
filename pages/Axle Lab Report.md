@@ -137,6 +137,4 @@ public:: true
 	  	print(f"Trial {trial['trial']}\nF_spring: {round(F_spring, 6)} \nF_centripital: {round(F_centripital, 6)}\nPercent Difference: {percent_difference}\n")
 	  ```
 - # Conclusion
-  I believe that this was a very interesting lab, and I found it cool to be able to see the derivation of real-life equations and how they play out. Often, I have a hard time visualizing non-sinusoidal functions, especially exponential functions of the second or third order - but this lab has helped with that.
-  
-  I do believe that the lab's methodology needs to be changed. Our tube was too dirty for the photogates to be able to actually see the ball, meaning the lab is fundamentally flawed and many groups will have issues. This can be solved by exempting the top half or bottom two-thirds of the tube,  removing the translucent barrier between the photogates and the ball. This may also result in more accurate data, as buildup on those now-gone sides is not possible to slow down the ball.
+  This lab was
