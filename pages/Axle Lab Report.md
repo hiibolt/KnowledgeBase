@@ -69,11 +69,15 @@ public:: true
 	  Next, I was tasked with calculating the percent difference between the two forces for each trial.
 	  
 	  The following formula is considered standard for percent difference:
-	  $$%Diff = \frac{|F_c-F_s|}{\frac{1}{2}(F_}$$
-	  I do this in the following way:
+	  
+	  $$\%\text{ Difference} = \frac{|F_c-F_s|}{\frac{1}{2}(F_c+F_s)}$$
+	  
+	  I do this in the following way with python for each trial and their respective forces:
 	  
 	  ```python
+	  percent_difference = (F_centripital - F_spring) / ((F_spring + F_centripital ) / 2) * 100
 	  ```
+	- ## 4.3
 - # Conclusion
   I believe that this was a very interesting lab, and I found it cool to be able to see the derivation of real-life equations and how they play out. Often, I have a hard time visualizing non-sinusoidal functions, especially exponential functions of the second or third order - but this lab has helped with that.
   
