@@ -66,7 +66,14 @@ public:: true
 	  ```
 	  It's worth noting that the **/ 100**s and **/ 1000**s you see are unit conversion between cm/m and g/kg respectively.
 	- ## 4.2 Percent Difference
-	  Next, I was tasked with calculating the difference
+	  Next, I was tasked with calculating the percent difference between the two forces for each trial.
+	  
+	  The following formula is considered standard for percent difference:
+	  $$%Diff = \frac{|F_c-F_s|}{\frac{1}{2}(F_}$$
+	  I do this in the following way:
+	  
+	  ```python
+	  ```
 - # Conclusion
   I believe that this was a very interesting lab, and I found it cool to be able to see the derivation of real-life equations and how they play out. Often, I have a hard time visualizing non-sinusoidal functions, especially exponential functions of the second or third order - but this lab has helped with that.
   
