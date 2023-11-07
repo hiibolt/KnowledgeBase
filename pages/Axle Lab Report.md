@@ -55,6 +55,15 @@ public:: true
 	  I was tasked to calculate both the spring force and the centripetal force. I derived the following equations for both respectively:
 	  $$F_s = Mg$$
 	  $$F_c = m\frac{4{\pi}^2n^2}{t^2}r$$
+	  
+	  However, this is not Python code, so here are the following equations in Python form:
+	  ```python
+	  F_spring = trial["hanging_mass"] / 1000 * 9.8
+	  ```
+	  ```python
+	  F_centripital = (bob_mass / 1000 * 4 * (math.pi ** 2) * (n ** 2) * trial["r"] / 100 ) 
+	      / (trial["time_difference"] ** 2)
+	  ```
 	- ## 4.2 Part 2
 	  There is noticeable error between the expected range and there average range. The range points do actually increase slightly as time goes on, which may be the ball wearning down the tube and reducing the friction, allowing it to fly farther.
 	  
