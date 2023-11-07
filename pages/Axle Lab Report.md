@@ -8,8 +8,8 @@ public:: true
 - # Theory
 	- ## Primary Objectives
 	  In this lab, we will...
-	  * -
-	  * -
+	  * To compare the forces of springs and centripetal force
+	  * To gain a better understanding of 
 	  * -
 - # Data
 	- ## 2.1 Experimental Procedure
