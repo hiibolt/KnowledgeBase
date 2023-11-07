@@ -64,12 +64,9 @@ public:: true
 	  F_centripital = (bob_mass / 1000 * 4 * (math.pi ** 2) * (n ** 2) * trial["r"] / 100 ) 
 	      / (trial["time_difference"] ** 2)
 	  ```
-	- ## 4.2 Part 2
-	  There is noticeable error between the expected range and there average range. The range points do actually increase slightly as time goes on, which may be the ball wearning down the tube and reducing the friction, allowing it to fly farther.
-	  
-	  Ultimately, our photogates were broken, so our TA suggested that we use the expected range of another table. However, their photogates were not at the end of the tube - a bad idea, because this means that the average velocity is not accurate since it will slow down by the time it exits the tube. 
-	  
-	  These two factors result in a relatively high percent error (25%).
+	  It's worth noting that the **/ 100**s and **/ 1000**s you see are unit conversion between cm/m and g/kg respectively.
+	- ## 4.2 Percent Difference
+	  Next, I was tasked with calculating the difference
 - # Conclusion
   I believe that this was a very interesting lab, and I found it cool to be able to see the derivation of real-life equations and how they play out. Often, I have a hard time visualizing non-sinusoidal functions, especially exponential functions of the second or third order - but this lab has helped with that.
   
