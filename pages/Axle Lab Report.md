@@ -38,21 +38,17 @@ public:: true
 		  F_spring: 10.26158 
 		  F_centripital: 10.324054
 	- ## 3.2 Percent Differences:
-	  I also calculated the percent error in Python with the following code:
-	  ![image.png](../assets/image_1697512335537_0.png)
-	  Result: 
-	  ![image.png](../assets/image_1697512318234_0.png)
-	- ### Trial 1
-	  Percent Difference: -5.26577415936465
-	- Trial 2
-	  Percent Difference: 8.877702812485234
-	- ###
-	- Trial 3
-	  Percent Difference: -3.3632753321102915
-	- Trial 4
-	  Percent Difference: -0.5061553237945114
-	- Trial 5
-	  Percent Difference: 0.60696660302124
+	  I also calculated the percent error for each trial with Python:
+		- ### Trial 1
+		  Percent Difference: 5.26577415936465%
+		- ### Trial 2
+		  Percent Difference: 8.877702812485234%
+		- ### Trial 3
+		  Percent Difference: 3.3632753321102915%
+		- ### Trial 4
+		  Percent Difference: 0.5061553237945114%
+		- ### Trial 5
+		  Percent Difference: 0.60696660302124%
 - # Discussion
   id:: 9bce9233-62d1-47bb-abea-6ec62c741849
 	- ## 4.1 Part 1
