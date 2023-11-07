@@ -50,7 +50,9 @@ public:: true
 		- ### Trial 5
 		  Percent Difference: 0.60696660302124%
 	- ## 3.3 Analysis
-	  The percent difference is very minimal, because other forces such as friction and air resistance are fairly minimal. I believe that the reason there is any percent error at all is because time is not a definite or perfectly measure value, meaning if the person who influences time has any variance in force, the spin timing is not perfect. This is the reason for no (noticeable) pattern in the percent error of each trial.
+	  The percent difference is very minimal, because other forces such as friction and air resistance are fairly minimal. 
+	  
+	  I believe that the reason there is any percent error at all is because time is not a definite or perfectly measure value, meaning if the person who influences time has any variance in force, the spin timing is not perfect. This is the reason for no (noticeable) pattern in the percent error of each trial.
 - # Discussion
   id:: 9bce9233-62d1-47bb-abea-6ec62c741849
 	- ## 4.1 Calculating Forces
@@ -143,4 +145,4 @@ public:: true
   
   I did enjoy visualizing the force of the springs, and I believe that this lab should stay as it is.
   
-  I
+  I also believe that this helped me learn to combine and interpolate different equations into one another, as well as deconstructing more complication systems like the system in this lab.
