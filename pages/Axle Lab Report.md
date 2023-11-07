@@ -85,7 +85,57 @@ public:: true
 	     \nF_centripital: {round(F_centripital, 6)}
 	     \nPercent Difference: {percent_difference}\n")
 	  ```
-	-
+	- ## 4.F Final Code
+	  ```python
+	  bob_mass = 429.0
+	  D = 6
+	  n = 50
+	  
+	  data = [
+	  	{
+	      "trial": 1,
+	      "hanging_mass": 576.7,
+	      "d": 11,
+	      "r": 14,
+	      "time_difference": 33.25
+	  	}, 
+	  	{
+	  		"trial": 2,
+	  		"hanging_mass": 666.4,
+	  		"d": 12,
+	  		"r": 15,
+	  		"time_difference": 29.83
+	  	}, 
+	  	{
+	  		"trial": 3,
+	  		"hanging_mass": 849.5,
+	  		"d": 13,
+	  		"r": 16,
+	  		"time_difference": 29.01
+	  	}, 
+	  	{
+	  		"trial": 4,
+	  		"hanging_mass": 929.6,
+	  		"d": 14,
+	  		"r": 17,
+	  		"time_difference": 28.18
+	  	}, 
+	  	{
+	  		"trial": 5,
+	  		"hanging_mass": 1047.1,
+	  		"d": 15,
+	  		"r": 18,
+	  		"time_difference": 27.17
+	  	}
+	  ]
+	  
+	  for trial in data:
+	  	F_spring = trial["hanging_mass"] / 1000 * 9.8
+	  	F_centripital = (bob_mass / 1000 * 4 * (math.pi ** 2) * (n ** 2) * trial["r"] / 100 ) / (trial["time_difference"] ** 2)
+	  	percent_difference = (F_centripital - F_spring) / ((F_spring + F_centripital ) / 2) * 100
+	  
+	  	print(f"Trial {trial['trial']}\nF_spring: {round(F_spring, 6)} \nF_centripital: {round(F_centripital, 6)}\nPercent Difference: {percent_difference}\n")
+	  ```
 - # Conclusion
   I believe that this was a very interesting lab, and I found it cool to be able to see the derivation of real-life equations and how they play out. Often, I have a hard time visualizing non-sinusoidal functions, especially exponential functions of the second or third order - but this lab has helped with that.
   
