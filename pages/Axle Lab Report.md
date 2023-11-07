@@ -52,7 +52,9 @@ public:: true
 - # Discussion
   id:: 9bce9233-62d1-47bb-abea-6ec62c741849
 	- ## 4.1 Calculating Forces
-	  I was tasked to calculate both the spring force and the centripital force.
+	  I was tasked to calculate both the spring force and the centripetal force. I derived the following equations for both respectively:
+	  $$F_s = Mg$$
+	  $$F_c = m\frac{4{\pi}^2n^2}{t^2}r$$
 	- ## 4.2 Part 2
 	  There is noticeable error between the expected range and there average range. The range points do actually increase slightly as time goes on, which may be the ball wearning down the tube and reducing the friction, allowing it to fly farther.
 	  
