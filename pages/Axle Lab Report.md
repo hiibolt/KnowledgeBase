@@ -13,13 +13,12 @@ public:: true
 	  * -
 - # Data
 	- ## 2.1 Experimental Procedure
-	  | Trial | Height |
-	  |0cm|27.6|
-	  |2cm|27.5|
-	  |4cm|27.3|
-	  |6cm|27.0|
-	  |8cm|26.7|
-	  |10cm|26.4|
+	  | Trial | Bob Mass (g)| Hanging Mass (g) | D (cm) | d (cm) | r (cm) | n | Time Difference (s) |
+	  |1|429.0|576.7|g|11|14|50|33.25|
+	  |1|429.0|576.7|g|11|14|50|33.25|
+	  |1|429.0|576.7|g|11|14|50|33.25|
+	  |1|429.0|576.7|g|11|14|50|33.25|
+	  |1|429.0|576.7|g|11|14|50|33.25|
 - # Results
 	- ## 3.1 Part A
 	  Data Graph:
