@@ -21,6 +21,7 @@ public:: true
 	  |5|429.0|1047.1|6|15|18|50|27.17|
 - # Results
 	- ## 3.1 - Calculating Forces
+	  I calculated the following results using Python, which I will further discuss in ((9bce9233-62d1-47bb-abea-6ec62c741849)).
 		- ### Trial 1
 		  F_spring: 5.65166 
 		  F_centripital: 5.361691
@@ -36,12 +37,24 @@ public:: true
 		- ### Trial 5
 		  F_spring: 10.26158 
 		  F_centripital: 10.324054
-	- ## 3.2 Part B
+	- ## 3.2 Percent Differences:
 	  I also calculated the percent error in Python with the following code:
 	  ![image.png](../assets/image_1697512335537_0.png)
 	  Result: 
 	  ![image.png](../assets/image_1697512318234_0.png)
+	- ### Trial 1
+	  Percent Difference: -5.26577415936465
+	- Trial 2
+	  Percent Difference: 8.877702812485234
+	- ###
+	- Trial 3
+	  Percent Difference: -3.3632753321102915
+	- Trial 4
+	  Percent Difference: -0.5061553237945114
+	- Trial 5
+	  Percent Difference: 0.60696660302124
 - # Discussion
+  id:: 9bce9233-62d1-47bb-abea-6ec62c741849
 	- ## 4.1 Part 1
 	  I was tasked to increase the distance between the exit point and the hit point.
 	  
