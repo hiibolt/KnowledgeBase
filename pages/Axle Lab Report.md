@@ -77,7 +77,15 @@ public:: true
 	  ```python
 	  percent_difference = (F_centripital - F_spring) / ((F_spring + F_centripital ) / 2) * 100
 	  ```
-	- ## 4.3
+	- ## 4.3 Analytics
+	  I decided to print these with Python for easier human reading with the following code:
+	  ```python
+	  print(f"Trial {trial['trial']}
+	     \nF_spring: {round(F_spring, 6)}
+	     \nF_centripital: {round(F_centripital, 6)}
+	     \nPercent Difference: {percent_difference}\n")
+	  ```
+	-
 - # Conclusion
   I believe that this was a very interesting lab, and I found it cool to be able to see the derivation of real-life equations and how they play out. Often, I have a hard time visualizing non-sinusoidal functions, especially exponential functions of the second or third order - but this lab has helped with that.
   
