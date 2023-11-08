@@ -30,7 +30,7 @@ public:: true
 		  T8: 10
 		  T9: 9
 		  T10: 9
-		  **Average:**
+		  **Average:** (6+6+8+9+6+10+11+10+9+9) / 10 = 8.4 notches
 - # Results
 	- ## 3.1 ...
 	  ...
