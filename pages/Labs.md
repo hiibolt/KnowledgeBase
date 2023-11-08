@@ -6,3 +6,4 @@
 - [[Projectile Motion Lab Report]]
 - [[Atwood Machine Lab Report]]
 - [[SHM Lab Report]]
+- [[Ballistic Pendulum Lab Report]]
