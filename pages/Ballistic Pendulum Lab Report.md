@@ -19,7 +19,10 @@ public:: true
 		  Weight of the cup: 241.4g
 		  Weight of the ball: 69.2g
 		  
-		  Number of notches:
+		  Number of notches: 
+		  T1: 6
+		  T2: 6
+		  T3:
 - # Results
 	- ## 3.1 ...
 	  ...
