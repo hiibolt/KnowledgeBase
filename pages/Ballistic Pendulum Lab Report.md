@@ -25,6 +25,8 @@ public:: true
 		  T3: 8
 		  T4: 9
 		  T5: 6
+		  T6: 10
+		  T7: 11
 - # Results
 	- ## 3.1 ...
 	  ...
