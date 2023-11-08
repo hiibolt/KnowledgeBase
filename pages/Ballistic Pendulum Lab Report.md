@@ -22,7 +22,9 @@ public:: true
 		  Number of notches: 
 		  T1: 6
 		  T2: 6
-		  T3:
+		  T3: 8
+		  T4: 9
+		  T5: 6
 - # Results
 	- ## 3.1 ...
 	  ...
