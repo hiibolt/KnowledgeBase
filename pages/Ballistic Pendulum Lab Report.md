@@ -27,6 +27,10 @@ public:: true
 		  T5: 6
 		  T6: 10
 		  T7: 11
+		  T8: 10
+		  T9: 9
+		  T10: 9
+		  **Average:**
 - # Results
 	- ## 3.1 ...
 	  ...
