@@ -16,7 +16,10 @@ public:: true
 		- ## ...
 		  Distance from x_i to x_f: 187.3cm
 		  Distance from y_f to x_i: 86.4cm
-		  Weig241.4g
+		  Weight of the cup: 241.4g
+		  Weight of the ball: 64.6g
+		  
+		  Number of notches:
 - # Results
 	- ## 3.1 ...
 	  ...
