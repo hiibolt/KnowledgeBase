@@ -78,4 +78,8 @@ public:: true
 	  
 	  While we did remass all elements of the system and notate them accordingly, we fired the ball a few times and noted that the range wasn't too different. However, this was likely a series of flukes, and the difference is clearly notable enough to create a significant percent error.
 - # Conclusion
-  This was a loud but interesting lab. The formula for velocity transfer was something I did not understand from class, and this helped for me to visualize and understand it. As a result, I believe that this lab is effef
+  This was a loud but interesting lab. The formula for velocity transfer was something I did not understand from class, and this helped for me to visualize and understand it. As a result, I believe that this lab is effective.
+  
+  There is nothing that I would change or alter about this lab, although perhaps verifying the lab equipment works beforehand, as our lab group has repeatedly had malfunctioning lab equipment.
+  
+  I also would have liked some form of Python coding related to graphing, I find that looking at the data in the form of a graph and having the added challenge of having to break a problem down into code helps to reinforce concepts.
