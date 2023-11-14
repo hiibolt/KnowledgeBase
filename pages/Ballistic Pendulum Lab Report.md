@@ -35,8 +35,10 @@ public:: true
 	- ### 3.1 Initial Velocity
 	  The initial velocity of the ball is 0.786m/s.
 	- ### 3.2 K_E of the Ball/Cup Combined System
+	  The kinetic energy of the ball and the cup combined system is 0.0961J.
+	- ### 3.3
 - # Discussion
 	- ## 3.1 Initial Velocity
-	  ![image.png](../assets/image_1699999993989_0.png)
+	  ![image.png](../assets/image_1700000117217_0.png)
 - # Conclusion
   ...
