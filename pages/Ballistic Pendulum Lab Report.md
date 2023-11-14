@@ -32,9 +32,11 @@ public:: true
 		  T10: 9
 		  **Average:** (6+6+8+9+6+10+11+10+9+9) / 10 = 8.4 notches
 - # Results
-	- ## 3.1 Initial Velocity
-	  The initial velocity of the ball is 0.786m/s
+	- ### 3.1 Initial Velocity
+	  The initial velocity of the ball is 0.786m/s.
+	- ### 3.2 K_E of the Ball/Cup Combined System
 - # Discussion
-  ...
+	- ## 3.1 Initial Velocity
+	  ![image.png](../assets/image_1699999993989_0.png)
 - # Conclusion
   ...
