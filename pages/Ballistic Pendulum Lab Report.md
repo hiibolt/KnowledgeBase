@@ -74,6 +74,8 @@ public:: true
 	  ![image.png](../assets/image_1700002104653_0.png)
 	  ...however the percent error is obviously high.
 	  
-	  This is because during our run of the lab (as touched on in **4.4**), our ball originall did not have enough force to actually get the pendulum to land on *any* notch, so we were provided with a new ball. While we did remass all elements of the system and notate them accordingly, we fired the ball a few times and noted that the range wasn't too different. However, this was likely a ser
+	  This is because during our run of the lab (as touched on in **4.4**), our ball originall did not have enough force to actually get the pendulum to land on *any* notch, so we were provided with a new ball. 
+	  
+	  While we did remass all elements of the system and notate them accordingly, we fired the ball a few times and noted that the range wasn't too different. However, this was likely a series of flukes, and the difference is clearly notable enough to create a significant percent error.
 - # Conclusion
-  ...
+  This was a loud but interesting lab. The formula for velocity transfer was something I did not understand from class, and this helped for me to visualize and understand it. As a result, I believe that this lab is effef
