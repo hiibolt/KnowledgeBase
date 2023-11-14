@@ -8,11 +8,10 @@ public:: true
 - # Theory
 	- ## Primary Objectives
 	  In this lab, we will...
-	  * Practice equation substitution to solve for different variables in terms of other variables
-	  * 
-	  * Calculate the error percentages between a calculated and measured value
+	  * Understand velocity transfer between systems of different masses
+	  * Understand value interpolation for sake of un-tested values from experimental data
+	  * Compare the relationships between range, height, and kinetic/potential energy at different points
 - # Data
-	-
 	- ## 2.1 Range and Height
 	  Distance from x_i to x_f: 187.3cm
 	  Distance from y_f to x_i: 86.4cm
