@@ -54,6 +54,8 @@ public:: true
 	  I do this with the formula $$v_i=\frac{m_bv_o}{m_b+m_c}$$, substituting $$v_o$$ from the previous step in as follows:
 	  ![image.png](../assets/image_1700001626316_0.png)
 	- ### 3.3 Height for Average Notches
-	  I deduce the height for the average notches by **interpolation**, since no data point matches the average that we
+	  I deduce the height for the average notches by **interpolation**, since no data point matches the average that we recieved.
+	  
+	  I used the following interpolation formula: $$\frac{x-n_1}{n_2-n_1} = \frac{y-h_1}{h_2-h_1}$$, and substituted in the average notches listed above in **Data
 - # Conclusion
   ...
