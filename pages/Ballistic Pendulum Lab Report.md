@@ -49,6 +49,8 @@ public:: true
 	  I obtained the initial velocity by solving for V_o in the range equation ($$R=v_o\sqrt{\frac{2h}{g}}$$) to get and use the following equation.
 	  ![image.png](../assets/image_1700001409875_0.png)
 	- ### 3.2 $K_E$ of the Ball/Cup Combined System
-	  Next, I needed to find the vel
+	  Next, I needed to find the velocity of the combined system once the ball collides with the cup.
+	  
+	  I do this with the formula $$v_i=\frac{m_bv_o}{m_b+m_c}$$ as follows
 - # Conclusion
   ...
