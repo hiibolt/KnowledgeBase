@@ -37,6 +37,7 @@ public:: true
 	- ### 3.2 K_E of the Ball/Cup Combined System
 	  The kinetic energy of the ball and the cup combined system is 0.0961J.
 	- ### 3.3 Height For Average Notches
+	  The height for the average number of notches can be calculated to be
 - # Discussion
 	- ## 3.1 Initial Velocity
 	  ![image.png](../assets/image_1700000117217_0.png)
