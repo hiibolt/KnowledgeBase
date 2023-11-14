@@ -61,6 +61,10 @@ public:: true
 	  I used the following interpolation formula: $$\frac{x-n_1}{n_2-n_1} = \frac{y-h_1}{h_2-h_1}$$, and substituted in the average notches listed above in **Data 2.1**:
 	  ![image.png](../assets/image_1700001830040_0.png)
 	- ### 4.4 Potential Energy at the Average Height
-	  This was an interesting thing to find, as for our group, our potential energy was higher than our
+	  This was an interesting thing to find, as for our group, our potential energy was higher than our initial kinetic energy. We believe this is because we did not redo our range tests when we switched our ball after our ball wasn't pushing enough notches.
+	  
+	  I believe that if we had redone our range tests, our potential energy would have been less due to work done by friction of the pendulum hinge.
+	  
+	  Regardless, I calculated $$U$$
 - # Conclusion
   ...
