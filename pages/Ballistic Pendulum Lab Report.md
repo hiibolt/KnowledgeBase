@@ -65,6 +65,9 @@ public:: true
 	  
 	  I believe that if we had redone our range tests, our potential energy would have been less due to work done by friction of the pendulum hinge.
 	  
-	  Regardless, I calculated $$U$$
+	  Regardless, I calculated $$U$$ with the equation $$U=(m_1+m_2)gh$$, substituting in the values that we found as follows:
+	  ![image.png](../assets/image_1700002000881_0.png)
+	- ### 4.5 Percent Difference
+	  Percent Difference i
 - # Conclusion
   ...
