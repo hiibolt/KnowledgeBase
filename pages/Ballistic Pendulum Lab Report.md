@@ -43,19 +43,20 @@ public:: true
 	- ### 3.5 Percent Difference
 	  The percent difference obtained form this lab was 34.4%.
 - # Discussion
-	- ## 3.1 Initial Velocity
+	- #### 4.1 Initial Velocity
 	  I was tasked with finding the initial velocity first of only the ball being shot from the ballistic spring.
 	  
 	  I obtained the initial velocity by solving for V_o in the range equation ($$R=v_o\sqrt{\frac{2h}{g}}$$) to get and use the following equation.
 	  ![image.png](../assets/image_1700001409875_0.png)
-	- ### 3.2 $K_E$ of the Ball/Cup Combined System
+	- ### 4.2 $K_E$ of the Ball/Cup Combined System
 	  Next, I needed to find the velocity of the combined system once the ball collides with the cup.
 	  
 	  I do this with the formula $$v_i=\frac{m_bv_o}{m_b+m_c}$$, substituting $$v_o$$ from the previous step in as follows:
 	  ![image.png](../assets/image_1700001626316_0.png)
-	- ### 3.3 Height for Average Notches
+	  ...and next plugging this into the formula for kinetic energyu
+	- ### 4.3 Height for Average Notches
 	  I deduce the height for the average notches by **interpolation**, since no data point matches the average that we recieved.
 	  
-	  I used the following interpolation formula: $$\frac{x-n_1}{n_2-n_1} = \frac{y-h_1}{h_2-h_1}$$, and substituted in the average notches listed above in **Data
+	  I used the following interpolation formula: $$\frac{x-n_1}{n_2-n_1} = \frac{y-h_1}{h_2-h_1}$$, and substituted in the average notches listed above in **Data 2.1**:
 - # Conclusion
   ...
