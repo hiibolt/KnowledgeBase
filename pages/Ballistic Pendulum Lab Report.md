@@ -32,8 +32,8 @@ public:: true
 		  T10: 9
 		  **Average:** (6+6+8+9+6+10+11+10+9+9) / 10 = 8.4 notches
 - # Results
-	- ## 3.1 ...
-	  ...
+	- ## 3.1 Initial Velocity
+	  The initial velocity of the ball is
 - # Discussion
   ...
 - # Conclusion
