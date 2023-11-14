@@ -68,6 +68,12 @@ public:: true
 	  Regardless, I calculated $$U$$ with the equation $$U=(m_1+m_2)gh$$, substituting in the values that we found as follows:
 	  ![image.png](../assets/image_1700002000881_0.png)
 	- ### 4.5 Percent Difference
-	  Percent difference is calculated using the standard formula $$\%_{diff} = \frac{K-U}{\frac{1}{2}. (K+U}*100\%$$
+	  Percent difference is calculated using the standard formula $$\%_{diff} = \frac{K-U}{\frac{1}{2}(K+U}*100\%$$.
+	  
+	  Our values are plugged in the following way...
+	  ![image.png](../assets/image_1700002104653_0.png)
+	  ...however the percent error is obviously high.
+	  
+	  This is because during our run of the lab (as touched on in **4.4**), our
 - # Conclusion
   ...
