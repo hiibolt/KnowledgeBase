@@ -39,7 +39,7 @@ public:: true
 	- ### 3.3 Height For Average Notches
 	  The height for the average number of notches can be calculated to be 71.72mm.
 	- ### 3.4 Potential Energy
-	  The potential energy at the height of the average number of notches can be found to be
+	  The potential energy at the height of the average number of notches can be found to be 0.21J.
 - # Discussion
 	- ## 3.1 Initial Velocity
 	  ![image.png](../assets/image_1700000117217_0.png)
