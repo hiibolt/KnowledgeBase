@@ -68,6 +68,6 @@ public:: true
 	  Regardless, I calculated $$U$$ with the equation $$U=(m_1+m_2)gh$$, substituting in the values that we found as follows:
 	  ![image.png](../assets/image_1700002000881_0.png)
 	- ### 4.5 Percent Difference
-	  Percent Difference i
+	  Percent difference is calculated using the standard formula $$\%_{diff} = \frac{K-U}{\frac{1}{2}. (K+U}*100\%$$
 - # Conclusion
   ...
