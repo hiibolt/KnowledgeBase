@@ -51,6 +51,9 @@ public:: true
 	- ### 3.2 $K_E$ of the Ball/Cup Combined System
 	  Next, I needed to find the velocity of the combined system once the ball collides with the cup.
 	  
-	  I do this with the formula $$v_i=\frac{m_bv_o}{m_b+m_c}$$ as follows
+	  I do this with the formula $$v_i=\frac{m_bv_o}{m_b+m_c}$$, substituting $$v_o$$ from the previous step in as follows:
+	  ![image.png](../assets/image_1700001626316_0.png)
+	- ### 3.3 Height for Average Notches
+	  I deduce the height for the average notches by **interpolation**, since no data point matches the average that we
 - # Conclusion
   ...
