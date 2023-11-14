@@ -44,7 +44,7 @@ public:: true
 	  The percent difference obtained form this lab was 34.4%.
 - # Discussion
 	- ## 3.1 Initial Velocity
-	  I obtained the initial velocity by solving for 
+	  I obtained the initial velocity by solving for V_o in the range equation ($$R=v_o\sqrt{\frac}$$)
 	  ![image.png](../assets/image_1700001409875_0.png)
 - # Conclusion
   ...
