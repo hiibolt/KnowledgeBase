@@ -34,7 +34,7 @@ public:: true
 - # Results
 	- ### 3.1 Initial Velocity
 	  The initial velocity of the ball is 4.46m/s.
-	- ### 3.2 K_E of the Ball/Cup Combined System
+	- ### 3.2 $K_E$ of the Ball/Cup Combined System
 	  The kinetic energy of the ball and the cup combined system is 0.154J
 	- ### 3.3 Height For Average Notches
 	  The height for the average number of notches can be calculated to be 71.72mm.
@@ -44,7 +44,11 @@ public:: true
 	  The percent difference obtained form this lab was 34.4%.
 - # Discussion
 	- ## 3.1 Initial Velocity
-	  I obtained the initial velocity by solving for V_o in the range equation ($$R=v_o\sqrt{\frac}$$)
+	  I was tasked with finding the initial velocity first of only the ball being shot from the ballistic spring.
+	  
+	  I obtained the initial velocity by solving for V_o in the range equation ($$R=v_o\sqrt{\frac{2h}{g}}$$) to get and use the following equation.
 	  ![image.png](../assets/image_1700001409875_0.png)
+	- ### 3.2 $K_E$ of the Ball/Cup Combined System
+	  Next, I needed to find the vel
 - # Conclusion
   ...
