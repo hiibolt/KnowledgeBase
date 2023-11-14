@@ -53,10 +53,13 @@ public:: true
 	  
 	  I do this with the formula $$v_i=\frac{m_bv_o}{m_b+m_c}$$, substituting $$v_o$$ from the previous step in as follows:
 	  ![image.png](../assets/image_1700001626316_0.png)
-	  ...and next plugging this into the formula for kinetic energyu
+	  ...and next plugging this into the formula for kinetic energy ($$K_E = \frac{1}{2}(m_1+m_2)v_i^2$$)
+	  ![image.png](../assets/image_1700001816073_0.png)
 	- ### 4.3 Height for Average Notches
 	  I deduce the height for the average notches by **interpolation**, since no data point matches the average that we recieved.
 	  
 	  I used the following interpolation formula: $$\frac{x-n_1}{n_2-n_1} = \frac{y-h_1}{h_2-h_1}$$, and substituted in the average notches listed above in **Data 2.1**:
+	  ![image.png](../assets/image_1700001830040_0.png)
+	- ### 4.4
 - # Conclusion
   ...
