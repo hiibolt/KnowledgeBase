@@ -35,9 +35,9 @@ public:: true
 			  |Gate 2 - Heavy|1.41|
 			- ### 2.3.3 Elastic - Lighter Cart Stationary
 			  |**Gate #**|**Time Difference (s)**|
-			  |Gate 1|0.22|
-			  |Gate 2 - Light|0.10|
-			  |Gate 2 - Heavy|1.41|
+			  |Gate 1 - Light |0.17|
+			  |Gate 1 - Light Again|0.25|
+			  |Gate 2 - Heavy|1.|
 - # Results
 	- ## 3.1 ...
 	  ...
