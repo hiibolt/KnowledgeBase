@@ -21,8 +21,13 @@ public:: true
 		  Flag Length: 6cm
 		- ## 2.3 Trials
 			- ### 2.3.1
+			  |**Gate #**|**Time Difference**|
 			  |Gate 1 |0.21|
 			  |Gate 2|0.28|
+			- ### 2.3.2
+			  |**Gate #**|**Time Difference**|
+			  |Gate 1|0.32|
+			  |Gate 2|
 - # Results
 	- ## 3.1 ...
 	  ...
