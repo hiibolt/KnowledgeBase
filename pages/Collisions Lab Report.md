@@ -13,10 +13,12 @@ public:: true
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
 	- ## ...
-		- ## 2.1 Weights of the Systems
+		- ## 2.1 Weights of the System
 		  Cart 1: 561.5g
 		  Cart 2: 559.0g
 		  Additional Weight 505.0g
+		- ## 2.2 Lengths of the System
+		  Flag Length: 6cm
 - # Results
 	- ## 3.1 ...
 	  ...
