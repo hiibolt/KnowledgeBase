@@ -19,6 +19,10 @@ public:: true
 		  Additional Weight 505.0g
 		- ## 2.2 Lengths of the System
 		  Flag Length: 6cm
+		- ## 2.3 Trials
+			- ### 2.3.1
+			  |Gate 1 |0.21|
+			  |Gate 2|0.28|
 - # Results
 	- ## 3.1 ...
 	  ...
