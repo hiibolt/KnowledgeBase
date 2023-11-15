@@ -14,7 +14,7 @@ public:: true
 - # Data
 	- ## ...
 		- ## 2.1 Weights of the Systems
-		  Cart 1: 
+		  Cart 1: 561.5g
 		  Cart 2:
 - # Results
 	- ## 3.1 ...
