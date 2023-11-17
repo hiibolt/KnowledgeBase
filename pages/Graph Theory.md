@@ -3,6 +3,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 - ## Terms
 	- ### Degree
 	  Number of edges incident
+	- ### Distance
+	  The length of a shortest path between a given set of two vertices.
 	- ### U-V Path
 	  Path from U to V is a sequence which alternates between vertices and edges which starts and ends with a vertex. For an edge to be listed, the vertex one element prior and the following vertex must be adjacent.
 	  
