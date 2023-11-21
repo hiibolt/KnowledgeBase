@@ -20,7 +20,6 @@ public:: true
 		- ## 2.2 Lengths of the System
 		  Flag Length: 6cm
 		- ## 2.3 Trials
-		  collapsed:: true
 			- ### 2.3.1 Inelastic - Lighter Cart Stationary
 			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|
 			  |Gate 1 |0.21|0.286|
