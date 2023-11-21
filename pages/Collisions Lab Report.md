@@ -23,11 +23,11 @@ public:: true
 			- ### 2.3.1 Inelastic - Lighter Cart Stationary
 			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|**K (J)**|
 			  |Gate 1 - Heavy |0.21|0.286|0.304|0.019|
-			  |Gate 2 - Both |0.28|0.2114|0.343|
+			  |Gate 2 - Both |0.28|0.2114|0.343|0.036|
 			- ### 2.3.2 Inelastic - Heavier Cart Stationary
 			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|**K (J)**|
-			  |Gate 1 - Light |0.32|0.188|0.106|
-			  |Gate 2 - Both |0.68|0.088|0.143|
+			  |Gate 1 - Light |0.32|0.188|0.106|0.010|
+			  |Gate 2 - Both |0.68|0.088|0.143||
 			- ### 2.3.3 Elastic - Lighter Cart Stationary
 			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|**K (J)**|
 			  |Gate 1 - Heavy|0.22|0.273|0.290|
