@@ -35,9 +35,9 @@ public:: true
 			  |Gate 2 - Heavy|1.41|0.043|0.046|0.001|
 			- ### 2.3.3 Elastic - Heavier Cart Stationary
 			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|**K (J)**|
-			  |Gate 1 - Light |0.17|0.353|0.198|
-			  |Gate 2 - Heavy|0.25|0.240|0.121|
-			  |Gate 1 - Light Again|0.69|0.087|0.049|
+			  |Gate 1 - Light |0.17|0.353|0.198|0.035|
+			  |Gate 2 - Heavy|0.25|0.240|0.121|0.031|
+			  |Gate 1 - Light Again|0.69|0.087|0.049||
 - # Results
 	- ## 3.1 ...
 	  ...
