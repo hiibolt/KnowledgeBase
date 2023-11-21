@@ -39,8 +39,8 @@ public:: true
 			  |Gate 2 - Heavy|0.25|0.240|0.121|0.031|
 			  |Gate 1 - Light Again|0.69|0.087|0.049|0.002|
 - # Results
-	- ## 3.1 Loss in K vs Loss in V
-	  ...
+	- ## 3.1 Loss in K vs Loss in P;
+	  There is significant loss in kinetic energy, which can be attributed to the friction that the carts experience, especially while carts change direction.
 - # Discussion
   ...
 - # Conclusion
