@@ -40,7 +40,8 @@ public:: true
 			  |Gate 1 - Light Again|0.69|0.087|0.049|0.002|
 - # Results
 	- ## 3.1 Loss in K vs Loss in P;
-	  There is significant loss in kinetic energy, which can be attributed to the friction that the carts experience, especially while carts change direction.
+	  There is significant loss in kinetic energy, which can be attributed to the friction that the carts experience, especially while carts change direction. There is loss in momentum for this exact reason as well - the reason for the more drastic loss in kinetic is that the velocity is squared and therefore the decrease due to friction is exponential compared to momentum.
+	- ## 3.2
 - # Discussion
   ...
 - # Conclusion
