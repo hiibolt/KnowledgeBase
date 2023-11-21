@@ -53,6 +53,8 @@ public:: true
 	  $$K = \frac{1}{2}mv^2$$
 	  This therefore means that a loss in *v* (due to friction) impacts kinetic energy harder than momentum.
 	- ## 4.2 Reasoning Behind Loss in P
-	  The question asked how to create an ideal system. In the real world, this is not possible. It can be done artificially with air hockey tables, but even then, the ai
+	  The question asked how to create an ideal system. In the real world, this is not possible. It can be done artificially with air hockey tables, but even then, the air in front of the carts would slow it down. Friction is ultimately the reason why a perfect system is impossible, as air resistance is solved by a vacuum.
+	- ## 4.3 Momentum in the Real World
+	  The question asked why or why not car engineer should aim for an elastic collision. Noting that an inelastic collision als
 - # Conclusion
   ...
