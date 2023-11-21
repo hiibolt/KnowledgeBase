@@ -39,13 +39,13 @@ public:: true
 			  |Gate 2 - Heavy|0.25|0.240|0.121|0.031|
 			  |Gate 1 - Light Again|0.69|0.087|0.049|0.002|
 - # Results
-	- ## 3.1 Loss in K vs Loss in P;
+	- ## 3.1 Loss in K vs Loss in P
 	  There is significant loss in kinetic energy, which can be attributed to the friction that the carts experience, especially while carts change direction. There is loss in momentum for this exact reason as well - the reason for the more drastic loss in kinetic is that the velocity is squared and therefore the decrease due to friction is exponential compared to momentum.
 	- ## 3.2 Reasoning Behind Loss in P
 	  The primary reason is ultimately due to loss of heat (friction) and air resistance. To create an ideal system is impossible without friction. Some ways to mitigate would be slicker carts, air pushing up on the carts to directly counter friction, or lubrication.
 	- ## 3.3 Momentum in the Real World
-	  It would be a terrible idea to have elastic collisions. Small vehicles at a standstill would be utterly demolished by the sheer speeds an elastic collision w
+	  It would be a terrible idea to have elastic collisions. Small vehicles at a standstill would be utterly demolished by the sheer speeds an elastic collision with, say, a freight truck would cause. If the two vehicles stick instead, the velocity is reduced due to an increase in mass.
 - # Discussion
-  ...
+	- ## 4.1 Loss in K vs Loss in P
 - # Conclusion
   ...
