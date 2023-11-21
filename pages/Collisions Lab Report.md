@@ -57,4 +57,6 @@ public:: true
 	- ## 4.3 Momentum in the Real World
 	  The question asked why or why not car engineer should aim for an elastic collision. Noting that an inelastic collision with an object at rest always results in a reduction of velocity is important - consider that an elastic collision with a large incoming object on a small incoming object results in the small object getting a massive speed increase. In the real world, it's often the impact of cars into barriers, walls, etc that kills. Therefore, you would want an inelastic collision over an elastic one.
 - # Conclusion
-  I believe this was a good lab. I would have appreciated
+  I believe this was a good lab. I would have appreciated the calculations to be in the result section, as that is where they typically are for these labs, and this broke that norm. The questions at the end should be instead for promoting discussion in my opinion.
+  
+  I did not enjoy this lab,
