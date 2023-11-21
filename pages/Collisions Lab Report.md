@@ -23,7 +23,7 @@ public:: true
 			- ### 2.3.1 Inelastic - Lighter Cart Stationary
 			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|
 			  |Gate 1 |0.21|0.286|
-			  |Gate 2|0.28|
+			  |Gate 2|0.28|0.2114|
 			- ### 2.3.2 Inelastic - Heavier Cart Stationary
 			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|
 			  |Gate 1|0.32|0.188|
