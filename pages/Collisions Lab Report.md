@@ -52,6 +52,7 @@ public:: true
 	  and kinetic energy using *v* exponentially.
 	  $$K = \frac{1}{2}mv^2$$
 	  This therefore means that a loss in *v* (due to friction) impacts kinetic energy harder than momentum.
-	- ## 4.2 Reasoning B
+	- ## 4.2 Reasoning Behind Loss in P
+	  The question asked how to create an ideal system. In the real world, this is not possible. It can be done artificially with air hockey tables, but even then, the ai
 - # Conclusion
   ...
