@@ -1,7 +1,7 @@
 public:: true
 
 - ### Metadata
-  Date: *October 10, 2023*
+  Date: *November 21, 2023*
   Class: *PHYS253 - Section 1*
   Author: *John White*
   Professor: *Jarod Adelman*
@@ -61,4 +61,4 @@ public:: true
   
   I did not enjoy this lab, because our photogates were damaged, making our data inaccurate. I instead had to reason with the data that made sense. I believe many would appreciate the lab equipment being tested to prevent this in the future.
   
-  Otherwise, I learned a lot from having to over
+  Otherwise, I learned a lot from having to over-analyze this data due to equipment error. I now have a fundamental understanding of the conservation of kinetic energy and momentum.
