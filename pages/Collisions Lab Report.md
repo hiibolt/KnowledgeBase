@@ -59,4 +59,4 @@ public:: true
 - # Conclusion
   I believe this was a good lab. I would have appreciated the calculations to be in the result section, as that is where they typically are for these labs, and this broke that norm. The questions at the end should be instead for promoting discussion in my opinion.
   
-  I did not enjoy this lab,
+  I did not enjoy this lab, because our photogates were damaged, making our data inaccurate. I instead had to reason with the
