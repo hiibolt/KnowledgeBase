@@ -12,7 +12,7 @@ public:: true
 	  * 
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
-	- ## ...
+	- ## Information and Trials
 		- ## 2.1 Weights of the System
 		  Cart 1: 561.5g
 		  Cart 2: 559.0g
