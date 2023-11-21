@@ -41,7 +41,8 @@ public:: true
 - # Results
 	- ## 3.1 Loss in K vs Loss in P;
 	  There is significant loss in kinetic energy, which can be attributed to the friction that the carts experience, especially while carts change direction. There is loss in momentum for this exact reason as well - the reason for the more drastic loss in kinetic is that the velocity is squared and therefore the decrease due to friction is exponential compared to momentum.
-	- ## 3.2
+	- ## 3.2 Reasoning Behind Loss in P
+	  The primary reason is ultimately due to loss of heat (friction) and air resistance. To create an ideal system is impossible without friction. Some ways to
 - # Discussion
   ...
 - # Conclusion
