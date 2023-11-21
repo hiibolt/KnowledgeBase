@@ -21,20 +21,20 @@ public:: true
 		  Flag Length: 6cm
 		- ## 2.3 Trials
 			- ### 2.3.1 Inelastic - Lighter Cart Stationary
-			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|
-			  |Gate 1 - Heavy |0.21|0.286|0.304|
+			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|**K (J)**|
+			  |Gate 1 - Heavy |0.21|0.286|0.304|0.019|
 			  |Gate 2 - Both |0.28|0.2114|0.343|
 			- ### 2.3.2 Inelastic - Heavier Cart Stationary
-			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|
+			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|**K (J)**|
 			  |Gate 1 - Light |0.32|0.188|0.106|
 			  |Gate 2 - Both |0.68|0.088|0.143|
 			- ### 2.3.3 Elastic - Lighter Cart Stationary
-			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|
+			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|**K (J)**|
 			  |Gate 1 - Heavy|0.22|0.273|0.290|
 			  |Gate 2 - Light|0.10|0.600|0.337|
 			  |Gate 2 - Heavy|1.41|0.043|0.046|
 			- ### 2.3.3 Elastic - Heavier Cart Stationary
-			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|
+			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / m/s)**|**K (J)**|
 			  |Gate 1 - Light |0.17|0.353|0.198|
 			  |Gate 2 - Heavy|0.25|0.240|0.121|
 			  |Gate 1 - Light Again|0.69|0.087|0.049|
