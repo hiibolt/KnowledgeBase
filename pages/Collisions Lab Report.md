@@ -47,9 +47,11 @@ public:: true
 	  It would be a terrible idea to have elastic collisions. Small vehicles at a standstill would be utterly demolished by the sheer speeds an elastic collision with, say, a freight truck would cause. If the two vehicles stick instead, the velocity is reduced due to an increase in mass.
 - # Discussion
 	- ## 4.1 Loss in K vs Loss in P
-	  The question asked to compare loss of kinetic energy to the loss of momentum. Our photogates were damaged and reported falsely, but from looking at another group's data, I deduced that this is due to momentum using *v* linearly 
+	  The question asked to compare loss of kinetic energy to the loss of momentum. Our photogates were damaged and reported falsely, but from looking at another group's data, I deduced that the kinetic energy is lost at a higher degree due to momentum using *v* linearly 
 	  $$p = mv$$
 	  and kinetic energy using *v* exponentially.
 	  $$K = \frac{1}{2}mv^2$$
+	  This therefore means that a loss in *v* (due to friction) impacts kinetic energy harder than momentum.
+	- ## 4.2 Reasoning B
 - # Conclusion
   ...
