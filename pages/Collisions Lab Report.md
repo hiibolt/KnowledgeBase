@@ -55,6 +55,6 @@ public:: true
 	- ## 4.2 Reasoning Behind Loss in P
 	  The question asked how to create an ideal system. In the real world, this is not possible. It can be done artificially with air hockey tables, but even then, the air in front of the carts would slow it down. Friction is ultimately the reason why a perfect system is impossible, as air resistance is solved by a vacuum.
 	- ## 4.3 Momentum in the Real World
-	  The question asked why or why not car engineer should aim for an elastic collision. Noting that an inelastic collision als
+	  The question asked why or why not car engineer should aim for an elastic collision. Noting that an inelastic collision with an object at rest always results in a reduction of velocity is important - consider that an elastic collision with a large incoming object on a small incoming object results in the small object getting a
 - # Conclusion
   ...
