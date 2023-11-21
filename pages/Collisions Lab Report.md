@@ -20,6 +20,7 @@ public:: true
 		- ## 2.2 Lengths of the System
 		  Flag Length: 6cm
 		- ## 2.3 Trials
+		  collapsed:: true
 			- ### 2.3.1 Inelastic - Lighter Cart Stationary
 			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|
 			  |Gate 1 |0.21|0.286|
@@ -34,7 +35,7 @@ public:: true
 			  |Gate 2 - Light|0.10|0.600|
 			  |Gate 2 - Heavy|1.41|0.043|
 			- ### 2.3.3 Elastic - Lighter Cart Stationary
-			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|
+			  |**Gate #**|**Time Difference (s)**|**v (m/s)**|**p (kg / $$\frac{m}{s}$$)**|
 			  |Gate 1 - Light |0.17|0.353|
 			  |Gate 2 - Heavy|0.25|0.240|
 			  |Gate 1 - Light Again|0.69|0.087|
