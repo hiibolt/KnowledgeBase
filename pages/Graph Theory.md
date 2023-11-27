@@ -14,6 +14,10 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 		- ### Simple
 		  A version of the U-V path in which no vertex is repeated.
 		- ### Cycle
+		  A U-V path that leads back to U.
+			- ### Tree
+			  A *connected* graph with no cycles.
+			  -
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
