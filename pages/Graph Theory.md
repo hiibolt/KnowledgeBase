@@ -13,6 +13,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 	  The length of a U-V path is the number of edges in the sequence.
 		- ### Simple
 		  A version of the U-V path in which no vertex is repeated.
+		- ### Cycle
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
