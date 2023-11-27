@@ -1,3 +1,3 @@
 - $$\sum r=la$$
   \alpha = rotational acceleration
-  $l$ =
+  \i = rotational inertia
