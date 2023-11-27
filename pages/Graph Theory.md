@@ -55,7 +55,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 	  **Note: Multiple adjacencies to a node or itself increments the count on the matrix accordingly**
 - ## Search Algorithmns
 	- ## Depth-First Search
-	  Start with A
-	  Label it 1 (-)
-	  Every new vertex has a number one higher than the last vertext.
-	  Use the lowest letter first if there is no clear number
+	  * today in your MWF 1PM classStart with A
+	  * Label it 1 (-)
+	  * Every new vertex has a number one higher than the last vertext.
+	  * Use the lowest letter first if there is no clear number
