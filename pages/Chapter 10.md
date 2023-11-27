@@ -1,5 +1,5 @@
-- $$\sum \tau=la$$
-  $$i = \frac{1}{2}mr^2$$
+- $$\sum \tau=Ia$$
+  $$I = \frac{1}{2}mr^2$$
   \alpha = rotational acceleration
-  \i = rotational inertia
+  \I = rotational inertia
   \tau = torque
