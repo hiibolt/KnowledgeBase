@@ -17,7 +17,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 		  A U-V path that leads back to U.
 			- ### Tree
 			  A *connected* graph with no cycles.
-			  -
+			  * There is a unique simple path between any two vertices
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
