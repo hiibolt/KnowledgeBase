@@ -20,7 +20,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 			  * There is a unique simple path between any two vertices
 			  * Always **n + 1** vertices compared to **n** edges.
 				- ### Spanning Tree
-				  A connected graph turned into a tree
+				  A connected graph turned into a tree using only edges.
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
