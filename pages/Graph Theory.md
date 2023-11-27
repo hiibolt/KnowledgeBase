@@ -18,7 +18,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 			- ### Tree
 			  A *connected* graph with no cycles.
 			  * There is a unique simple path between any two vertices
-			  * Always
+			  * Always **n + 1** vertices compared to **n** edges.
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
