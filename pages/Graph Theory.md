@@ -9,8 +9,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 - ## Terms
 	- ### Degree
 	  Number of edges incident
-	  * 'In' Degree: Degree of directional edges into a given vertice
-	  * 'Out' Degree: Degree of directional edges out from a given vertice
+	  * Indegree: Degree of directional edges into a given vertice
+	  * Outdegree: Degree of directional edges out from a given vertice
 	- ### Distance
 	  The length of a shortest path (least # of edges) between a given set of two vertices.
 		- ## Breadth-First Search Algorithm
@@ -30,7 +30,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 				- ### Spanning Tree
 				  A connected graph turned into a tree using only edges.
 				- ### Rooted Tree
-				  A directed graph with a unique vertext with an inde
+				  A directed graph with a unique vertex with an indegree of zero and all other vertices having an indegree of 1.
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
