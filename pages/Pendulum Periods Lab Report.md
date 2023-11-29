@@ -14,6 +14,7 @@ public:: true
 - # Data
 	- ## something
 	  |Angle (\deg)|Angle (rad)|sin(\theta)|
+	- |||
 	- ![image.png](../assets/image_1701217467320_0.png)
 - # Results
 	- ## 3.1 ...
