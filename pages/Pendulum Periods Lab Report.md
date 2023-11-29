@@ -15,6 +15,10 @@ public:: true
 	- ## something
 	  |Angle (\deg)|Angle (rad)|sin(\theta)|
 	- |Mass (g)|Avg Period (s)|
+	  |100|1.3384|
+	  |150||
+	  |200||
+	  |250||
 	  |||
 	- ![image.png](../assets/image_1701217467320_0.png)
 - # Results
