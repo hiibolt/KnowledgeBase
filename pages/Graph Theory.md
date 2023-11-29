@@ -1,7 +1,7 @@
 # Graph
 Non-empty set of vertices V with a set of two element subsets of V named set of edges E.
 	- ## Directed Graph
-	  Edges have directions
+	  Edges have directions.
 	- ### Multigraph
 	  A graph allowing parallel edges and loops (denoted by lowercase Latin lettering)
 		- #### Connected Graph
