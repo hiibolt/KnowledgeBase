@@ -14,7 +14,8 @@ public:: true
 - # Data
 	- ## something
 	  |Angle (\deg)|Angle (rad)|sin(\theta)|
-	- |||
+	- |Mass (g)|Avg Period (s)|
+	  |||
 	- ![image.png](../assets/image_1701217467320_0.png)
 - # Results
 	- ## 3.1 ...
