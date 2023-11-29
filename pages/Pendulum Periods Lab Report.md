@@ -19,6 +19,11 @@ public:: true
 	  |150|1.3444|
 	  |200|1.3464|
 	  |250||
+	- |Angle (\deg)|Period (s)|
+	  |5||
+	  |10||
+	  |15||
+	  |20||
 	- ![image.png](../assets/image_1701217467320_0.png)
 - # Results
 	- ## 3.1 ...
