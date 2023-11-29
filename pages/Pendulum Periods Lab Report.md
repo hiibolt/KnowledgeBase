@@ -15,17 +15,19 @@ public:: true
 	- ## Angular Exercise
 	  |Angle (\deg)|Angle (rad)|sin(\theta)|
 	- ## Mass vs. Period
-	  |Mass (g)|Avg Period (s)|
+	  |**Mass (g)**|**Avg Period (s)**|
 	  |100|1.3384|
 	  |150|1.3444|
 	  |200|1.3464|
 	  |250|1.3606|
-	- ## Angular Di
-	  |Angle (\deg)|Period (s)|
+	- ## Angular Displacement vs. Period
+	  |**Angle (\deg)**|**Period (s)**|
 	  |5|1.3276|
 	  |10|1.3214|
 	  |15|1.3276|
 	  |20|1.331|
+	- ## Length vs. Period
+	  |Length (cm)|Period (s)|
 	-
 - # Results
 	- ## 3.1 ...
