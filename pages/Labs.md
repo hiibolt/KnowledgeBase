@@ -17,3 +17,4 @@
 >>>>>>> 4a48217 (Auto saved by Logseq)
 
 - [[Collisions Lab Report]]
+- [[Pendulum Periods Lab Report]]
