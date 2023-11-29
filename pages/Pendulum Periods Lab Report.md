@@ -19,7 +19,6 @@ public:: true
 	  |150||
 	  |200||
 	  |250||
-	  |||
 	- ![image.png](../assets/image_1701217467320_0.png)
 - # Results
 	- ## 3.1 ...
