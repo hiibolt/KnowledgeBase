@@ -9,6 +9,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 - ## Terms
 	- ### Degree
 	  Number of edges incident
+	  * 'In' Degree: Degree of directional edges into a given vertice
+	  * 'Out' Degree: Degree of directional edges out from a given vertice
 	- ### Distance
 	  The length of a shortest path (least # of edges) between a given set of two vertices.
 		- ## Breadth-First Search Algorithm
