@@ -27,7 +27,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 			  A *connected* graph with no cycles.
 			  * There is a unique simple path between any two vertices
 			  * Always **n + 1** vertices compared to **n** edges.
-			  * A
+			  * A vertex is either 'internal' if it has children or a 'leaf' / 'terminal vertex'
 				- ### Spanning Tree
 				  A connected graph turned into a tree using only edges.
 				- ### Rooted Tree
