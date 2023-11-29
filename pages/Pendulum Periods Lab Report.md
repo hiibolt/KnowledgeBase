@@ -27,10 +27,12 @@ public:: true
 	  |15|1.3276|
 	  |20|1.331|
 	- ## Length vs. Period
-	  |Length (cm)|Period (s)|
+	  |**Length (cm)**|**Period (s)**|
 	  |40|1.334|
 	  |45|1.437|
-	  |49||
+	  |49|1.498|
+	  |||
+	  |||
 	-
 - # Results
 	- ## 3.1 ...
