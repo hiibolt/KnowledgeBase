@@ -59,6 +59,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 	  | P_1 | 0 | 1 |
 	  | P_2 | 1 | 0 |
 	  **Note: Multiple adjacencies to a node or itself increments the count on the matrix accordingly**
+	  **Note: In the case of a directed graph, the row is the start
 - ## Search Algorithmns
 	- ## Depth-First Search
 	  * today in your MWF 1PM classStart with A
