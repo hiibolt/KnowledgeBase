@@ -33,6 +33,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 				- ### Rooted Tree
 				  A directed graph with a unique vertex with an indegree of zero and all other vertices having an indegree of 1.
 					- ### Binary Tree
+					  A **Rooted Tree** where each vertex has at most 2 children, with each being either 'left' or 'right' -
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
