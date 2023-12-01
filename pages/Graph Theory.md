@@ -37,7 +37,14 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 						- ## Traversals
 							- ### Preorder
 							  1. Visit Root
-							  2. Visit Left
+							  2. Visit left subtree
+							  3. Visit right subtree
+							- ### Postorder
+							  1. Visit left subtree
+							  2. Visit right subtree
+							  3. Visit root
+							- ### Inorder
+							  1.
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
