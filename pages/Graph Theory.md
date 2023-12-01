@@ -32,6 +32,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 				  A connected graph turned into a tree using only edges.
 				- ### Rooted Tree
 				  A directed graph with a unique vertex with an indegree of zero and all other vertices having an indegree of 1.
+					- ### Binary Tree
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
