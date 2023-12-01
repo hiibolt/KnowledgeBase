@@ -35,7 +35,9 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 					- ### Binary Tree
 					  A **Rooted Tree** where each vertex has at most 2 children, with each being either 'left' or 'right' - with only one of 'left' or 'right'.
 						- ## Traversals
-							- ###
+							- ### Preorder
+							  1. Visit Root
+							  2. Visit Left
 	- ### Complete Graph
 	  Every vertex has an edge to every other vertex
 		- ### Complete Bipartile Graph Km,n
