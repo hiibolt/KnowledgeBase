@@ -23,6 +23,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 		  A version of the U-V path in which no vertex is repeated.
 		- ### Cycle
 		  A U-V path that leads back to U.
+			- ### Euler Cycle
+			  A cycle that visits every node once. If every node has an even degree, a euler cycle exists.
 			- ### Tree
 			  A *connected* graph with no cycles.
 			  * There is a unique simple path between any two vertices
