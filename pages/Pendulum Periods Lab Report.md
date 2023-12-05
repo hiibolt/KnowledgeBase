@@ -30,13 +30,13 @@ public:: true
 	  |150|1.3444|
 	  |200|1.3464|
 	  |250|1.3606|
-	- ## Angular Displacement vs. Period
+	- ## Period vs. Angular Displacement
 	  |**Angle (\deg)**|**Period (s)**|
 	  |5|1.3276|
 	  |10|1.3214|
 	  |15|1.3276|
 	  |20|1.331|
-	- ## Length vs. Period
+	- ## Period Squared vs. Length
 	  |**Length (cm)**|**Period (s)**|**Period Squared (s^2)**|
 	  |40.0|1.334|1.779|
 	  |45.0|1.437|2.064|
