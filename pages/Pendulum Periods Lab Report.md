@@ -13,7 +13,17 @@ public:: true
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
 	- ## Angular Exercise
-	  |**Angle (deg)**|**Angle (rad)**|**sin($\theta$)**|
+	  |**Angle (deg)**|**Angle (rad)**|**sin(theta)**|
+	  |3|0.05||
+	  |6|0.10||
+	  |9|0.16||
+	  |12|||
+	  |15|||
+	  |18|||
+	  |21|||
+	  |24|||
+	  |27|||
+	  |30|||
 	- ## Mass vs. Period
 	  |**Mass (g)**|**Avg Period (s)**|
 	  |100|1.3384|
