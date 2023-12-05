@@ -125,5 +125,9 @@ public:: true
 	    plt.savefig(f"{trial['trial_name']}.png")
 	    plt.clf()
 	  ```
+	  
+	  It's worth noting that since the period never goes above 3, I chose that as my Y bound, and set the lower bound to be 0, this way the trendlines are easier to understand. Otherwise, the trendlines are misleading unless you look at the trendline function itself. 
+	  
+	  I chose to include the trendline function for all graphs, not just the **Period Squared vs. Length
 - # Conclusion
   ...
