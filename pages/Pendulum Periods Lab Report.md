@@ -36,6 +36,7 @@ public:: true
 	  |10|1.3214|
 	  |15|1.3276|
 	  |20|1.331|
+	  ![image.png](../assets/image_1701802176582_0.png)
 	- ## Period Squared vs. Length
 	  |**Length (cm)**|**Period (s)**|**Period Squared (s^2)**|
 	  |40.0|1.334|1.779|
@@ -43,6 +44,8 @@ public:: true
 	  |49.0|1.498|2.244|
 	  |52.8|1.553|2.412|
 	  |57.0|1.600|2.560|
+	  ![image.png](../assets/image_1701802169239_0.png) 
+	  ![image.png](../assets/image_1701802162773_0.png)
 	-
 - # Results
 	- ## 3.1 ...
