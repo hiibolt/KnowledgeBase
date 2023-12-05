@@ -141,6 +141,10 @@ public:: true
 		- ## 5.X.3
 		  **What about your value of gravity?**
 		  Yes, because this value of gravity is actually gravity with other system forces considered. This is the number that changes due to frictional torque.
-		-
+		- ## 5.X.4
+		  **Why would there still be some percent error, even when we have such precise measurements?**
+		  Because of system forces such as friction and air resistance.
+		- ## 5.X.5
+		  **Is there anything about the system that we used that could cause such an error?
 - # Conclusion
   ...
