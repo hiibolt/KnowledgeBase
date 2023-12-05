@@ -51,7 +51,7 @@ public:: true
 	- ## 4.1..3 Generating Graphs
 	  I used Python to create the above. I will discuss the coding process in **5.1..3 Generating Graphs**.
 	- ## 4.4 Analyzing the Slope
-	  After examining the equation which describes $$T^2=\frac{4\pi^2}{g}T$$, you can
+	  After examining the equation which describes $$T^2=\frac{4\pi^2}{g}T$$, you can rewrite this to be $$\text{slope} = \frac{4\pi^2}{g}$$. This is accomplished by treating $m$ as $$\frac{T^2}{L}$$, which is a value calculated via the trendline of Period Squared
 	-
 - # Discussion
   ...
