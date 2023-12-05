@@ -57,6 +57,73 @@ public:: true
 	-
 - # Discussion
 	- ## 5.1..3 Generating Graphs
-	  I formatted my data as follows
+	  I formatted my data as follows: 
+	  ```python
+	  data = [{
+	      "trial_name": "Period vs. Mass",
+	      "independent": {
+	          "name": "Mass (g)",
+	          "data": [100, 150, 200, 250],
+	      },
+	      "dependent": {
+	          "name": "Period (s)",
+	          "data": [1.3384, 1.3444, 1.3453, 1.3606]
+	      }
+	  }, {
+	      "trial_name": "Period vs. Angular Displacement",
+	      "independent": {
+	          "name": "Angular Displacement (deg)",
+	          "data": [5, 10, 15, 20]
+	      },
+	      "dependent": {
+	          "name": "Period (s)",
+	          "data": [1.3276, 1.3214, 1.3276, 1.3310]
+	      }
+	  }, {
+	      "trial_name": "Period vs. Length",
+	      "independent": {
+	          "name": "Length (cm)",
+	          "data": [40.0, 45.0, 49.0, 52.8, 57.0]
+	      },
+	      "dependent": {
+	          "name": "Period (s)",
+	          "data": [1.334, 1.437, 1.498, 1.553, 1.600]
+	      }
+	  }, {
+	      "trial_name": "Period Squared vs. Length",
+	      "independent": {
+	          "name": "Length (cm)",
+	          "data": [40.0, 45.0, 49.0, 52.8, 57.0]
+	      },
+	      "dependent": {
+	          "name": "Period Squared (s^2)",
+	          "data": [1.779, 2.064, 2.244, 2.412, 2.560]
+	      }
+	  }]
+	  ```
+	  This allows me to loop through each trial to then be able to easily create a graph for each. I do this as follows:
+	  ```python
+	  for trial in data:
+	    print(trial["trial_name"])
+	  
+	    plt.scatter(np.array(trial["independent"]["data"]),
+	                np.array(trial["dependent"]["data"]))
+	    plt.xlabel(trial["independent"]["name"])
+	    plt.ylabel(trial["dependent"]["name"])
+	  
+	    plt.ylim([0, 3])
+	  
+	    trendline = np.polyfit(trial["independent"]["data"],
+	                           trial["dependent"]["data"], 1)
+	    trendline_function = np.poly1d(trendline)
+	  
+	    plt.plot(trial["independent"]["data"],
+	             trendline_function(trial["independent"]["data"]))
+	    plt.title(
+	        f"{trial['trial_name']}\n{trendline_function[1].round(4)}x + {trendline_function[0]}"
+	    )
+	    plt.savefig(f"{trial['trial_name']}.png")
+	    plt.clf()
+	  ```
 - # Conclusion
   ...
