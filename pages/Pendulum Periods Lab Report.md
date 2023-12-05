@@ -56,6 +56,7 @@ public:: true
 	  With this approach, gravity is calculated to be **8.60m/s^2**, which has a percent error of **12.2%** compared to 9.80m/s^2.
 	-
 - # Discussion
-  ...
+	- ## 5.1..3 Generating Graphs
+	  I formatted my data as follows
 - # Conclusion
   ...
