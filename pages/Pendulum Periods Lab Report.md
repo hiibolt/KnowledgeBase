@@ -148,4 +148,6 @@ public:: true
 		  **Is there anything about the system that we used that could cause such an error?**
 		  Yes, the type of string, the lubrication of the top of the pole, etc. The primary source of error is the frictional torque, so finding a way to reduce said frictional torque would lead to a drastically lower percent error.
 - # Conclusion
-  I enjoyed this lab. It was simple, it used coding but not overly so, and it did a fantastic job of illustrating why mass and
+  I enjoyed this lab. It was simple, it used coding but not overly so, and it did a fantastic job of illustrating why mass and angular displacement don't affect period!
+  
+  I believe that more labs should be like this, where common misconceptions about certain variables are disproven by getting data that doesn't change when said variable is the independent variable. This allows
