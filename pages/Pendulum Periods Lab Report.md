@@ -134,6 +134,9 @@ public:: true
 	- ## 5.X - Questions
 		- ## 5.X.1
 		  **Does the mass of the pendulum affect the time it takes to complete one full revolution?**
-		  In a perfect system, it would not. However, because there is friction considered, the increased mass creates a higher normal force exerted by the top of the pole, leading to more friction - and therefore a
+		  In a perfect system, it would not. However, because there is friction considered, the increased mass creates a higher normal force exerted by the top of the pole, leading to more friction - and therefore a different time to complete a full revolution depending on whether the mass is increased or decreased.
+		- ## 5.X.2
+		  **What about the displacement from the vertical?**
+		  No. This does not affect it whatsoever. This is because the formula for
 - # Conclusion
   ...
