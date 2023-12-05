@@ -133,6 +133,7 @@ public:: true
 	  In my analysis, I drew the values of 12.2% error and 8.60 as my little g. My reasoning for this is the frictional torque applied by the connection between the top of the pole and the string. String, if you've ever moved it quickly across your skin before, has a high frictional constant, which explains the lower value compared to 9.80. However, for how little the change is, I believe that our value is accurate (friction considered).
 	- ## 5.X - Questions
 		- ## 5.X.1
-		  **Does the Mass of the Pendulum Affect the Tim
+		  **Does the mass of the pendulum affect the time it takes to complete one full revolution?**
+		  In a perfect system, it would not. However, because there is friction considered, the increased mass creates a higher normal force exerted by the top of the pole, leading to more friction - and therefore a
 - # Conclusion
   ...
