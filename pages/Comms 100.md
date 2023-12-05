@@ -1,2 +1,3 @@
 - [[Informative Speech Outline]]
 - [[Persuasive Speech Outline]]
+- [[Commemorative Speech Outline]]
