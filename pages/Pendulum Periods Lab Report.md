@@ -137,6 +137,10 @@ public:: true
 		  In a perfect system, it would not. However, because there is friction considered, the increased mass creates a higher normal force exerted by the top of the pole, leading to more friction - and therefore a different time to complete a full revolution depending on whether the mass is increased or decreased.
 		- ## 5.X.2
 		  **What about the displacement from the vertical?**
-		  No. This does not affect it whatsoever. This is because the formula for
+		  No. This does not affect it whatsoever. This is because the formula for period does *not* include angular displacement as a variable.
+		- ## 5.X.3
+		  **What about your value of gravity?**
+		  Yes, because this value of gravity is actually gravity with other system forces considered. This is the number that changes due to frictional torque.
+		-
 - # Conclusion
   ...
