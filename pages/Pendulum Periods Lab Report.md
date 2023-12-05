@@ -1,7 +1,7 @@
 public:: true
 
 - ### Metadata
-  Date: *November 28, 2023*
+  Date: *December 5th, 2023*
   Class: *PHYS253 - Section 1*
   Author: *John White*
   Professor: *Jarod Adelman*
@@ -9,8 +9,9 @@ public:: true
 	- ## Primary Objectives
 	  In this lab, we will...
 	  * Practice equation substitution to solve for different variables in terms of other variables
-	  * 
-	  * Calculate the error percentages between a our little g and global little g value
+	  * Determine which factors affect period of a pendulum
+	  * Understand what factors may affect data
+	  * Calculate the error percentages between a our little g and gravity
 - # Data
 	- ## Angular Exercise
 	  |**Angle (deg)**|**Angle (rad)**|**sin(theta)**|
