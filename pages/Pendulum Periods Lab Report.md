@@ -53,7 +53,7 @@ public:: true
 	- ## 4.4 Analyzing the Slope
 	  After examining the equation which describes $$T^2=\frac{4\pi^2}{g}T$$, you can rewrite this to be $$\text{slope} = \frac{4\pi^2}{g}$$. This is accomplished by treating $m$ as $$\frac{T^2}{L}$$, which is a value calculated via the trendline of **Period Squared vs. Length**. From there, we can swap the dividend of the right side to create the equation which solves for little g: $$g = \frac{4\pi^2}{slope}$$.
 	  
-	  With this approach, gravity is calculated to be 8.60, which has a percent error of
+	  With this approach, gravity is calculated to be **8.60m/s^2**, which has a percent error of **12.2%** compared to 9.80m/s^2.
 	-
 - # Discussion
   ...
