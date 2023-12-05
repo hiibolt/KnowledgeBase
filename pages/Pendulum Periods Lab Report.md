@@ -30,6 +30,7 @@ public:: true
 	  |150|1.3444|
 	  |200|1.3464|
 	  |250|1.3606|
+	  ![image.png](../assets/image_1701802186818_0.png)
 	- ## Period vs. Angular Displacement
 	  |**Angle (\deg)**|**Period (s)**|
 	  |5|1.3276|
@@ -44,8 +45,8 @@ public:: true
 	  |49.0|1.498|2.244|
 	  |52.8|1.553|2.412|
 	  |57.0|1.600|2.560|
-	  ![image.png](../assets/image_1701802169239_0.png) 
-	  ![image.png](../assets/image_1701802162773_0.png)
+	   
+	  {:height 586, :width 748}
 	-
 - # Results
 	- ## 3.1 ...
