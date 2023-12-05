@@ -130,6 +130,6 @@ public:: true
 	  
 	  I chose to include the trendline function for all graphs, not just the **Period Squared vs. Length** graph, as this allowed me to easily analyze the data and draw conclusions.
 	- ## 5.4 Analyzing the Slope
-	  In my analysis, I drew the values of 12.2% error and 8.60 as
+	  In my analysis, I drew the values of 12.2% error and 8.60 as my little g. My reasoning for this is the frictional torque applied by the connection between the top of the pole and the string. String, if you've ever moved it quickly across your skin before, has a high frictional constant, which explains the lower value compared to 9.80. However, for how little the change is, I believe that
 - # Conclusion
   ...
