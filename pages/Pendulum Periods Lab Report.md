@@ -145,6 +145,7 @@ public:: true
 		  **Why would there still be some percent error, even when we have such precise measurements?**
 		  Because of system forces such as friction and air resistance.
 		- ## 5.X.5
-		  **Is there anything about the system that we used that could cause such an error?
+		  **Is there anything about the system that we used that could cause such an error?**
+		  Yes, the type of string, the lubrication of the top of the pole, etc. The primary source of error is the frictional torque, so finding a way to reduce said frictional torque would lead to a drastically lower percent error.
 - # Conclusion
-  ...
+  I enjoyed this lab. It was simple, it used coding but not overly so, and it did a fantastic job of illustrating why mass and
