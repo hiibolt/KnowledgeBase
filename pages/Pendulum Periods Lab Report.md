@@ -37,8 +37,8 @@ public:: true
 	  |15|1.3276|
 	  |20|1.331|
 	- ## Length vs. Period
-	  |**Length (cm)**|**Period (s)**|
-	  |40.0|1.334|
+	  |**Length (cm)**|**Period (s)**|**Period Squared (s^2)**|
+	  |40.0|1.334||
 	  |45.0|1.437|
 	  |49.0|1.498|
 	  |52.8|1.553|
