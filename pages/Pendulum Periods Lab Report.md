@@ -10,7 +10,7 @@ public:: true
 	  In this lab, we will...
 	  * Practice equation substitution to solve for different variables in terms of other variables
 	  * 
-	  * Calculate the error percentages between a calculated and measured value
+	  * Calculate the error percentages between a our little g and global little g value
 - # Data
 	- ## Angular Exercise
 	  |**Angle (deg)**|**Angle (rad)**|**sin(theta)**|
@@ -150,4 +150,4 @@ public:: true
 - # Conclusion
   I enjoyed this lab. It was simple, it used coding but not overly so, and it did a fantastic job of illustrating why mass and angular displacement don't affect period!
   
-  I believe that more labs should be like this, where common misconceptions about certain variables are disproven by getting data that doesn't change when said variable is the independent variable. This allows
+  I believe that more labs should be like this, where common misconceptions about certain variables are disproven by getting data that doesn't change when said variable is the independent variable. This allows students to *see* the misconception that they're otherwise wired to think. This is the type of 'hands-on learning' I believe in, and it's the type that makes me enjoy physics.
