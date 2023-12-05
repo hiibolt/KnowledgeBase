@@ -30,14 +30,14 @@ public:: true
 	  |150|1.3444|
 	  |200|1.3464|
 	  |250|1.3606|
-	  ![image.png](../assets/image_1701802186818_0.png)
+	  ![image.png](../assets/image_1701802278514_0.png)
 	- ## Period vs. Angular Displacement
 	  |**Angle (\deg)**|**Period (s)**|
 	  |5|1.3276|
 	  |10|1.3214|
 	  |15|1.3276|
 	  |20|1.331|
-	  ![image.png](../assets/image_1701802176582_0.png)
+	  ![image.png](../assets/image_1701802287584_0.png)
 	- ## Period Squared vs. Length
 	  |**Length (cm)**|**Period (s)**|**Period Squared (s^2)**|
 	  |40.0|1.334|1.779|
@@ -45,9 +45,8 @@ public:: true
 	  |49.0|1.498|2.244|
 	  |52.8|1.553|2.412|
 	  |57.0|1.600|2.560|
-	   
-	  {:height 586, :width 748}
-	-
+	  ![image.png](../assets/image_1701802269964_0.png) 
+	  ![image.png](../assets/image_1701802264773_0.png)
 - # Results
 	- ## 3.1 ...
 	  ...
