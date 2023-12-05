@@ -48,8 +48,9 @@ public:: true
 	  ![image.png](../assets/image_1701802269964_0.png) 
 	  ![image.png](../assets/image_1701802264773_0.png)
 - # Results
-	- ## 3.1 ...
-	  ...
+	- ## 4.1 Generating Graphs
+	  I used Python to create the above graphs. I will discuss the coding process in **5.1 Generating Graphs**.
+	-
 - # Discussion
   ...
 - # Conclusion
