@@ -3,5 +3,6 @@
 - ## Central Idea and Main Points
   Today I'd like to commemorate my mom for the amazing person she was. She was a loving mother, a humble champion, and a pure altruist.
 - # She was a loving mother
-	- My mother was not given the right to a happy upbringing. She was raised by a cruel woman diagnosed as a malignant narcissist - often regarded as the most unpleasant type of humans alive.
+	- My mother was not given the right to a happy upbringing. She was raised by a cruel woman diagnosed as a malignant narcissist - often regarded as the most unpleasant type of humans alive. As a result, she sought to be everything for my family her mother was not.
+	-
 -
