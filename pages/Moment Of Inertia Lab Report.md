@@ -21,8 +21,8 @@ public:: true
   **Distance Across Ball:** 3.2cm
   **Distance Across Ring:** 3.3cm
   **Distance Across Cylinder:** 3.3cm
-  |Object|Gate 1 State 1|Gate 1 State 
-  |Ball|
+  |Object|Gate 1 State 1|Gate 1 State 0|Gate 2 State 1|Gate 2 State 0|
+  |Ball|||||
 - # Results
 	- ## 3.1 ...
 	  ...
