@@ -23,7 +23,8 @@ public:: true
   **Distance Across Cylinder:** 3.3cm
   |Object|Gate 1 State 1|Gate 1 State 0|Gate 2 State 1|Gate 2 State 0|
   |Ball|0.4746|0.6772|1.4980|1.5334|
-  |Ring|0.8819 and 1.0536|0.9135||||
+  |Ring|0.8819 and 1.0536|0.9135 and 1.0757|2.0596 and 2.0561|2.0256 and 2.0611|
+  |Cylinder|1.0863|1.2660|2.1207|2.1
 - # Results
 	- ## 3.1 ...
 	  ...
