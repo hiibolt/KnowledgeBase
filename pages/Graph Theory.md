@@ -46,7 +46,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 							- # Huffman Optimal Binary Tree
 							  * Count char repetition
 							  * Vectorize repetitions into a list
-							  * Create tree from the last two vertices, add both and push sum to vector
+							  * Create tree from the last two vertices, add both and push sum to vector, repeat
+							  * Add
 						- ## Weighted Binary Tree
 						  Terminal vertices are assigned vertices.
 						  
