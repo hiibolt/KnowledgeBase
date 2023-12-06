@@ -3,4 +3,5 @@
 - ## Central Idea and Main Points
   Today I'd like to commemorate my mom for the amazing person she was. She was a loving mother, a humble champion, and a pure altruist.
 - # She was a loving mother
-	- My mother was raised
+	- My mother was not given the right to a happy upbringing. She was
+-
