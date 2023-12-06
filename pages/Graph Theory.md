@@ -40,7 +40,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 					- ### Binary Tree
 					  A **Rooted Tree** where each vertex has at most 2 children, with each being either 'left' or 'right' - with only one of 'left' or 'right'.
 						- ## Optimal Binary Tree
-						  **Prefix code**: Is a list of binary words such that no word is the prefix (initial string) of another binary word in the list
+						  **Prefix code**: Is a list of binary words such that no word is the prefix (initial string) of another binary word in the list.
 						- ## Traversals
 							- ### Preorder
 							  1. Visit Root
