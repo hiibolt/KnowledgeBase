@@ -7,13 +7,7 @@
 - [[Atwood Machine Lab Report]]
 - [[SHM Lab Report]]
 - [[Ballistic Pendulum Lab Report]]
--
-=======
 - [[Axle Lab Report]]
->>>>>>> 4a48217 (Auto saved by Logseq)
-
 - [[Collisions Lab Report]]
 - [[Pendulum Periods Lab Report]]
-=======
-- [[Axle Lab Report]]
->>>>>>> acb69ba (Auto saved by Logseq)
+- [[Moment Of Inertia Lab Report]]
