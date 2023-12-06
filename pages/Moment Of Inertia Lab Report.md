@@ -12,10 +12,11 @@ public:: true
 	  * 
 	  * Calculate the error percentages between a calculated and measured value
 - # Data
-  **Ball Weight:** 
-  **Ring Weight:** 
+  **Ball Weight:** 130.3g
+  **Ring Weight:** 23.3g
   **Cylinder Weight:** 
-  **Distance Between Photo
+  **Distance Between Photogates:** 
+  **Distance (Ball):TT
 - # Results
 	- ## 3.1 ...
 	  ...
