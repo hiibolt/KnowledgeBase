@@ -46,7 +46,7 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 						- ## Weighted Binary Tree
 						  Terminal vertices are assigned vertices.
 						  
-						  The total weight of a binary tree is $$d_1w_1 + d_2w_2 + ... + d_nw_n$$ where $$w_n$$ is the weight of the terminal vertices and $$d_n$$ are their distances from the root.
+						  The total weight of a binary tree is $$d_1w_1 + d_2w_2 + ... + d_nw_n$$ where $$w_n$$ is the weight of the terminal vertices and $$d_n$$ are their distances from the root. The total weight of the tree is often the # of bits needed to store a string.
 						- ## Traversals
 							- ### Preorder
 							  1. Visit Root
