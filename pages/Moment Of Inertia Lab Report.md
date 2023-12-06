@@ -22,7 +22,7 @@ public:: true
   **Distance Across Ring:** 3.3cm
   **Distance Across Cylinder:** 3.3cm
   |Object|Gate 1 State 1|Gate 1 State 0|Gate 2 State 1|Gate 2 State 0|
-  |Ball|||||
+  |Ball|1||||
 - # Results
 	- ## 3.1 ...
 	  ...
