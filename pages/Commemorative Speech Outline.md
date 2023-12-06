@@ -8,4 +8,4 @@
 - # She was a humble champion
 	- My mother was an incredibly gifted person, but she was not one to flaunt it. Despite her upbringing, she graduated as class valedictorian from high school and received her four year degree from Stanford University with a perfect GPA - but it's not something she'd tell you unless you asked. She was always one to ask a million questions to learn something about you rather than share about herself.
 - # She was a pure altruist
-	- It didn't matter who you were to my mother, if you needed help, she was there for you. Her friends described her as the embodiment of a
+	- It didn't matter who you were to my mother, if you needed help, she was there for you. Her friends described her as the 'closest thing to an angel'. She volunteered at counter organizations, churches, and schools.
