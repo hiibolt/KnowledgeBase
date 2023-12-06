@@ -44,8 +44,9 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 						  
 						  To find the prefix codes, create a tree that only goes left. Each terminal vertex can be a binary string with the path from the root as its value (left is 0, right is 1).
 							- # Huffman Optimal Binary Tree
-							  - Count char repetition
-							  -
+							  * Count char repetition
+							  * Vectorize repetitions into a list
+							  * Create gree
 						- ## Weighted Binary Tree
 						  Terminal vertices are assigned vertices.
 						  
