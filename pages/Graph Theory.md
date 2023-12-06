@@ -43,6 +43,8 @@ Non-empty set of vertices V with a set of two element subsets of V named set of 
 						  **Prefix code**: Is a list of binary words such that no word is the prefix (initial string) of another binary word in the list.
 						  
 						  To find the prefix codes, create a tree that only goes left. Each terminal vertex can be a binary string with the path from the root as its value (left is 0, right is 1).
+						- ## Weighted Binary Tree
+						  Terminal vertices are assigned vertices.
 						- ## Traversals
 							- ### Preorder
 							  1. Visit Root
