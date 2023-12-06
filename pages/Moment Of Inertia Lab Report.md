@@ -14,9 +14,9 @@ public:: true
 - # Data
   **Ball Weight:** 130.3g
   **Ring Weight:** 23.3g
-  **Cylinder Weight:** 
-  **Distance Between Photogates:** 
-  **Distance (Ball):TT
+  **Cylinder Weight:** 67.9g
+  **Distance Between Photogates:** 43.0cm
+  **Distance Across Ball:**
 - # Results
 	- ## 3.1 ...
 	  ...
