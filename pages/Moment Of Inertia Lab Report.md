@@ -18,9 +18,9 @@ public:: true
   
   **Distance Between Photogates:** 43.0cm
   
-  **Distance Across Ball:** 1.257
-  **Distance Across Ring:** 
-  **Distance Across Cylinder:**
+  **Distance Across Ball:** 3.2cm
+  **Distance Across Ring:** 3.3cm
+  **Distance Across Cylinder:** 3.3cm
 - # Results
 	- ## 3.1 ...
 	  ...
