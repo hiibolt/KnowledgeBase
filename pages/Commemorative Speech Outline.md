@@ -4,5 +4,5 @@
   Today I'd like to commemorate my mom for the amazing person she was. She was a loving mother, a humble champion, and a pure altruist.
 - # She was a loving mother
 	- My mother was not given the right to a happy upbringing. She was raised by a cruel woman diagnosed as a malignant narcissist - often regarded as the most unpleasant type of humans alive. Despite being subjected to the mind games of a cruel parent, she chose to break the cycle and sought to be everything for my family her mother was not.
-	- As a result of the intense stress of her childhood, my mother's immune system collapsed
+	- As a result of the intense stress of her childhood, my mother's immune system collapsed and she
 -
