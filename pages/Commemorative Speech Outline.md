@@ -7,7 +7,7 @@ Today, I'd like to commemorate, of all people, my Computer Science and Mathemati
 	  
 	  This war, in retrospect, was not one that I won. He got me to do more work than I would have otherwise, and got me to learn more about CS in the year that he taught me than any other time in my life.
 - ## He inspires me to give my all in the areas that interest me
-	- I actually never confronted him until my fourth year,
+	- I actually never confronted him until my fourth year, in which he was my AP Calculus teacher. I simply asked him
 - # -
 	- It didn't matter who you were to my mother, if you needed help, she was there for you. Her friends described her as the 'closest thing to an angel'. She volunteered at counter organizations, churches, and schools. She never told anyone where or why she was volunteering unless they asked, but that's because she didn't need to. She helped for the sake of helping others, she did not seek social benefit.
 - ## Conclusion
