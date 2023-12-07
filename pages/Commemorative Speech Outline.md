@@ -11,5 +11,5 @@ Today, I'd like to commemorate, of all people, my Computer Science and Mathemati
 	  
 	  He was a teacher that valued actual teaching, and having been subject to it, I've since been inspired to teach robotics and coding. I've been volunteering as an instructor at United States Engineering League for over a year.
 - ## He taught me to give my all to everything I enjoy
-	- In his Calculus class, he often urged students to join the math team. He'd here's no point in being good at something if you don't try to improve or use that skill"
+	- In his Calculus class, he often urged students to join the math team. He'd say "There's no point in being good at something if you don't try to improve or use that skill!", and I now agree.
 - ## Conclusion
