@@ -1,5 +1,5 @@
 ## Attention Getter
-Today, I'd like to commemorate one
+Today, I'd like to commemorate, of all people, my Computer Science and Mathematics teacher. I've beefed with a lot
 - ## Central Idea and Main Points
   Today I'd like to commemorate my mom for the amazing person she was. She was a loving mother, a humble champion, and a pure altruist.
 - # -
