@@ -13,4 +13,4 @@ Today, I'd like to commemorate, of all people, my Computer Science and Mathemati
 - ## He taught me to give my all to everything I enjoy
 	- In his Calculus class, he often urged students to join the math team. He'd say "There's no point in being good at something if you don't try to improve or use that skill!", and I now agree. There's no point in being good at something if you don't pass that skill on or use it. He was able to convince me to join the competitive math team and the VEX robotics team, both of which I have lifelong memories from.
 - ## Conclusion
-  To conclude, I'd like to urge you to be him for someone
+  To conclude, I'd like to urge you to be him for someone else. It doesn't need to be huge, but if you're good at something, using that talent to inspire and teach may change someone's life!
