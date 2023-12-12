@@ -47,6 +47,6 @@ public:: true
 	  |Ring|17.7%|
 	  |Cylinder|21.6%|
 - # Discussion
-  I calculated
+  I calculated the Inertia tables using **Equation 6**: ($$\frac{2mg(h_f-h_i)}{\omega^2_i+\omega^2_f}-mR^2$$)
 - # Conclusion
   ...
