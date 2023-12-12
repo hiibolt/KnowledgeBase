@@ -41,7 +41,11 @@ public:: true
 	  |Ball|4.38834e-5|5.337088e-5|
 	  |Ring|0.0924555|0.1124225|
 	  |Cylinder|3.11535e-5|3.697155e-5|
-	- ## 3.2
+	- ## 3.2 Percent Error
+	  |Object|Percent Error|
+	  |Ball|4.38834e-5|5.337088e-5|
+	  |Ring|0.0924555|0.1124225|
+	  |Cylinder|3.11535e-5|3.697155e-5|
 - # Discussion
   ...
 - # Conclusion
