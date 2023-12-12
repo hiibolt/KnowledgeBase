@@ -47,6 +47,8 @@ public:: true
 	  |Ring|17.7%|
 	  |Cylinder|21.6%|
 - # Discussion
-  I calculated the Inertia tables using **Equation 6**: ($$\frac{2mg(h_f-h_i)}{\omega^2_i+\omega^2_f}-mR^2$$)
+  I calculated the Inertia table's experimental values using **Equation 6**: ($$\frac{2mg(h_f-h_i)}{\omega^2_i+\omega^2_f}-mR^2$$). The standard, theoretical moments of inerta can be found with different equations depending on the type of object.
+  
+  The cylinder requires the following equation: $$I_{CM}=\frac{1}{2}$$
 - # Conclusion
   ...
