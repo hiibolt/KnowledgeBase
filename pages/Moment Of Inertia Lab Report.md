@@ -26,12 +26,12 @@ public:: true
   |Ring|0.8819 and 1.0536|0.9135 and 1.0757|2.0596 and 2.0561|2.0256 and 2.0611|
   |Cylinder|1.0863|1.2660|2.1207|2.1588|
   
-  |Object|\Delta t_1|\Delta t_2|
+  |Object|$\Delta t_1$|$\Delta t_2$|
   |Ball|0.2026|0.0354|
   |Ring|0.1938|0.0015|
   |Cylinder|0.1797|0.0381|
   
-  |Object|\omega_1|\omega_2|
+  |Object|$\omega_1$|$\omega_2$|
   |Ball|0.2026|0.0354|
   |Ring|0.1938|0.0015|
   |Cylinder|0.1797|0.0381|
