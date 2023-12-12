@@ -32,8 +32,8 @@ public:: true
   |Cylinder|0.1797|0.0381|
   
   |Object|$\omega_1$|$\omega_2$|
-  |Ball|0.2026|0.0354|
-  |Ring|0.1938|0.0015|
+  |Ball|9.8717|56.497|
+  |Ring|10.320|0.0015|
   |Cylinder|0.1797|0.0381|
 - # Results
 	- ## 3.1 ...
