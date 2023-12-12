@@ -62,3 +62,7 @@ public:: true
   The high percent error is of note. I believe that while this can be due to human error (slight nudges on the object, etc), this is primarily due to the torque force applied by friction and error resistance, as our percent errors are well clustered. Our 'slide' was a little dusty, which has a high frictional constant relative to the object being slid down the ramp. This could have be remedied with some form of lubricant.
 - # Conclusion
   This was an interesting lab that demonstrated how the form factor of an object does or does not affect the moment of inertia, and gave me a greater understanding of just what inertia actually means. Prior, I did not understand linear (let alone rotational) inertia.
+  
+  This also helped me understand just what friction is on a rolling object, and how it applies a torque force to slow such an object down.
+  
+  I do believe that, like all kinematic/force labs, there are issues with system factors doing entropial work on the object.
