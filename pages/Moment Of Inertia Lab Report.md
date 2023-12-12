@@ -49,8 +49,14 @@ public:: true
 - # Discussion
   I calculated the Inertia table's experimental values using **Equation 6**: ($$\frac{2mg(h_f-h_i)}{\omega^2_i+\omega^2_f}-mR^2$$). The standard, theoretical moments of inerta can be found with different equations depending on the type of object.
   
-  The cylinder requires the following equation: $$I_{CM}=\frac{1}{2}MR^2$$
-  The ring requires the following equation (the R values being the radius, inner and outer): $$I_{CM}=\frac{1}{2}M(R^2_1+R^2_2)$$
-  The sphere f
+  The cylinder requires the following equation:
+  $$I_{CM}=\frac{1}{2}MR^2$$
+  The ring requires the following equation (the R values being the radius, inner and outer): 
+  $$I_{CM}=\frac{1}{2}M(R^2_1+R^2_2)$$
+  The sphere requires the following equation:
+  $$I_{CM}=\frac{2}{5}MR^2$$
+  
+  The percentage error between the two was calculated with the standard percent error equation:
+  $$%_{\text{error}}=$$
 - # Conclusion
   ...
