@@ -35,14 +35,13 @@ public:: true
   |Ball|9.8717|56.497|
   |Ring|10.320|1333.3|
   |Cylinder|11.130|52.493|
-  
-  |Object|Calculated Inertia|Thereoretical Inertia|
-  |Ball|4.38834e-5|5.337088e-5|
-  |Ring|10.320|1333.3|0.1124225|
-  |Cylinder|11.130|52.493|3.697155
 - # Results
-	- ## 3.1 ...
-	  ...
+	- ## 3.1-2 Inertia Table
+	  |Object|Calculated Inertia|Thereoretical Inertia|
+	  |Ball|4.38834e-5|5.337088e-5|
+	  |Ring|0.0924555|0.1124225|
+	  |Cylinder|3.11535e-5|3.697155e-5|
+	- ## 3.2
 - # Discussion
   ...
 - # Conclusion
