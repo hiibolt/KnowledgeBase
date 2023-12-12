@@ -59,6 +59,6 @@ public:: true
   The percentage error between the two was calculated with the standard percent error equation:
   $$\%_{\text{error}}=\frac{|\text{Theoretical}-\text{Experimental}|}{\text{Theoretical}}*100\%$$
   
-  The high percent error is of note. I believe that while this can be due to human error (slight nudges on the )
+  The high percent error is of note. I believe that while this can be due to human error (slight nudges on the object, etc), this is primarily due to the torque force applied by friction and error resistance, as our percent errors are well clustered. Our 'slide' was a little dusty, which has a high frictional constant relative to the object being slid down the ramp. This could have be remedied with some form of lubricant
 - # Conclusion
   ...
