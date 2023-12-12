@@ -33,8 +33,8 @@ public:: true
   
   |Object|$\omega_1$|$\omega_2$|
   |Ball|9.8717|56.497|
-  |Ring|10.320|0.0015|
-  |Cylinder|0.1797|0.0381|
+  |Ring|10.320|1333.3|
+  |Cylinder|11.130|52.493|
 - # Results
 	- ## 3.1 ...
 	  ...
