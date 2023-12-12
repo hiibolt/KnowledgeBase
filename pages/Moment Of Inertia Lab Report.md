@@ -57,6 +57,8 @@ public:: true
   $$I_{CM}=\frac{2}{5}MR^2$$
   
   The percentage error between the two was calculated with the standard percent error equation:
-  $$%_{\text{error}}=$$
+  $$\%_{\text{error}}=\frac{|\text{Theoretical}-\text{Experimental}|}{\text{Theoretical}}*100\%$$
+  
+  The high percent error is of note. I believe that while this can be due to human error (slight nudges on the )
 - # Conclusion
   ...
