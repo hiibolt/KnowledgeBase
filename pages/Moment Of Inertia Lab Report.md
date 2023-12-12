@@ -36,7 +36,7 @@ public:: true
   |Ring|10.320|1333.3|
   |Cylinder|11.130|52.493|
   
-  |Object|Inertia 1|Inertia 2$|
+  |Object|Inertia 1|Inertia 2|Thereoretical Inertia 1|
   |Ball|9.8717|56.497|
   |Ring|10.320|1333.3|
   |Cylinder|11.130|52.493|
