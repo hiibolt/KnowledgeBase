@@ -67,4 +67,4 @@ public:: true
   
   I do believe that, like all kinematic/force labs, there are issues with system factors doing entropial work on the object. There is little to be done about it, however.
   
-  As a whole, I enjoyed this lab, and I would like to thank the TA for his excellent job going over how each equation is derived. It's easy to look at a complete proof with a blank stare and decide to instead 'black box' the equations, but
+  As a whole, I enjoyed this lab, and I would like to thank the TA for his excellent job going over how each equation is derived. It's easy to look at a complete proof with a blank stare and decide to instead 'black box' the equations, but having a fundamental understanding of each equation and what they mean and do improved my lab and final exam performance.
