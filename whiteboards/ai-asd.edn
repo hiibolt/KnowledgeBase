@@ -24,7 +24,8 @@
 :nonce 1704515785109
 :italic false}}
 :block/updated-at 1704515799401} 
-{:block/properties 
+{:block/created-at 1704515889483
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -47,7 +48,7 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704515815922
 :italic false}}
-:block/updated-at 1704515817822})
+:block/updated-at 1704515889483})
 :pages (
 {:block/uuid #uuid "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :block/properties 
@@ -60,7 +61,7 @@
 :nonce 1
 :assets []
 :shapes-index ("264e50b0-ac4d-11ee-9e11-378aff2f4c21" "38b06e50-ac4d-11ee-9e11-378aff2f4c21")}}
-:block/updated-at 1704515817822
+:block/updated-at 1704515889482
 :block/created-at 1704515714597
 :block/type "whiteboard"
 :block/name "ai-asd"
