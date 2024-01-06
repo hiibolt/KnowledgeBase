@@ -137,15 +137,15 @@
 :nonce 1704516137176
 :italic false}}
 :block/updated-at 1704584637728} 
-{:block/created-at 1704584914554
+{:block/created-at 1704585061994
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke "green"
+{:stroke ""
 :index 4
 :scale [1 1]
 :scaleLevel "md"
-:fill "green"
+:fill ""
 :type "line"
 :strokeType "line"
 :strokeWidth 1
@@ -169,9 +169,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
-:nonce 1704516143725
+:nonce 1704516143726
 :italic false}}
-:block/updated-at 1704584914554} 
+:block/updated-at 1704585061994} 
 {:block/created-at 1704584918423
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -354,15 +354,15 @@
 :nonce 1704584377899
 :italic false}}
 :block/updated-at 1704584637728} 
-{:block/created-at 1704584924387
+{:block/created-at 1704585066488
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke "green"
+{:stroke ""
 :index 11
 :scale [1 1]
 :scaleLevel "md"
-:fill "green"
+:fill ""
 :type "line"
 :strokeType "line"
 :strokeWidth 1
@@ -386,9 +386,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
-:nonce 1704584421134
+:nonce 1704584421135
 :italic false}}
-:block/updated-at 1704584924387} 
+:block/updated-at 1704585066488} 
 {:block/created-at 1704584956056
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -525,7 +525,7 @@
 :nonce 1
 :assets []
 :shapes-index ("38b06e50-ac4d-11ee-9e11-378aff2f4c21" "d463e5c0-ac4d-11ee-9e11-378aff2f4c21" "e542bec0-ac4d-11ee-9e11-378aff2f4c21" "f8292792-ac4d-11ee-9e11-378aff2f4c21" "fc1778c2-ac4d-11ee-9e11-378aff2f4c21" "0261bb52-ac4e-11ee-9e11-378aff2f4c21" "a0412fb0-acec-11ee-9e11-378aff2f4c21" "aadd4032-acec-11ee-9e11-378aff2f4c21" "c4622610-acec-11ee-9e11-378aff2f4c21" "d3e8e922-acec-11ee-9e11-378aff2f4c21" "da89fe40-acec-11ee-9e11-378aff2f4c21" "f4909742-acec-11ee-9e11-378aff2f4c21" "f8f94890-acec-11ee-9e11-378aff2f4c21" "07f92862-aced-11ee-9e11-378aff2f4c21" "264e50b0-ac4d-11ee-9e11-378aff2f4c21")}}
-:block/updated-at 1704584956101
+:block/updated-at 1704585066493
 :block/created-at 1704515714597
 :block/type "whiteboard"
 :block/name "ai-asd"
