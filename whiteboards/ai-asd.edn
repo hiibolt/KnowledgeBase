@@ -332,7 +332,7 @@
 :nonce 1704584421316
 :italic false}}
 :block/updated-at 1704674460936} 
-{:block/created-at 1704674218745
+{:block/created-at 1704674470863
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -352,13 +352,13 @@
 :id "f8f94890-acec-11ee-9e11-378aff2f4c21"
 :fontWeight 400
 :noFill false
-:point [512 72]
+:point [336 72]
 :fontSize 20
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
-:nonce 1704584428622
+:nonce 1704584428810
 :italic false}}
-:block/updated-at 1704674218745} 
-{:block/created-at 1704674218745
+:block/updated-at 1704674470863} 
+{:block/created-at 1704674496764
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -375,24 +375,25 @@
 :id "07f92862-aced-11ee-9e11-378aff2f4c21"
 :fontWeight 400
 :noFill true
-:point [576 148]
+:point [480.6 148]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 28]}
+:point [0.13 27]
+:bindingId "ad1ec351-adbe-11ee-9e11-378aff2f4c21"}
 :end 
 {:id "end"
 :canBind true
-:point [14.32 0]
-:bindingId "07f92861-aced-11ee-9e11-378aff2f4c21"}}
+:point [0 0]
+:bindingId "a4b87e91-adbe-11ee-9e11-378aff2f4c21"}}
 :decorations 
 {:end "arrow"}
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
-:nonce 1704584453639
+:nonce 1704584453899
 :italic false}}
-:block/updated-at 1704674218745})
+:block/updated-at 1704674496764})
 :pages (
 {:block/uuid #uuid "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :block/properties 
@@ -401,7 +402,15 @@
 {:id "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :name "ai-asd"
 :bindings 
-{:d3e8e921-acec-11ee-9e11-378aff2f4c21 
+{:9fdcc021-adbe-11ee-9e11-378aff2f4c21 
+{:id "9fdcc021-adbe-11ee-9e11-378aff2f4c21"
+:type "line"
+:fromId "07f92862-aced-11ee-9e11-378aff2f4c21"
+:toId "c4622610-acec-11ee-9e11-378aff2f4c21"
+:handleId "start"
+:point [0.59 0.5]
+:distance 4}
+:d3e8e921-acec-11ee-9e11-378aff2f4c21 
 {:id "d3e8e921-acec-11ee-9e11-378aff2f4c21"
 :type "line"
 :fromId "d3e8e922-acec-11ee-9e11-378aff2f4c21"
@@ -424,6 +433,38 @@
 :toId "264e50b0-ac4d-11ee-9e11-378aff2f4c21"
 :handleId "start"
 :point [0.5 0.5]
+:distance 4}
+:ad1ec351-adbe-11ee-9e11-378aff2f4c21 
+{:id "ad1ec351-adbe-11ee-9e11-378aff2f4c21"
+:type "line"
+:fromId "07f92862-aced-11ee-9e11-378aff2f4c21"
+:toId "c4622610-acec-11ee-9e11-378aff2f4c21"
+:handleId "start"
+:point [0.53 0.5]
+:distance 4}
+:a2f2b2b1-adbe-11ee-9e11-378aff2f4c21 
+{:id "a2f2b2b1-adbe-11ee-9e11-378aff2f4c21"
+:type "line"
+:fromId "07f92862-aced-11ee-9e11-378aff2f4c21"
+:toId "c4622610-acec-11ee-9e11-378aff2f4c21"
+:handleId "start"
+:point [0.55 0.5]
+:distance 4}
+:a6527f81-adbe-11ee-9e11-378aff2f4c21 
+{:id "a6527f81-adbe-11ee-9e11-378aff2f4c21"
+:type "line"
+:fromId "07f92862-aced-11ee-9e11-378aff2f4c21"
+:toId "c4622610-acec-11ee-9e11-378aff2f4c21"
+:handleId "start"
+:point [0.54 0.5]
+:distance 4}
+:a4b87e91-adbe-11ee-9e11-378aff2f4c21 
+{:id "a4b87e91-adbe-11ee-9e11-378aff2f4c21"
+:type "line"
+:fromId "07f92862-aced-11ee-9e11-378aff2f4c21"
+:toId "f8f94890-acec-11ee-9e11-378aff2f4c21"
+:handleId "end"
+:point [0.53 0.45]
 :distance 4}
 :938a9b31-adbe-11ee-9e11-378aff2f4c21 
 {:id "938a9b31-adbe-11ee-9e11-378aff2f4c21"
@@ -489,6 +530,14 @@
 :handleId "start"
 :point [0.75 0.75]
 :distance 4}
+:a195bac1-adbe-11ee-9e11-378aff2f4c21 
+{:id "a195bac1-adbe-11ee-9e11-378aff2f4c21"
+:type "line"
+:fromId "07f92862-aced-11ee-9e11-378aff2f4c21"
+:toId "f8f94890-acec-11ee-9e11-378aff2f4c21"
+:handleId "end"
+:point [0.52 0.45]
+:distance 4}
 :8b1ed831-adbe-11ee-9e11-378aff2f4c21 
 {:id "8b1ed831-adbe-11ee-9e11-378aff2f4c21"
 :type "line"
@@ -524,7 +573,7 @@
 :nonce 1
 :assets []
 :shapes-index ("38b06e50-ac4d-11ee-9e11-378aff2f4c21" "e542bec0-ac4d-11ee-9e11-378aff2f4c21" "f8292792-ac4d-11ee-9e11-378aff2f4c21" "0261bb52-ac4e-11ee-9e11-378aff2f4c21" "a0412fb0-acec-11ee-9e11-378aff2f4c21" "aadd4032-acec-11ee-9e11-378aff2f4c21" "c4622610-acec-11ee-9e11-378aff2f4c21" "d3e8e922-acec-11ee-9e11-378aff2f4c21" "da89fe40-acec-11ee-9e11-378aff2f4c21" "f4909742-acec-11ee-9e11-378aff2f4c21" "f8f94890-acec-11ee-9e11-378aff2f4c21" "07f92862-aced-11ee-9e11-378aff2f4c21" "264e50b0-ac4d-11ee-9e11-378aff2f4c21")}}
-:block/updated-at 1704674460936
+:block/updated-at 1704674496822
 :block/created-at 1704515714597
 :block/type "whiteboard"
 :block/name "ai-asd"
