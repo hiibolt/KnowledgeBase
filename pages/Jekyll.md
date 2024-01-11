@@ -1,2 +1,2 @@
-- **docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve**
+- docker run -p 3001:4000 -v $(pwd):/site bretfisher/jekyll-serve
 - **docker run -v $(pwd):/site bretfisher/jekyll new .**
