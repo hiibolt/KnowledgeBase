@@ -1,4 +1,4 @@
-# Foundations
+## Base Assertations
 * Everything is Scarce
 * Scarcity Forces Tradeoffs
 * Decisions are Made at the Margins
