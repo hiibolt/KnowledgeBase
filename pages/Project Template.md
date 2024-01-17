@@ -2,9 +2,9 @@ public:: true
 
 - ### Metadata
   Date: *January 17, 2024*
-  Class: *MATH 360 - Section*
+  Class: *MATH360-0001*
   Author: *John White*
-  Professor: *Jarod Adelman*
+  Professor: *Maya Mincheva*
 - ## 1 - Introduction
   Lorem ipsum
 - ## 2 - Given Problem
