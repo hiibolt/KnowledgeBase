@@ -8,4 +8,4 @@ Alternatively: $$\gamma(t) = (x(t), y(t))$$
 For an interval I(\alpha, \beta), \alpha is the **initial point**, and \beta is the **terminal point**.
 
 $$C(t) = \gamma (a + b -t)\text{ for }a \leq t \leq b$$
-Is a reversal of the **orientation** of the parametric curve, meaning $$C(a) == \gamma(b)$$.
+Is a reversal of the **orientation** of the parametric curve, meaning $$C(a) = \gamma(b)$$.
