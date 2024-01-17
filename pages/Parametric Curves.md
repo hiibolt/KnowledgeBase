@@ -6,3 +6,5 @@ $$y=y(t)$$
 Alternatively: $$\gamma(t) = (x(t), y(t))$$
 
 For an interval I(\alpha, \beta), \alpha is the **initial point**, and \beta is the **terminal point**.
+
+C(t) = \gamma ()
