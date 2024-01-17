@@ -21,3 +21,5 @@ Flipping the bounds often flips the direction of the parametric.
   $$\gamma(t) = (a\cos(t),b\sin(t))$$
   $$=$$
   $$1 = (\frac{x}{a})^2 + (\frac{y}{b})^2$$
+  
+  The typical approach is to isolate $t$, otherwise using trig or logarithmic identities.
