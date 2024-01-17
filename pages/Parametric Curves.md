@@ -13,3 +13,5 @@ Is a reversal of the **orientation** of the parametric curve, meaning $$C(a) = \
 A **closed curve** is considered where $$\gamma(a) = \gamma(b)$$.
 
 A **double traversal** is where you complete the bounds twice, etc.
+
+Flipping the bounds often flips the direction of the parametric.
