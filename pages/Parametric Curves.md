@@ -20,4 +20,4 @@ Flipping the bounds often flips the direction of the parametric.
   
   $$\gamma(t) = (a\cos(t),b\sin(t))$$
   $$=$$
-  $$\f(x) = $$
+  $$1 = (\frac{x}{a})^2 + (\frac{y}{b})^2$$
