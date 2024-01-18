@@ -6,6 +6,7 @@
 	  * Entreprenuership (Idea Resources)
 	- ### Scarcity Forces Tradeoffs
 		- ((65a6c57a-48c9-47f7-b2e6-3580f944f079))
+		  The cost is not the monetary value (although it can be indirectly, potentially) but instead what you could have done with the money.
 	- ### Decisions are Made at the Margins
 	- ### Institutions and Incentives Matter
 - ## Opportunity Cost
