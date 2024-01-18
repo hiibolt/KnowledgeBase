@@ -17,6 +17,8 @@
 		  A choice is good if the **marginal cost (MC)** is less than or equal to the **marginal benefit (MB)**.
 	- ### Institutions and Incentives Matter
 	  Everything has an incentive.
+		- #### Free Market
+		  Producers can create any
 - ## Opportunity Cost
   id:: 65a6c57a-48c9-47f7-b2e6-3580f944f079
   There is always a cost to make a choice - the **Opportunity Cost** is the value of what is given up.
