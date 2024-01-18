@@ -27,4 +27,4 @@ A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\be
   The typical approach is to isolate $t$, otherwise using trig or logarithmic identities.
 - # Calculus for a Parametric Curve
   
-  If
+  If $x=x(t)$ and $y=y(t) are differentiable at t (and x \neq 0), dy/dx = y'(t)/x'(t).
