@@ -16,7 +16,7 @@ A **double traversal** is where you complete the bounds twice, etc.
 
 Flipping the bounds often flips the direction of the parametric.
 
-A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\gamma(a+b-t)$
+A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\beta(a+b-t)$
 - ## Eliminating the Parameter
   Functions might not need to be represented parametrically, typically functions that pass the vertical line test.
   
