@@ -13,6 +13,8 @@
 	  We assume that all individuals are **rational**.
 		- ### Marginal Thinking
 		  Comparing a raised price with the benefit you get from paying more.
+		  
+		  A choice is good if the **marginal cost** is less than the **marginal benefit**.
 	- ### Institutions and Incentives Matter
 - ## Opportunity Cost
   id:: 65a6c57a-48c9-47f7-b2e6-3580f944f079
