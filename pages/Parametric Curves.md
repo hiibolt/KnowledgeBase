@@ -29,4 +29,6 @@ A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\be
   
   If $x=x(t)$ and $y=y(t)$ are differentiable at $t$ (and x \neq 0), $\frac{dy}{dx} = \frac{y'(t)}{x'(t)}$.
   
+  Higher order derivatives can be calculated as $$\frac{\frac{d}{dt}\frac{dy}{dx}}{}$$
+  
   *Note: The tangent line can easily be found using the x and y components of the parabola, given you have calculated* $\frac{dy}{dx}$.
