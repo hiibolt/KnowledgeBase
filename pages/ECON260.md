@@ -7,6 +7,8 @@
 	- ### Scarcity Forces Tradeoffs
 		- ((65a6c57a-48c9-47f7-b2e6-3580f944f079))
 		  The cost is not the monetary value (although it can be indirectly, potentially) but instead what you could have done with the money.
+		  
+		  Happiness is measured in utility or welfare.
 	- ### Decisions are Made at the Margins
 	  We assume that all individuals are **rational**.
 	- ### Institutions and Incentives Matter
