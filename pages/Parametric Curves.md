@@ -15,6 +15,8 @@ A **closed curve** is considered where $$\gamma(a) = \gamma(b)$$.
 A **double traversal** is where you complete the bounds twice, etc.
 
 Flipping the bounds often flips the direction of the parametric.
+
+A d
 - ## Eliminating the Parameter
   Functions might not need to be represented parametrically, typically functions that pass the vertical line test.
   
