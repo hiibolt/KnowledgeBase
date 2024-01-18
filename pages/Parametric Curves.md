@@ -25,6 +25,6 @@ A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\be
   $$1 = (\frac{x}{a})^2 + (\frac{y}{b})^2$$
   
   The typical approach is to isolate $t$, otherwise using trig or logarithmic identities.
-- # Calculus for a Parametric Curve
+- ## Calculus for a Parametric Curve
   
   If $x=x(t)$ and $y=y(t)$ are differentiable at $t$ (and x \neq 0), $\frac{dy}{dx} = \frac{y'(t)}{x'(t)}$.
