@@ -11,8 +11,8 @@
 		  Happiness is measured in utility or welfare.
 	- ### Decisions are Made at the Margins
 	  We assume that all individuals are **rational**.
-		- ## Marginal Thinking
-		-
+		- ### Marginal Thinking
+		  Comparing a raised price with the benefit you get from paying more.
 	- ### Institutions and Incentives Matter
 - ## Opportunity Cost
   id:: 65a6c57a-48c9-47f7-b2e6-3580f944f079
