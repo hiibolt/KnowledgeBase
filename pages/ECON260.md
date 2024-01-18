@@ -22,6 +22,7 @@
 		- #### Command and Control Market
 		  Producers have a central authority that determines create something as outline by the CA and sell it by rules defined by the CA.
 		- #### Mixed Markets
+		  Many free market elements mixed with varying degrees of regulations by a central authority.
 - ## Opportunity Cost
   id:: 65a6c57a-48c9-47f7-b2e6-3580f944f079
   There is always a cost to make a choice - the **Opportunity Cost** is the value of what is given up.
