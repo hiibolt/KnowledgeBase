@@ -35,3 +35,4 @@ A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\be
 - ## Area Bounded by a Parametric Curve
   As long as between interval $$[a,b]$$ for a parametric P, there exists the ability to represent it as $$y=F(x)$$, you can calculate the area bounded by the curve.
   $$A=\int_a^b{F(x)}dx$$
+  $$=\int_\alpha^\beta{g(t)f'(t)dt}$$
