@@ -33,4 +33,5 @@ A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\be
   
   *Note: The tangent line can easily be found using the x and y components of the parabola, given you have calculated* $\frac{dy}{dx}$.
 - ## Area Bounded by a Parametric Curve
-  As long as between interval $$[a,b]$$ for a parametric G
+  As long as between interval $$[a,b]$$ for a parametric P, there exists the ability to represent it as $$y=F(x)$$, you can calculate the area bounded by the curve.
+  $$A=\int_a^b{F(x)}dx$$
