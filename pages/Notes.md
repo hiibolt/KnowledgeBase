@@ -7,4 +7,6 @@
   $$x = \text{distance from west-most location}$$
   
   The slope (derivative) of a given interval $i \text{to} i+1$ is the following pattern:
-  $$S_0=-n_1-n_2$$
+  $$S_0=-N_1-N_2-N_3-...N_n$$
+  $$S_1=N_1-N_2-N_3-...N_n$$
+  $$S_2=N_1+N_2-N_3-...N_n$$
