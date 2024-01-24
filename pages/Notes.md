@@ -19,4 +19,6 @@ $$S_2=S_1+2N_2$$
 $$...$$
 $$S_i=S_{i-1}+2N_i$$
 
-Therefore, just like any derivative, the critical (minima) points are where S(i) is where $$S(i-1) < 0 \text{ and } S(i) \geq 0$$. Ensure that you test $\alpha$ and $\beta$, a
+Therefore, just like any derivative, the critical (minima) points are where:
+$$S(i-1) < 0 \text{ and } S(i) \geq 0$$
+Ensure that you test $\alpha$ and $\beta$, as they could potentially be more cost efficient than the minima.
