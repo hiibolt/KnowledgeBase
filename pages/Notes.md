@@ -6,4 +6,5 @@
   $$k = \text{Cost per mile}$$
   $$x = \text{distance from west-most location}$$
   
-  The slope (derivative) of a given interval $i \text{to i+1
+  The slope (derivative) of a given interval $i \text{to} i+1$ is the following pattern:
+  $$S_0=-n_1-n_2$$
