@@ -6,7 +6,12 @@
   $$k = \text{Cost per mile}$$
   $$x = \text{distance from west-most location}$$
   
-  The slope (derivative) of a given interval $i \text{to} i+1$ is the following pattern:
+  The slope function (derivative) $$S(i)$$ of a given interval $i \text{ to } i+1$ is the following pattern:
   $$S_0=-N_1-N_2-N_3-...N_n$$
   $$S_1=N_1-N_2-N_3-...N_n$$
   $$S_2=N_1+N_2-N_3-...N_n$$
+  
+  Notice that this is equivalent to: 
+  $$S_0=-N_1-N_2-N_3-...N_n$$
+  $$S_1=S_0+2N_1$$
+  $$S_2=S_1+2N_2$$
