@@ -6,4 +6,4 @@
   $$k = \text{Cost per mile}$$
   $$x = \text{distance from west-most location}$$
   
-  The slope (derivative) of a given interval i - i+1
+  The slope (derivative) of a given interval $i \text{to i+1
