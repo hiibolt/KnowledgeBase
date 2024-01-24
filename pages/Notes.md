@@ -15,3 +15,7 @@
   $$S_0=-N_1-N_2-N_3-...N_n$$
   $$S_1=S_0+2N_1$$
   $$S_2=S_1+2N_2$$
+  $$...$$
+  $$S_i=S_{i-1}+2N_i$$
+  
+  Therefore, just like any derivative, the critical (minima)
