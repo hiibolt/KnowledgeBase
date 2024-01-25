@@ -29,4 +29,5 @@
   
   The opportunity cost is the value of the *top* option of things that you chose over.
 - ## Markets
-  There are
+  * There are **demanders**, or someone with a need
+  * There are **suppliers**, or people with something to sell
