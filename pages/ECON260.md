@@ -39,3 +39,5 @@
 	- ### Law of Diminishing Marginal Benefits
 	  Eventually the **marginal benefit** will approach or equal zero.
 	- ## Demand Curve
+	  **Y-Axis**: Price ($)
+	  **X-Axis**: Quantity (Pizza)
