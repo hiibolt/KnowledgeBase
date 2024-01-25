@@ -41,3 +41,5 @@
 	- ## Demand Curve
 	  **Y-Axis**: Price ($)
 	  **X-Axis**: Quantity (Pizza)
+	  
+	  A line giving the relationship between prices and the quantity demanded.
