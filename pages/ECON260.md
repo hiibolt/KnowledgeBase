@@ -31,3 +31,5 @@
 - ## Markets
   * There are **demanders**, or someone with a need
   * There are **suppliers**, or people with something to sell
+  
+  One of the key ideas is who and who cannot get the 'goods' that they want?
