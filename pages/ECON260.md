@@ -28,3 +28,5 @@
   There is always a cost to make a choice - the **Opportunity Cost** is the value of what is given up.
   
   The opportunity cost is the value of the *top* option of things that you chose over.
+- ## Markets
+  There are
