@@ -37,4 +37,4 @@
   **Ceteris Paribus**: All Else Equal
   **Generalizations**: Economists make many assumptions (cringe)
   
-  **Law of Diminishing B
+  **Law of Diminishing Marginal Benefits**: Eventually the **marginal benefit** will approach or equal zero.
