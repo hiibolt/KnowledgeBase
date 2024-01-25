@@ -36,3 +36,5 @@
   
   **Ceteris Paribus**: All Else Equal
   **Generalizations**: Economists make many assumptions (cringe)
+  
+  **Law of Diminishing B
