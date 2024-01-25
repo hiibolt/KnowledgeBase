@@ -33,3 +33,5 @@
   * There are **suppliers**, or people with something to sell
   
   One of the key ideas is understanding who and who cannot get the 'goods' that they want.
+  
+  **Ceteris Paribus**: All Else Equal
