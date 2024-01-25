@@ -42,8 +42,9 @@
 	  When the price of something goes up, the consumer demand for that item goes down.
 	  Likewise, when the price of something goes down, the consumer demand for that item goes up.
 	- ## Demand Curve
-	  A line giving the relationship between prices and the quantity demanded.
-	- **Y-Axis**: Price ($)
+	  A graph giving the relationship between prices and the quantity demanded.
+	  
+	  **Y-Axis**: Price ($)
 	  **X-Axis**: Quantity (Pizza)
 	  
 	  
