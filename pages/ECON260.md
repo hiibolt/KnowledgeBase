@@ -38,7 +38,9 @@
   **Generalizations**: Economists make many assumptions (cringe)
 	- ### Law of Diminishing Marginal Benefits
 	  Eventually the **marginal benefit** will approach or equal zero.
-	- ### Law of
+	- ### Law of Demand
+	  When the price of something goes up, the consumer demand for that item goes down.
+	  Likewise, when the price of something goes down, the consumer demand for that item goes up.
 	- ## Demand Curve
 	  **Y-Axis**: Price ($)
 	  **X-Axis**: Quantity (Pizza)
