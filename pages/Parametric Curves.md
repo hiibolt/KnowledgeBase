@@ -38,4 +38,4 @@ A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\be
   $$=\int_\alpha^\beta{g(t)f'(t)dt}$$
 - # Polar Curves
 	- ## Differentiation
-	  $$\frac{dy}{}$$
+	  $$\frac{dy}{dx}=\frac{\frac{dr}{d\theta}sin(\theta)+rcos(\theta)}{\frac{dr}{d\theta}cos(\theta)-rsin(\theta)}$$
