@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["Psyc 102" "Comms 100" "Math 206" "Physics 253"]
+ :favorites ["ltre194" "econ260" "math360" "math232" "csci240"]
 
  ;; Set flashcards interval.
  ;; Expected value:
