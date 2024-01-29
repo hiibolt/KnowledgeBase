@@ -36,3 +36,6 @@ A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\be
   As long as between interval $$[a,b]$$ for a parametric $P \{ x = f(x), y = g(x) \}$, there exists the ability to represent it as $$y=F(x)$$, you can calculate the area bounded by the curve.
   $$A=\int_a^b{F(x)}dx$$
   $$=\int_\alpha^\beta{g(t)f'(t)dt}$$
+- # Polar Curves
+	- ## Differentiation
+	  $$\frac{dy}{}$$
