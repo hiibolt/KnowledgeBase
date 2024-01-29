@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 - [[1.3 Linear DE]]
+<<<<<<< HEAD
 - [[1.4 Systems of DE (nonlinear)]]
 =======
 -
@@ -15,3 +16,6 @@
 - [[1.3 Linear DE]]
 -
 >>>>>>> 845dfdf (Auto saved by Logseq)
+=======
+- [[1.4 Systems of DE (nonlinear)]]
+>>>>>>> 8263c91 (Auto saved by Logseq)
