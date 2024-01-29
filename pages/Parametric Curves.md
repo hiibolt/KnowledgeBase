@@ -42,4 +42,4 @@ A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\be
 	  $$(\frac{dr}{d\theta} = f'(\theta))$$
 	- ## Integration
 	  $$\text{Area of a sector: } A=\frac{1}{2}\theta r^2$$
-	  $$\text{Approximation: }: \sum_{i=1}^n$$
+	  $$\text{Approximation: } \sum_{i=1}^n\frac{1}{2}(f(\theta_i))^2\Delta\theta_i$$
