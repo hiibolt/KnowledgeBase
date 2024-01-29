@@ -41,3 +41,5 @@ A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\be
 	  $$\frac{dy}{dx}=\frac{\frac{dr}{d\theta}sin(\theta)+rcos(\theta)}{\frac{dr}{d\theta}cos(\theta)-rsin(\theta)}$$
 	  $$(\frac{dr}{d\theta} = f'(\theta))$$
 	- ## Integration
+	  $$\text{Area of a sector: } A=\frac{1}{2}\theta r^2$$
+	  $$\text{Approximation: }: \sum_{i=1}^n$$
