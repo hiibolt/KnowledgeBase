@@ -47,6 +47,11 @@
 	  **Y-Axis**: Price ($)
 	  **X-Axis**: Quantity (Pizza)
 	  
-	  
 	  Notes:
 	  *Always slopes downwards.*
+	- ### Shifters
+	  1. Change in Tastes and Preferences
+	  2. Change in Income
+	  3. Change in the Price of Other Goods
+	  4. Change in the Expected Price
+	  5. Change in the Number of Buyers
