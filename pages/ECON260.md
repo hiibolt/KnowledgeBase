@@ -39,10 +39,14 @@
 	- ### Law of Diminishing Marginal Benefits
 	  Eventually the **marginal benefit** will approach or equal zero.
 	- ### Law of Demand
+	  id:: 65b80574-97e2-49e4-b489-4af0acc2ba11
 	  When the price of something goes up, the consumer demand for that item goes down.
 	  Likewise, when the price of something goes down, the consumer demand for that item goes up.
 	- ## Demand Curve
 	  A graph giving the relationship between prices and the quantity demanded.
+	  
+	  Moving *along* the curve is the ((65b80574-97e2-49e4-b489-4af0acc2ba11)).
+	  Moving the *curve* is one of the 
 	  
 	  **Y-Axis**: Price ($)
 	  **X-Axis**: Quantity (Pizza)
