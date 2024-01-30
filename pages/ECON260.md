@@ -46,7 +46,7 @@
 	  A graph giving the relationship between prices and the quantity demanded.
 	  
 	  Moving *along* the curve is the ((65b80574-97e2-49e4-b489-4af0acc2ba11)).
-	  Moving the *curve* is one of the 
+	  Moving the *curve* is one of the ((65b92d04-b129-4a5c-a4cf-cfe52d56dd3a)).
 	  
 	  **Y-Axis**: Price ($)
 	  **X-Axis**: Quantity (Pizza)
@@ -54,6 +54,7 @@
 	  Notes:
 	  *Always slopes downwards.*
 	- ### Shifters
+	  id:: 65b92d04-b129-4a5c-a4cf-cfe52d56dd3a
 	  1. Change in Tastes and Preferences
 	  2. Change in Income
 	  3. Change in the Price of Other Goods
