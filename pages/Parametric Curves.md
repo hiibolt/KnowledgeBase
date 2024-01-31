@@ -45,3 +45,5 @@ A **direction reversal** can be accomplished for $\gamma(t)$ on $[a, b]$ by $\be
 	  $$\text{Approximation: } \sum_{i=1}^n\frac{1}{2}(f(\theta_i))^2\Delta\theta_i$$
 	  $$\text{or}$$
 	  $$=\frac{1}{2}\int_a^{b}(f(\theta))^2d\theta$$
+	- ## Arc Length
+	  $$s=\int^\Beta_\alpha\sqrt{r^2+(\frac{}{})^2}$$
