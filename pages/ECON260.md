@@ -61,5 +61,7 @@
 	  4. Change in the Expected Price
 	  5. Change in the Number of Buyers
 - # Suppliers
-	- ### Raw of Diminishing Marginal Benefits/Returns
+	- ### Law of Diminishing Marginal Benefits/Returns
 	  As you make more of something it costs less.
+	- ### Law of Supply
+	  As the price of a good increases (decreases) , the quantity supplied of that good will increase (decrease), all else equal.
