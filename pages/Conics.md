@@ -2,3 +2,5 @@
   c is the focal point,
   a is the vertex,
   b is the pitch factor
+  
+  Pitch: $$y=\frac{-b}{a}$$
