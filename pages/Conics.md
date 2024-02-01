@@ -6,3 +6,5 @@
   b is the pitch factor
   
   Pitch: $$y=\frac{-b}{a}$$
+  
+  $$r=\frac{+_ed}{1e\cos(0-\alpha}$$
