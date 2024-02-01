@@ -7,4 +7,4 @@
   
   Pitch: $$y=\frac{-b}{a}$$
   
-  $$r=\frac{+_ed}{1e\cos(0-\alpha}$$
+  $$r=\frac{\pm ed}{1\pm e\cos(0-\alpha)}$$
