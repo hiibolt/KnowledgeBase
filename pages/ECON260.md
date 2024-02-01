@@ -60,3 +60,6 @@
 	  3. Change in the Price of Other Goods
 	  4. Change in the Expected Price
 	  5. Change in the Number of Buyers
+- # Suppliers
+	- ### Raw of Diminishing Marginal Benefits/Returns
+	  As you make more of something it costs less.
