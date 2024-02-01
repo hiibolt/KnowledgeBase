@@ -1,2 +1,2 @@
 - [[Parametric Curves]]
--
+- [[Conics]]
