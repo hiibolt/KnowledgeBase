@@ -6,4 +6,7 @@ MATH360 - PRIM Model Building in Appl Math
 	  To understand and connect concepts of mathematics with real world problems and other scientific disciplines; to communicate mathematics clearly, in writing and orally; to engage effectively and efficiently in problem solving, as an individual and in cooperative situations.
 	- ## The instructor's philosophy
 	  She wants us to be able to break a problem down to its raw, conceptual nature and effectively communicate it over multiple mediums.
-	-
+	- ## Types of assignments
+	  Homework, exams, and partner projects.
+	- ## Grade breakdown
+	  |**Title**|**Points**|
