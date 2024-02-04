@@ -31,5 +31,7 @@ MATH360 - PRIM Model Building in Appl Math
 	  I hope to learn the critical thinking skills required to take a problem in the real world and apply math and model building to it. This is especially important with the rise of machine learning, which are models not too dissimilar from those discussed in the book.
 	- ## How does the course fit with my goals for college success
 	  This course boils down to teaching high-level critical thinking. I believe that if I can get an A in this course, I will be able to apply the mathematical thinking process learned here to many of my other and likely harder math courses in the future.
-	- ## How do the assignments/assessments for the course differ from my preferences or past experiences
+	- ## How do the assignments for the course differ from my preferences or past experiences
+	  I don't like projects in general, especially math projects. There's far too much room for error, you could make a singular mistake early on in the project and miss much of the project's possible points as a result.
+	- ##
 	- ##
