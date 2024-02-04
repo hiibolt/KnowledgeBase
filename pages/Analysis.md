@@ -1,4 +1,9 @@
-## MATH360 - PRIM Model Building in Appl Math
+## Meta
+Name: John Wallace White
+ID: z1994244
+Class: NIU - LTRE194
+Instructor: Rebecca Vaughn
+- ## MATH360 - PRIM Model Building in Appl Math
 	- # Introduction
 	  I would like to discuss my MATH360 course, a required class for the Mathematics side of my double major. It has proved very convoluted in presentation thus far, and I believe this may have to do with my lack of reading the syllabus. As a result, delving into the inner workings of this course is the primary goal of this essay.
 	- # Syllabus Analysis
@@ -16,4 +21,5 @@
 	- # Conclusion
 	  To conclude, I believe that this course analysis has proved effective to give me a better understanding of the course that was previously convoluted. I will be doing the same for all of my other courses as a result.
 - # Citations
-  Giordano, Frank R., et al. *A First Course in Mathematical Modeling*. Brooks/Cole, Cengage Learning, 2014.
+  **Giordano, Frank R., et al. *A First Course in Mathematical Modeling*. Brooks/Cole, Cengage Learning, 
+          2014.**
