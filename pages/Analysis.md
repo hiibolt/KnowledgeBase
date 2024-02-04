@@ -1,25 +1,22 @@
 ## MATH360 - PRIM Model Building in Appl Math
 	- # Introduction
-	- # Textbook Analysis
-	  The primary purpose of this course is to be able to understand and connect concepts of mathematics with real world problems and other scientific disciplines; to communicate mathematics clearly, in writing and orally; to engage effectively and efficiently in problem solving, as an individual and in cooperative situations. She wants us to be able to break a problem down to its raw, conceptual nature and effectively communicate it over multiple mediums. There are many different types of assignments, such as homework, exams, and partner projects. See *Figure 1* for a full breakdown of the course's point grading scale.
+	- # Syllabus Analysis
+	  The primary purpose of this course is to be able to understand and connect concepts of mathematics with real world problems and other scientific disciplines; to communicate mathematics clearly, in writing and orally; to engage effectively and efficiently in problem solving, as an individual and in cooperative situations. My professor wants us to be able to break a problem down to its raw, conceptual nature and effectively communicate it over multiple mediums. There are many different types of assignments to assist in teaching this, such as homework, exams, and partner projects. See *Figure 1* for a full breakdown of the course's point grading scale.
 	- ### Figure 1
 	  |**Title**|**Points**|
 	  |2 in-class exams|100 points each|
 	  |Homework|100 points|
 	  |4 projects|400 points|
 	  |1 project presentation|20 points|
-- # Textbook Analysis
-	- ## Organization and structure
-	  My course's textbook structure is less of a typical textbook and more of a teaching aid, meaning it's extra important to pay close attention in class when the teaching is mentioning the textbook. It's split into a unit-like structure versus a topological approach most textbooks take.
-	- ## Primary Content
-	  * Series (definite and finite)
+	- # Textbook Analysis
+	  My course's textbook structure is less of a typical textbook and more of a teaching aid, meaning it's extra important to pay close attention in class when the teaching is mentioning the textbook. It's split into a unit-like structure versus a topological approach most textbooks take. There a multiSeries (definite and finite)
 	  * Linear and non-linear systems
 	  ...
 	  There's many more, but my teacher said not to read ahead as not everything in the textbook is actually covered in her class.
-	- ## Resources
-	  There are accompanying class notes that are very closely linked with the textbook and can be used interchangeably to better reinforce understanding in either.
-	- ## Vocabulary
-	  It uses bold terms to discuss key terms, italics to discuss edge cases or notes, and blocks to introduce equations or theorems.
+		- ## Resources
+		  There are accompanying class notes that are very closely linked with the textbook and can be used interchangeably to better reinforce understanding in either.
+		- ## Vocabulary
+		  It uses bold terms to discuss key terms, italics to discuss edge cases or notes, and blocks to introduce equations or theorems.
 - # Overall Course Analysis
 	- ## What do I expect to learn from the course
 	  I hope to learn the critical thinking skills required to take a problem in the real world and apply math and model building to it. This is especially important with the rise of machine learning, which are models not too dissimilar from those discussed in the book.
