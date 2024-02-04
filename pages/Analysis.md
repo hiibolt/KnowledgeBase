@@ -10,3 +10,9 @@ MATH360 - PRIM Model Building in Appl Math
 	  Homework, exams, and partner projects.
 	- ## Grade breakdown
 	  |**Title**|**Points**|
+	  |2 in-class exams|100 points each|
+	  |Homework|100 points|
+	  |4 projects|400 points|
+	  |1 project presentation|20 points|
+- # Textbook Analysis
+	- ## Organiza
