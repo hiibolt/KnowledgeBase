@@ -1,8 +1,5 @@
-## What is the title of the course?
-MATH360 - PRIM Model Building in Appl Math
-- # Syllabus Analysis
-  id:: 65b94823-b6c5-47e9-85d7-372c442ee9a2
-	- ## Purpose and goals of the course
+## MATH360 - PRIM Model Building in Appl Math
+	- # Introduction
 	  To understand and connect concepts of mathematics with real world problems and other scientific disciplines; to communicate mathematics clearly, in writing and orally; to engage effectively and efficiently in problem solving, as an individual and in cooperative situations.
 	- ## The instructor's philosophy
 	  She wants us to be able to break a problem down to its raw, conceptual nature and effectively communicate it over multiple mediums.
@@ -33,5 +30,5 @@ MATH360 - PRIM Model Building in Appl Math
 	  This course boils down to teaching high-level critical thinking. I believe that if I can get an A in this course, I will be able to apply the mathematical thinking process learned here to many of my other and likely harder math courses in the future.
 	- ## How do the assignments for the course differ from my preferences or past experiences
 	  I don't like projects in general, especially math projects. There's far too much room for error, you could make a singular mistake early on in the project and miss much of the project's possible points as a result.
-	- ##
+	- ## How does the course text
 	- ##
