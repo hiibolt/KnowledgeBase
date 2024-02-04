@@ -9,12 +9,7 @@
 	  |4 projects|400 points|
 	  |1 project presentation|20 points|
 	- # Textbook Analysis
-	  My course's textbook structure is less of a typical textbook and more of a teaching aid, meaning it's extra important to pay close attention in class when the teaching is mentioning the textbook. It's split into a unit-like structure versus a topological approach most textbooks take. There a multiSeries (definite and finite)
-	  * Linear and non-linear systems
-	  ...
-	  There's many more, but my teacher said not to read ahead as not everything in the textbook is actually covered in her class.
-		- ## Resources
-		  There are accompanying class notes that are very closely linked with the textbook and can be used interchangeably to better reinforce understanding in either.
+	  My course's textbook structure is less of a typical textbook and more of a teaching aid, meaning it's extra important to pay close attention in class when the teaching is mentioning the textbook. It's split into a unit-like structure versus a topological approach most textbooks take. There a multitude of topics in the textbook, but my teacher recommended not studying ahead in the text, as much of it is not covered in the course. Some examples of topics that she has given ahead of time are series (definite and finite) and linear/non-linear systems of equations. There are accompanying class notes that are very closely linked with the textbook and can be used interchangeably to better reinforce understanding in either.
 		- ## Vocabulary
 		  It uses bold terms to discuss key terms, italics to discuss edge cases or notes, and blocks to introduce equations or theorems.
 - # Overall Course Analysis
