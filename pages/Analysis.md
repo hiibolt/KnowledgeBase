@@ -25,4 +25,8 @@ MATH360 - PRIM Model Building in Appl Math
 	- ## Resources
 	  There are accompanying class notes that are very closely linked with the textbook and can be used interchangeably to better reinforce understanding in either.
 	- ## Vocabulary
+	  It uses bold terms to discuss key terms, italics to discuss edge cases or notes, and blocks to introduce equations or theorems.
+- # Overall Course Analysis
+	- ## What do I expect to learn from the course
+	  I hope to learn the critical thinking skil
 	- ##
