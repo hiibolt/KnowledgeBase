@@ -20,4 +20,7 @@ MATH360 - PRIM Model Building in Appl Math
 	- ## Primary Content
 	  * Series (definite and finite)
 	  * Linear and non-linear systems
+	  ...
+	  There's many more, but my teacher said not to read ahead as not everything in the textbook is actually covered in her class.
+	- ##
 	- ##
