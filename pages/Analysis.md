@@ -28,5 +28,6 @@ MATH360 - PRIM Model Building in Appl Math
 	  It uses bold terms to discuss key terms, italics to discuss edge cases or notes, and blocks to introduce equations or theorems.
 - # Overall Course Analysis
 	- ## What do I expect to learn from the course
-	  I hope to learn the critical thinking skil
+	  I hope to learn the critical thinking skills required to take a problem in the real world and apply math and model building to it. This is especially important with the rise of machine learning, which are models not too dissimilar from those discussed in the book.
+	- ##
 	- ##
