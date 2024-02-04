@@ -1,8 +1,9 @@
 ## Meta
-Name: John Wallace White
-ID: z1994244
-Class: NIU - LTRE194
-Instructor: Rebecca Vaughn
+**Name**: John Wallace White
+**Date**: Feb 3rd, 2024
+**ID**: z1994244
+**Class**: NIU - LTRE194
+**Instructor**: Rebecca Vaughn
 - ## MATH360 - PRIM Model Building in Appl Math
 	- # Introduction
 	  I would like to discuss my MATH360 course, a required class for the Mathematics side of my double major. It has proved very convoluted in presentation thus far, and I believe this may have to do with my lack of reading the syllabus. As a result, delving into the inner workings of this course is the primary goal of this essay.
