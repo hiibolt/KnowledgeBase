@@ -15,4 +15,4 @@ MATH360 - PRIM Model Building in Appl Math
 	  |4 projects|400 points|
 	  |1 project presentation|20 points|
 - # Textbook Analysis
-	- ## Organiza
+	- ## Organization and structure
