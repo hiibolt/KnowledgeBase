@@ -16,3 +16,4 @@
 	- # Conclusion
 	  To conclude, I believe that this course analysis has proved effective to give me a better understanding of the course that was previously convoluted. I will be doing the same for all of my other courses as a result.
 - # Citations
+  Giordano, Frank R., et al. *A First Course in Mathematical Modeling*. Brooks/Cole, Cengage Learning, 2014.
