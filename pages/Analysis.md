@@ -22,5 +22,7 @@ MATH360 - PRIM Model Building in Appl Math
 	  * Linear and non-linear systems
 	  ...
 	  There's many more, but my teacher said not to read ahead as not everything in the textbook is actually covered in her class.
-	- ##
+	- ## Resources
+	  There are accompanying class notes that are very closely linked with the textbook and can be used interchangeably to better reinforce understanding in either.
+	- ## Vocabulary
 	- ##
