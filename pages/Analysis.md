@@ -16,4 +16,7 @@ MATH360 - PRIM Model Building in Appl Math
 	  |1 project presentation|20 points|
 - # Textbook Analysis
 	- ## Organization and structure
-	  My course's textbook structure is less of a typical textbook and more of a teaching aid, meaning it'S
+	  My course's textbook structure is less of a typical textbook and more of a teaching aid, meaning it's extra important to pay close attention in class when the teaching is mentioning the textbook. It's split into a unit-like structure versus a topological approach most textbooks take.
+	- ## Primary Content
+	  - Series
+	- ##
