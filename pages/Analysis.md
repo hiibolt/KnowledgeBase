@@ -1,8 +1,8 @@
 ## MATH360 - PRIM Model Building in Appl Math
 	- # Introduction
-	  I would
+	  I would like to discuss my MATH360 course, a required class for the Mathematics side of my double major. It has proved very convoluted in presentation thus far, and I believe this may have to do with my lack of reading the syllabus. As a result, delving
 	- # Syllabus Analysis
-	  The primary purpose of this course is to be able to understand and connect concepts of mathematics with real world problems and other scientific disciplines; to communicate mathematics clearly, in writing and orally; to engage effectively and efficiently in problem solving, as an individual and in cooperative situations. My professor wants us to be able to break a problem down to its raw, conceptual nature and effectively communicate it over multiple mediums. There are many different types of assignments to assist in teaching this, such as homework, exams, and partner projects. See *Figure 1* for a full breakdown of the course's point grading scale.
+	  The primary purpose of this course and first point of discussion is to be able to understand and connect concepts of mathematics with real world problems and other scientific disciplines; to communicate mathematics clearly, in writing and orally; to engage effectively and efficiently in problem solving, as an individual and in cooperative situations. My professor wants us to be able to break a problem down to its raw, conceptual nature and effectively communicate it over multiple mediums. There are many different types of assignments to assist in teaching this, such as homework, exams, and partner projects. See *Figure 1* for a full breakdown of the course's point grading scale.
 	- ### Figure 1
 	  |**Title**|**Points**|
 	  |2 in-class exams|100 points each|
