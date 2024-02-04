@@ -29,5 +29,6 @@ MATH360 - PRIM Model Building in Appl Math
 - # Overall Course Analysis
 	- ## What do I expect to learn from the course
 	  I hope to learn the critical thinking skills required to take a problem in the real world and apply math and model building to it. This is especially important with the rise of machine learning, which are models not too dissimilar from those discussed in the book.
-	- ##
+	- ## How does the course fit with my goals for college success
+	  This course boils down to teaching high-level critical thinking. I believe that if I can get an A
 	- ##
