@@ -28,4 +28,6 @@ Our project deals with a similar model (Mice vs. Hawks), except they are not bot
 - # 1
   **If the population of mice grows at a 5% rate per generation in the absence of hawks, and the population of hawks falls by 6%per generation in the absence of mice, what can you say about the parameters of the model?**
   
-  With $$x$$ representing mice, we will assign $r_1$ to be $+0.05$, as it can be inferred by the disribution
+  With $$x$$ representing mice, we will assign $r_1$ to be $+0.05$, as it can be inferred by the direct distribution onto other terms that $$r_1$$ is a constant representing scale factor between the two populations. Because 
+  
+  We can do the same for hawks, updating our equations to be:
