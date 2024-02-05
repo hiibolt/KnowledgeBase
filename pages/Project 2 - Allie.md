@@ -8,4 +8,5 @@ Explanation of variables and constants:
 * $\Delta O_n$: Change in owl population between generations*
 * $\Delta H_n$: Change in hawk population between generations*
 * $k_{1-4}$: Positive constants
-* $$
+* $O_n$ Population of owls at $n$ generation*
+* $O_n$ Population of hawks at $n$ generation
