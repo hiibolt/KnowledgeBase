@@ -37,7 +37,7 @@ Our project deals with a similar model (Mice vs. Hawks), except they are not bot
 - # 2
   **Suppose that there is an equilibrium when the population of mice is 200,000 and that of hawks is 1500. What can you say about the parameters of this model?**
   
-  Equilibrium is achieved when both populations have a rate of change of zero. Setting our equations equal to zero and plugging in the population values gives us the following:
+  Equilibrium is achieved when both populations have a Yrate of change of zero. Setting our equations equal to zero and plugging in the population values gives us the following:
   $$0 = (0.05)(200,000)(1-\frac{1500}{M_1})$$
   $$0 = (-0.06)(1500)(1-\frac{200,000}{N_1})$$
   
@@ -51,5 +51,11 @@ Our project deals with a similar model (Mice vs. Hawks), except they are not bot
   $$M_1 = 200,000$$
   
   What can now be said about the parameters is that:
-  * $$M_1$$ is the number of hawks required for mice population equilibrium
-  * $$N_1$$ is the number of mice required for hawk population equilibrium
+  * $M_1$ is the number of hawks required for mice population equilibrium
+  * $N_1$ is the number of mice required for hawk population equilibrium
+  
+  
+  This updates our equations to be:
+  $$\Delta x_n = x_n(0.05)(1-\frac{y_n}{1500})$$
+  $$\text{and}$$
+  $$\Delta x_n = y_n(-0.06)(1-\frac{x_n}{200,000})$$
