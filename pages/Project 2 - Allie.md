@@ -10,3 +10,5 @@ Explanation of variables and constants:
 * $k_{1-4}$: Positive constants
 * $O_n$ Population of owls at $n$ generation
 * $H_n$ Population of hawks at $n$ generation
+
+Our project deals with a similar model, except they are not both predators, but predator-prey. T
