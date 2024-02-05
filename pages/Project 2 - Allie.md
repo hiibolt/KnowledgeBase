@@ -11,4 +11,4 @@ Explanation of variables and constants:
 * $O_n$ Population of owls at $n$ generation
 * $H_n$ Population of hawks at $n$ generation
 
-Our project deals with a similar model, except they are not both predators, but predator-prey. T
+Our project deals with a similar model (Mice vs. Hawks), except they are not both predators, but predator-prey. As such, an increase in hawks causes the mice population to fall, but a decrease in mice also causes the hawk population to fall.
