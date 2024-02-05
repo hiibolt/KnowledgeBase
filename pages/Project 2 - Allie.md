@@ -26,4 +26,6 @@ Our project deals with a similar model (Mice vs. Hawks), except they are not bot
   * $r_{1-2}$: ??
   * $M_1\text{ and }N_1$: ??
 - # 1
-  **If the population of mice grows at a 5% rate pergeneration in the absence
+  **If the population of mice grows at a 5% rate per generation in the absence of hawks, and the population of hawks falls by 6%per generation in the absence of mice, what can you say about the parameters of the model?**
+  
+  This confirms that the
