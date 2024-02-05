@@ -1,5 +1,6 @@
 - [[Project Template]]
-  [[Computational Exercise]]
+- [[Computational Exercise]]
+- [[Project 1 - Allie]]
 - [[2.1. Modelling Process]]
 - [[1.3 Linear DE]]
 - [[1.4 Systems of DE (nonlinear)]]
