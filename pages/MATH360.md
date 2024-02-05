@@ -1,6 +1,6 @@
 - [[Project Template]]
+  [[Computational Exercise]]
 - [[2.1. Modelling Process]]
 - [[1.3 Linear DE]]
 - [[1.4 Systems of DE (nonlinear)]]
-- [[Computational Exercise]]
 - [[2.2 Modeling with Proportionality]]
