@@ -12,5 +12,9 @@ Explanation of variables and constants:
 * $H_n$ Population of hawks at $n$ generation
 
 Our project deals with a similar model (Mice vs. Hawks), except they are not both predators, but predator-prey. As such, an increase in hawks causes the mice population to fall, but a decrease in mice also causes the hawk population to fall. You may notice that this is similar to the above, and indeed, we can draw similar conclusions as the textbook does with only minor tweaks.
-- ## Equations
+- # Base Equation
+  We are given a basic relation model composed of two equations:
+  $$\Delta x_n = r_1x_n(1-\frac{y_0}{M_1}$$
+  $$\text{and}$$
+  $$\Delta x_n = r_1x_n(1-\frac{y_0}{M_1})$$
 - # 1 - If the population of mice grows at a 5%
