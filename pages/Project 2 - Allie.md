@@ -24,5 +24,6 @@ Our project deals with a similar model (Mice vs. Hawks), except they are not bot
   * $x_n$ Population of mice at $n$ generation
   * $y_n$ Population of hawks at $n$ generation
   * $r_{1-2}$: ??
-- * $r_{1-2}$: ??
-- # 1 - If the population of mice grows at a 5%
+  * $M_1\text{ and }N_1$: ??
+- # 1
+  **If the population of mice grows at a 5% rate pergeneration in the absence
