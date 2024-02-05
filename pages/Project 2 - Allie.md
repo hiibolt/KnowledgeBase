@@ -31,6 +31,8 @@ Our project deals with a similar model (Mice vs. Hawks), except they are not bot
   With $$x$$ representing mice, we will assign $r_1$ to be $+0.05$, as it can be inferred by the direct distribution onto other terms that $$r_1$$ is a constant representing scale factor between the two populations. Because the mice population *increases*, we will use positive 0.05 as our constant. Because the hawk *decreases*, we will use negative 0.06 as our constant.
   
   This updates our equations to be:
-  $$\Delta x_n = )(x_n(1-\frac{y_n}{M_1})$$
+  $$\Delta x_n = (0.05)x_n(1-\frac{y_n}{M_1})$$
   $$\text{and}$$
-  $$\Delta x_n = r_2y_n(1-\frac{x_n}{N_1})$$
+  $$\Delta x_n = (-0.06)y_n(1-\frac{x_n}{N_1})$$
+- # 2
+  **Suppose that there is an equilibrium when the population of mice is 200,000 and that of hawks is 1500. W
