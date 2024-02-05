@@ -45,7 +45,9 @@ Our project deals with a similar model (Mice vs. Hawks), except they are not bot
   $$0 = (1-\frac{1500}{M_1})$$
   $$\frac{1500}{M_1} = 1$$
   $$M_1 = 1500$$
-  And do the same for $M_1$:
-  $$0 = (1-\frac{1500}{M_1})$$
-  $$\frac{1500}{M_1} = 1$$
-  $$M_1 = 1500$$
+  And do the same for $N_1$:
+  $$0 = (1-\frac{200,000}{N_1})$$
+  $$\frac{200,000}{N_1} = 1$$
+  $$M_1 = 200,000$$
+  
+  What can now be said about the parameters is that:
