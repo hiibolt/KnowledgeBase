@@ -5,8 +5,8 @@ In this project, we will be deriving variations of a predator-prey model. In thi
 $$\Delta O_n = k_1O_n-k_3O_nH_n$$
 $$\Delta H_n = k_1O_n-k_3O_nH_n$$
 Explanation of variables and constants:
-* $\Delta O_n$: Change in owl population between generations*
-* $\Delta H_n$: Change in hawk population between generations*
+* $\Delta O_n$: Change in owl population between generations
+* $\Delta H_n$: Change in hawk population between generations
 * $k_{1-4}$: Positive constants
 * $O_n$ Population of owls at $n$ generation
 * $H_n$ Population of hawks at $n$ generation
@@ -18,5 +18,10 @@ Our project deals with a similar model (Mice vs. Hawks), except they are not bot
   $$\text{and}$$
   $$\Delta x_n = r_2y_n(1-\frac{x_n}{N_1})$$
   
-  It's not immediately obvious what the
+  It's not immediately obvious what these variables and constants are, however. We'll start by assigning $$x$$ to **mice** and $$y$$ to **hawks**:
+  * $\Delta x_n$: Change in mice population between generations
+  * $\Delta y_n$: Change in hawk population between generations
+  * $k_{1-4}$: Positive constants
+  * $O_n$ Population of owls at $n$ generation
+  * $H_n$ Population of hawks at $n$ generation
 - # 1 - If the population of mice grows at a 5%
