@@ -1,5 +1,5 @@
 ## Introduction
-In this project, we will be deriving variations of a predator-prey model. In this model, hawks and owls are found in an environment where they coexist but complete for prey. that typically is modeled by the following model:
+In this project, we will be deriving variations of a predator-prey model. In this model, hawks and owls are found in an environment where they coexist but complete for prey. This causes for an increase in hawks to cause a decrease in owls, and vice versa. This non-linear relationship is quantified with the following model:
 
 **Owls vs. Hawks** (Competing species in same environment)
 $$\Delta O_n = k_1O_n-k_3O_nH_n$$
@@ -10,5 +10,3 @@ Explanation of variables and constants:
 * $k_{1-4}$: Positive constants
 * $O_n$ Population of owls at $n$ generation
 * $H_n$ Population of hawks at $n$ generation
-
-In the
