@@ -3,3 +3,4 @@
 - [[1.3 Linear DE]]
 - [[1.4 Systems of DE (nonlinear)]]
 - [[Computational Exercise]]
+- [[2.2 Modeling with Proportionality]]
