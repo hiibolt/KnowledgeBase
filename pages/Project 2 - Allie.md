@@ -51,3 +51,5 @@ Our project deals with a similar model (Mice vs. Hawks), except they are not bot
   $$M_1 = 200,000$$
   
   What can now be said about the parameters is that:
+  * $$M_1$$ is the number of hawks required for mice population equilibrium
+  * $$N_1$$ is the number of mice required for hawk population equilibrium
