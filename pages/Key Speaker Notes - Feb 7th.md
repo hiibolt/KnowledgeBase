@@ -50,6 +50,5 @@ Contact Information: tkz5084@psu.edu
 	  We may want to imitate decision-making commonly used by experts. This can boost the learning of neural agents, vastly improving their efficiency.
 	  
 	  It's important to note that some data is unclean. What then?
-	  We must use different segments differently according, and we do this by disentangling the action policies, creating decision pools and encoding them into different skills. We
-	  
-	  After creating these pools, we can use these skills and select a singular best option to base our model segments upon.
+	  We must use different segments differently according, and we do this by disentangling the action policies, creating decision pools and encoding them into different skills. We do this by discovering skills between $D^{\text{clean}}\unionD^{\text{noisy}}$, then applying the best to $D^{clean}$.
+	- ### Encouraging Skill Disentanglement
