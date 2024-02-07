@@ -5,4 +5,4 @@
 - [[1.3 Linear DE]]
 - [[1.4 Systems of DE (nonlinear)]]
 - [[2.2 Modeling with Proportionality]]
--
+- [[2.3 Geometric Similarity]]
