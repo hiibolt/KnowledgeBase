@@ -55,6 +55,6 @@ Contact Information: tkz5084@psu.edu
 	  Each skill should be one pool of possible states and actions.
 	  Segments of similar states and optimal actions should select similar skills.
 	  
-	  A skill can be 
+	  A skill encodes a different action primitive.
 	  
 	  We must then construct a better agent using the learned skills to best fit $D^{\text{clean}}$, then fine-tune all modules until the model has reached the state of the target agent.
