@@ -46,3 +46,4 @@ Contact Information: tkz5084@psu.edu
 	  
 	  **DisGNN**:
 	  Splitting the model into channels with each having their own relation type and aggregating into a singular model produces a far more accurate final model.
+	- ### Learning From Noisy Sequences
