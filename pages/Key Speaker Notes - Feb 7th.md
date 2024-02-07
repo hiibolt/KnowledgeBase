@@ -48,3 +48,8 @@ Contact Information: tkz5084@psu.edu
 	  Splitting the model into channels with each having their own relation type and aggregating into a singular model produces a far more accurate final model.
 	- ### Learning From Noisy Sequences
 	  We may want to imitate decision-making commonly used by experts. This can boost the learning of neural agents, vastly improving their efficiency.
+	  
+	  It's important to note that some data is unclean. What then?
+	  We must use different segments differently according.
+	  
+	  First, we must disentangle the
