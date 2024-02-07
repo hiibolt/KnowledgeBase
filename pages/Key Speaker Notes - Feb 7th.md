@@ -29,4 +29,6 @@ Contact Information: tkz5084@psu.edu
 		  Explaining an existing model
 		- #### Ad-hoc Interpretation
 		  Explaining during the design process
-	- ## Representative Works
+- ## Representative Works
+	- ### Unsupervised Discovery of Latent Relations
+	  Node connections are procured by a large number of factors, which are often concealed behind other factors.
