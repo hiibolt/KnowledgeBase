@@ -46,11 +46,11 @@ Contact Information: tkz5084@psu.edu
 	  
 	  **DisGNN**:
 	  Splitting the model into channels with each having their own relation type and aggregating into a singular model produces a far more accurate final model.
-	- ## Learning From Noisy Sequences
-	  We may want to imitate decision-making commonly used by experts. This can boost the learning of neural agents, vastly improving their efficiency.
-	  
-	  It's important to note that some data is unclean. What then?
-	  We must use different segments differently according, and we do this by disentangling the action policies, creating decision pools and encoding them into different skills. We do this by discovering skills between $D^{\text{clean}}\unionD^{\text{noisy}}$, then applying the best to $D^{clean}$.
+- ## Learning From Noisy Sequences
+  We may want to imitate decision-making commonly used by experts. This can boost the learning of neural agents, vastly improving their efficiency.
+  
+  It's important to note that some data is unclean. What then?
+  We must use different segments differently according, and we do this by disentangling the action policies, creating decision pools and encoding them into different skills. We do this by discovering skills between $D^{\text{clean}}\unionD^{\text{noisy}}$, then applying the best to $D^{clean}$.
 	- ### Encouraging Skill Disentanglement
 	  Each skill should be one pool of possible states and actions.
 	  Segments of similar states and optimal actions should select similar skills.
@@ -58,12 +58,12 @@ Contact Information: tkz5084@psu.edu
 	  A skill encodes a different action primitive.
 	  
 	  We must then construct a better agent using the learned skills to best fit $D^{\text{clean}}$, then fine-tune all modules until the model has reached the state of the target agent.
-	- ## Creating Interpetable Directional Graphs
-	  High stake scenarios require clearly readable interpretability.
-	  
-	  **Goals**:
-	  * Identify the critical input elements
-	  * Procure model-level explanation
-	  * Display learned variable dependency
-	  * Ensure DAG matches actual model output
-	-
+- ## Creating Interpetable Directional Graphs
+  High stake scenarios require clearly readable interpretability.
+  
+  **Goals**:
+  * Identify the critical input elements
+  * Procure model-level explanation
+  * Display learned variable dependency
+  * Ensure DAG matches actual model output
+  * Model time in the DAG in case of non-static relations
