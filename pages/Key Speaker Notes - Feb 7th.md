@@ -33,8 +33,12 @@ Contact Information: tkz5084@psu.edu
 	- ### Unsupervised Discovery of Latent Relations
 	  Node connections are procured by a large number of factors, which are often concealed behind other factors.
 	  
-	  We must differentiate these latent connections explicitly.
+	  Therefore, we must differentiate these latent connections explicitly.
 	- ### Latent Relations behind Existence of Connections
 	  Without those latent relations, DNNs take all connections uniformly with the same message propagation.
 	  
 	  Two nodes $N_1$ and $N_2$ could have the same $P_1$ parent node with completely different connection semantics.
+	- ### Deriving Semantics
+	  **Heuristics**:
+	  * Unions of the original data should recover the original input
+	  * Edges
