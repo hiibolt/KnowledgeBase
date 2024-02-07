@@ -15,4 +15,5 @@ Contact Information: tkz5084@psu.edu
 	- ### Weakly-Supervised Learning
 	  Deep neural networks required a *ton* of labeled data for training.
 	- ### Iterpretability of machine learning models
+	  Interpreting what is learned by the DNN is critical for evaluation.
 - ## Representative Works
