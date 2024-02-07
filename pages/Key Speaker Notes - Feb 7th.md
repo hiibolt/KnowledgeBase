@@ -61,4 +61,7 @@ Contact Information: tkz5084@psu.edu
 	- ## Creating Interpetable Directional Graphs
 	  High stake scenarios require clearly readable interpretability.
 	  
-	  * In
+	  **Goals**:
+	  * Identify the critical input elements
+	  * Procure model-level explanation
+	  * Display learned variable dependency
