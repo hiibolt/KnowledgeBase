@@ -43,3 +43,5 @@ Contact Information: tkz5084@psu.edu
 	  * Unions of the original data should recover the original input
 	  * Homo-edges and hetero-edges carry different semantics
 	  * Captured edge semantics should be disparate
+	  
+	  Splitting the model into channels with each having their own relation type and aggregating into a singular model
