@@ -32,3 +32,7 @@ Contact Information: tkz5084@psu.edu
 - ## Representative Works
 	- ### Unsupervised Discovery of Latent Relations
 	  Node connections are procured by a large number of factors, which are often concealed behind other factors.
+	- ### Latent Relations behind Existence of Connections
+	  Without those latent relations, DNNs take all connections uniformly with the same message propagation.
+	  
+	  Two nodes
