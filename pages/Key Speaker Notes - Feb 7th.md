@@ -67,4 +67,4 @@ Contact Information: tkz5084@psu.edu
 	  * Ensure DAG matches actual model output
 	  * Model time in the DAG in case of non-static relations
 	- ## Creation Process
-	  Creates causal graph at each timestamp $t$, creating an interactive, time-based graph.
+	  Creates causal graph at each timestamp $t$, creating an interactive, time-based and state-dependent graph. It must verify th
