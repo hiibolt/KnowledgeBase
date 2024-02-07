@@ -66,4 +66,5 @@ Contact Information: tkz5084@psu.edu
 	  * Display learned variable dependency
 	  * Ensure DAG matches actual model output
 	  * Model time in the DAG in case of non-static relations
-	-
+	- ## Creation Process
+	  Creates causal graph at each timestamp $t$, creating an interactive, time-based graph.
