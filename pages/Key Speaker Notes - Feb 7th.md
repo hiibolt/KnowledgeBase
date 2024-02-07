@@ -52,3 +52,7 @@ Contact Information: tkz5084@psu.edu
 	  It's important to note that some data is unclean. What then?
 	  We must use different segments differently according, and we do this by disentangling the action policies, creating decision pools and encoding them into different skills. We do this by discovering skills between $D^{\text{clean}}\unionD^{\text{noisy}}$, then applying the best to $D^{clean}$.
 	- ### Encouraging Skill Disentanglement
+	  Each skill should be one pool of possible states and actions.
+	  Segments of similar states and optimal actions should select similar skills.
+	  
+	  We must then construct a better agent using the learned skills to best fit $$$$
