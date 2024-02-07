@@ -60,10 +60,10 @@ Contact Information: tkz5084@psu.edu
 	  We must then construct a better agent using the learned skills to best fit $D^{\text{clean}}$, then fine-tune all modules until the model has reached the state of the target agent.
 - ## Creating Interpetable Directional Graphs
   High stake scenarios require clearly readable interpretability.
-  
-  **Goals**:
-  * Identify the critical input elements
-  * Procure model-level explanation
-  * Display learned variable dependency
-  * Ensure DAG matches actual model output
-  * Model time in the DAG in case of non-static relations
+	- ### Goals:
+	  * Identify the critical input elements
+	  * Procure model-level explanation
+	  * Display learned variable dependency
+	  * Ensure DAG matches actual model output
+	  * Model time in the DAG in case of non-static relations
+	-
