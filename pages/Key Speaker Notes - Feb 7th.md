@@ -24,5 +24,8 @@ Contact Information: tkz5084@psu.edu
 	- ### Iterpretability of machine learning models
 	  Interpreting what is learned by the DNN is critical for evaluation.
 	  
-	  The black-box nat
+	  The black-box nature of a DNN tends to decouple results from proper interpretation.
+		- #### Post-hoc
+		  Explaining an existing model
+		- #### Ad-hoc
 - ## Representative Works
