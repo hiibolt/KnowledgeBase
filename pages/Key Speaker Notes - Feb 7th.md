@@ -67,8 +67,6 @@ Contact Information: tkz5084@psu.edu
 	  * Ensure DAG matches actual model output
 	  * Model time in the DAG in case of non-static relations
 	- ## Creation Process
-	  Creates causal graph at each timestamp $t$, creating an interactive, time-based and state-dependent graph. It must verify it is in fact causal an in line with model output in the last step, or repeat the process.
-	  
-	  A message update only occurs when a causal relationship actually exists.
-	  
-	  Creates an action prediction with a readable
+	  * Creates causal graph at each timestamp $t$, creating an interactive, time-based and state-dependent graph. It must verify it is in fact causal an in line with model output in the last step, or repeat the process.
+	  * A message update only occurs when a causal relationship actually exists.
+	  * Creates an action prediction with a readable causality-aware representation.
