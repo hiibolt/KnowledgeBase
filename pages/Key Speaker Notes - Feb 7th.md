@@ -46,4 +46,5 @@ Contact Information: tkz5084@psu.edu
 	  
 	  **DisGNN**:
 	  Splitting the model into channels with each having their own relation type and aggregating into a singular model produces a far more accurate final model.
-	- ### Learning From Noisy Sequences
+		- ### Learning From Noisy Sequences
+		  We may want to imitate decision-making commonly used by experts. This can boost the learning of neural agents, vastly imporivng their effi
