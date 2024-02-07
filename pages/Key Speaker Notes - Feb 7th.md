@@ -46,7 +46,7 @@ Contact Information: tkz5084@psu.edu
 	  
 	  **DisGNN**:
 	  Splitting the model into channels with each having their own relation type and aggregating into a singular model produces a far more accurate final model.
-	- ### Learning From Noisy Sequences
+	- ## Learning From Noisy Sequences
 	  We may want to imitate decision-making commonly used by experts. This can boost the learning of neural agents, vastly improving their efficiency.
 	  
 	  It's important to note that some data is unclean. What then?
@@ -58,3 +58,7 @@ Contact Information: tkz5084@psu.edu
 	  A skill encodes a different action primitive.
 	  
 	  We must then construct a better agent using the learned skills to best fit $D^{\text{clean}}$, then fine-tune all modules until the model has reached the state of the target agent.
+	- ## Creating Interpetable Directional Graphs
+	  High stake scenarios require clearly readable interpretability.
+	  
+	  * In
