@@ -41,4 +41,5 @@ Contact Information: tkz5084@psu.edu
 	- ### Deriving Semantics
 	  **Heuristics**:
 	  * Unions of the original data should recover the original input
-	  * Edges
+	  * Homo-edges and hetero-edges carry different semantics
+	  * Captured edge semantics should be disparate
