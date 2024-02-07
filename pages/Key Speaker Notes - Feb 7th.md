@@ -14,6 +14,8 @@ Contact Information: tkz5084@psu.edu
 		  **Examples**: Game playing, treatment trajectory, human-machine interaction
 	- ### Weakly-Supervised Learning
 	  Deep neural networks required a *ton* of labeled data for training.
+	  
+	  This is often in scenarios with a very low number of data points, such as users with ground truths available in user profiling. (iGait, for instance, has this issue)
 	- ### Iterpretability of machine learning models
 	  Interpreting what is learned by the DNN is critical for evaluation.
 - ## Representative Works
