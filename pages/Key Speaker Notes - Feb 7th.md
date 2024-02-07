@@ -65,3 +65,5 @@ Contact Information: tkz5084@psu.edu
 	  * Identify the critical input elements
 	  * Procure model-level explanation
 	  * Display learned variable dependency
+	  * Ensure DAG matches actual model output
+	-
