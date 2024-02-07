@@ -17,10 +17,12 @@ Contact Information: tkz5084@psu.edu
 	  
 	  This is often in scenarios with a very low number of data points, such as users with ground truths available in user profiling. (iGait, for instance, has this issue)
 	  
-	  Examples of weak supervision**:
+	  **Examples of weak supervision**:
 	  * Insufficient Supervision
 	  * Inaccurate Supervision
 	  * Biased Supervision
 	- ### Iterpretability of machine learning models
 	  Interpreting what is learned by the DNN is critical for evaluation.
+	  
+	  The black-box nat
 - ## Representative Works
