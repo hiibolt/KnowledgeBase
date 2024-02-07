@@ -60,6 +60,8 @@ Contact Information: tkz5084@psu.edu
 	  We must then construct a better agent using the learned skills to best fit $D^{\text{clean}}$, then fine-tune all modules until the model has reached the state of the target agent.
 - ## Creating Interpetable Directional Graphs
   High stake scenarios require clearly readable interpretability.
+  
+  This approach is significantly more effective in applications with mixed states that morph over time.
 	- ### Goals:
 	  * Identify the critical input elements
 	  * Procure model-level explanation
@@ -70,3 +72,4 @@ Contact Information: tkz5084@psu.edu
 	  * Creates causal graph at each timestamp $t$, creating an interactive, time-based and state-dependent graph. It must verify it is in fact causal an in line with model output in the last step, or repeat the process.
 	  * A message update only occurs when a causal relationship actually exists.
 	  * Creates an action prediction with a readable causality-aware representation.
+	-
