@@ -6,3 +6,4 @@
 - [[1.4 Systems of DE (nonlinear)]]
 - [[2.2 Modeling with Proportionality]]
 - [[2.3 Geometric Similarity]]
+- [[3.1 Fitting models to data]]
