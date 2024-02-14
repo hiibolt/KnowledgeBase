@@ -7,3 +7,4 @@
 - [[2.2 Modeling with Proportionality]]
 - [[2.3 Geometric Similarity]]
 - [[3.1 Fitting models to data]]
+- [[3.3 LSM]]
