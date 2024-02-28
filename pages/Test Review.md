@@ -12,4 +12,8 @@
 	  We are given one horse to be 4ft tall and weighs 800.
 	  
 	  From this, we can derive k:
-	  $$800=k(4)^3$$
+	  $$800=k(4)^3 \text{ or } k=\frac{25}{2}$$
+	  
+	  We must now model the height of a 1200 pound horse:
+	  $$1200=\frac{25}{2}l^3$$
+	  $$\text{or}$$
