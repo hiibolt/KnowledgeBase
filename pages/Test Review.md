@@ -43,4 +43,4 @@
 	  $$S_2=S_1+2N_2=-9+7$$
 	  $$S_3=S_2+2N_3=-3+N$$
 	  
-	  Previously, $S_3 < 0$. With $N >= 3$, it will move westward.
+	  Previously, $S_3 < 0$. With $N >= 3$, $S_3\text{ becomes }>= 0$, and the PDC will move westward.
