@@ -45,4 +45,10 @@
 	  
 	  Previously, $S_3 < 0$. With $N >= 3$, $S_3\text{ becomes }>= 0$, and the PDC will move westward.
 - ## Interest Rates
-  a_0 = 20, interest rate is 2%=0.02 +85 at the end of the month
+  **Givens:$$
+  $a_0 = 20$, interest rate is $2%=0.02$
+  $+85$ at the end of the month
+  
+  **General Model:**
+  * a_n=ra_{n-1}+b where n = 1,2,3, ...
+  * a_0 = 20
