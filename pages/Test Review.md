@@ -28,5 +28,7 @@
 	  
 	  Find the slopes:
 	  $$S_0=-(N_1+N_2+N_3+N_4+N_5)=-21$$
-	  $$S_1=S_0+2N_1=$$
-	  $$S_2=S_1+2N_2$$
+	  $$S_1=S_0+2N_1=-17$$
+	  $$S_2=S_1+2N_2=-7$$
+	  $$S_3=S_2+2N_3=-1 \text{ (negative slope!)}$$
+	  $$S_4=S3+2N_4=7 \text{ (positive slope!)}$$
