@@ -61,7 +61,13 @@
   $$a_n = 1.02a_{n-1} + 5, n = 1,2,3,...$$
   $$a_0 = 20$$
   
-  **Extension**
+  **Extension 1**
   Equilibrium:
   Let a_n = a for all n,
-  a=1.02a+
+  $$a=1.02a+5$$
+  $$\text{or}$$
+  $$a=-250$$
+  
+  **Extension 2**
+  Is this stable or unstable?
+  r = 1.02
