@@ -18,4 +18,6 @@
 	  $$1200=\frac{25}{2}l^3$$
 	  $$\text{or}$$
 	  $$l=(\frac{1200*2}{25})^\frac{1}{3}=\sqrt[3]{96}=4.58$$
-- ##
+- ## Repair Stations
+  We have five stations from west to east.
+  Each station has an assigned number
