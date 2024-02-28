@@ -70,4 +70,5 @@
   
   **Extension 2**
   Is this stable or unstable?
-  r = 1.02
+  $r = 1.02 > 1$, therefore our solution is unstable.
+-
