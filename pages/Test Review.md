@@ -33,4 +33,7 @@
 	  $$S_3=S_2+2N_3=-1 \text{ (negative slope!)}$$
 	  $$S_4=S3+2N_4=7 \text{ (positive slope!)}$$
 	  
-	  We can see that the slope changes from negative to positive in the range of  $S_3 \text{ to } S_4$, meaning that the PDC should be positioned at the fourth station
+	  We can see that the slope changes from negative to positive in the range of  $S_3 \text{ to } S_4$, meaning that the PDC should be positioned at the fourth station due to it being at a point of absolute minimum for the cost function.
+	  
+	  **Extension**
+	  At what N_1
