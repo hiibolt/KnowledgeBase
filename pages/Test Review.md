@@ -52,3 +52,7 @@
   **General Model:**
   * a_n=ra_{n-1}+b where n = 1,2,3, ...
   * a_0 = 20
+  
+  Accordingly, our model then becomes:
+  $$a_1 = a_0 + 0.02a_0+5=1.02a_0+5$$
+  $$a_2 = a_1 + 0.02a_1 + 5 = $$
