@@ -87,7 +87,10 @@
   **Givens:**
   $z=x^ay^b$ with data $\{(x_i,y_i,z_i)\}, i =1,2,3,...$
   
-  Linearization:
+  **Linearization:**
   $$\ln{z}=a\ln{a}+b\ln{b}$$
-  Linearization of data:
+  **Linearization of data:**
   $\{(\ln{x_i},\ln{y_i},\ln{z_i})\}$
+  
+  **Equation to minimize:**
+  $$\sum^{m}_{i=1}()^2$$
