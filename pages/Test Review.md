@@ -45,7 +45,7 @@
 	  
 	  Previously, $S_3 < 0$. With $N >= 3$, $S_3\text{ becomes }>= 0$, and the PDC will move westward.
 - ## Interest Rates
-  **Givens:$$
+  **Givens:**
   $a_0 = 20$, interest rate is $2%=0.02$
   $+85$ at the end of the month
   
@@ -60,3 +60,8 @@
   Or more generally:
   $$a_n = 1.02a_{n-1} + 5, n = 1,2,3,...$$
   $$a_0 = 20$$
+  
+  **Extension**
+  Equilibrium:
+  Let a_n = a for all n,
+  a=1.02a+
