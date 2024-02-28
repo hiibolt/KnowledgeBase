@@ -84,3 +84,8 @@
   $$\text{so}$$
   $$a_n = 1.02^na_0+5(1.02^{n-1}+1.02^{n-2}+...+1)$$
 - ## LSM with 3 Variables
+  **Givens:**
+  $z=x^ay^b$ with data $\{(x_i,y_i,z_i)\}$
+  
+  Linearization:
+  $$\ln{z}=a\ln{a}+b\$$
