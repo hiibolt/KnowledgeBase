@@ -32,3 +32,5 @@
 	  $$S_2=S_1+2N_2=-7$$
 	  $$S_3=S_2+2N_3=-1 \text{ (negative slope!)}$$
 	  $$S_4=S3+2N_4=7 \text{ (positive slope!)}$$
+	  
+	  We can see that the slope changes from negative to positive in the range of  $S_3 \text{ to S_4
