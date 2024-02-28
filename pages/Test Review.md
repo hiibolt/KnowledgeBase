@@ -36,4 +36,10 @@
 	  We can see that the slope changes from negative to positive in the range of  $S_3 \text{ to } S_4$, meaning that the PDC should be positioned at the fourth station due to it being at a point of absolute minimum for the cost function.
 	  
 	  **Extension**
-	  At what N_1
+	  At what value of $N_1$ would the PDC move westward?
+	  
+	  $$S_0=-(N+N_2+N_3+N_4+N_5)=-19-N$$
+	  $$S_1=S_0+2N=-19+N$$
+	  $$S_2=S_1+2N_2=-7$$
+	  $$S_3=S_2+2N_3=-1 \text{ (negative slope!)}$$
+	  $$S_4=S3+2N_4=7 \text{ (positive slope!)}$$
