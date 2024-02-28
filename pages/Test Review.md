@@ -17,4 +17,5 @@
 	  We must now model the height of a 1200 pound horse:
 	  $$1200=\frac{25}{2}l^3$$
 	  $$\text{or}$$
-	  $$l=(\frac{1200*2}{25})^\frac{1}{3}=\sqrt^3{96}$$
+	  $$l=(\frac{1200*2}{25})^\frac{1}{3}=\sqrt[3]{96}=4.58$$
+- ##
