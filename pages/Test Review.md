@@ -71,4 +71,6 @@
   **Extension 2**
   Is this stable or unstable?
   $r = 1.02 > 1$, therefore our solution is unstable.
--
+  
+  **Extension 3**
+  Solve for $a_n$ in terms of $n$.
