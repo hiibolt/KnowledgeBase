@@ -40,6 +40,7 @@
 	  
 	  $$S_0=-(N+N_2+N_3+N_4+N_5)=-19-N$$
 	  $$S_1=S_0+2N=-19+N$$
-	  $$S_2=S_1+2N_2=-7$$
-	  $$S_3=S_2+2N_3=-1 \text{ (negative slope!)}$$
-	  $$S_4=S3+2N_4=7 \text{ (positive slope!)}$$
+	  $$S_2=S_1+2N_2=-9+7$$
+	  $$S_3=S_2+2N_3=-3+N$$
+	  
+	  Previously, $S_3 < 0$. With a $N >= 3$
