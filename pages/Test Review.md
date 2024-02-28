@@ -19,5 +19,9 @@
 	  $$\text{or}$$
 	  $$l=(\frac{1200*2}{25})^\frac{1}{3}=\sqrt[3]{96}=4.58$$
 - ## Repair Stations
-  We have five stations from west to east.
-  Each station has an assigned number
+  We have five stations ($S_i$) from west to east.
+  Each station has an assigned number of visits ($N_i$)
+  
+  We must find the optimal station to place the repair station at.
+	- ### Example
+	  (S_i,)
