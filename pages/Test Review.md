@@ -24,4 +24,4 @@
   
   We must find the optimal station to place the repair station at.
 	- ### Example
-	  (S_i,)
+	  $(S_i, N_i): \{(1,2), (2,5), (3,3), (4,4), (5,7)\}$
