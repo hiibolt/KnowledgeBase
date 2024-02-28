@@ -94,5 +94,5 @@
   
   **Equation to minimize:**
   $$S(a,b)=\sum^{m}_{i=1}(\ln{z_i}-a\ln{x_i}-b\ln{y_i})^2$$
-  $$\frac{dS}{da}=2\sum^{m}_{i=1}(\ln{z_i}-a\ln{x_i}-b\ln{y_i})(-\ln{x_i})$$
-  $$\frac{dS}{da}=2\sum^{m}_{i=1}(\ln{z_i}-a\ln{x_i}-b\ln{y_i})(-\ln{y_i})$$
+  $$\frac{dS}{da}=-2\sum^{m}_{i=1}(\ln{z_i}-a\ln{x_i}-b\ln{y_i})(\ln{x_i})$$
+  $$\frac{dS}{db}=-2\sum^{m}_{i=1}(\ln{z_i}-a\ln{x_i}-b\ln{y_i})(\ln{y_i})$$
