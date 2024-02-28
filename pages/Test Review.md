@@ -25,3 +25,7 @@
   We must find the optimal station to place the repair station at.
 	- ### Example
 	  $(S_i, N_i): \{(1,2), (2,5), (3,3), (4,4), (5,7)\}$
+	  
+	  Find the slopes:
+	  $$S_0=-(N_1+N_2+N_3+N_4+N_5)<0$$
+	  $$S_1=-(N_1+N_2+N_3+N_4+N_5)$$
