@@ -625,17 +625,17 @@
 :nonce 1710193048583
 :italic false}}
 :block/updated-at 1710193160871} 
-{:block/created-at 1710193372707
+{:block/created-at 1710193392267
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke ""
+{:stroke "#f00000"
 :rotation 0
 :borderRadius 2
 :index 22
 :scale [1 1]
 :scaleLevel "md"
-:fill ""
+:fill "#ff8a8a"
 :type "box"
 :size [128 64]
 :strokeType "line"
@@ -649,20 +649,20 @@
 :point [736 752]
 :fontSize 20
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
-:nonce 1710192776623
+:nonce 1710192776626
 :italic false}}
-:block/updated-at 1710193372707} 
-{:block/created-at 1710193372708
+:block/updated-at 1710193392267} 
+{:block/created-at 1710193383692
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke ""
+{:stroke "#f50000"
 :rotation 0
 :borderRadius 2
 :index 21
 :scale [1 1]
 :scaleLevel "md"
-:fill ""
+:fill "#ff8f8f"
 :type "box"
 :size [128 64]
 :strokeType "line"
@@ -676,9 +676,9 @@
 :point [736 672]
 :fontSize 20
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
-:nonce 1710192764276
+:nonce 1710192764279
 :italic false}}
-:block/updated-at 1710193372708} 
+:block/updated-at 1710193383692} 
 {:block/created-at 1710193349473
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -1250,7 +1250,7 @@
 :nonce 1
 :assets []
 :shapes-index ("38b06e50-ac4d-11ee-9e11-378aff2f4c21" "e542bec0-ac4d-11ee-9e11-378aff2f4c21" "f8292792-ac4d-11ee-9e11-378aff2f4c21" "0261bb52-ac4e-11ee-9e11-378aff2f4c21" "a0412fb0-acec-11ee-9e11-378aff2f4c21" "aadd4032-acec-11ee-9e11-378aff2f4c21" "c4622610-acec-11ee-9e11-378aff2f4c21" "d3e8e922-acec-11ee-9e11-378aff2f4c21" "da89fe40-acec-11ee-9e11-378aff2f4c21" "f4909742-acec-11ee-9e11-378aff2f4c21" "f8f94890-acec-11ee-9e11-378aff2f4c21" "07f92862-aced-11ee-9e11-378aff2f4c21" "264e50b0-ac4d-11ee-9e11-378aff2f4c21" "e4e7a1a0-dfee-11ee-a294-7f499df4a74b" "ebeb2210-dfee-11ee-a294-7f499df4a74b" "fc7d1390-dfee-11ee-a294-7f499df4a74b" "189834b0-dfef-11ee-a294-7f499df4a74b" "537e7bc0-dfef-11ee-a294-7f499df4a74b" "5f2a9cb0-dfef-11ee-a294-7f499df4a74b" "8bd7fd72-dfef-11ee-a294-7f499df4a74b" "8f0ff6f2-dfef-11ee-a294-7f499df4a74b" "9e8a5df0-dfef-11ee-a294-7f499df4a74b" "9e8a5df1-dfef-11ee-a294-7f499df4a74b" "9e8a5df2-dfef-11ee-a294-7f499df4a74b" "d47fb0e2-dfef-11ee-a294-7f499df4a74b" "d75bf5d2-dfef-11ee-a294-7f499df4a74b" "dabd2232-dfef-11ee-a294-7f499df4a74b" "e4357330-dfef-11ee-a294-7f499df4a74b" "eb967cf0-dfef-11ee-a294-7f499df4a74b" "1103f080-dff0-11ee-a294-7f499df4a74b" "32320cb2-dff0-11ee-a294-7f499df4a74b" "35f04d30-dff0-11ee-a294-7f499df4a74b")}}
-:block/updated-at 1710193372707
+:block/updated-at 1710193392267
 :block/created-at 1704515714597
 :block/type "whiteboard"
 :block/name "ai-asd"
