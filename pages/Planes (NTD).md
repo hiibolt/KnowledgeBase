@@ -14,10 +14,11 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$20*(\frac{2}{\sqrt{13}})+25*(\frac{3}{\sqrt{13}})$$
 	- ### 5.2 - Gradients
 	  'The vector of partial derivatives $\nabla f(x,y) = <f_x, f_y>$'
+	  In other words, when asked for a gradient, provide $\nabla f$
 	  
 	  Or, more generally,
 	  $$\text{For a unit vector } u \text{ at } x_0 \text{,}$$
 	  $$D_u f(x_1,...,x_n)=\nabla f(x_0)u$$
-	  Which has an interesting property that the maximum value of the gradient is the positive norm of nabla f ($||\nabla f||$), and the minimum value is the same but negative ($\nabla f||$)
+	  Which has an interesting property that the maximum value of the gradient is the positive norm of nabla f ($||\nabla f||$), and the minimum value is the same but negative ($-||\nabla f||$).
 	- ###
 -
