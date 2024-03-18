@@ -25,6 +25,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  
 	  Considering this involves a dot product, this is proven by the maximum value being at $\theta = 0$ and the minimum value being at $\theta = \pi$.
 		- #### 5.2.E
-		  Find the minimum and maximum values of $D_uf$ for $f(x,y)=x^5+xy^3+y^3$ at the point .
+		  Find the minimum/maximum values of $D_uf$ for $f(x,y)=x^5+xy^3+y^3$ at the point $(1,1)$.
+		  
+		  $$\nabla f=<5x^4+y^3,3$$
 	- ###
 -
