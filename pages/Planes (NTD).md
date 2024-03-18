@@ -35,5 +35,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $u=< -\frac{1}{\sqrt{2}}, -\frac{1}{\sqrt{2}}>$, $Du_1f(1,1)=-\sqrt{72}=-6\sqrt{2}$
 		  and maximized at 
 		  $u=<\frac{1}{\sqrt{2}},\frac{1}{\sqrt{2}}>$, $Du_2f(1,1)=6\sqrt{2}$
+		- #### 5.2.E
+		  Calculate the direction
 	- ###
 -
