@@ -31,6 +31,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$\nabla f=<6,6>$$
 		  $$u=\pm\frac{\nabla f(1,1)}{||\nabla f(1,1)||}=\pm\frac{1}{\sqrt{36+36}}<6,6>=\pm<\frac{1}{\sqrt{2}},\frac{1}{\sqrt{2}}>$$
 		  
-		  Thus, the directional derivative is minimized at $u=< -\frac{1}{\sqrt{2}}, -\frac{1}{\sqrt{2}}>$ and maximized at $-<\frac{1}{\sqrt{2}},\frac{1}{\sqrt{2}}>$.
+		  Thus, the directional derivative is minimized at 
+		  $u=< -\frac{1}{\sqrt{2}}, -\frac{1}{\sqrt{2}}>$, $$$$
+		  and maximized at 
+		  $u=<\frac{1}{\sqrt{2}},\frac{1}{\sqrt{2}}>$.
 	- ###
 -
