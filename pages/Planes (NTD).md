@@ -42,6 +42,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $\nabla f=<3x^2\cos(2y),-2x^3\sin(2y)>$
 		  $\nabla f(1,\frac{\pi}{2})=<-3,0>$
 		  Thus,
-		  $$D_uf(1,\frac{\pi}{2}$$
+		  $$D_uf(1,\frac{\pi}{2})=\nabla f(1,\frac{\pi}{2})*u$$
+		  $$\text{or}$$
+		  $$=<-3,0>*<\frac{3}{5},\frac{4}{5}>=-\frac{9}{5}$$
 	- ###
 -
