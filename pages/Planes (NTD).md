@@ -16,7 +16,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  'The vector of partial derivatives $\nabla f(x,y) = <f_x, f_y>$'
 	  
 	  Or, more generally,
-	  $$\text{For a unit vector } u \text{ at } x_0$$
+	  $$\text{For a unit vector } u \text{ at } x_0 \text{,}$$
 	  $$D_u f(x_1,...,x_n)=\nabla f(x_0)u$$
+	  and
 	- ###
 -
