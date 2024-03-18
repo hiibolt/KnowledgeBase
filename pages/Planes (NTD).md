@@ -18,7 +18,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  
 	  Or, more generally,
 	  $$\text{For a unit vector } u \text{ at } x_0 \text{,}$$
-	  $$D_u f(x_1,...,x_n)=\nabla f(x_0)u$$
-	  Which has an interesting property that the maximum value of the gradient is the positive norm of nabla f ($||\nabla f||$), and the minimum value is the same but negative ($-||\nabla f||$).
+	  $$D_u f(x_1,...,x_n)=\nabla f(x_0)*u$$
+	  Which has an interesting property that the maximum value of the gradient is the positive norm of nabla f ($||\nabla f||$), and the minimum value is the same but negative ($-||\nabla f||$). Considering this involves a dot product, this is proven by the maximum value being at $\theta = 0$ and the minimum value being at $\theta = \pi$.
 	- ###
 -
