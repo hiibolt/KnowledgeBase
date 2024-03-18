@@ -39,6 +39,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  Calculate the directional derivative of $f(x,y)=x^3\cos(2y) at (1,\frac{\pi}{2})$ in the direction of $v=<3,4>$ and compare this to the minimum and maximum values of the directional derivative $D_uf$.
 		  
 		  Direction = $\frac{1}{\sqrt{3^2+4^2}}<3,4>=<\frac{3}{5},\frac{4}{5}$
-		  $\nabla f$
+		  $\nabla f=<3x^2\cos(2y),-2x^3\sin(2y)>$
+		  $\nabla f(1,\frac{\pi}{2})=<-3,0>$
+		  Thus,
+		  $$D_uf(1,\frac{\pi}{2}$$
 	- ###
 -
