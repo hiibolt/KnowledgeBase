@@ -13,7 +13,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  **Solution**:
 		  $$20*(\frac{2}{\sqrt{13}})+25*(\frac{3}{\sqrt{13}})$$
 	- ### 5.2 - Gradients
-	  'The vector of partial derivatives $\nabla f(x,y) = <f_x, f_y>$'
+	  'The vector of partial derivatives $\nabla f(x,y,...,n) = <f_x, f_y,...,f_n>$'
 	  In other words, when asked for a gradient, provide $\nabla f$
 	  
 	  Or, more generally,
@@ -27,6 +27,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		- #### 5.2.E
 		  Find the minimum/maximum values of $D_uf$ for $f(x,y)=x^5+xy^3+y^3$ at the point $(1,1)$.
 		  
-		  $$\nabla f=<5x^4+y^3,3$$
+		  $$\nabla f=<5x^4+y^3,3xy^2+3y^2>$$
+		  $$\nabla f=<6,6>$$
 	- ###
 -
