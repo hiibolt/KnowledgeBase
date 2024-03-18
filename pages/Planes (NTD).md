@@ -14,5 +14,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$20*(\frac{2}{\sqrt{13}})+25*(\frac{3}{\sqrt{13}})$$
 	- ### 5.2 - Gradients
 	  'The vector of partial derivatives $\nabla f(x,y) = <f_x, f_y>$'
+	  
+	  Or, more generally,
+	  $$\text{For a unit vector } u \text{ at } x_0$$
+	  $$D_u f(x_1,...,x_n)=\nabla f(x_0)u$$
 	- ###
 -
