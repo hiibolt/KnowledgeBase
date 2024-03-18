@@ -8,5 +8,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  $$\text{For a unit vector }u=<a,b>$$
 	  $$D_uf(x_0,y_0)=f_x(x_0,y_0)a+f_y(x_0,y_0)b$$
 	- #### 5.E.1
-	  For $f(x,y) = x^2y+2xy^3$ calculate, and interpret, the directional derivative of f at (1,2) in the direction
+	  For $f(x,y) = x^2y+2xy^3$ calculate, and interpret, the directional derivative of f at (1,2) in the direction of $v=<2,3>$
+	  \begin{}
+	  \Solution{test}
 -
