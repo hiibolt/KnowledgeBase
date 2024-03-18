@@ -51,6 +51,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  Calculate the directional derivative of $f(x,y,z)=x^3yz^2\text{ at } (2,1,-1)$ in the direction of $v=<1,2,3>$ and compare this to the minimum and maximum values of the directional derivative $D_uf$.
 		  
 		  Direction = $\frac{1}{\sqrt{1+4+9}}<1,2,3>=<\frac{1}{\sqrt{14}},\frac{2}{\sqrt{14}},\frac{3}{\sqrt{14}}>$
-		  \nabla f(x,y,z)=<3x^2y>
+		  $\nabla f(x,y,z)=<3x^2yz^2,x^3z^2,2x^3yz>$
+		  $\nabla f(2,1,-1)=<12,8,-16>$
 	- ###
 -
