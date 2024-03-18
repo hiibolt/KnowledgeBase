@@ -52,6 +52,12 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  
 		  Direction = $\frac{1}{\sqrt{1+4+9}}<1,2,3>=<\frac{1}{\sqrt{14}},\frac{2}{\sqrt{14}},\frac{3}{\sqrt{14}}>$
 		  $\nabla f(x,y,z)=<3x^2yz^2,x^3z^2,2x^3yz>$
+		  so
 		  $\nabla f(2,1,-1)=<12,8,-16>$
+		  
+		  Thus,
+		  $$D_uf(2,1,-1)=\nabla f(2,1,-1)*u$$
+		  $$\text{or}$$
+		  $$=<12,8,-16$$
 	- ###
 -
