@@ -9,4 +9,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  $$D_uf(x_0,y_0)=f_x(x_0,y_0)a+f_y(x_0,y_0)b$$
 	- #### 5.E.1
 	  For $f(x,y) = x^2y+2xy^3$ calculate, and interpret, the directional derivative of f at (1,2) in the direction of $v=<2,3>$
+	  
+	  **Solution**:
+	  $$20*(\frac{2}{\sqrt{13}})+25*(\frac{3}{\sqrt{13}})$$
 -
