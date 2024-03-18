@@ -1,2 +1,2 @@
 ## Key points
-Can be $\\bbe $ or $$
+Can be $\in $ or $$
