@@ -13,6 +13,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  **Solution**:
 		  $$20*(\frac{2}{\sqrt{13}})+25*(\frac{3}{\sqrt{13}})$$
 	- ### 5.2 - Gradients
-	  'The vector of partial derivatives
+	  'The vector of partial derivatives $\nabla f(x,y) = <f_x, f_y>$'
 	- ###
 -
