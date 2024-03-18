@@ -47,5 +47,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$=<-3,0>*<\frac{3}{5},\frac{4}{5}>=-\frac{9}{5}$$
 		  Which is minimized at $u=-\frac{\nabla f(1,\frac{\pi}{2})}{||\nabla f(1,\frac{\pi}{2})||}=<1,0>$ or $D_{<1,0>}f(1,\frac{\pi}{2}=f_x(1,\frac{\pi}{2})=3$
 		  Which is maximized at $u=\frac{\nabla f(1,\frac{\pi}{2})}{||\nabla f(1,\frac{\pi}{2})||}=<-1,0>$ or $D_{<1,0>}f(1,\frac{\pi}{2}=f_x(1,\frac{\pi}{2})=-3$
+		- #### 5.3.E
+		  Calculate the directional derivative of $f(x,y,z) \text{ at } (1,\frac{\pi}{2})$ in the direction of $v=<3,4>$ and compare this to the minimum and maximum values of the directional derivative $D_uf$.
 	- ###
 -
