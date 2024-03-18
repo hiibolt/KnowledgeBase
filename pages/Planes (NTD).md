@@ -36,6 +36,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  and maximized at 
 		  $u=<\frac{1}{\sqrt{2}},\frac{1}{\sqrt{2}}>$, $Du_2f(1,1)=6\sqrt{2}$
 		- #### 5.2.E
-		  Calculate the directional derivative of $f(x,y)=x^3\cos(2y) at (1,\frac{\pi}{2})$ in the direction of $v=<3,4>$ and compare this to the minimum and maximum values of the directional derivative $D_uf$
+		  Calculate the directional derivative of $f(x,y)=x^3\cos(2y) at (1,\frac{\pi}{2})$ in the direction of $v=<3,4>$ and compare this to the minimum and maximum values of the directional derivative $D_uf$.
+		  
+		  Direction = $\frac{1}{\sqrt{3^2+4^2}}<3,4>=<\frac{3}{5},\frac{4}{5}$
+		  $\nabla f$
 	- ###
 -
