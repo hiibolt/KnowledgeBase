@@ -45,5 +45,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$D_uf(1,\frac{\pi}{2})=\nabla f(1,\frac{\pi}{2})*u$$
 		  $$\text{or}$$
 		  $$=<-3,0>*<\frac{3}{5},\frac{4}{5}>=-\frac{9}{5}$$
+		  Which is minimized at $$u=-\frac{\nabla f(1,\frac{\pi}{2})}{||\nabla f(1,\frac{\pi}{2})||}$$
 	- ###
 -
