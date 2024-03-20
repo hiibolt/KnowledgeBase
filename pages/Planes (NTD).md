@@ -24,6 +24,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  Which has an interesting property that the maximum value of the gradient is the positive norm of nabla f ($||\nabla f||$), and the minimum value is the same but negative ($-||\nabla f||$). 
 	  
 	  Considering this involves a dot product, this is proven by the maximum value being at $\theta = 0$ and the minimum value being at $\theta = \pi$.
+	  
+	  **Special Properties**:
+	  Gradients can be used to find the tangent line,
 		- #### 5.2.E
 		  Find the minimum/maximum values of $D_uf$ for $f(x,y)=x^5+xy^3+y^3$ at the point $(1,1)$.
 		  
