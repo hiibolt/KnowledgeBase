@@ -1997,7 +1997,77 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947972277
 :italic false}}
-:block/updated-at 1710948195725})
+:block/updated-at 1710948195725} 
+{:block/created-at 1710948250834
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 69
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d3197850-e6cd-11ee-804b-e1099974387f"
+:fontWeight 400
+:noFill true
+:point [1449 279.85]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 170.56]
+:bindingId "e43e8210-e6cd-11ee-804b-e1099974387f"}
+:end 
+{:id "end"
+:canBind true
+:point [275 0]
+:bindingId "e629d751-e6cd-11ee-804b-e1099974387f"}}
+:decorations 
+{:end "arrow"}
+:parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
+:nonce 1710948218295
+:italic false}}
+:block/updated-at 1710948250834} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 70
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e98118a2-e6cd-11ee-804b-e1099974387f"
+:fontWeight 400
+:noFill true
+:point [1680 316]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 244]}
+:end 
+{:id "end"
+:canBind true
+:point [105.86 0]
+:bindingId "e98118a1-e6cd-11ee-804b-e1099974387f"}}
+:decorations 
+{:end "arrow"}
+:parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
+:nonce 1710948255566
+:italic false}}
+:block/updated-at 1710948256969})
 :pages (
 {:block/uuid #uuid "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :block/properties 
@@ -2126,6 +2196,14 @@
 :handleId "end"
 :point [0.5 0.5]
 :distance 4}
+:e43e8210-e6cd-11ee-804b-e1099974387f 
+{:id "e43e8210-e6cd-11ee-804b-e1099974387f"
+:type "line"
+:fromId "d3197850-e6cd-11ee-804b-e1099974387f"
+:toId "e50079e0-e6ca-11ee-804b-e1099974387f"
+:handleId "start"
+:point [0.81 0.7]
+:distance 4}
 :ad1ec351-adbe-11ee-9e11-378aff2f4c21 
 {:id "ad1ec351-adbe-11ee-9e11-378aff2f4c21"
 :type "line"
@@ -2190,6 +2268,14 @@
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
+:d3195140-e6cd-11ee-804b-e1099974387f 
+{:id "d3195140-e6cd-11ee-804b-e1099974387f"
+:type "line"
+:fromId "d3197850-e6cd-11ee-804b-e1099974387f"
+:toId "e50079e0-e6ca-11ee-804b-e1099974387f"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
 :a2f2b2b1-adbe-11ee-9e11-378aff2f4c21 
 {:id "a2f2b2b1-adbe-11ee-9e11-378aff2f4c21"
 :type "line"
@@ -2205,6 +2291,14 @@
 :toId "cdcd0c00-e212-11ee-afab-991a2226ee28"
 :handleId "end"
 :point [0.17 0.86]
+:distance 4}
+:e629d751-e6cd-11ee-804b-e1099974387f 
+{:id "e629d751-e6cd-11ee-804b-e1099974387f"
+:type "line"
+:fromId "d3197850-e6cd-11ee-804b-e1099974387f"
+:toId "33afe8a0-e6cb-11ee-804b-e1099974387f"
+:handleId "end"
+:point [0.63 0.44]
 :distance 4}
 :a6527f81-adbe-11ee-9e11-378aff2f4c21 
 {:id "a6527f81-adbe-11ee-9e11-378aff2f4c21"
@@ -2254,6 +2348,14 @@
 :handleId "end"
 :point [0.52 0.35]
 :distance 4}
+:d3195141-e6cd-11ee-804b-e1099974387f 
+{:id "d3195141-e6cd-11ee-804b-e1099974387f"
+:type "line"
+:fromId "d3197850-e6cd-11ee-804b-e1099974387f"
+:toId "33afe8a0-e6cb-11ee-804b-e1099974387f"
+:handleId "end"
+:point [0.64 0.44]
+:distance 4}
 :19082da1-e6cb-11ee-804b-e1099974387f 
 {:id "19082da1-e6cb-11ee-804b-e1099974387f"
 :type "line"
@@ -2277,6 +2379,14 @@
 :toId "38b06e50-ac4d-11ee-9e11-378aff2f4c21"
 :handleId "start"
 :point [0.54 0.33]
+:distance 4}
+:e98118a1-e6cd-11ee-804b-e1099974387f 
+{:id "e98118a1-e6cd-11ee-804b-e1099974387f"
+:type "line"
+:fromId "e98118a2-e6cd-11ee-804b-e1099974387f"
+:toId "33afe8a0-e6cb-11ee-804b-e1099974387f"
+:handleId "end"
+:point [0.48 0.47]
 :distance 4}
 :0261bb51-ac4e-11ee-9e11-378aff2f4c21 
 {:id "0261bb51-ac4e-11ee-9e11-378aff2f4c21"
@@ -2406,6 +2516,14 @@
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
+:e29258b1-e6cd-11ee-804b-e1099974387f 
+{:id "e29258b1-e6cd-11ee-804b-e1099974387f"
+:type "line"
+:fromId "d3197850-e6cd-11ee-804b-e1099974387f"
+:toId "33afe8a0-e6cb-11ee-804b-e1099974387f"
+:handleId "end"
+:point [0.57 0.78]
+:distance 4}
 :d47fb0e1-dfef-11ee-a294-7f499df4a74b 
 {:id "d47fb0e1-dfef-11ee-a294-7f499df4a74b"
 :type "line"
@@ -2456,8 +2574,8 @@
 :type "image"
 :src "../assets/image_1710948146481_0.png"
 :size [3840 2160]}]
-:shapes-index ("adda67c0-e6cd-11ee-804b-e1099974387f" "38b06e50-ac4d-11ee-9e11-378aff2f4c21" "e542bec0-ac4d-11ee-9e11-378aff2f4c21" "f8292792-ac4d-11ee-9e11-378aff2f4c21" "0261bb52-ac4e-11ee-9e11-378aff2f4c21" "a0412fb0-acec-11ee-9e11-378aff2f4c21" "aadd4032-acec-11ee-9e11-378aff2f4c21" "c4622610-acec-11ee-9e11-378aff2f4c21" "d3e8e922-acec-11ee-9e11-378aff2f4c21" "da89fe40-acec-11ee-9e11-378aff2f4c21" "f4909742-acec-11ee-9e11-378aff2f4c21" "f8f94890-acec-11ee-9e11-378aff2f4c21" "07f92862-aced-11ee-9e11-378aff2f4c21" "264e50b0-ac4d-11ee-9e11-378aff2f4c21" "e4e7a1a0-dfee-11ee-a294-7f499df4a74b" "ebeb2210-dfee-11ee-a294-7f499df4a74b" "fc7d1390-dfee-11ee-a294-7f499df4a74b" "189834b0-dfef-11ee-a294-7f499df4a74b" "537e7bc0-dfef-11ee-a294-7f499df4a74b" "5f2a9cb0-dfef-11ee-a294-7f499df4a74b" "8bd7fd72-dfef-11ee-a294-7f499df4a74b" "8f0ff6f2-dfef-11ee-a294-7f499df4a74b" "9e8a5df0-dfef-11ee-a294-7f499df4a74b" "9e8a5df1-dfef-11ee-a294-7f499df4a74b" "9e8a5df2-dfef-11ee-a294-7f499df4a74b" "d47fb0e2-dfef-11ee-a294-7f499df4a74b" "d75bf5d2-dfef-11ee-a294-7f499df4a74b" "dabd2232-dfef-11ee-a294-7f499df4a74b" "e4357330-dfef-11ee-a294-7f499df4a74b" "eb967cf0-dfef-11ee-a294-7f499df4a74b" "1103f080-dff0-11ee-a294-7f499df4a74b" "32320cb2-dff0-11ee-a294-7f499df4a74b" "35f04d30-dff0-11ee-a294-7f499df4a74b" "96aaaac0-e212-11ee-afab-991a2226ee28" "aa9eb300-e212-11ee-afab-991a2226ee28" "b84ff2c0-e212-11ee-afab-991a2226ee28" "c56344d0-e212-11ee-afab-991a2226ee28" "cdcd0c00-e212-11ee-afab-991a2226ee28" "d2945810-e212-11ee-afab-991a2226ee28" "d504e2e2-e212-11ee-afab-991a2226ee28" "dccf83e0-e212-11ee-afab-991a2226ee28" "e1c61d52-e212-11ee-afab-991a2226ee28" "eafbe710-e212-11ee-afab-991a2226ee28" "ee93b3d0-e212-11ee-afab-991a2226ee28" "eeb4f770-e212-11ee-afab-991a2226ee28" "002eff00-e213-11ee-afab-991a2226ee28" "090ac1e2-e213-11ee-afab-991a2226ee28" "0cb4b712-e213-11ee-afab-991a2226ee28" "20565990-e213-11ee-afab-991a2226ee28" "252064c2-e213-11ee-afab-991a2226ee28" "27981b82-e213-11ee-afab-991a2226ee28" "339fa2e0-e213-11ee-afab-991a2226ee28" "4012e460-e213-11ee-afab-991a2226ee28" "4959ec30-e213-11ee-afab-991a2226ee28" "57537f90-e213-11ee-afab-991a2226ee28" "c497a980-e6ca-11ee-804b-e1099974387f" "cc2170f0-e6ca-11ee-804b-e1099974387f" "d6d5eb70-e6ca-11ee-804b-e1099974387f" "e4ea59d0-e6ca-11ee-804b-e1099974387f" "e50079e0-e6ca-11ee-804b-e1099974387f" "fe175bb1-e6ca-11ee-804b-e1099974387f" "0df6ed22-e6cb-11ee-804b-e1099974387f" "33afe8a0-e6cb-11ee-804b-e1099974387f" "440e1ff0-e6cb-11ee-804b-e1099974387f" "406d67a0-e6cd-11ee-804b-e1099974387f" "4c524bd0-e6cd-11ee-804b-e1099974387f" "533c9ef0-e6cd-11ee-804b-e1099974387f" "a8fb26e0-e6cd-11ee-804b-e1099974387f" "adda67c2-e6cd-11ee-804b-e1099974387f")}}
-:block/updated-at 1710948195723
+:shapes-index ("adda67c0-e6cd-11ee-804b-e1099974387f" "38b06e50-ac4d-11ee-9e11-378aff2f4c21" "e542bec0-ac4d-11ee-9e11-378aff2f4c21" "f8292792-ac4d-11ee-9e11-378aff2f4c21" "0261bb52-ac4e-11ee-9e11-378aff2f4c21" "a0412fb0-acec-11ee-9e11-378aff2f4c21" "aadd4032-acec-11ee-9e11-378aff2f4c21" "c4622610-acec-11ee-9e11-378aff2f4c21" "d3e8e922-acec-11ee-9e11-378aff2f4c21" "da89fe40-acec-11ee-9e11-378aff2f4c21" "f4909742-acec-11ee-9e11-378aff2f4c21" "f8f94890-acec-11ee-9e11-378aff2f4c21" "07f92862-aced-11ee-9e11-378aff2f4c21" "264e50b0-ac4d-11ee-9e11-378aff2f4c21" "e4e7a1a0-dfee-11ee-a294-7f499df4a74b" "ebeb2210-dfee-11ee-a294-7f499df4a74b" "fc7d1390-dfee-11ee-a294-7f499df4a74b" "189834b0-dfef-11ee-a294-7f499df4a74b" "537e7bc0-dfef-11ee-a294-7f499df4a74b" "5f2a9cb0-dfef-11ee-a294-7f499df4a74b" "8bd7fd72-dfef-11ee-a294-7f499df4a74b" "8f0ff6f2-dfef-11ee-a294-7f499df4a74b" "9e8a5df0-dfef-11ee-a294-7f499df4a74b" "9e8a5df1-dfef-11ee-a294-7f499df4a74b" "9e8a5df2-dfef-11ee-a294-7f499df4a74b" "d47fb0e2-dfef-11ee-a294-7f499df4a74b" "d75bf5d2-dfef-11ee-a294-7f499df4a74b" "dabd2232-dfef-11ee-a294-7f499df4a74b" "e4357330-dfef-11ee-a294-7f499df4a74b" "eb967cf0-dfef-11ee-a294-7f499df4a74b" "1103f080-dff0-11ee-a294-7f499df4a74b" "32320cb2-dff0-11ee-a294-7f499df4a74b" "35f04d30-dff0-11ee-a294-7f499df4a74b" "96aaaac0-e212-11ee-afab-991a2226ee28" "aa9eb300-e212-11ee-afab-991a2226ee28" "b84ff2c0-e212-11ee-afab-991a2226ee28" "c56344d0-e212-11ee-afab-991a2226ee28" "cdcd0c00-e212-11ee-afab-991a2226ee28" "d2945810-e212-11ee-afab-991a2226ee28" "d504e2e2-e212-11ee-afab-991a2226ee28" "dccf83e0-e212-11ee-afab-991a2226ee28" "e1c61d52-e212-11ee-afab-991a2226ee28" "eafbe710-e212-11ee-afab-991a2226ee28" "ee93b3d0-e212-11ee-afab-991a2226ee28" "eeb4f770-e212-11ee-afab-991a2226ee28" "002eff00-e213-11ee-afab-991a2226ee28" "090ac1e2-e213-11ee-afab-991a2226ee28" "0cb4b712-e213-11ee-afab-991a2226ee28" "20565990-e213-11ee-afab-991a2226ee28" "252064c2-e213-11ee-afab-991a2226ee28" "27981b82-e213-11ee-afab-991a2226ee28" "339fa2e0-e213-11ee-afab-991a2226ee28" "4012e460-e213-11ee-afab-991a2226ee28" "4959ec30-e213-11ee-afab-991a2226ee28" "57537f90-e213-11ee-afab-991a2226ee28" "c497a980-e6ca-11ee-804b-e1099974387f" "cc2170f0-e6ca-11ee-804b-e1099974387f" "d6d5eb70-e6ca-11ee-804b-e1099974387f" "e4ea59d0-e6ca-11ee-804b-e1099974387f" "e50079e0-e6ca-11ee-804b-e1099974387f" "fe175bb1-e6ca-11ee-804b-e1099974387f" "0df6ed22-e6cb-11ee-804b-e1099974387f" "33afe8a0-e6cb-11ee-804b-e1099974387f" "440e1ff0-e6cb-11ee-804b-e1099974387f" "406d67a0-e6cd-11ee-804b-e1099974387f" "4c524bd0-e6cd-11ee-804b-e1099974387f" "533c9ef0-e6cd-11ee-804b-e1099974387f" "a8fb26e0-e6cd-11ee-804b-e1099974387f" "adda67c2-e6cd-11ee-804b-e1099974387f" "d3197850-e6cd-11ee-804b-e1099974387f" "e98118a2-e6cd-11ee-804b-e1099974387f")}}
+:block/updated-at 1710948256968
 :block/created-at 1704515714597
 :block/type "whiteboard"
 :block/name "ai-asd"
