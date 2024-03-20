@@ -28,7 +28,11 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  **Special Properties**:
 	  Gradients can be used to find the tangent line, plane, and more.
 	  
-	  For instance, for a given point $p$ on a surface defined by $F$, the tangent line at $p$ is: $l(t)=p+t(\nabla F(p)$$$$
+	  For instance, for a given point $p$ on a surface defined by $F$, the tangent line at $p$ is:
+	  $$l(t)=p+t(\nabla F(p)$$
+	  
+	  Similarly, the tangent plane can be found as:
+	  $$$$
 		- #### 5.2.E
 		  Find the minimum/maximum values of $D_uf$ for $f(x,y)=x^5+xy^3+y^3$ at the point $(1,1)$.
 		  
