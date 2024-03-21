@@ -34,8 +34,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  Similarly, the tangent plane can be found as:
 	  $$\nabla F(p) \cdot <x - x_0, y - y_0, z - z_0> = 0$$
 	  
-	  Finding the tangent line at a curve of intersection:
-	  $$l(t)=p$$
+	  Finding the tangent line at a curve of intersection for two surfaces F and G:
+	  *Must first ensure the point is actually an intersection!*
+	  $$l(t)=p+t(\nabla F(p) x \nabla G(p))$$
 		- #### 5.2.E
 		  Find the minimum/maximum values of $D_uf$ for $f(x,y)=x^5+xy^3+y^3$ at the point $(1,1)$.
 		  
