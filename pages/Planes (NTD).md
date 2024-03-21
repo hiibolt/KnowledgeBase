@@ -35,6 +35,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  $$\nabla F(p) \cdot <x - x_0, y - y_0, z - z_0> = 0$$
 	  
 	  Finding the tangent line at a curve of intersection:
+	  $$l(t)=p$$
 		- #### 5.2.E
 		  Find the minimum/maximum values of $D_uf$ for $f(x,y)=x^5+xy^3+y^3$ at the point $(1,1)$.
 		  
@@ -81,8 +82,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$\nabla G = <2x,2y,2z>$$
 		  $$\nabla G(p) = <2,-2,-2>$$
 		  $$\text{so}$$
-		  $$\nabla F(p) x \nabla G(p) = <4,4,0>$$
+		  $$\nabla F(p) x \nabla G(p) = <4,-4,0>$$
 		  $$\text{so}$$
-		  $$l(t)=<1,-1,1>+t(\nabla P(p) x \nabla G(p)$$
+		  $$l(t)=p+t(\nabla P(p) x \nabla G(p)$$
+		  $$=<1+4t, -1-4t, 1>$$
 	- ###
 -
