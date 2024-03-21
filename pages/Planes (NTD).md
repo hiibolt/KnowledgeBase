@@ -75,7 +75,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  Find the tangent line to the curve of intersection to the surfaces $x^2-xy+y^2-z=2$ and $x^2+y^2-z^2=1$ at $p=(1,-1,1)$.
 		  
 		  $$\nabla f = <2x-y, 2y-x, -1>$$
-		  $$\nabla F(p) = <3,-3,-1>$$
-		  $$\nabla f = <>$$
+		  $$\nabla f(p) = <3,-3,-1>$$
+		  $$\nabla g = <2x,2y,2z>$$
+		  $$\nabla g(p) = <2,-2,-2>$$
+		  $$\nabla f(p) x \nabla G(p)$$
 	- ###
 -
