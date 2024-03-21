@@ -72,8 +72,10 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  Which is minimized at $u=-\frac{\nabla f(2,1,-1)}{||\nabla f(2,1,-1)||}=...$ or $D_{...}f(2,1,-1)=-\sqrt{12^2+8^2+16^2}$
 		  Which is maximized at $u=\frac{\nabla f(2,1,-1)}{||\nabla f(2,1,-1)||}=...$ or $D_{...}f(2,1,-1)=\sqrt{12^2+8^2+16^2}$
 		- #### 5.4.E
-		  Find the tangent line to the curve of intersection to the surfaces $x^2-xy+y^2-z-2$ and $x^2+y^2-z^2-1$ at $p=(1,-1,1)$.
+		  Find the tangent line to the curve of intersection to the surfaces $x^2-xy+y^2-z=2$ and $x^2+y^2-z^2=1$ at $p=(1,-1,1)$.
 		  
-		  $$\nabla$$
+		  $$\nabla f = <2x-y, 2y-x, -1>$$
+		  $$\nabla F(p) = <3,-3,-1>$$
+		  $$\nabla f = <>$$
 	- ###
 -
