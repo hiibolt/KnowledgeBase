@@ -71,5 +71,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$=12(\frac{1}{\sqrt{14}})+8(\frac{2}{\sqrt{14}})-16(\frac{3}{\sqrt{14}})$$
 		  Which is minimized at $u=-\frac{\nabla f(2,1,-1)}{||\nabla f(2,1,-1)||}=...$ or $D_{...}f(2,1,-1)=-\sqrt{12^2+8^2+16^2}$
 		  Which is maximized at $u=\frac{\nabla f(2,1,-1)}{||\nabla f(2,1,-1)||}=...$ or $D_{...}f(2,1,-1)=\sqrt{12^2+8^2+16^2}$
+		-
 	- ###
 -
