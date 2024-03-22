@@ -130,10 +130,12 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $\nabla f = <3x^2+3y,3y^2+3x>$
 		  
 		  Creating a systems of equations:
-		  \begin{equation}
-		  { 
+		  \begin{cases}
 		  x^2+y = 0\\
 		  y^2+x = 0
-		  \end{equation}
+		  \end{cases}
+		  
+		  Substituting EQ2 into EQ1:
+		  $$y^4+y=0$$$$
 -
 -
