@@ -102,5 +102,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  f_{xy}(x,y) & f_{yy}(x,y)
 	  \end{vmatrix}
 	  \end{equation}
+		- #### 5.3.E
+		  Find all extrema of $f(x,y)=2x^2+y^2+4x-4y+5$.
+		  $\nabla f=<4x+4,2$
 -
 -
