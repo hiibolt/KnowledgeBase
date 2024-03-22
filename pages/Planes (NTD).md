@@ -186,7 +186,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $D(0,0) = 0$ (Inconclusive, must use traces)
 		     for $x = 0$, $f(0,y) = -3y^4$
 		     for $y = 0$, $f(x,0) = -2x^3$ (saddle in this trace)
-		  $D(1,1) = 432-2*144 > 0$, $f_{xx}(1,1) = -12*1 < 0$ (Local maximum)
-		  $D(1,-1) = 432 - 2*144 > $, $f_{xx}(1,-1) = -12*1 < 0$ (Local maximum)
+		  $D(1,1) = 432-2*144 > 0$,    $f_{xx}(1,1) = -12*1 < 0$ (Local Maximum)
+		  $D(1,-1) = 432 - 2*144 > 0$, $f_{xx}(1,-1) = -12*1 < 0$ (Local Maximum)
 -
 -
