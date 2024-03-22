@@ -93,5 +93,5 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  and for $f(0,y)=(y-0)(y-0)=y^2$ and there is a min at $(0,0)$ in the y=0 trace.
 		  
 		  $$\nabla f(x,y)=<-6x(y-x^2)+(y-3x^2)(-2x), (y-x^2)+(y-3x^2)>$$
-		  We can see that $(0,0$
+		  We can see that $(0,0)$ is a critical point.
 -
