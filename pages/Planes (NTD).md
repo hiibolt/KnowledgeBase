@@ -163,5 +163,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  \begin{cases}
 		  y^2-x^2=0\\
 		  xy-y^3=0
+		  \end{cases}
+		  
+		  $xy=y^3$ or $$
 -
 -
