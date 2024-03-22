@@ -122,5 +122,10 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$D=8 > 0$$
 		  We will use the second derivative test to verify whether it falls under (i) or (ii):
 		  $$f_{xx} = 4 > 0$$
+		  Therefore, it is a minimum.
+		- #### 5.4.E
+		  Find all extrema of $f(x,y)=x^3+y^3+3xy+3$.
+		  
+		  $\nabla f = <3x^2+3y,$
 -
 -
