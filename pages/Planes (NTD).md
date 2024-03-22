@@ -136,6 +136,11 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  \end{cases}
 		  
 		  Substituting EQ2 into EQ1:
-		  $$y^4+y=0$$$$
+		  $$y^4+y=0$$
+		  $$\text{so}$$
+		  $$y=0 \text{ or } y =-1$$
+		  
+		  Plugging those points back in:
+		  $$(0,0) \text{ and } (-1, -1)$$
 -
 -
