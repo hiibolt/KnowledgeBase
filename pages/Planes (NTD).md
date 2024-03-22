@@ -164,7 +164,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  y^2-x^2=0\\
 		  xy-y^3=0
 		  \end{cases}
+		  $xy=y^3$ or $x=y^2$ if $y \neq 0$ and $(0,0)$ is also critical.
 		  
-		  $xy=y^3$ or $$
+		  So
 -
 -
