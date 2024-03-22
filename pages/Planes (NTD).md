@@ -120,6 +120,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  \end{vmatrix}
 		  \end{equation}
 		  $$D=8 > 0$$
-		  We will use the second derivative test to verify whether it falls under (i)
+		  We will use the second derivative test to verify whether it falls under (i) or (ii):
+		  $$f_{xx} = 4 > 0$$
 -
 -
