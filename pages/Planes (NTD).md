@@ -95,9 +95,12 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$\nabla f(x,y)=<-6x(y-x^2)+(y-3x^2)(-2x), (y-x^2)+(y-3x^2)>$$
 		  We can see that $(0,0)$ is a critical point.
 	- ### 5.3 - Theorem
+	  \begin{equation}
+	  D = 
 	  \begin{vmatrix}
 	  f_{xx}(x,y) & f_{xy}(x,y)\\
 	  f_{xy}(x,y) & f_{yy}(x,y)
 	  \end{vmatrix}
+	  \end{equation}
 -
 -
