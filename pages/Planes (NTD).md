@@ -113,6 +113,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  4 & 0\\
 		  0 & 2
 		  \end{vmatrix}
-		  \end{equation}
+		  \end{equation} or $D=8$
 -
 -
