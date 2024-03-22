@@ -184,8 +184,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  \end{equation}
 		  
 		  $D(0,0) = 0$ (Inconclusive, must use traces)
-		   for $x = 0$, $f(0,y) = -3y^4$
-		   for $y = 0$, $f(x,0) = -2x^3$
+		     for $x = 0$, $f(0,y) = -3y^4$
+		     for $y = 0$, $f(x,0) = -2x^3$ (saddle in this trace)
 		  $D(1$
 -
 -
