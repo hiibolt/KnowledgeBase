@@ -87,5 +87,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$\text{so}$$
 		  $$l(t)=p+t(\nabla P(p) x \nabla G(p)$$
 		  $$=<1+4t, -1-4t, 1>$$
+		- #### 5.5.E
+		  Consider the surface $f(x,y)=(y-3x^2)(y-x^2)$, noting that $f(x,0)=(-3x^2)(-x^2)=(3x^4)$
 	- ###
 -
