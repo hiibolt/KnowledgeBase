@@ -156,6 +156,12 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $D(0,0) = -9 < 0$ (Saddle Point)
 		  $D(-1,-1) = -6 < 0$ (Local Maximum)
 		- #### 5.3.E3
-		  Find all extrema of the "*monkey saddle*" $f(x,y)=6xy^2-2x^3-3y^4$$$
+		  Find all extrema of the "*monkey saddle*" $f(x,y)=6xy^2-2x^3-3y^4$
+		  
+		  $\nabla f(x,y) = <6y^2-6x^2, 12xy-12y^3>$
+		  Creating a system of equations:
+		  \begin{cases}
+		  y^2-x^2=0\\
+		  xy-y^3=0
 -
 -
