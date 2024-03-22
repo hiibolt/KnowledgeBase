@@ -182,5 +182,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  = (-12x)(12x-36y^2) - (12y)^2
 		  = -144x^2+432xy^2-144y^2
 		  \end{equation}
+		  
+		  $D(0,0) = 0$ (Inconclusive)
+		  $D(1$
 -
 -
