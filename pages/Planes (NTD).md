@@ -154,6 +154,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$=36xy-9$$
 		  
 		  $D(0,0) = -9 < 0$ (Saddle point)
-		  $D(-1,-1) = 27 > 0$ (Maximum)
+		  $D(-1,-1) = -6 > 0$ (Maximum)
 -
 -
