@@ -166,6 +166,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  \end{cases}
 		  $xy=y^3$ or $x=y^2$ if $y \neq 0$ and $(0,0)$ is also critical.
 		  
-		  So
+		  So:
+		  $y^2 - y^4 = 0$ or $y^2(1 - y^2)=0$
 -
 -
