@@ -143,8 +143,14 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  Plugging those points back in:
 		  $$(0,0) \text{ and } (-1, -1)$$
 		  
+		  \begin{equation}
+		  D = 
 		  \begin{vmatrix}
-		  7x
+		  6x & 3\\
+		  3 & 6y
 		  \end{vmatrix}
+		  \end{equation}
+		  $$\text{or}$$
+		  $$=36xy-9$$
 -
 -
