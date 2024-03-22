@@ -142,5 +142,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  
 		  Plugging those points back in:
 		  $$(0,0) \text{ and } (-1, -1)$$
+		  
+		  \begin{vmatrix}
+		  7x
+		  \end{vmatrix}
 -
 -
