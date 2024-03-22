@@ -179,6 +179,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  -12x & 12y\\
 		  12y & 12x-36y^2
 		  \end{vmatrix}
-		  \end
+		  = (-12x)(12x-36y^2) - (12y)^2
+		  = -144x^2+432xy^2-144y^2
+		  \end{equation}
 -
 -
