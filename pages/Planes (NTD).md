@@ -102,6 +102,11 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  f_{xy}(x,y) & f_{yy}(x,y)
 	  \end{vmatrix}
 	  \end{equation}
+	  
+	  i) 
+	  ii) 
+	  iii) 
+	  iv)
 		- #### 5.3.E
 		  Find all extrema of $f(x,y)=2x^2+y^2+4x-4y+5$.
 		  $\nabla f=<4x+4,2y-4>=<4(x+1),2(y-2)>$
@@ -113,6 +118,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  4 & 0\\
 		  0 & 2
 		  \end{vmatrix}
-		  \end{equation} or $D=8$
+		  \end{equation}
+		  $$D=8 > 0$$
+		  We will use the second derivative test to verify whether it falls under (i)
 -
 -
