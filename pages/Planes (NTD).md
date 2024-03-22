@@ -172,5 +172,13 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $(=0 @ y = 0, 1, -1)$
 		  or
 		  $(0,0),(1,1),(1,-1)$
+		  
+		  \begin{equation}
+		  D = 
+		  \begin{vmatrix}
+		  -12x & 12y\\
+		  12y & 12x-36y^2
+		  \end{vmatrix}
+		  \end
 -
 -
