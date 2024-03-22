@@ -107,7 +107,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  ii) 
 	  iii) 
 	  iv)
-		- #### 5.3.E
+		- #### 5.3.E1
 		  Find all extrema of $f(x,y)=2x^2+y^2+4x-4y+5$.
 		  
 		  $\nabla f=<4x+4,2y-4>=<4(x+1),2(y-2)>$
@@ -124,7 +124,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  We will use the second derivative test to verify whether it falls under (i) or (ii):
 		  $$f_{xx} = 4 > 0$$
 		  Therefore, it is a minimum.
-		- #### 5.4.E
+		- #### 5.3.E2
 		  Find all extrema of $f(x,y)=x^3+y^3+3xy+3$.
 		  
 		  $\nabla f = <3x^2+3y,3y^2+3x>$
@@ -155,6 +155,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  
 		  $D(0,0) = -9 < 0$ (Saddle Point)
 		  $D(-1,-1) = -6 < 0$ (Local Maximum)
-		- #### 5.
+		- #### 5.3.E3
+		  Find all extrema of the "*monkey saddle*" $f(x,y)=6xy^2-2x^3-3y^4$$$
 -
 -
