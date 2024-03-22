@@ -153,7 +153,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$\text{or}$$
 		  $$=36xy-9$$
 		  
-		  $D(0,0) = -9 < 0$ (Saddle point)
-		  $D(-1,-1) = -6 > 0$ (Maximum)
+		  $D(0,0) = -9 < 0$ (Saddle Point)
+		  $D(-1,-1) = -6 < 0$ (Local Maximum)
+		- #### 5.
 -
 -
