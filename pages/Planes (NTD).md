@@ -109,6 +109,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  iv)
 		- #### 5.3.E
 		  Find all extrema of $f(x,y)=2x^2+y^2+4x-4y+5$.
+		  
 		  $\nabla f=<4x+4,2y-4>=<4(x+1),2(y-2)>$
 		  
 		  Now, 
@@ -126,6 +127,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		- #### 5.4.E
 		  Find all extrema of $f(x,y)=x^3+y^3+3xy+3$.
 		  
-		  $\nabla f = <3x^2+3y,$
+		  $\nabla f = <3x^2+3y,3y^2+3x>$
 -
 -
