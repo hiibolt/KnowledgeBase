@@ -128,5 +128,12 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  Find all extrema of $f(x,y)=x^3+y^3+3xy+3$.
 		  
 		  $\nabla f = <3x^2+3y,3y^2+3x>$
+		  
+		  Creating a systems of equations:
+		  \begin{equation}
+		  { 
+		  x^2+y = 0\\
+		  y^2+x = 0
+		  \end{equation}
 -
 -
