@@ -92,5 +92,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  Note that $f(x,0)=(-3x^2)(-x^2)=(3x^4)$ and there is a min at $(0,0)$,
 		  and for $f(0,y)=(y-0)(y-0)=y^2$ and there is a min at $(0,0)$ in the y=0 trace.
 		  
-		  $$\nabla f(x,y)=<-6x$$
+		  $$\nabla f(x,y)=<-6x(y-x^2)+(y-3x^2)(-2x), (y-x^2)+(y-3x^2)>$$
+		  We can see that $(0,0$
 -
