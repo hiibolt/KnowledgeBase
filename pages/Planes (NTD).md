@@ -239,7 +239,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  \end{equation}
 		  
 		  Sadly, this means that if $x = 0$ or $y = 0$, the test completely fails for all points.
-		  *Note: 4th order derivative would potentially work!*
+		  *Note: The 4th order derivative test could potentially work!*
 		- #### 5.3.E6S
 		  Find the smallest distance (if it exists!) from point $p = (1,1,1)$ to the cone $z = \sqrt{x^2+y^2}$
 		  
@@ -252,5 +252,5 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$y=x\text{ if }\nabla f = 0$$
 		  $$\text{setting }y=x$$
 		  $$\frac{1-x}{x}=\frac{\sqrt{2x^2}-1}{\sqrt{2x^2}}$$
-		  Our only critical point is at $(\frac{2+\sqrt{2}}{4},\frac{2+\sqrt{2}}{4})$
+		  Our only critical point is at $(\frac{2+\sqrt{2}}{4},\frac{2+\sqrt{2}}{4})$. $D > 0$ and $f_{xx} >0$, so this is a local minimum.
 -
