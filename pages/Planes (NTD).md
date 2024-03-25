@@ -193,15 +193,15 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  Find extrema, if any, of $f(x,y) = \frac{x}{y^2}+xy$.
 		  
 		  $$\nabla f= <\frac{1}{y^2}+y, \frac{-2x}{y^3}+x>$$
-		  \begin{fequation}
+		  \begin{equation}
 		  \begin{cases}
 		  f_x=0\\
 		  f_y=0
 		  \end{cases} or 
 		  \begin{cases}
-		  f_x=0\\
-		  f_y=0
+		  y(\frac{1}{y^3}+1)=0\\
+		  x(1-\frac{2}{y}=0
 		  \end{cases}
-		  \end{fequation}
+		  \end{equation}
 -
 -
