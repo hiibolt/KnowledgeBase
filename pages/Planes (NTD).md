@@ -203,6 +203,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  x(1-\frac{2}{y^3})=0
 		  \end{cases}
 		  \end{equation}
-		  $$\text{solving}$$
+		  $$\text{so}$$
+		  $$$$
 -
 -
