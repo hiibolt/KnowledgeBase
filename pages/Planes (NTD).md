@@ -103,10 +103,11 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  \end{vmatrix}
 	  \end{equation}
 	  
-	  i) 
-	  ii) 
+	  All possible cases:
+	  i) D > 0, f_{xx} > 0, local minimum
+	  ii)D > 0, f_{xx} < 0, local maximum 
 	  iii) D < 0, it's a saddle point 
-	  iv)
+	  iv) D = 0, inconclusive
 		- #### 5.3.E1
 		  Find all extrema of $f(x,y)=2x^2+y^2+4x-4y+5$.
 		  
