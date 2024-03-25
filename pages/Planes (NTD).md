@@ -216,5 +216,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  \end{vmatrix}
 		  = -9
 		  \end{equation}
+		  
+		  This tells us that our point is a saddle point.
+		- #### 5.3.E5
+		  Consider the second deriva
 -
 -
