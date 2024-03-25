@@ -200,8 +200,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  \end{cases} or 
 		  \begin{cases}
 		  y(\frac{1}{y^3}+1)=0\\
-		  x(1-\frac{2}{y}=0
+		  x(1-\frac{2}{y^3})=0
 		  \end{cases}
 		  \end{equation}
+		  $$\text{solving}$$
 -
 -
