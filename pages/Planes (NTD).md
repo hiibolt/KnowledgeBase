@@ -252,5 +252,5 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$y=x\text{ if }\nabla f = 0$$
 		  $$\text{setting }y=x$$
 		  $$\frac{1-x}{x}=\frac{\sqrt{2x^2}-1}{\sqrt{2x^2}}$$
-		  $$\text{so}$$
+		  Our only critical point is at $(\frac{2+\sqrt{2}}{4},\frac{2+\sqrt{2}}{4})$
 -
