@@ -223,6 +223,11 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  
 		  $$\nabla f = <2xy^2, x^22y>$$
 		  \begin{equation}
-		  \beign{cases}
-		  2xy^2
+		  \begin{cases}
+		  2xy^2 = 0\\
+		  x^22y = 0
+		  \end{cases}
+		  \end{equation}
+		  
+		  Here, (x,0)
 -
