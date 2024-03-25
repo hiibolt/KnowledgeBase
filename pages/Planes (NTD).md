@@ -206,6 +206,10 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$\text{so}$$
 		  $$(0,-1)$$
 		  $$f_{xx}=0$$
-		  $$f_{xy}$$
+		  $$f_{xy}=\frac{-2}{y^3}$$
+		  $$f_{yy}=\frac{6x}{y^4}$$
+		  \begin{vmatrix}
+		  
+		  \end{vmatrix}
 -
 -
