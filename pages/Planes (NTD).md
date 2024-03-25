@@ -189,6 +189,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		     for $y = 0$, $f(x,0) = -2x^3$ (saddle in this trace)
 		  $D(1,1) = 432-2*144 > 0$,    $f_{xx}(1,1) = -12*1 < 0$ (Local Maximum)
 		  $D(1,-1) = 432 - 2*144 > 0$, $f_{xx}(1,-1) = -12*1 < 0$ (Local Maximum)
-		- #### 5.4
+		- #### 5.3.E4
+		  Find extrema, if any, of $f(x,y) = \frac{x}{y^2}+xy$.
+		  
+		  $$\nabla f= <\frac{1}{y^2}+y, \frac{-2x}{y^3}+x>$$
 -
 -
