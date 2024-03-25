@@ -189,5 +189,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		     for $y = 0$, $f(x,0) = -2x^3$ (saddle in this trace)
 		  $D(1,1) = 432-2*144 > 0$,    $f_{xx}(1,1) = -12*1 < 0$ (Local Maximum)
 		  $D(1,-1) = 432 - 2*144 > 0$, $f_{xx}(1,-1) = -12*1 < 0$ (Local Maximum)
+		- #### 5.4
 -
 -
