@@ -234,5 +234,9 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  D = 
 		  \begin{vmatrix}
 		  2y^2 & 4xy\\
-		  4xy &
+		  4xy & 2x^2
+		  \end{vmatrix}
+		  \end{equation}
+		  
+		  Sadly,
 -
