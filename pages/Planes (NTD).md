@@ -228,6 +228,11 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  x^22y = 0
 		  \end{cases}
 		  \end{equation}
+		  Here $(x,0)$ and $(0,y)$ are *all* critical points!
 		  
-		  Here, (x,0)
+		  \begin{equation}
+		  D = 
+		  \begin{vmatrix}
+		  2y^2 & 4xy\\
+		  4xy &
 -
