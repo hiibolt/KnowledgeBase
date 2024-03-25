@@ -248,4 +248,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$f_{y}=2(y-1) + \frac{2y(\sqrt{x^2+y^2}-1)}{\sqrt{x^2+y^2}}=0$$
 		  $$\text{so}$$
 		  $$\frac{1-x}{x}=\frac{1-y}{y}$$
+		  $$\text{so}$$
+		  $$y=x\text{ if }\nabla f = 0$$
+		  $$\text{}$$
 -
