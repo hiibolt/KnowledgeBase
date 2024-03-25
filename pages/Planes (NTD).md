@@ -238,5 +238,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  \end{vmatrix}
 		  \end{equation}
 		  
-		  Sadly,
+		  Sadly, this means that if $x = 0$ or $y = 0$, the test completely fails for all points.
+		  *Note: 4th order derivative would potentially work!*
 -
