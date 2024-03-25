@@ -242,4 +242,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  *Note: 4th order derivative would potentially work!*
 		- #### 5.3.E6S
 		  Find the smallest distance (if it exists!) from point $p = (1,1,1)$ to the cone $z = \sqrt{x^2+y^2}$
+		  
+		  $$(x-1)^2+(y-1)^2+(\sqrt{x^2+y^2}-1)^2$$
 -
