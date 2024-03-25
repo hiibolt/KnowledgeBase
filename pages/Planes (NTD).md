@@ -208,8 +208,13 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$f_{xx}=0$$
 		  $$f_{xy}=\frac{-2}{y^3}$$
 		  $$f_{yy}=\frac{6x}{y^4}$$
+		  \begin{equation}
+		  D(0,-1)=
 		  \begin{vmatrix}
-		  
+		  0 & 3 \\
+		  3 & 0
 		  \end{vmatrix}
+		  = -9
+		  \end{equation}
 -
 -
