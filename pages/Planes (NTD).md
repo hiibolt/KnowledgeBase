@@ -205,5 +205,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  \end{equation}
 		  $$\text{so}$$
 		  $$(0,-1)$$
+		  $$f_{xx}=0$$
+		  $$f_{xy}$$
 -
 -
