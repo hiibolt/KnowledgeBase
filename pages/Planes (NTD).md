@@ -250,5 +250,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$\frac{1-x}{x}=\frac{1-y}{y}$$
 		  $$\text{so}$$
 		  $$y=x\text{ if }\nabla f = 0$$
-		  $$\text{}$$
+		  $$\text{setting }y=x$$
+		  $$\frac{1-x}{x}=\frac{\sqrt{2x^2}-1}{\sqrt{2x^2}}$$
+		  $$\text{so}$$
 -
