@@ -219,6 +219,10 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  
 		  This tells us that our point is a saddle point.
 		- #### 5.3.E5
-		  Consider the second deriva
--
+		  Consider the second derivative text applied to $f(x,y) = x^2y^2$
+		  
+		  $$\nabla f = <2xy^2, x^22y>$$
+		  \begin{equation}
+		  \beign{cases}
+		  2xy^2
 -
