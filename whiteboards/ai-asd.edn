@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1711039160011
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -27,8 +27,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704584639915
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -52,8 +52,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704515815961
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -78,8 +78,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704516106153
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -114,8 +114,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704516137241
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -150,8 +150,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704516154788
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -175,8 +175,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704584279693
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -211,8 +211,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704584297557
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -236,8 +236,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704584340451
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -272,8 +272,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704584366314
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -298,8 +298,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704584378834
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -334,8 +334,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704584421383
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -360,8 +360,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704584428820
 :italic false}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -396,8 +396,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1704584453901
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -422,8 +422,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710192764216
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -448,8 +448,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710192776403
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -473,8 +473,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710192803379
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -499,8 +499,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710192851208
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545022
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -526,8 +526,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710192949298
 :italic false}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545022} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -554,8 +554,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710192948982
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -589,8 +589,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710193043168
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -624,8 +624,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710193048583
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -651,8 +651,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710192776626
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -678,8 +678,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710192764279
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -705,8 +705,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710192851302
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -741,8 +741,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710193165112
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -777,8 +777,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710193169902
 :italic false}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -812,8 +812,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710193175550
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -842,8 +842,8 @@
 :nonce 1710193191646
 :italic false
 :text "Videos"}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -872,8 +872,8 @@
 :nonce 1710193204191
 :italic false
 :text "Job/Medical Data"}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -901,8 +901,8 @@
 :nonce 1710193266768
 :italic false
 :text "POST request to AWS\n- Email\n- Age/Weight\n- Sex\n- Ethnicity\n- Front and Side Video"}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -937,8 +937,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710193322325
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -966,8 +966,8 @@
 :nonce 1710193328641
 :italic false
 :text "GET request\nfor all jobs\nbased on \nauthenticated\nuser"}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -991,8 +991,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710427996275
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1016,8 +1016,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428029578
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1041,8 +1041,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428052705
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1066,8 +1066,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428074525
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1091,8 +1091,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428088660
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1126,8 +1126,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428096573
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1162,8 +1162,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428100854
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1191,8 +1191,8 @@
 :nonce 1710428113765
 :italic false
 :text "AWS Queue"}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1227,8 +1227,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428122091
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1252,8 +1252,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428137541
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1278,8 +1278,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428137717
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1304,8 +1304,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428137623
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1329,8 +1329,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428173184
 :italic false}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1365,8 +1365,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428187993
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1401,8 +1401,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428194317
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545016
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1428,8 +1428,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428227076
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545016} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1464,8 +1464,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428235078
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160006
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545016
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1500,8 +1500,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428239206
 :italic false}}
-:block/updated-at 1711039160006} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545016} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1529,8 +1529,8 @@
 :nonce 1710428259425
 :italic false
 :text "Updates firebase entry with result or errors"}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1558,8 +1558,8 @@
 :nonce 1710428280285
 :italic false
 :text "Sends top job\nto ML container\nfor processing"}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1588,8 +1588,8 @@
 :nonce 1710428296017
 :italic false
 :text "Makes new Firebase user"}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1618,8 +1618,8 @@
 :nonce 1710428319555
 :italic false
 :text "Uploads videos to S3"}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160006
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545016
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1644,8 +1644,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946905286
 :italic false}}
-:block/updated-at 1711039160006} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545016} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1663,8 +1663,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946917880
 :clipping 0}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1688,8 +1688,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946935776
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545016
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1714,8 +1714,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936196
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545016} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1740,8 +1740,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936065
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1775,8 +1775,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947001610
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545022
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1811,8 +1811,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947028508
 :italic false}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545022} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1835,8 +1835,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947091632
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1854,8 +1854,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947119173
 :clipping 0}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1880,8 +1880,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947972141
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1899,8 +1899,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947992048
 :clipping 0}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1925,8 +1925,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936348
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1944,8 +1944,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948147452
 :clipping 0}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1970,8 +1970,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936497
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1997,8 +1997,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947972277
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2033,8 +2033,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948218295
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2068,8 +2068,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948255602
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2103,8 +2103,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948260663
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2138,8 +2138,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948283801
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2175,8 +2175,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948283877
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2211,8 +2211,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948255631
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2238,8 +2238,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947972170
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2265,8 +2265,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947972306
 :italic false}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2284,8 +2284,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947992077
 :clipping 0}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2310,8 +2310,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936377
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2347,8 +2347,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947001680
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2373,8 +2373,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936526
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2400,8 +2400,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946905315
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2419,8 +2419,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946917909
 :clipping 0}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2438,8 +2438,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948147481
 :clipping 0}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2464,8 +2464,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936192
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2501,8 +2501,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948218324
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2527,8 +2527,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936094
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545016
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2564,8 +2564,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947028566
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545016} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2590,8 +2590,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946935805
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2615,8 +2615,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947091661
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2634,8 +2634,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947119202
 :clipping 0}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2671,8 +2671,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948260739
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2697,8 +2697,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948536704
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2716,8 +2716,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948610941
 :clipping 0}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2742,8 +2742,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936437
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2768,8 +2768,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936662
 :italic false}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2794,8 +2794,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936931
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2830,8 +2830,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948664942
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2857,8 +2857,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946905635
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2883,8 +2883,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936442
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2909,8 +2909,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936940
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545016
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2935,8 +2935,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936446
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545016} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2954,8 +2954,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948147546
 :clipping 0}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2981,8 +2981,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948536713
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3000,8 +3000,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948610950
 :clipping 0}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3026,8 +3026,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936333
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3053,8 +3053,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947972235
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3079,8 +3079,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936671
 :italic false}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3116,8 +3116,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947001799
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3142,8 +3142,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936591
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3168,8 +3168,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936327
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3194,8 +3194,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946935924
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3219,8 +3219,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947091742
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3246,8 +3246,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947972371
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3265,8 +3265,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947119269
 :clipping 0}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3284,8 +3284,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947992142
 :clipping 0}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3303,8 +3303,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946917976
 :clipping 0}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3340,8 +3340,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947028736
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3367,8 +3367,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948806804
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3402,8 +3402,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948838044
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160005
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545016
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3427,8 +3427,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710948929814
 :italic false}}
-:block/updated-at 1711039160005} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545016} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3463,8 +3463,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710949003849
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3489,8 +3489,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428029670
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3516,8 +3516,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710427996532
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3551,8 +3551,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710955031781
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3577,8 +3577,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428029755
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3604,8 +3604,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710427996594
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3640,8 +3640,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710955031828
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3666,8 +3666,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710955070148
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3696,8 +3696,8 @@
 :nonce 1710955110732
 :italic false
 :text "Never sent!"}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3725,8 +3725,8 @@
 :nonce 1710955213952
 :italic false
 :text "User 1"}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545022
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3755,8 +3755,8 @@
 :nonce 1710955214016
 :italic false
 :text "User 2"}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545022} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3780,8 +3780,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710955238027
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3806,8 +3806,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710427996371
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3843,8 +3843,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428188005
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3869,8 +3869,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428074544
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3905,8 +3905,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428096585
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3936,8 +3936,8 @@
 :nonce 1710428113886
 :italic false
 :text "Queue"}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3962,8 +3962,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428088680
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -3988,8 +3988,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428137635
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4014,8 +4014,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428173196
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4044,8 +4044,8 @@
 :nonce 1710428280297
 :italic false
 :text "Sends top job\nto ML container\nfor processing"}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4070,8 +4070,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428052717
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4107,8 +4107,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428122103
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4144,8 +4144,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428194329
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4170,8 +4170,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428029599
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4196,8 +4196,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428137553
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4222,8 +4222,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428137729
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4259,8 +4259,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710428100878
 :italic false}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160007
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4295,8 +4295,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710955297845
 :italic false}}
-:block/updated-at 1711039160007} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4322,8 +4322,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946905635
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160008
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4359,8 +4359,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710949003849
 :italic false}}
-:block/updated-at 1711039160008} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4385,8 +4385,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936333
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4404,8 +4404,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946917976
 :clipping 0}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039160011
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4430,8 +4430,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936327
 :italic false}}
-:block/updated-at 1711039160011} 
-{:block/created-at 1711039160009
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4456,8 +4456,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946935924
 :italic false}}
-:block/updated-at 1711039160009} 
-{:block/created-at 1711039160012
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4493,8 +4493,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947028736
 :italic false}}
-:block/updated-at 1711039160012} 
-{:block/created-at 1711039160010
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4530,8 +4530,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947001799
 :italic false}}
-:block/updated-at 1711039160010} 
-{:block/created-at 1711039380771
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4549,8 +4549,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039137713
 :clipping 0}}
-:block/updated-at 1711039380771} 
-{:block/created-at 1711039380769
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4575,8 +4575,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039142745
 :italic false}}
-:block/updated-at 1711039380769} 
-{:block/created-at 1711039380771
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4605,8 +4605,8 @@
 :nonce 1711039170400
 :italic false
 :text "Realtime DB\n(OPEN TO PUBLIC USER\nIF AUTHENTICATED)"}}
-:block/updated-at 1711039380771} 
-{:block/created-at 1711039380771
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4641,8 +4641,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039236483
 :italic false}}
-:block/updated-at 1711039380771} 
-{:block/created-at 1711039380771
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4678,8 +4678,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039249815
 :italic false}}
-:block/updated-at 1711039380771} 
-{:block/created-at 1711039566561
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4708,8 +4708,8 @@
 :nonce 1711039268069
 :italic false
 :text "Very secure by API secrets"}}
-:block/updated-at 1711039566561} 
-{:block/created-at 1711039405472
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4738,8 +4738,8 @@
 :nonce 1711039298163
 :italic false
 :text "Only secured by database rules"}}
-:block/updated-at 1711039405472} 
-{:block/created-at 1711039533032
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4764,8 +4764,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039433201
 :italic false}}
-:block/updated-at 1711039533032} 
-{:block/created-at 1711039535603
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4783,8 +4783,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039450546
 :clipping 0}}
-:block/updated-at 1711039535603} 
-{:block/created-at 1711039533030
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545016
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4820,8 +4820,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039461744
 :italic false}}
-:block/updated-at 1711039533030} 
-{:block/created-at 1711039545304
+:block/updated-at 1711468545016} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4850,8 +4850,8 @@
 :nonce 1711039471123
 :italic false
 :text "Very secure by oAuth3.0"}}
-:block/updated-at 1711039545304} 
-{:block/created-at 1711039642562
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4876,8 +4876,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039516131
 :italic false}}
-:block/updated-at 1711039642562} 
-{:block/created-at 1711039642560
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4895,8 +4895,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039569397
 :clipping 0}}
-:block/updated-at 1711039642560} 
-{:block/created-at 1711039652569
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4932,8 +4932,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039584891
 :italic false}}
-:block/updated-at 1711039652569} 
-{:block/created-at 1711039743075
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4963,8 +4963,8 @@
 :nonce 1711039268246
 :italic false
 :text "Very secure by API secrets"}}
-:block/updated-at 1711039743075} 
-{:block/created-at 1711039743075
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -4989,8 +4989,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039670428
 :italic false}}
-:block/updated-at 1711039743075} 
-{:block/created-at 1711039743074
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5018,8 +5018,8 @@
 :nonce 1711039681855
 :italic false
 :text "Public Services"}}
-:block/updated-at 1711039743074} 
-{:block/created-at 1711039743075
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5044,8 +5044,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039695145
 :italic false}}
-:block/updated-at 1711039743075} 
-{:block/created-at 1711039743074
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5073,8 +5073,8 @@
 :nonce 1711039709120
 :italic false
 :text "Private Services"}}
-:block/updated-at 1711039743074} 
-{:block/created-at 1711039879146
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5100,8 +5100,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946905635
 :italic false}}
-:block/updated-at 1711039879146} 
-{:block/created-at 1711039879146
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5137,8 +5137,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947028736
 :italic false}}
-:block/updated-at 1711039879146} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5164,8 +5164,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039516131
 :italic false}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039879146
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545016
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5201,8 +5201,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710949003849
 :italic false}}
-:block/updated-at 1711039879146} 
-{:block/created-at 1711039879146
+:block/updated-at 1711468545016} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5220,8 +5220,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946917976
 :clipping 0}}
-:block/updated-at 1711039879146} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5251,8 +5251,8 @@
 :nonce 1711039471123
 :italic false
 :text "Very secure by oAuth3.0"}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5282,8 +5282,8 @@
 :nonce 1711039268332
 :italic false
 :text "Both very secure by API secrets"}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5301,8 +5301,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039569397
 :clipping 0}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5331,8 +5331,8 @@
 :nonce 1711039709132
 :italic false
 :text "Private Services"}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5369,8 +5369,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039584891
 :italic false}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5396,8 +5396,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039433201
 :italic false}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039888816
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545016
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5423,8 +5423,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039670428
 :italic false}}
-:block/updated-at 1711039888816} 
-{:block/created-at 1711039888820
+:block/updated-at 1711468545016} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5453,8 +5453,8 @@
 :nonce 1711039681855
 :italic false
 :text "Public Services"}}
-:block/updated-at 1711039888820} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5491,8 +5491,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039461744
 :italic false}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545022
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5510,8 +5510,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039450546
 :clipping 0}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039879146
+:block/updated-at 1711468545022} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5536,8 +5536,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936327
 :italic false}}
-:block/updated-at 1711039879146} 
-{:block/created-at 1711039879146
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5573,8 +5573,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710947001799
 :italic false}}
-:block/updated-at 1711039879146} 
-{:block/created-at 1711039879147
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5599,8 +5599,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946935924
 :italic false}}
-:block/updated-at 1711039879147} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5626,8 +5626,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039695371
 :italic false}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039879146
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5652,8 +5652,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936333
 :italic false}}
-:block/updated-at 1711039879146} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5679,8 +5679,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039142907
 :italic false}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5698,8 +5698,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039137839
 :clipping 0}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039888819
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5735,8 +5735,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039795979
 :italic false}}
-:block/updated-at 1711039888819} 
-{:block/created-at 1711039904698
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545022
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5760,8 +5760,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039886980
 :italic false}}
-:block/updated-at 1711039904698} 
-{:block/created-at 1711039915192
+:block/updated-at 1711468545022} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5796,8 +5796,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039908787
 :italic false}}
-:block/updated-at 1711039915192} 
-{:block/created-at 1711039935933
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5825,8 +5825,8 @@
 :nonce 1711039919400
 :italic false
 :text "Secured by the user's\nmail service"}}
-:block/updated-at 1711039935933} 
-{:block/created-at 1711468374379
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5855,8 +5855,8 @@
 :nonce 1711039681931
 :italic false
 :text "Public Services"}}
-:block/updated-at 1711468374379} 
-{:block/created-at 1711468101764
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5874,8 +5874,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946917976
 :clipping 0}}
-:block/updated-at 1711468101764} 
-{:block/created-at 1711468281483
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5900,8 +5900,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936327
 :italic false}}
-:block/updated-at 1711468281483} 
-{:block/created-at 1711468361655
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5938,8 +5938,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039461785
 :italic false}}
-:block/updated-at 1711468361655} 
-{:block/created-at 1711468324101
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5965,8 +5965,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039433235
 :italic false}}
-:block/updated-at 1711468324101} 
-{:block/created-at 1711468324101
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -5984,8 +5984,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039450580
 :clipping 0}}
-:block/updated-at 1711468324101} 
-{:block/created-at 1711468423531
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6015,8 +6015,8 @@
 :nonce 1711039268391
 :italic false
 :text "(All very secure by API secrets)"}}
-:block/updated-at 1711468423531} 
-{:block/created-at 1711468388372
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6034,8 +6034,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039137971
 :clipping 0}}
-:block/updated-at 1711468388372} 
-{:block/created-at 1711468376405
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545020
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6064,8 +6064,8 @@
 :nonce 1711039919400
 :italic false
 :text "Secured by the user's\nmail service"}}
-:block/updated-at 1711468376405} 
-{:block/created-at 1711468376405
+:block/updated-at 1711468545020} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6091,8 +6091,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039887026
 :italic false}}
-:block/updated-at 1711468376405} 
-{:block/created-at 1711468266976
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6118,8 +6118,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946905661
 :italic false}}
-:block/updated-at 1711468266976} 
-{:block/created-at 1711468420919
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545019
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6148,8 +6148,8 @@
 :nonce 1711039709298
 :italic false
 :text "Private Services"}}
-:block/updated-at 1711468420919} 
-{:block/created-at 1711468376405
+:block/updated-at 1711468545019} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6185,8 +6185,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039908806
 :italic false}}
-:block/updated-at 1711468376405} 
-{:block/created-at 1711468534436
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468584277
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6204,26 +6204,26 @@
 :fontWeight 400
 :noFill true
 :isLocked false
-:point [4830.21 3106.62]
+:point [4832.93 3106.62]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 0]
-:bindingId "46f28591-eb89-11ee-88dc-6d42c2e2ef5c"}
+:point [0.02 0]
+:bindingId "653b0e01-eb89-11ee-88dc-6d42c2e2ef5c"}
 :end 
 {:id "end"
 :canBind true
-:point [14.71 72]
+:point [0 72]
 :bindingId nil}}
 :decorations 
 {:end "arrow"}
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
-:nonce 1710949003987
+:nonce 1710949004048
 :italic false}}
-:block/updated-at 1711468534436} 
-{:block/created-at 1711468401131
+:block/updated-at 1711468584277} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6249,8 +6249,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039516351
 :italic false}}
-:block/updated-at 1711468401131} 
-{:block/created-at 1711468355866
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6280,8 +6280,8 @@
 :nonce 1711039471168
 :italic false
 :text "Very secure by oAuth3.0"}}
-:block/updated-at 1711468355866} 
-{:block/created-at 1711468401131
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6299,8 +6299,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039569617
 :clipping 0}}
-:block/updated-at 1711468401131} 
-{:block/created-at 1711468101765
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545022
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6325,8 +6325,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946935924
 :italic false}}
-:block/updated-at 1711468101765} 
-{:block/created-at 1711468388372
+:block/updated-at 1711468545022} 
+{:block/created-at 1711468545017
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6352,8 +6352,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711039143039
 :italic false}}
-:block/updated-at 1711468388372} 
-{:block/created-at 1711468376405
+:block/updated-at 1711468545017} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6378,8 +6378,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711468185227
 :italic false}}
-:block/updated-at 1711468376405} 
-{:block/created-at 1711468376405
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545018
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6404,8 +6404,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1710946936539
 :italic false}}
-:block/updated-at 1711468376405} 
-{:block/created-at 1711468376404
+:block/updated-at 1711468545018} 
+{:block/created-at 1711468545023
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6423,8 +6423,8 @@
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :nonce 1711468239608
 :clipping 0}}
-:block/updated-at 1711468376404} 
-{:block/created-at 1711468376405
+:block/updated-at 1711468545023} 
+{:block/created-at 1711468545021
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6453,8 +6453,8 @@
 :nonce 1711039709295
 :italic false
 :text "Serverspace"}}
-:block/updated-at 1711468376405} 
-{:block/created-at 1711468505949
+:block/updated-at 1711468545021} 
+{:block/created-at 1711468549165
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6471,14 +6471,14 @@
 :id "0ab07f11-eb89-11ee-88dc-6d42c2e2ef5c"
 :fontWeight 400
 :noFill true
-:point [4388 3118.99]
+:point [4388 3116.28]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [277.4 74.86]
-:bindingId "3683d381-eb89-11ee-88dc-6d42c2e2ef5c"}
+:point [277.4 71.72]
+:bindingId "0ab05800-eb89-11ee-88dc-6d42c2e2ef5c"}
 :end 
 {:id "end"
 :canBind true
@@ -6487,10 +6487,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
-:nonce 1711468431782
+:nonce 1711468431767
 :italic false}}
-:block/updated-at 1711468505949} 
-{:block/created-at 1711468497547
+:block/updated-at 1711468549165} 
+{:block/created-at 1711468549875
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6507,26 +6507,26 @@
 :id "0db35ed0-eb89-11ee-88dc-6d42c2e2ef5c"
 :fontWeight 400
 :noFill true
-:point [4388 3201.2]
+:point [4388 3274.62]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [277.4 0]
-:bindingId "2e0f8501-eb89-11ee-88dc-6d42c2e2ef5c"}
+:point [280.37 0]
+:bindingId "0f6ef181-eb89-11ee-88dc-6d42c2e2ef5c"}
 :end 
 {:id "end"
 :canBind true
-:point [0 199.3]
+:point [0 149.2]
 :bindingId "0db337c1-eb89-11ee-88dc-6d42c2e2ef5c"}}
 :decorations 
 {:end "arrow"}
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
-:nonce 1711468436963
+:nonce 1711468436834
 :italic false}}
-:block/updated-at 1711468497547} 
-{:block/created-at 1711468451624
+:block/updated-at 1711468549875} 
+{:block/created-at 1711468551082
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -6559,17 +6559,17 @@
 :decorations 
 {:end "arrow"}
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
-:nonce 1711468447435
+:nonce 1711468447416
 :italic false}}
-:block/updated-at 1711468451624} 
-{:block/created-at 1711468482861
+:block/updated-at 1711468551082} 
+{:block/created-at 1711468595804
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
 :index 229
 :scale [1 1]
-:scaleLevel "lg"
+:scaleLevel "md"
 :fill ""
 :type "line"
 :strokeType "line"
@@ -6579,25 +6579,25 @@
 :id "19b3e150-eb89-11ee-88dc-6d42c2e2ef5c"
 :fontWeight 400
 :noFill true
-:point [4990.4 3229.21]
+:point [4833.63 3277.62]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [13.3 161.79]
-:bindingId "1f139cd1-eb89-11ee-88dc-6d42c2e2ef5c"}
+:point [1.06 113.38]
+:bindingId "6c15d0c1-eb89-11ee-88dc-6d42c2e2ef5c"}
 :end 
 {:id "end"
 :canBind true
 :point [0 0]
-:bindingId "276213d1-eb89-11ee-88dc-6d42c2e2ef5c"}}
+:bindingId "5a7862b1-eb89-11ee-88dc-6d42c2e2ef5c"}}
 :decorations 
 {:end "arrow"}
 :parentId "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
-:nonce 1711468457237
+:nonce 1711468457133
 :italic false}}
-:block/updated-at 1711468482861})
+:block/updated-at 1711468595804})
 :pages (
 {:block/uuid #uuid "6598d882-bcdf-4e8e-9781-f17f252fbcb7"
 :block/properties 
@@ -6806,6 +6806,14 @@
 :handleId "end"
 :point [0.74 0.61]
 :distance 4}
+:653b0e01-eb89-11ee-88dc-6d42c2e2ef5c 
+{:id "653b0e01-eb89-11ee-88dc-6d42c2e2ef5c"
+:type "line"
+:fromId "45d74706-eb88-11ee-88dc-6d42c2e2ef5c"
+:toId "45d74703-eb88-11ee-88dc-6d42c2e2ef5c"
+:handleId "start"
+:point [0.52 0.48]
+:distance 4}
 :8df25050-e7a2-11ee-804b-e1099974387f 
 {:id "8df25050-e7a2-11ee-804b-e1099974387f"
 :type "line"
@@ -6982,6 +6990,14 @@
 :handleId "end"
 :point [0.52 0.47]
 :distance 4}
+:57c7c1a1-eb89-11ee-88dc-6d42c2e2ef5c 
+{:id "57c7c1a1-eb89-11ee-88dc-6d42c2e2ef5c"
+:type "line"
+:fromId "19b3e150-eb89-11ee-88dc-6d42c2e2ef5c"
+:toId "45d74701-eb88-11ee-88dc-6d42c2e2ef5c"
+:handleId "end"
+:point [0.55 0.42]
+:distance 4}
 :1f139cd1-eb89-11ee-88dc-6d42c2e2ef5c 
 {:id "1f139cd1-eb89-11ee-88dc-6d42c2e2ef5c"
 :type "line"
@@ -7038,14 +7054,6 @@
 :handleId "start"
 :point [0.27 0.48]
 :distance 4}
-:217cad91-eb89-11ee-88dc-6d42c2e2ef5c 
-{:id "217cad91-eb89-11ee-88dc-6d42c2e2ef5c"
-:type "line"
-:fromId "19b3e150-eb89-11ee-88dc-6d42c2e2ef5c"
-:toId "45d74703-eb88-11ee-88dc-6d42c2e2ef5c"
-:handleId "end"
-:point [0.95 0.49]
-:distance 4}
 :e1c61d50-e212-11ee-afab-991a2226ee28 
 {:id "e1c61d50-e212-11ee-afab-991a2226ee28"
 :type "line"
@@ -7101,14 +7109,6 @@
 :toId "002eff00-e213-11ee-afab-991a2226ee28"
 :handleId "start"
 :point [0.52 0.61]
-:distance 4}
-:3683d381-eb89-11ee-88dc-6d42c2e2ef5c 
-{:id "3683d381-eb89-11ee-88dc-6d42c2e2ef5c"
-:type "line"
-:fromId "0ab07f11-eb89-11ee-88dc-6d42c2e2ef5c"
-:toId "45d74701-eb88-11ee-88dc-6d42c2e2ef5c"
-:handleId "start"
-:point [0.5 0.58]
 :distance 4}
 :45d7471d-eb88-11ee-88dc-6d42c2e2ef5c 
 {:id "45d7471d-eb88-11ee-88dc-6d42c2e2ef5c"
@@ -7302,6 +7302,14 @@
 :handleId "end"
 :point [0.48 0.54]
 :distance 4}
+:56f04d61-eb89-11ee-88dc-6d42c2e2ef5c 
+{:id "56f04d61-eb89-11ee-88dc-6d42c2e2ef5c"
+:type "line"
+:fromId "19b3e150-eb89-11ee-88dc-6d42c2e2ef5c"
+:toId "77a02e50-eb88-11ee-88dc-6d42c2e2ef5c"
+:handleId "start"
+:point [0.54 0.52]
+:distance 4}
 :ec4fe046-e7a2-11ee-804b-e1099974387f 
 {:id "ec4fe046-e7a2-11ee-804b-e1099974387f"
 :type "line"
@@ -7421,6 +7429,14 @@
 :toId "45d74707-eb88-11ee-88dc-6d42c2e2ef5c"
 :handleId "end"
 :point [0.63 0.3]
+:distance 4}
+:59375731-eb89-11ee-88dc-6d42c2e2ef5c 
+{:id "59375731-eb89-11ee-88dc-6d42c2e2ef5c"
+:type "line"
+:fromId "19b3e150-eb89-11ee-88dc-6d42c2e2ef5c"
+:toId "77a02e50-eb88-11ee-88dc-6d42c2e2ef5c"
+:handleId "start"
+:point [0.48 0.5]
 :distance 4}
 :46f28591-eb89-11ee-88dc-6d42c2e2ef5c 
 {:id "46f28591-eb89-11ee-88dc-6d42c2e2ef5c"
@@ -7550,13 +7566,13 @@
 :handleId "end"
 :point [0.28 0.48]
 :distance 4}
-:2e0f8501-eb89-11ee-88dc-6d42c2e2ef5c 
-{:id "2e0f8501-eb89-11ee-88dc-6d42c2e2ef5c"
+:48abf561-eb89-11ee-88dc-6d42c2e2ef5c 
+{:id "48abf561-eb89-11ee-88dc-6d42c2e2ef5c"
 :type "line"
-:fromId "0db35ed0-eb89-11ee-88dc-6d42c2e2ef5c"
+:fromId "45d74706-eb88-11ee-88dc-6d42c2e2ef5c"
 :toId "45d74701-eb88-11ee-88dc-6d42c2e2ef5c"
-:handleId "start"
-:point [0.08 0.03]
+:handleId "end"
+:point [0.47 0.53]
 :distance 4}
 :dae1e121-eb88-11ee-88dc-6d42c2e2ef5c 
 {:id "dae1e121-eb88-11ee-88dc-6d42c2e2ef5c"
@@ -7573,14 +7589,6 @@
 :toId "45d74712-eb88-11ee-88dc-6d42c2e2ef5c"
 :handleId "end"
 :point [0.56 0.21]
-:distance 4}
-:276213d1-eb89-11ee-88dc-6d42c2e2ef5c 
-{:id "276213d1-eb89-11ee-88dc-6d42c2e2ef5c"
-:type "line"
-:fromId "19b3e150-eb89-11ee-88dc-6d42c2e2ef5c"
-:toId "45d74701-eb88-11ee-88dc-6d42c2e2ef5c"
-:handleId "end"
-:point [0.99 0.08]
 :distance 4}
 :f067e951-e6cd-11ee-804b-e1099974387f 
 {:id "f067e951-e6cd-11ee-804b-e1099974387f"
@@ -7630,13 +7638,13 @@
 :handleId "start"
 :point [0.81 0.7]
 :distance 4}
-:33b8f3b1-eb89-11ee-88dc-6d42c2e2ef5c 
-{:id "33b8f3b1-eb89-11ee-88dc-6d42c2e2ef5c"
+:55294901-eb89-11ee-88dc-6d42c2e2ef5c 
+{:id "55294901-eb89-11ee-88dc-6d42c2e2ef5c"
 :type "line"
-:fromId "0ab07f11-eb89-11ee-88dc-6d42c2e2ef5c"
+:fromId "19b3e150-eb89-11ee-88dc-6d42c2e2ef5c"
 :toId "45d74701-eb88-11ee-88dc-6d42c2e2ef5c"
-:handleId "start"
-:point [0.37 0.62]
+:handleId "end"
+:point [0.4 0.28]
 :distance 4}
 :ec4fe04d-e7a2-11ee-804b-e1099974387f 
 {:id "ec4fe04d-e7a2-11ee-804b-e1099974387f"
@@ -7694,6 +7702,14 @@
 :handleId "end"
 :point [0.51 0.43]
 :distance 4}
+:5a7862b1-eb89-11ee-88dc-6d42c2e2ef5c 
+{:id "5a7862b1-eb89-11ee-88dc-6d42c2e2ef5c"
+:type "line"
+:fromId "19b3e150-eb89-11ee-88dc-6d42c2e2ef5c"
+:toId "45d74701-eb88-11ee-88dc-6d42c2e2ef5c"
+:handleId "end"
+:point [0.52 0.25]
+:distance 4}
 :0f3aa091-e7a3-11ee-804b-e1099974387f 
 {:id "0f3aa091-e7a3-11ee-804b-e1099974387f"
 :type "line"
@@ -7741,6 +7757,14 @@
 :toId "f8f94890-acec-11ee-9e11-378aff2f4c21"
 :handleId "end"
 :point [0.52 0.45]
+:distance 4}
+:62c9bfe1-eb89-11ee-88dc-6d42c2e2ef5c 
+{:id "62c9bfe1-eb89-11ee-88dc-6d42c2e2ef5c"
+:type "line"
+:fromId "45d74706-eb88-11ee-88dc-6d42c2e2ef5c"
+:toId "45d74703-eb88-11ee-88dc-6d42c2e2ef5c"
+:handleId "start"
+:point [0.6 0.36]
 :distance 4}
 :8b1ed831-adbe-11ee-9e11-378aff2f4c21 
 {:id "8b1ed831-adbe-11ee-9e11-378aff2f4c21"
@@ -7878,6 +7902,14 @@
 :handleId "end"
 :point [0.5 0.6]
 :distance 4}
+:6c15d0c1-eb89-11ee-88dc-6d42c2e2ef5c 
+{:id "6c15d0c1-eb89-11ee-88dc-6d42c2e2ef5c"
+:type "line"
+:fromId "19b3e150-eb89-11ee-88dc-6d42c2e2ef5c"
+:toId "77a02e50-eb88-11ee-88dc-6d42c2e2ef5c"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
 :475e3ac8-e6de-11ee-804b-e1099974387f 
 {:id "475e3ac8-e6de-11ee-804b-e1099974387f"
 :type "line"
@@ -7989,7 +8021,7 @@
 :src "../assets/image_1711468239278_0.png"
 :size [498 142]}]
 :shapes-index ("86482510-e7a1-11ee-804b-e1099974387f" "adda67c0-e6cd-11ee-804b-e1099974387f" "38b06e50-ac4d-11ee-9e11-378aff2f4c21" "e542bec0-ac4d-11ee-9e11-378aff2f4c21" "f8292792-ac4d-11ee-9e11-378aff2f4c21" "0261bb52-ac4e-11ee-9e11-378aff2f4c21" "a0412fb0-acec-11ee-9e11-378aff2f4c21" "aadd4032-acec-11ee-9e11-378aff2f4c21" "c4622610-acec-11ee-9e11-378aff2f4c21" "d3e8e922-acec-11ee-9e11-378aff2f4c21" "da89fe40-acec-11ee-9e11-378aff2f4c21" "f4909742-acec-11ee-9e11-378aff2f4c21" "f8f94890-acec-11ee-9e11-378aff2f4c21" "07f92862-aced-11ee-9e11-378aff2f4c21" "264e50b0-ac4d-11ee-9e11-378aff2f4c21" "e4e7a1a0-dfee-11ee-a294-7f499df4a74b" "ebeb2210-dfee-11ee-a294-7f499df4a74b" "fc7d1390-dfee-11ee-a294-7f499df4a74b" "189834b0-dfef-11ee-a294-7f499df4a74b" "537e7bc0-dfef-11ee-a294-7f499df4a74b" "5f2a9cb0-dfef-11ee-a294-7f499df4a74b" "8bd7fd72-dfef-11ee-a294-7f499df4a74b" "8f0ff6f2-dfef-11ee-a294-7f499df4a74b" "9e8a5df0-dfef-11ee-a294-7f499df4a74b" "9e8a5df1-dfef-11ee-a294-7f499df4a74b" "9e8a5df2-dfef-11ee-a294-7f499df4a74b" "d47fb0e2-dfef-11ee-a294-7f499df4a74b" "d75bf5d2-dfef-11ee-a294-7f499df4a74b" "dabd2232-dfef-11ee-a294-7f499df4a74b" "e4357330-dfef-11ee-a294-7f499df4a74b" "eb967cf0-dfef-11ee-a294-7f499df4a74b" "1103f080-dff0-11ee-a294-7f499df4a74b" "32320cb2-dff0-11ee-a294-7f499df4a74b" "35f04d30-dff0-11ee-a294-7f499df4a74b" "96aaaac0-e212-11ee-afab-991a2226ee28" "aa9eb300-e212-11ee-afab-991a2226ee28" "b84ff2c0-e212-11ee-afab-991a2226ee28" "c56344d0-e212-11ee-afab-991a2226ee28" "cdcd0c00-e212-11ee-afab-991a2226ee28" "d2945810-e212-11ee-afab-991a2226ee28" "d504e2e2-e212-11ee-afab-991a2226ee28" "dccf83e0-e212-11ee-afab-991a2226ee28" "e1c61d52-e212-11ee-afab-991a2226ee28" "eafbe710-e212-11ee-afab-991a2226ee28" "ee93b3d0-e212-11ee-afab-991a2226ee28" "eeb4f770-e212-11ee-afab-991a2226ee28" "002eff00-e213-11ee-afab-991a2226ee28" "090ac1e2-e213-11ee-afab-991a2226ee28" "0cb4b712-e213-11ee-afab-991a2226ee28" "20565990-e213-11ee-afab-991a2226ee28" "252064c2-e213-11ee-afab-991a2226ee28" "27981b82-e213-11ee-afab-991a2226ee28" "339fa2e0-e213-11ee-afab-991a2226ee28" "4012e460-e213-11ee-afab-991a2226ee28" "4959ec30-e213-11ee-afab-991a2226ee28" "57537f90-e213-11ee-afab-991a2226ee28" "c497a980-e6ca-11ee-804b-e1099974387f" "cc2170f0-e6ca-11ee-804b-e1099974387f" "d6d5eb70-e6ca-11ee-804b-e1099974387f" "e4ea59d0-e6ca-11ee-804b-e1099974387f" "e50079e0-e6ca-11ee-804b-e1099974387f" "fe175bb1-e6ca-11ee-804b-e1099974387f" "0df6ed22-e6cb-11ee-804b-e1099974387f" "33afe8a0-e6cb-11ee-804b-e1099974387f" "440e1ff0-e6cb-11ee-804b-e1099974387f" "406d67a0-e6cd-11ee-804b-e1099974387f" "4c524bd0-e6cd-11ee-804b-e1099974387f" "533c9ef0-e6cd-11ee-804b-e1099974387f" "a8fb26e0-e6cd-11ee-804b-e1099974387f" "adda67c2-e6cd-11ee-804b-e1099974387f" "d3197850-e6cd-11ee-804b-e1099974387f" "e98118a2-e6cd-11ee-804b-e1099974387f" "ec872cb0-e6cd-11ee-804b-e1099974387f" "fa54a702-e6cd-11ee-804b-e1099974387f" "787a0c60-e6ce-11ee-804b-e1099974387f" "787a0c61-e6ce-11ee-804b-e1099974387f" "787a0c62-e6ce-11ee-804b-e1099974387f" "787a0c63-e6ce-11ee-804b-e1099974387f" "787a0c64-e6ce-11ee-804b-e1099974387f" "787a0c65-e6ce-11ee-804b-e1099974387f" "787a0c66-e6ce-11ee-804b-e1099974387f" "787a0c67-e6ce-11ee-804b-e1099974387f" "787a0c68-e6ce-11ee-804b-e1099974387f" "787a0c69-e6ce-11ee-804b-e1099974387f" "787a0c6a-e6ce-11ee-804b-e1099974387f" "787a0c6b-e6ce-11ee-804b-e1099974387f" "787a0c6c-e6ce-11ee-804b-e1099974387f" "787a0c6d-e6ce-11ee-804b-e1099974387f" "787a0c6e-e6ce-11ee-804b-e1099974387f" "787a0c6f-e6ce-11ee-804b-e1099974387f" "787a0c70-e6ce-11ee-804b-e1099974387f" "787a0c71-e6ce-11ee-804b-e1099974387f" "787a0c72-e6ce-11ee-804b-e1099974387f" "90d7fe70-e6ce-11ee-804b-e1099974387f" "bd17a940-e6ce-11ee-804b-e1099974387f" "c3d212c0-e6ce-11ee-804b-e1099974387f" "c6e01610-e6ce-11ee-804b-e1099974387f" "c9cef8a0-e6ce-11ee-804b-e1099974387f" "dd6ffee0-e6ce-11ee-804b-e1099974387f" "28d39e00-e6cf-11ee-804b-e1099974387f" "28d39e01-e6cf-11ee-804b-e1099974387f" "28d39e02-e6cf-11ee-804b-e1099974387f" "28d39e03-e6cf-11ee-804b-e1099974387f" "28d39e04-e6cf-11ee-804b-e1099974387f" "28d39e05-e6cf-11ee-804b-e1099974387f" "28d39e06-e6cf-11ee-804b-e1099974387f" "28d39e07-e6cf-11ee-804b-e1099974387f" "28d39e08-e6cf-11ee-804b-e1099974387f" "28d39e09-e6cf-11ee-804b-e1099974387f" "28d39e0a-e6cf-11ee-804b-e1099974387f" "28d39e0b-e6cf-11ee-804b-e1099974387f" "28d39e0c-e6cf-11ee-804b-e1099974387f" "28d39e0d-e6cf-11ee-804b-e1099974387f" "28d39e0e-e6cf-11ee-804b-e1099974387f" "28d39e13-e6cf-11ee-804b-e1099974387f" "28d39e14-e6cf-11ee-804b-e1099974387f" "28d39e15-e6cf-11ee-804b-e1099974387f" "28d39e16-e6cf-11ee-804b-e1099974387f" "28d39e17-e6cf-11ee-804b-e1099974387f" "32023bd0-e6cf-11ee-804b-e1099974387f" "44b119e0-e6cf-11ee-804b-e1099974387f" "7b62df00-e6cf-11ee-804b-e1099974387f" "a761b040-e6cf-11ee-804b-e1099974387f" "780b2020-e6dd-11ee-804b-e1099974387f" "780b2021-e6dd-11ee-804b-e1099974387f" "b07320c2-e6dd-11ee-804b-e1099974387f" "b5cb1410-e6dd-11ee-804b-e1099974387f" "b5cb1411-e6dd-11ee-804b-e1099974387f" "b5cb1412-e6dd-11ee-804b-e1099974387f" "c73b7eb0-e6dd-11ee-804b-e1099974387f" "df582200-e6dd-11ee-804b-e1099974387f" "1d00e470-e6de-11ee-804b-e1099974387f" "231040e0-e6de-11ee-804b-e1099974387f" "2b5b8390-e6de-11ee-804b-e1099974387f" "475e13a0-e6de-11ee-804b-e1099974387f" "475e13a1-e6de-11ee-804b-e1099974387f" "475e13a2-e6de-11ee-804b-e1099974387f" "475e3ab0-e6de-11ee-804b-e1099974387f" "475e3ab1-e6de-11ee-804b-e1099974387f" "475e3ab2-e6de-11ee-804b-e1099974387f" "475e3ab3-e6de-11ee-804b-e1099974387f" "475e3ab4-e6de-11ee-804b-e1099974387f" "475e3ab5-e6de-11ee-804b-e1099974387f" "475e3ab6-e6de-11ee-804b-e1099974387f" "475e3ab7-e6de-11ee-804b-e1099974387f" "475e3ab8-e6de-11ee-804b-e1099974387f" "475e3ab9-e6de-11ee-804b-e1099974387f" "475e3aba-e6de-11ee-804b-e1099974387f" "475e3abb-e6de-11ee-804b-e1099974387f" "475e3ac0-e6de-11ee-804b-e1099974387f" "4f035250-e6de-11ee-804b-e1099974387f" "6f151e70-e7a1-11ee-804b-e1099974387f" "6f151e71-e7a1-11ee-804b-e1099974387f" "6f151e72-e7a1-11ee-804b-e1099974387f" "6f151e73-e7a1-11ee-804b-e1099974387f" "6f151e74-e7a1-11ee-804b-e1099974387f" "6f151e75-e7a1-11ee-804b-e1099974387f" "6f151e76-e7a1-11ee-804b-e1099974387f" "6f151e77-e7a1-11ee-804b-e1099974387f" "835b1740-e7a1-11ee-804b-e1099974387f" "96bacec0-e7a1-11ee-804b-e1099974387f" "be569402-e7a1-11ee-804b-e1099974387f" "c639ed20-e7a1-11ee-804b-e1099974387f" "d104aec0-e7a1-11ee-804b-e1099974387f" "e2f545e0-e7a1-11ee-804b-e1099974387f" "3395af30-e7a2-11ee-804b-e1099974387f" "3de83390-e7a2-11ee-804b-e1099974387f" "449de222-e7a2-11ee-804b-e1099974387f" "4a2dd560-e7a2-11ee-804b-e1099974387f" "64f30370-e7a2-11ee-804b-e1099974387f" "84aaac40-e7a2-11ee-804b-e1099974387f" "8df29e70-e7a2-11ee-804b-e1099974387f" "c0ff2950-e7a2-11ee-804b-e1099974387f" "c7ce0530-e7a2-11ee-804b-e1099974387f" "cfb38130-e7a2-11ee-804b-e1099974387f" "d80cf4b0-e7a2-11ee-804b-e1099974387f" "9ed37340-e7a2-11ee-804b-e1099974387f" "ec4fb931-e7a2-11ee-804b-e1099974387f" "ec4fb932-e7a2-11ee-804b-e1099974387f" "ec4fb933-e7a2-11ee-804b-e1099974387f" "ec4fb934-e7a2-11ee-804b-e1099974387f" "ec4fb935-e7a2-11ee-804b-e1099974387f" "ec4fb936-e7a2-11ee-804b-e1099974387f" "ec4fb937-e7a2-11ee-804b-e1099974387f" "ec4fb938-e7a2-11ee-804b-e1099974387f" "ec4fb93f-e7a2-11ee-804b-e1099974387f" "ec4fb940-e7a2-11ee-804b-e1099974387f" "ec4fb941-e7a2-11ee-804b-e1099974387f" "ec4fb942-e7a2-11ee-804b-e1099974387f" "ec4fb943-e7a2-11ee-804b-e1099974387f" "ec4fb944-e7a2-11ee-804b-e1099974387f" "ec4fb945-e7a2-11ee-804b-e1099974387f" "ec4fb946-e7a2-11ee-804b-e1099974387f" "ec4fe040-e7a2-11ee-804b-e1099974387f" "ec4fe042-e7a2-11ee-804b-e1099974387f" "ec4fe043-e7a2-11ee-804b-e1099974387f" "f8517430-e7a2-11ee-804b-e1099974387f" "f8517431-e7a2-11ee-804b-e1099974387f" "0bb2d960-e7a3-11ee-804b-e1099974387f" "ec4fe041-e7a2-11ee-804b-e1099974387f" "4212d500-e7a3-11ee-804b-e1099974387f" "4f10ca50-e7a3-11ee-804b-e1099974387f" "55625fe0-e7a3-11ee-804b-e1099974387f" "45d71ff0-eb88-11ee-88dc-6d42c2e2ef5c" "45d74700-eb88-11ee-88dc-6d42c2e2ef5c" "45d74701-eb88-11ee-88dc-6d42c2e2ef5c" "45d74703-eb88-11ee-88dc-6d42c2e2ef5c" "45d74706-eb88-11ee-88dc-6d42c2e2ef5c" "45d74707-eb88-11ee-88dc-6d42c2e2ef5c" "45d74708-eb88-11ee-88dc-6d42c2e2ef5c" "45d74709-eb88-11ee-88dc-6d42c2e2ef5c" "45d7470a-eb88-11ee-88dc-6d42c2e2ef5c" "45d7470b-eb88-11ee-88dc-6d42c2e2ef5c" "45d7470c-eb88-11ee-88dc-6d42c2e2ef5c" "45d7470f-eb88-11ee-88dc-6d42c2e2ef5c" "45d74710-eb88-11ee-88dc-6d42c2e2ef5c" "45d74711-eb88-11ee-88dc-6d42c2e2ef5c" "45d74712-eb88-11ee-88dc-6d42c2e2ef5c" "45d74713-eb88-11ee-88dc-6d42c2e2ef5c" "45d74716-eb88-11ee-88dc-6d42c2e2ef5c" "45d74717-eb88-11ee-88dc-6d42c2e2ef5c" "45d74718-eb88-11ee-88dc-6d42c2e2ef5c" "77a02e50-eb88-11ee-88dc-6d42c2e2ef5c" "82861910-eb88-11ee-88dc-6d42c2e2ef5c" "9812c2b0-eb88-11ee-88dc-6d42c2e2ef5c" "b647ea30-eb88-11ee-88dc-6d42c2e2ef5c" "0ab07f11-eb89-11ee-88dc-6d42c2e2ef5c" "0db35ed0-eb89-11ee-88dc-6d42c2e2ef5c" "1404cd50-eb89-11ee-88dc-6d42c2e2ef5c" "19b3e150-eb89-11ee-88dc-6d42c2e2ef5c")}}
-:block/updated-at 1711468534449
+:block/updated-at 1711468595817
 :block/created-at 1704515714597
 :block/type "whiteboard"
 :block/name "ai-asd"
