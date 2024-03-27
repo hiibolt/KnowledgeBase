@@ -266,5 +266,14 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		- #### 5.4.E
 		  Find the extreme values of $f(x,y) = 2x^2-4x+3y^2-6y+5$ over the triangle with vertices $(0,0), (3,0), (0,3).$
 		  
-		  $\nabla f = <4x-4, 6y-6> or <4(x-1), 6(y-1>$
+		  $\nabla f = <4x-4, 6y-6> or <4(x-1), 6(y-1)>$
+		  \begin{equation}
+		  \begin{vmatrix}
+		  f_{xx} & f_{xy}\\
+		  f_{xy} & f_{yy}
+		  \end{vmatrix} = 
+		  \begin{vmatrix}
+		  4 & 0\\
+		  0 & 6
+		  \end{vmatrix}
 -
