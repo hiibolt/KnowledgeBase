@@ -310,5 +310,5 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  
 		  **Boundary**:
 		  $z(t) = sin^3(t) - sin(t) + cos^2(t)$
-		  $$$$
+		  $z'(t) = 3(sin^2(t))cos(t) - cos(t) - 2(cos(t))sin(t)$
 -
