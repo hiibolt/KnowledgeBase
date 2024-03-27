@@ -291,5 +291,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $F'(y) = 6y - 6$
 		  $(0,1)$ is a candidate.
 		  * hypotenuse:
-		  $F(x,y) = f(x, 3-x) = 2x^2$$$
+		  $F(x,y) = f(x, 3-x) = 2x^2-4x+3(3-x)^2-6(3-x)+5 = 5x^2-16x+14$$$ 
+		  $F'($$$
 -
