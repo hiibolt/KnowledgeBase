@@ -305,5 +305,5 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		- #### 5.4.E2
 		  Find the extreme values of $f(x,y) = x^2 - y + y^3$ over the closed unit disk.
 		  
-		  $\nabla f = <2x, 3^2 - 1>$ - By solving, $(0, \frac{\sqrt{3}{3}})$
+		  $\nabla f = <2x, 3^2 - 1>$ - By solving, $(0, \pm\frac{\sqrt{3}}{3})$ - Values of \frac{2}{3\sqrt{3}
 -
