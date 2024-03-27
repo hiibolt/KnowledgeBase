@@ -302,4 +302,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  
 		  After checking,
 		  $(1,1) = 0$ is the global min and $(0,3) = 14$ is the global max.
+		- #### 5.4.E2
+		  Find the extreme values of $f(x,y) = x^2 - y + y^3$ over the closed unit disk.
+		  
+		  $\nabla f = <2x, $$$
 -
