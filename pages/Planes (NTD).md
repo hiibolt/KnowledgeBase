@@ -280,5 +280,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  \end{equation} 
 		  Therefore, we can clearly see that $(1,1)$ is a local minimum.
 		  
-		  Next, we apply single var. EVT over the
+		  Next, we apply single var. EVT over the three boundary lines of the triangle.
+		  * x-axis: $F(x) = f(x,0) = $
 -
