@@ -268,12 +268,17 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  
 		  $\nabla f = <4x-4, 6y-6> or <4(x-1), 6(y-1)>$
 		  \begin{equation}
+		  D=
 		  \begin{vmatrix}
 		  f_{xx} & f_{xy}\\
 		  f_{xy} & f_{yy}
-		  \end{vmatrix} = 
+		  \end{vmatrix}, D(1,1) = 
 		  \begin{vmatrix}
 		  4 & 0\\
 		  0 & 6
 		  \end{vmatrix}
+		  \end{equation} 
+		  Therefore, we can clearly see that $(1,1)$ is a local minimum.
+		  
+		  Next, we apply single var. EVT over the
 -
