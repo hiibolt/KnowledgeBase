@@ -299,4 +299,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $(1,1)$ - [Interior]
 		  $(0,1), (1,0), (\frac{8}{5}, \frac{7}{5})$ - [Boundary lines]
 		  $(0,0), (0,3), (3,0)$ - [Corners]
+		  
+		  After checking,
+		  $(1,1) = 0$ is the global min and $(0,3) = 14$ is the global max.
 -
