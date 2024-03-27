@@ -6,3 +6,6 @@ Allowing $h(t) = f(\gamma(t)) = f(x(t), y(t))$ - $h(t) = 0, h'(t_0) = 0$ when $\
 $$0=\frac{df}{dx}\frac{dx}{dt}+\frac{df}{dy}\frac{dy}{dt}$$
 
 In other words, the gradient of f is orthogonal to the velocity vector $\gamma '(t_0)$, as is $\nabla g$.
+
+**Lagrange Multplier**:
+There is a number $\lambda$ allowing $\nabla f(x_0, y_0) = $$$
