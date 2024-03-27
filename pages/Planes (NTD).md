@@ -290,4 +290,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $F(y) = f(0,y) = 3y^2-6y-5$
 		  $F'(y) = 6y - 6$
 		  $(0,1)$ is a candidate.
+		  * hypotenuse:
+		  $F(x,y) = f(x, 3-x) = 2x^2$$$
 -
