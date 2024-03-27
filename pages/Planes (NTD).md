@@ -311,5 +311,5 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  **Boundary**:
 		  $z(t) = \sin^3(t) - \sin(t) + \cos^2(t)$
 		  $z'(t) = 3(\sin^2(t))\cos(t) - \cos(t) - 2(\cos(t))\sin(t)$
-		  CPs are $t = \pm\frac{\pi}{2}, -tan^{-1}(t), \pm\frac{}{}$$$
+		  CPs are $t = \pm\frac{\pi}{2}, -\tan^{-1}(\frac{1}{2\sqrt{2}}), \pi-\tan^{-1}\frac{1}{2\sqrt{2}}$
 -
