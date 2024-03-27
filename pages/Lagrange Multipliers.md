@@ -8,4 +8,4 @@ $$0=\frac{df}{dx}\frac{dx}{dt}+\frac{df}{dy}\frac{dy}{dt}$$
 In other words, the gradient of f is orthogonal to the velocity vector $\gamma '(t_0)$, as is $\nabla g$.
 
 **Lagrange Multplier**:
-There is a number $\lambda$ allowing $\nabla f(x_0, y_0) = $$$
+There is a number $\lambda$ allowing $\nabla f(x_0, y_0) = \lamda\nabla g(x_0,y_0)$
