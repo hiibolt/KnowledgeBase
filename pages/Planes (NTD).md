@@ -263,4 +263,6 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $$\text{setting }y=x$$
 		  $$\frac{1-x}{x}=\frac{\sqrt{2x^2}-1}{\sqrt{2x^2}}$$
 		  Our only critical point is at $(\frac{2+\sqrt{2}}{4},\frac{2+\sqrt{2}}{4})$. $D > 0$ and $f_{xx} >0$, so this is a local minimum.
+		- #### 5.4.E
+		  Find the extreme values of $f(x,y) = 2x^2-4x+-6y+5$$$
 -
