@@ -281,5 +281,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  Therefore, we can clearly see that $(1,1)$ is a local minimum.
 		  
 		  Next, we apply single var. EVT over the three boundary lines of the triangle.
-		  * x-axis: $F(x) = f(x,0) = $
+		  * x-axis:
+		  $F(x) = f(x,0) = 2x^2-4x+5$
+		  $F'(x,0) = 4x - 4$
+		  $(1,0)$ is a candidate.
 -
