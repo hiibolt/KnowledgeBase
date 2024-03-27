@@ -115,7 +115,8 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 	  
 	  **Bounded Planar**: There exists a finite distance between all point pairs in the set.
 	  **Interior Point**: There is a disk centered at a point which is in the set
-	  **Boundary Point**: Every disk centered at this piont contains points both in and out of the set.
+	  **Boundary Point**: Every disk centered at this point contains points both in and out of the set.
+	  **Closed Set**: Contains all of its boundary points
 	- ## Examples
 		- #### 5.3.E1
 		  Find all extrema of $f(x,y)=2x^2+y^2+4x-4y+5$.
