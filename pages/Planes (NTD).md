@@ -309,6 +309,7 @@ Can be $\in \mathbb{R}^3$ or $\in \mathbb{R}^2$
 		  $\nabla f = <2x, 3^2 - 1>$ - By solving, $(0, \pm\frac{\sqrt{3}}{3})$ - Values of $\frac{2}{3\sqrt{3}}$ vs $-\frac{2}{3\sqrt{3}}$.
 		  
 		  **Boundary**:
-		  $z(t) = sin^3(t) - sin(t) + cos^2(t)$
-		  $z'(t) = 3(sin^2(t))cos(t) - cos(t) - 2(cos(t))sin(t)$
+		  $z(t) = \sin^3(t) - \sin(t) + \cos^2(t)$
+		  $z'(t) = 3(\sin^2(t))\cos(t) - \cos(t) - 2(\cos(t))\sin(t)$
+		  CPs are $t = \pm\frac{\pi}{2}, -tan^{-1}(t), \pm\frac{}{}$$$
 -
