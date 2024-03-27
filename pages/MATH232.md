@@ -2,3 +2,4 @@
 - [[Conics]]
 - [[Vectors]]
 - [[Planes (NTD)]]
+- [[Lagrange Multipliers]]
