@@ -37,3 +37,7 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  
 		  Now:
 		  \begin{cases}
+		  8x=2\delta x\\
+		  18y=2\delta y\\
+		  x^2+y^2=1
+		  \end{cases}
