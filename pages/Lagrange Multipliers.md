@@ -19,4 +19,5 @@ There is a number $\lambda$ allowing $\nabla f(x_0, y_0) = \lambda\nabla g(x_0,y
   4x^2+9y^2=36
   \end{cases}
   $$\text{or}$$
-  $$z=\frac{y}{}$$
+  $$z=\frac{y}{2x} = \frac{2x}{9y}$$
+  $$\text{so}$$
