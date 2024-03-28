@@ -61,4 +61,6 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  So:
 		  $$\frac{3}{2x}=\frac{2}{y} \text{ >>> or >>> }\frac{4}{3}x=y$$
 		  $\therefore (3, 4), (-3, -4)$
+		- ### 6.1.E4
+		  Find the extrema of $f(x,y,z) = $$$
 -
