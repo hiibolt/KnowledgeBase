@@ -42,3 +42,8 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  x^2+y^2=1
 		  \end{cases}
 		  Since cancelling $x$ or $y$ in either case yields varying \delta values, either $x = 0$ or $y = 0$.
+		  
+		  ...
+		  
+		  $\therefore (1,0), (0,1), (-1,0), (0)$
+-
