@@ -45,5 +45,7 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  
 		  ...
 		  
-		  $\therefore (1,0), (0,1), (-1,0), (0)$
+		  $\therefore (1,0), (0,1), (-1,0), (0,-1)$
+		- ### 6.1.E3
+		  Find extrema of ()
 -
