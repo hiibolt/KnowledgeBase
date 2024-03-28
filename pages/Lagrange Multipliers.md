@@ -41,3 +41,5 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  18y=2\delta y\\
 		  x^2+y^2=1
 		  \end{cases}
+		  
+		  Since cancelling
