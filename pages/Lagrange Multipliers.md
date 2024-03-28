@@ -59,5 +59,5 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  x^2 + y^2 = 25
 		  \end{cases}
 		  So:
-		  $$\frac{3}{2x}=\frac{2}{y} \text{ or }\frac{2}{3}x=\frac{1}{2}y$$
+		  $$\frac{3}{2x}=\frac{2}{y} \text{ >>> or >>> }\frac{4}{3}x=y$$
 -
