@@ -68,4 +68,9 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  $$\delta\nabla g = \delta<2x, 8y, 18z>$$
 		  Now:
 		  \begin{cases}
+		  \delta(2x) = 1\\
+		  \delta(8y) = 1\\
+		  \delta(18z) = 1\\
+		  x^2 + 4y^2 + 9z^2 = 36
+		  \end{cases}
 -
