@@ -10,11 +10,13 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 **Lagrange Multplier**:
 There is a number $\lambda$ allowing $\nabla f(x_0, y_0) = \lambda\nabla g(x_0,y_0)$
 - ### Example
-  Find the extrema of $f(x,y) = 4xy$ subject to constraint $$
+  Find the extrema of $f(x,y) = 4xy$ subject to constraint $4x^2+9y^2=36$
   
-  $\lamda f = <4y, 4x> l\lamda g = l<8x, 18y>$
+  $\lambda f = <4y, 4x> z\lambda g = z<8x, 18y>$
   \begin{cases}
-  4y = 8lx
-  4x=18ly
+  4y = 8zx\\
+  4x=18zy\\
   4x^2+9y^2=36
   \end{cases}
+  $$\text{or}$$
+  $$z=\frac{y}{}$$
