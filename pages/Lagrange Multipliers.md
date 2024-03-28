@@ -50,5 +50,8 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  Find extrema of $f(x,y) = 3x + 4y$ subject to constraint $x^2 + y^2 \leq 25$
 		  *Reminder - Solutions never occur on the interior.*
 		  
-		  $\lambda f = <3$$$
+		  $\nabla f = <3, 4>$
+		  $\delta\nabla g = \delta<2x, 2y>$
+		  Now:
+		  \begin{cases}
 -
