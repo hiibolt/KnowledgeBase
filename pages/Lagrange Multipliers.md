@@ -62,5 +62,10 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  $$\frac{3}{2x}=\frac{2}{y} \text{ >>> or >>> }\frac{4}{3}x=y$$
 		  $\therefore (3, 4), (-3, -4)$
 		- ### 6.1.E4
-		  Find the extrema of $f(x,y,z) = $$$
+		  Find the extrema of $f(x,y,z) = x + y +z$ subject to the constraint $x^2+4y^2+9z^2=36$
+		  
+		  $$\nabla f = <1, 1, 1>$$
+		  $$\delta\nabla g = \delta<2x, 8y, 18z>$$
+		  Now:
+		  \begin{cases}
 -
