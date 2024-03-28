@@ -30,3 +30,4 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  * $(\frac{-3}{\sqrt{2}},\sqrt{2})$
 		  * $(\frac{-3}{\sqrt{2}},-\sqrt{2})$
 		- ### 6.1.E2
+		  Find the extrema of $f(x,y) = 4x^2+9y^2$ subject to constraint $x^2+y^2=1$
