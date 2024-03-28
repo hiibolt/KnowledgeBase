@@ -54,4 +54,8 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  $\delta\nabla g = \delta<2x, 2y>$
 		  Now:
 		  \begin{cases}
+		  3 = \delta 2x\\
+		  4= \delta 2y\\
+		  x^2 + y^2 = 25
+		  \end{cases}
 -
