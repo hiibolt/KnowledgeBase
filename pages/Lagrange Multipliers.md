@@ -24,3 +24,4 @@ There is a number $\lambda$ allowing $\nabla f(x_0, y_0) = \lambda\nabla g(x_0,y
   $$x^2=\frac{9}{4}y^2$$
   $$\text{substituting...}$$
   $$y^2 = 2 \text{ or }y=\pm\sqrt{2}$$
+  $$x=\pm\frac{3}{\sqrt{2}}$$
