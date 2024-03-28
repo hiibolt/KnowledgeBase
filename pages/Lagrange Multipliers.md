@@ -25,3 +25,8 @@ There is a number $\lambda$ allowing $\nabla f(x_0, y_0) = \lambda\nabla g(x_0,y
   $$\text{substituting...}$$
   $$y^2 = 2 \text{ or }y=\pm\sqrt{2}$$
   $$x=\pm\frac{3}{\sqrt{2}}$$
+  Therefore, our points are:
+  * $(\frac{3}{\sqrt{2}},\sqrt{2}$
+  * $(\frac{3}{\sqrt{2}},-\sqrt{2}$
+  * $(\frac{3}{\sqrt{2}},\sqrt{2}$
+  * $(\frac{3}{\sqrt{2}},\sqrt{2}$
