@@ -73,4 +73,6 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  \delta(18z) = 1\\
 		  x^2 + 4y^2 + 9z^2 = 36
 		  \end{cases}
+		  So:
+		  $$$$
 -
