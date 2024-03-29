@@ -104,13 +104,17 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  x^2 - xy + y^2 - z^2 = 1
 		  \end{cases}
 		- #### 6.1.E7
-		  Maximize $f(x,y,z) = x^2y^2z^2$ subject to constraint $g(x,y,z) = x^2+ y^2 + z^2 -1$
+		  Maximize $f(x,y,z) = x^2y^2z^2$ subject to constraint $g(x,y,z) = x^2+ y^2 + z^2 - 1$
 		  
 		  Gradients:
 		  $\nabla f = <2xy^2z^2, 2yx^2z^2, 2zx^2y^2>$
-		  $\delta\nabla g = \delta<2x, 2y, 2z>$
+		  $\lambda\nabla g = \lambda<2x, 2y, 2z>$
 		  
 		  SoE:
 		  \begin{cases}
-		  2xy^2z^2 = 2\lambda
+		  2xy^2z^2 = 2\lambda x\\
+		  2yx^2z^2 = 2\lambda y\\
+		  2zx^2y^2 = 2\lambda z\\
+		  x^2+y^2+z^2 = 1
+		  \end{cases}
 -
