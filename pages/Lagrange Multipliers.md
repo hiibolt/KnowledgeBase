@@ -90,4 +90,5 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  $$\text{so}$$
 		  $$x = \pm\frac{a}{\sqrt{3}}$$
 		- #### 6.1.E6
+		  Find the extrema
 -
