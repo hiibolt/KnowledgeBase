@@ -84,7 +84,7 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  $V=8xyz$, subject to $g(x,y,z) = \frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} - 1$
 		  $\nabla f = <8yz, 8xz, 8xy>$
 		  $\delta\nabla g = \delta<\frac{2x}{a^2},\frac{2y}{b^2},\frac{2z}{c^2}>$
-		  $$8yz=\frac{2x}{a^2}, 8xz=\frac{2y}{b^2},8xy=\frac{2z}{c^2}$$
+		  $$8yz=\frac{2\delta x}{a^2}, 8xz=\frac{2\delta y}{b^2},8xy=\frac{2\delta z}{c^2}$$
 		  $$\text{or}$$
-		  $$8xyz=\frac{2\delta x}{a^2}$$
+		  $$8xyz=\frac{2\delta x}{a^2}=\frac{2\delta y}{b^2}=\frac{2\delta z}{c^2}$$
 -
