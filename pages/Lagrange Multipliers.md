@@ -77,5 +77,5 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  $$x = 4y$$
 		  $$z = \frac{4}{9}y$$
 		- #### 6.1.E5
-		  Maximize the volume of a rectangular box, symmetric about the $xy$, $xz$, and $yz$ planes$$
+		  Maximize the volume of a rectangular box, symmetric about the $xy$, $xz$, and $yz$ planes, and inscribed in a general ellipsoid $\frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1$.
 -
