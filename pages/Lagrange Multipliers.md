@@ -125,4 +125,11 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  Gradients:
 		  $\nabla f = <2x, 2y>$
 		  $\lambda\nabla g = \lambda<2x, -3(y-1)^2>$
+		  
+		  SoE:
+		  \begin{cases}
+		  2x = \lambda 2x\\
+		  2y = -\lambda 3(y-1)^2\\
+		  x^2 = (y-1)^3
+		  \end{cases}
 -
