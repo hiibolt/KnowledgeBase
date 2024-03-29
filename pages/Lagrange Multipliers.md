@@ -94,5 +94,12 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  
 		  Gradients:
 		  $\nabla f = <2x, 2y, 2z>$
-		  $\delta\nabla g = <2x-y, 2y-x, -2z>$$$
+		  $\delta\nabla g = <2x-y, 2y-x, -2z>$
+		  
+		  SoE:
+		  \begin{cases}
+		  2x = \delta(2x-y)\\
+		  2y = \delta(2y-x)\\
+		  z = -\delta z
+		  \end{cases}
 -
