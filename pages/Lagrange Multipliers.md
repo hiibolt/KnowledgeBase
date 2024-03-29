@@ -81,5 +81,5 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  
 		  Because this box is symmetric, $\frac{x^2}{a^2} + \frac{y^2}{a^2} + \frac{z^2}{a^2} = 1$
 		  
-		  $V=8xyz$$$
+		  $V=8xyz$, subject to $g(x,y,z) = \frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} - 1$
 -
