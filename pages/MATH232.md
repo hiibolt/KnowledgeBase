@@ -3,4 +3,4 @@
 - [[Vectors]]
 - [[Planes (NTD)]]
 - [[Lagrange Multipliers]]
--
+- [[Double Integrals]]
