@@ -123,5 +123,6 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  Minimize $f(x, y) = x^2 + y^2$ subject to constraint $x^2 = (y-1)^3$.
 		  
 		  Gradients:
-		  $\nabla f = <2x, 2y>$$$
+		  $\nabla f = <2x, 2y>$
+		  $\lambda\nabla g = \lambda<2x, -3(y-1)^2>$
 -
