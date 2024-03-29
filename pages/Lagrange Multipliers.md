@@ -100,6 +100,7 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  \begin{cases}
 		  2x = \delta(2x-y)\\
 		  2y = \delta(2y-x)\\
-		  z = -\delta z
+		  z = -\delta z\\
+		  x^2 - xy + y^2 - z^2 = 1
 		  \end{cases}
 -
