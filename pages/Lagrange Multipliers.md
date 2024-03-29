@@ -118,5 +118,5 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  x^2+y^2+z^2 = 1
 		  \end{cases}
 		  
-		  (Used MMA)
+		  *(Used Mathematica to solve, ignore this problem!)*
 -
