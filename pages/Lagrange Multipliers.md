@@ -90,5 +90,9 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  $$\text{so}$$
 		  $$x = \pm\frac{a}{\sqrt{3}}$$
 		- #### 6.1.E6
-		  Find the extrema of $f(x,y,z) = x^2 + y^2 + z^2$ suject$$
+		  Find the extrema of $f(x,y,z) = x^2 + y^2 + z^2$ subject to constraint $x^2 - xy + y^2 - z^2 = 1$
+		  
+		  Gradients:
+		  $\nabla f = <2x, 2y, 2z>$
+		  $\delta\nabla g = <2x-y, 2y-x, -2z>$$$
 -
