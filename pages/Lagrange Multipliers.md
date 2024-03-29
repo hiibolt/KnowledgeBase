@@ -117,4 +117,6 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  2zx^2y^2 = 2\lambda z\\
 		  x^2+y^2+z^2 = 1
 		  \end{cases}
+		  
+		  (Used MMA)
 -
