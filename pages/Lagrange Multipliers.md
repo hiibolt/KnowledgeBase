@@ -103,4 +103,6 @@ In other words, the gradient of f is orthogonal to the velocity vector $\gamma '
 		  z = -\delta z\\
 		  x^2 - xy + y^2 - z^2 = 1
 		  \end{cases}
+		- #### 6.1.E7
+		  Maximize $f$$$
 -
