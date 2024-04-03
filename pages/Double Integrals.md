@@ -31,6 +31,8 @@
 	  \end{cases}
 	  \end{equation}
 	  
+	  Our box is $(0,2)$ for $x$, and $(0,4)$ for $y$.
+	  
 	  $$\int_0^4\int_0^2 F(x,y)dA$$
 	  $$\text{or}$$
 	  $$\int_0^4\int_{\frac{y}{2}}^{\sqrt{y}} x^2y^2 dxdy$$
@@ -38,5 +40,5 @@
 	  $$\int_0^4 \frac{x^3}{3}y^2|_{\frac{y}{2}}^{\sqrt{y}}dy$$
 	  $$\text{or}$$
 	  $$\int_0^4(\frac{y^\frac{7}{2}}{3}-\frac{y^5}{24})dy$$
-	  $$\text{latter half is arithmetic, no deviation from Calc II)}$$
+	  $$\text{(latter half is arithmetic, no deviation from Calc II)}$$
 -
