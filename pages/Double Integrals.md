@@ -22,5 +22,6 @@
 	  $$=\int_0^1x^3\cos(x^4)dx$$
 	  $$\text{or (u-sub)}$$
 	  $$\text{...}$$
-	-
+	- ### 6.2.E2
+	  Evaluate $$\int\int_Dx^2y^2dA$$ for D = \begin{cases}(x,y) | \frac{y}{l}\end{cases}
 -
