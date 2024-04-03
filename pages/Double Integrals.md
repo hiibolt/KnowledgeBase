@@ -18,3 +18,6 @@
 	  $$=\int_0^1\int_0^{x^3}cos(x^4)dydx$$
 	  $$=\int_0^1y\cos(x^4)|_0^{x^3}dx$$
 	  $$=\int_0^1x^3\cos(x^4)dx$$
+	  $$\text{or (u-sub)}$$
+	  $$$$
+-
