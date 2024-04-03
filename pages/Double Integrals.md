@@ -36,4 +36,6 @@
 	  $$\int_0^4\int_{\frac{y}{2}}^{\sqrt{y}} x^2y^2 dxdy$$
 	  $$\text{or}$$
 	  $$\int_0^4 \frac{x^3}{3}y^2|_{\frac{y}{2}}^{\sqrt{y}}dy$$
+	  $$\text{or}$$
+	  $$\int_0^4(\frac{y^\frac{7}{2}}{3}-\frac{y^5}{24}$$
 -
