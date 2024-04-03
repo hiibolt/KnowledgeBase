@@ -128,7 +128,115 @@
 :parentId "65ef7865-aac6-4d79-9e04-68f75747caf4"
 :nonce 1712158671893
 :italic false}}
-:block/updated-at 1712158676196})
+:block/updated-at 1712158676196} 
+{:block/created-at 1712158693282
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "26f3af62-f1d0-11ee-8cf1-311b6685386e"
+:fontWeight 400
+:noFill true
+:point [528 336]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [72 0]
+:bindingId nil}
+:end 
+{:id "end"
+:canBind true
+:point [0 64]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "65ef7865-aac6-4d79-9e04-68f75747caf4"
+:nonce 1712158680559
+:italic false}}
+:block/updated-at 1712158693282} 
+{:block/created-at 1712158710570
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3063ea12-f1d0-11ee-8cf1-311b6685386e"
+:fontWeight 400
+:noFill true
+:point [528 592]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end 
+{:id "end"
+:canBind true
+:point [72 72]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "65ef7865-aac6-4d79-9e04-68f75747caf4"
+:nonce 1712158696437
+:italic false}}
+:block/updated-at 1712158710570} 
+{:block/created-at 1712158730729
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3ad9d4f2-f1d0-11ee-8cf1-311b6685386e"
+:fontWeight 400
+:noFill true
+:point [800 560]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 96]
+:bindingId nil}
+:end 
+{:id "end"
+:canBind true
+:point [80 0]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "65ef7865-aac6-4d79-9e04-68f75747caf4"
+:nonce 1712158714024
+:italic false}}
+:block/updated-at 1712158730729})
 :pages (
 {:block/uuid #uuid "65ef7865-aac6-4d79-9e04-68f75747caf4"
 :block/properties 
@@ -140,8 +248,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("0a0a68d0-f1d0-11ee-8cf1-311b6685386e" "0d7e0bc2-f1d0-11ee-8cf1-311b6685386e" "13693e60-f1d0-11ee-8cf1-311b6685386e" "21d84fe2-f1d0-11ee-8cf1-311b6685386e")}}
-:block/updated-at 1712158676196
+:shapes-index ("0a0a68d0-f1d0-11ee-8cf1-311b6685386e" "0d7e0bc2-f1d0-11ee-8cf1-311b6685386e" "13693e60-f1d0-11ee-8cf1-311b6685386e" "21d84fe2-f1d0-11ee-8cf1-311b6685386e" "26f3af62-f1d0-11ee-8cf1-311b6685386e" "3063ea12-f1d0-11ee-8cf1-311b6685386e" "3ad9d4f2-f1d0-11ee-8cf1-311b6685386e")}}
+:block/updated-at 1712158730734
 :block/created-at 1710192741675
 :block/type "whiteboard"
 :block/name "65ef7865-aac6-4d79-9e04-68f75747caf4"
