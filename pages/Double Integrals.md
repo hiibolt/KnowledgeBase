@@ -31,5 +31,7 @@
 	  \end{cases}
 	  \end{equation}
 	  
-	  $$\int\int $$
+	  $$\int_0^4\int_0^2 F(x,y)dA$$
+	  $$\text{or}$$
+	  $$\int_0^4\int_\frac{y}{2}^\sqrt{y} x$$
 -
