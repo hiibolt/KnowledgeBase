@@ -15,4 +15,5 @@
   Then:
   $$\int\int F(x,y) dA$$
 	- ### 6.2.E1
-	  $\int_0^1\int_0^{x^3}cos(x^4)dydx$
+	  $$=\int_0^1\int_0^{x^3}cos(x^4)dydx$$
+	  $$=\int_0^1y\cos(x^4)|_0^$$
