@@ -8,3 +8,6 @@
 - ## General Areas
   Use a new function F:
   \begin{cases}
+  f(x,y) if (x,y) \in D\\
+  0\text{ if (x,y) \notin D
+  \end{cases}
