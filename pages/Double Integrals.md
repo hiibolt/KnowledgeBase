@@ -16,8 +16,11 @@
   $$\int\int F(x,y) dA$$
 	- ### 6.2.E1
 	  $$=\int_0^1\int_0^{x^3}cos(x^4)dydx$$
+	  $$\text{or}$$
 	  $$=\int_0^1y\cos(x^4)|_0^{x^3}dx$$
+	  $$\text{or}$$
 	  $$=\int_0^1x^3\cos(x^4)dx$$
 	  $$\text{or (u-sub)}$$
-	  $$$$
+	  $$\text{...}$$
+	-
 -
