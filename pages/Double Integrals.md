@@ -31,5 +31,5 @@
 	  \end{cases}
 	  \end{equation}
 	  
-	  $$\int\int$$
+	  $$\int\int $$
 -
