@@ -24,9 +24,12 @@
 	  $$\text{...}$$
 	- ### 6.2.E2
 	  Evaluate $$\int\int_Dx^2y^2dA$$ for 
-	  \begin{equation
-	  }D = 
+	  \begin{equation}
+	  D = 
 	  \begin{cases}
 	  (x,y) | \frac{y}{2} \leq x \leq \sqrt{y}, 0 \leq y \leq 4
-	  \end{cases}\end{equation}
+	  \end{cases}
+	  \end{equation}
+	  
+	  $$\int\int$$
 -
