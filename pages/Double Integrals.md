@@ -4,5 +4,5 @@
 	  
 	  $$\int (x\sin(x+2y)+\cos(x+2y)|_0^{\frac{\pi}{2}})$$
 	  $$\text{or}$$
-	  $$\int$$
+	  $$\int (\frac{\pi-2}{2}cos(2y) - sin(2y))dy$$
 -
