@@ -43,4 +43,5 @@
 	  $$\text{(latter half is arithmetic, no deviation from Calc II)}$$
 	- ### 6.2.E3
 	  Integrate $f(x,y) = 2x+3y+4$ over the unit disk.
--
+	  
+	  $$\int_0^1\int_0^1(2x+3y+4)dxdy$$
