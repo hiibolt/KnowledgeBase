@@ -80,3 +80,5 @@
 	  $$\text{so}$$
 	  $$\int_0^4\int_0^{\sqrt{x}}(\sqrt{x}\sin(x))dydx$$
 	  $$\text{or}$$
+	  $$\int_0^4(x\sin(x))dx$$
+	  $$\text{or}$$
