@@ -2,7 +2,8 @@
 **Properties**:
 \begin{equation}
 \int\int_D(mf(x,y)\pm Mg(x,y))dA =
-$$m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA$$
+m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
+\end{equation}
 	- #### 6.1.E1
 	  Evaluate $\int\int x\cos(x+2y)dA$ for $R = [0,\frac{\pi}{2}] * [0,\pi]$
 	  
