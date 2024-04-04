@@ -73,4 +73,4 @@
 	  $$\text{?}$$
 	- ### 6.2.E5
 	  Evaluate the iterated integral:
-	  $$\int_0^2\int_{y^2}^4()$$
+	  $$\int_0^2\int_{y^2}^4(\sqrt{x}\sin(x))dxdy$$
