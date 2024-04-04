@@ -78,4 +78,5 @@
 	  We must reverse the order of integration!
 	  $$\text{(new) }D=\{(x,y) | 0 \leq x \leq 4, 0 \leq y \leq \sqrt{x}\}$$
 	  $$\text{so}$$
-	  $$\int_0^4\int_0^{\sqrt{x}}()dydx$$
+	  $$\int_0^4\int_0^{\sqrt{x}}(\sqrt{x}\sin(x))dydx$$
+	  $$\text{or}$$
