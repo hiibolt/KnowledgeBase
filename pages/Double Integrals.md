@@ -41,4 +41,5 @@
 	  $$\text{or}$$
 	  $$\int_0^4(\frac{y^\frac{7}{2}}{3}-\frac{y^5}{24})dy$$
 	  $$\text{(latter half is arithmetic, no deviation from Calc II)}$$
+	-
 -
