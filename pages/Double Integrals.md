@@ -64,3 +64,5 @@
 	  $$D=\{(x,y) | 0 \leq x \leq 1, 0 \leq y \leq x\}$$
 	  
 	  $$\int_0^1\int_0^x(e^{x^2})dydx$$
+	  $$\text{or}$$
+	  $$\int_0^1[y]$$
