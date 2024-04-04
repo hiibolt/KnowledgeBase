@@ -13,4 +13,4 @@ $$V = \int\int_D(f(x,y)-g(x,y))dA$$
   
   $$\int\int_D(2x-(x^2+y^2))dA$$
   $$\text{so}$$
-  $$\int_0^2\int$$
+  $$\int_0^2\int_{-\sqrt{1-(x-1)^2}}^{+\sqrt{1-(x-1)^2}}(2x-x^2-y^2)dydx$$
