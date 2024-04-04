@@ -55,3 +55,6 @@
 	  $$\text{or}$$
 	  $$\int_{-1}^1(4x\sqrt{1-x^2}+8\sqrt{1-x^2})dx$$
 	  $$\text{or}$$
+	  $$2\int_0^1(8\sqrt{1-x^2})dx$$
+	  $$\text{or}$$
+	  $$$$
