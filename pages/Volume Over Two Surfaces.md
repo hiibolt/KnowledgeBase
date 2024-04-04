@@ -9,7 +9,8 @@ $$V = \int\int_D(f(x,y)-g(x,y))dA$$
   $$(x-1)^2 + (y + 0)^2 = 1$$
   
   Meaning $D$ is a circle of radius 1 centered at $(1,0)$.
-  At this point, $2(1) \geq (1)^2 + (0)^2$, so we will place $z=2x$ first.
+  
+  At $(1,0)$, $2(1) \geq (1)^2 + (0)^2$, so we will place $z=2x$ first.
   
   $$\int\int_D(2x-(x^2+y^2))dA$$
   $$\text{so}$$
