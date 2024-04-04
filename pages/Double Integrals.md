@@ -83,5 +83,3 @@
 	  $$\int_0^4(x\sin(x))dx$$
 	  $$\text{or}$$
 	  $$[-x\cos(x)+sin(x)]|_0^4$$
-	  $$\text{or}$$
-	  $$$$
