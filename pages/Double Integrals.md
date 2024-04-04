@@ -70,3 +70,7 @@
 	  $$\int_0^1xe^{x^2}dx$$
 	  $$\text{or (u-sub)}$$
 	  $$\frac{1}{2}\int_{0^2}^{1^2}(e^udu)$$
+	  $$\text{?}$$
+	- ### 6.2.E5
+	  Evaluate the iterated integral:
+	  $$\int_0^2\int_{y^2}^4()$$
