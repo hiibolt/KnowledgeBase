@@ -48,3 +48,5 @@
 	  D = \{(x,y) | -1 \leq x \leq 1, -\sqrt{1-x^2} \leq y \leq \sqrt{1-x^2} \}
 	  \end{equation}
 	  $$\int_0^1\int_0^1(2x+3y+4)dxdy$$
+	  $$\text{or}$$
+	  $$\int_0^1\int_{-\sqrt{1-x^2}}^{\sqrt{1-x^2}}(2x+3y+4)dxdy$$
