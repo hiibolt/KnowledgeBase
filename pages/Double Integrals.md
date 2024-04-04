@@ -59,6 +59,6 @@
 	  $$\text{or}$$
 	  $$8\pi$$
 	- ### 6.2.E4
-	  Integrate $f(x,y) = e^{x^2}$ over the triangle with vertices $(0,0), (1,0), and (1,1).$
+	  Integrate $f(x,y) = e^{x^2}$ over the triangle with vertices $(0,0), (1,0),\text{ and }(1,1)$
 	  
-	  $$D=\{(x,y) | 0 \leq x \leq 1, \}$$
+	  $$D=\{(x,y) | 0 \leq x \leq 1, 0 \leq }$$
