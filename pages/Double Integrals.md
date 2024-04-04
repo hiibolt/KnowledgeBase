@@ -53,4 +53,5 @@
 	  $$\text{or}$$
 	  $$\int_{-1}^1[2xy+\frac{3}{2}y^2+4y]|_{-\sqrt{1-x^2}}^{+\sqrt{1-x^2}}dx$$
 	  $$\text{or}$$
-	  $$\int_{-1}^1()$$
+	  $$\int_{-1}^1(4x\sqrt{1-x^2}+8\sqrt{1-x^2})dx$$
+	  $$\text{or}$$
