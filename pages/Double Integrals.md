@@ -69,3 +69,4 @@
 	  $$\text{or}$$
 	  $$\int_0^1xe^{x^2}dx$$
 	  $$\text{or (u-sub)}$$
+	  $$\frac{1}{2}\int_{0^2}^{1^2}(e^udu)$$
