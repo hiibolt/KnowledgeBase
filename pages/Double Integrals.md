@@ -58,3 +58,7 @@
 	  $$2\int_0^1(8\sqrt{1-x^2})dx$$
 	  $$\text{or}$$
 	  $$8\pi$$
+	- ### 6.2.E4
+	  Integrate $f(x,y) = e^{x^2}$ over the triangle with vertices $(0,0), (1,0), and (1,1).$
+	  
+	  $$D=$$
