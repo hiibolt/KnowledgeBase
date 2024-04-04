@@ -51,6 +51,6 @@
 	  $$\text{or}$$
 	  $$\int_{-1}^1\int_{-\sqrt{1-x^2}}^{\sqrt{1-x^2}}(2x+3y+4)dxdy$$
 	  $$\text{or}$$
-	  $$\int_0^1[2xy+\frac{3}{2}y^2+4y]|_{-\sqrt{1-x^2}}^{+\sqrt{1-x^2}}dx$$
+	  $$\int_{-1}^1[2xy+\frac{3}{2}y^2+4y]|_{-\sqrt{1-x^2}}^{+\sqrt{1-x^2}}dx$$
 	  $$\text{or}$$
-	  $$\int_0_1$$
+	  $$\int_{-1}^1()$$
