@@ -76,4 +76,4 @@
 	  $$\int_0^2\int_{y^2}^4(\sqrt{x}\sin(x))dxdy$$
 	  
 	  We must reverse the order of integration!
-	  $$D=\{\}$$
+	  $$D=\{(x,y) | 0 \leq x \leq 4, 0 \leq y \leq \sqrt{x}\}$$
