@@ -9,5 +9,6 @@ $$V = \int\int_D(f(x,y)-g(x,y))dA$$
   $$(x-1)^2 + (y + 0)^2 = 1$$
   
   Meaning $D$ is a circle of radius 1 centered at $(1,0)$.
+  At this point, 2(1) > 
   
-  $$\int_0^2\int$$
+  $$\int_\int$$
