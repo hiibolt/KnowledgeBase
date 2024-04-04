@@ -65,4 +65,7 @@
 	  
 	  $$\int_0^1\int_0^x(e^{x^2})dydx$$
 	  $$\text{or}$$
-	  $$\int_0^1[y]$$
+	  $$\int_0^1([ye^{x^2}]|_0^x)dx$$
+	  $$\text{or}$$
+	  $$\int_0^1xe^{x^2}dx$$
+	  $$\text{or (u-sub)}$$
