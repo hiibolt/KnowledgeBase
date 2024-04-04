@@ -44,4 +44,10 @@
 	- ### 6.2.E3
 	  Integrate $f(x,y) = 2x+3y+4$ over the unit disk.
 	  
+	  \begin{equation}
+	  D = 
+	  \begin{cases}
+	  (x,y) | -1 \leq x \leq 1, -1 \leq y \leq 1
+	  \end{cases}
+	  \end{equation}
 	  $$\int_0^1\int_0^1(2x+3y+4)dxdy$$
