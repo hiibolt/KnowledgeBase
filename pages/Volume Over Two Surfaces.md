@@ -8,4 +8,6 @@ $$V = \int\int_D(f(x,y)-g(x,y))dA$$
   $$\text{or}$$
   $$(x-1)^2 + (y + 0)^2 = 1$$
   
-  Meaning $$$$
+  Meaning $D$ is a circle of radius 1 centered at $(1,0)$.
+  
+  $$\int_0^2\int$$
