@@ -126,7 +126,7 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$=\int_0^\pi d\theta\int_0^3(\cos(r^2)r)dr$$
 	  $$\text{or}$$
 	  $$=\frac{\pi}{2}\sin(9)$$
-	- ### 6.4.E3
+	- ### 6.3.E4
 	  Evaluate $R = [2, 1 + \sqrt{3}] x [\frac{pi}{6},\frac{pi}{3}]$ $$
 	  
 	  $$V=\int_{\frac{pi}{6}}^{\frac{\pi}{3}}\int_2^{1 + \sqrt{3}}(r^2r)drd\theta$$
@@ -134,3 +134,6 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$=\int_{\frac{pi}{6}}^{\frac{\pi}{3}}((1+2\cos\theta)^4-16)d\theta$$
 	  $$\text{...}$$
 	  $$=\frac{333\sqrt{3} - 186\pi - 368}{384}$$
+	- ### 6.3.E5
+	  Evaluate the iterated integral $\int_0^6\int_0^{\sqrt{6y-y^2}}(x^3)dxdy$.
+-
