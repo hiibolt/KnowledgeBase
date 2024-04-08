@@ -138,4 +138,6 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  Evaluate the iterated integral $\int_0^6\int_0^{\sqrt{6y-y^2}}(x^3)dxdy$.
 	  
 	  $$\int_0^{\frac{pi}{2}}\int_0^{6\sin(\theta)}((r\cos\theta)^3r)drd\theta$$
+	  $$\text{or}$$
+	  $$\frac{6^5}{5}\int_0^\frac{pi}{2}$$
 -
