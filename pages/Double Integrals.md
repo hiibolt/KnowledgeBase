@@ -148,4 +148,6 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$=\int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}(\cos^2\theta\frac{r^2}{2}|_0^{2\cos\theta})d\theta$$
 	  $$\text{...}$$
 	  $$=\frac{3\pi}{4}$$
+	- ### 6.3.E7
+	  Integrate
 -
