@@ -127,7 +127,7 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$\text{or}$$
 	  $$=\frac{\pi}{2}\sin(9)$$
 	- ### 6.3.E4
-	  Evaluate $R = [2, 1 + \sqrt{3}] x [\frac{pi}{6},\frac{pi}{3}]$ $$
+	  Evaluate $R = [2, 1 + \sqrt{3}] x [\frac{pi}{6},\frac{pi}{3}]$
 	  
 	  $$V=\int_{\frac{pi}{6}}^{\frac{\pi}{3}}\int_2^{1 + \sqrt{3}}(r^2r)drd\theta$$
 	  $$\text{or}$$
