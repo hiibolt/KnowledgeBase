@@ -574,20 +574,54 @@
 :parentId "65ef7865-aac6-4d79-9e04-68f75747caf4"
 :nonce 1712590112108
 :italic false}}
-:block/updated-at 1712590138326})
+:block/updated-at 1712590138326} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 18
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "832bbd90-f5bd-11ee-a3d9-0314c8cddcf6"
+:fontWeight 400
+:noFill true
+:point [1392 456]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 32]}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "65ef7865-aac6-4d79-9e04-68f75747caf4"
+:nonce 1712590479356
+:italic false}}
+:block/updated-at 1712590480175})
 :pages (
 {:block/uuid #uuid "65ef7865-aac6-4d79-9e04-68f75747caf4"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "65ef7865-aac6-4d79-9e04-68f75747caf4"
-:name "65ef7865-aac6-4d79-9e04-68f75747caf4"
+:name "math360 diagrams"
 :bindings 
 {}
 :nonce 1
 :assets []
-:shapes-index ("0a0a68d0-f1d0-11ee-8cf1-311b6685386e" "0d7e0bc2-f1d0-11ee-8cf1-311b6685386e" "13693e60-f1d0-11ee-8cf1-311b6685386e" "21d84fe2-f1d0-11ee-8cf1-311b6685386e" "26f3af62-f1d0-11ee-8cf1-311b6685386e" "3063ea12-f1d0-11ee-8cf1-311b6685386e" "3ad9d4f2-f1d0-11ee-8cf1-311b6685386e" "62f73912-f5bc-11ee-a3d9-0314c8cddcf6" "687970b2-f5bc-11ee-a3d9-0314c8cddcf6" "6b531d90-f5bc-11ee-a3d9-0314c8cddcf6" "6e8a2cb0-f5bc-11ee-a3d9-0314c8cddcf6" "73311f80-f5bc-11ee-a3d9-0314c8cddcf6" "7e482c62-f5bc-11ee-a3d9-0314c8cddcf6" "82b0b6a2-f5bc-11ee-a3d9-0314c8cddcf6" "859957a0-f5bc-11ee-a3d9-0314c8cddcf6" "8c213f70-f5bc-11ee-a3d9-0314c8cddcf6" "8f336170-f5bc-11ee-a3d9-0314c8cddcf6" "a83eaa80-f5bc-11ee-a3d9-0314c8cddcf6")}}
-:block/updated-at 1712590138326
+:shapes-index ("0a0a68d0-f1d0-11ee-8cf1-311b6685386e" "0d7e0bc2-f1d0-11ee-8cf1-311b6685386e" "13693e60-f1d0-11ee-8cf1-311b6685386e" "21d84fe2-f1d0-11ee-8cf1-311b6685386e" "26f3af62-f1d0-11ee-8cf1-311b6685386e" "3063ea12-f1d0-11ee-8cf1-311b6685386e" "3ad9d4f2-f1d0-11ee-8cf1-311b6685386e" "62f73912-f5bc-11ee-a3d9-0314c8cddcf6" "687970b2-f5bc-11ee-a3d9-0314c8cddcf6" "6b531d90-f5bc-11ee-a3d9-0314c8cddcf6" "6e8a2cb0-f5bc-11ee-a3d9-0314c8cddcf6" "73311f80-f5bc-11ee-a3d9-0314c8cddcf6" "7e482c62-f5bc-11ee-a3d9-0314c8cddcf6" "82b0b6a2-f5bc-11ee-a3d9-0314c8cddcf6" "859957a0-f5bc-11ee-a3d9-0314c8cddcf6" "8c213f70-f5bc-11ee-a3d9-0314c8cddcf6" "8f336170-f5bc-11ee-a3d9-0314c8cddcf6" "a83eaa80-f5bc-11ee-a3d9-0314c8cddcf6" "832bbd90-f5bd-11ee-a3d9-0314c8cddcf6")}}
+:block/updated-at 1712590480175
 :block/created-at 1710192741675
 :block/type "whiteboard"
 :block/name "math360 diagrams"
