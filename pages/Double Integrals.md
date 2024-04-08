@@ -88,3 +88,4 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$\int_0^4(x\sin(x))dx$$
 	  $$\text{or}$$
 	  $$[-x\cos(x)+sin(x)]|_0^4$$
+- ## Parametric Areas
