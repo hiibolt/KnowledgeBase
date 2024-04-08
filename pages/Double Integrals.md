@@ -143,5 +143,5 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	- ### 6.3.E6
 	  Evaluate $\int\int_D(\frac{x^2}{x^2+y^2})dA$ for the region enclosed by $(x-1)^2+y^2=1$.
 	  
-	  $$$$
+	  $$=\int_\frac{pi}{2}^\frac{pi}{2}$$
 -
