@@ -139,5 +139,5 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  
 	  $$\int_0^{\frac{pi}{2}}\int_0^{6\sin(\theta)}((r\cos\theta)^3r)drd\theta$$
 	  $$\text{or}$$
-	  $$\frac{6^5}{5}\int_0^\frac{pi}{2}$$
+	  $$\frac{6^5}{5}\int_0^{\frac{pi}{2}}(\cos\theta(1-\sin^2(\theta))\sin^5(\theta))d\theta$$
 -
