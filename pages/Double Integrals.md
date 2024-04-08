@@ -114,4 +114,4 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  
 	  $$=\int_0^\pi d\theta\int_0^3(\cos(r^2)r)dr$$
 	  $$\text{or}$$
-	  $$=\frac{\pi}{2}sin(9)$$
+	  $$=\frac{\pi}{2}\sin(9)$$
