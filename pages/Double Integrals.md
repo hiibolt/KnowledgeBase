@@ -104,4 +104,8 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$R = [1,4] x [-\frac{pi}{4},\frac{pi}{4}]$$
 	  $$=\int_1^4\int_{\frac{pi}{4}}^{\frac{pi}{4}}(\theta r)drd\theta$$
 	  $$\text{or}$$
-	  $$$$
+	  $$=\int_1^4d\theta\int_{-\frac{pi}{4}}^{\frac{pi}{4}}(\theta r)dr$$
+	  $$\text{or}$$
+	  $$=0 * ...$$
+	  $$\therefore$$
+	  $$=0$$
