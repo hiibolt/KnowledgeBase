@@ -101,4 +101,5 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	- ### 6.3.E2
 	  Evaluate $\int\int_R\tan^{-1}(\frac{y}{x})dA$ for $R = \{(x,y) | -x \leq y \leq x, 1 \leq x^2+y^2 \leq 4\}$.
 	  
-	  $$$$
+	  $$R = [1,4] x [-\frac{pi}{4},\frac{pi}{4}]$$
+	  $$\int_1^4\int_$$
