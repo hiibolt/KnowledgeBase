@@ -90,3 +90,4 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$[-x\cos(x)+sin(x)]|_0^4$$
 - ## Parametric Areas
   $$\int\int_Rf(x,y)dA=\int_\alpha^\beta\int_a^bf(r\cos\theta,r\sin\theta)r drd\theta$$
+	- ## 6.3.E1
