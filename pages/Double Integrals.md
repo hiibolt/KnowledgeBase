@@ -131,4 +131,6 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  
 	  $$V=\int_{\frac{pi}{6}}^{\frac{\pi}{3}}\int_2^{1 + \sqrt{3}}(r^2r)drd\theta$$
 	  $$\text{or}$$
-	  $$=\int_{\frac{pi}{6}}^{\frac{\pi}{3}}()d\theta$$
+	  $$=\int_{\frac{pi}{6}}^{\frac{\pi}{3}}((1+2\cos\theta)^4-16)d\theta$$
+	  $$\text{...}$$
+	  $$\frac{333\sqrt{3} - 186\pi - 368}{}$$
