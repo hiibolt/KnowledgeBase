@@ -100,8 +100,7 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
   0 \text{ for } (x,y) \notin D
   \end{cases}
   \end{equation}
-  
-  \int\int_D(f(x,y))dA=\int_\alpha^\beta\int_{}
+  $$\int\int_D(f(x,y))dA=\int_\alpha^\beta\int_{g(\theta}^{h(\theta)}(f(r\cos\theta,r\sin\theta)r)drd\theta$$
 	- ### 6.3.E1
 	  Consider again the first basic example, integrating $f(x,y) = x^2 + y^2$ but rather over the polar rectangle $R = [0,1] x [0,1]$.
 	  
@@ -127,3 +126,4 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$=\int_0^\pi d\theta\int_0^3(\cos(r^2)r)dr$$
 	  $$\text{or}$$
 	  $$=\frac{\pi}{2}\sin(9)$$
+	-
