@@ -99,4 +99,6 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$\text{or}$$
 	  $$=\frac{1}{4}$$
 	- ### 6.3.E2
-	  Evaluate $\int\int_R\tan^{-1}(\frac{y}{x})dA$ for $R = \{\}$
+	  Evaluate $\int\int_R\tan^{-1}(\frac{y}{x})dA$ for $R = \{(x,y) | -x \leq y \leq x, 1 \leq x^2+y^2 \leq 4\}$.
+	  
+	  $$$$
