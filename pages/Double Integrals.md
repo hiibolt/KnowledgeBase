@@ -94,7 +94,12 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
   And for more general regions:
   $$D=\{(r, \theta) | \alpha \leq \theta \leq \beta, g(\theta) \leq r \leq h(\theta) \}$$
   \begin{equation}
-  F(x,y) =
+  F(x,y) = 
+  \begin{cases}
+  f(x,y) \text{ for } (x,y) \in D\\
+  0 \text{ for } (x,y) \notin D
+  \end{cases}
+  \end{equation}
 	- ### 6.3.E1
 	  Consider again the first basic example, integrating $f(x,y) = x^2 + y^2$ but rather over the polar rectangle $R = [0,1] x [0,1]$.
 	  
