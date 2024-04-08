@@ -109,3 +109,5 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$=0 * ...$$
 	  $$\therefore$$
 	  $$=0$$
+	- ### 6.3.E3
+	  Evaluate the iterated integral $\int_{-3}^3\int_{}$$$
