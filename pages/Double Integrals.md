@@ -110,4 +110,6 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$\therefore$$
 	  $$=0$$
 	- ### 6.3.E3
-	  Evaluate the iterated integral $\int_{-3}^3\int_{}$$$
+	  Evaluate the iterated integral $\int_{-3}^3\int_0^{\sqrt{9-x^2}}(\cos(x^2+y^2))dydx$.
+	  
+	  $$$$
