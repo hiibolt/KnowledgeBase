@@ -94,3 +94,7 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  Consider again the first basic example, integrating $f(x,y) = x^2 + y^2$ but rather over the polar rectangle $R = [0,1] x [0,1]$.
 	  
 	  $$\int\int_R(x^2+y^2)dA=\int_0^1\int_0^1 r^2rdrd\theta$$
+	  $$\text{or}$$
+	  $$=\int_0^1d\theta \ r^2rdr$$
+	  $$\text{or}$$
+	  $$=\frac{1}{4}$$
