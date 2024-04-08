@@ -144,5 +144,6 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  Evaluate $\int\int_D(\frac{x^2}{x^2+y^2})dA$ for the region enclosed by $(x-1)^2+y^2=1$.
 	  
 	  $$=\int_{-\frac{\pi}{2}}^\frac{\pi}{2}\int_0^{2\cos\theta}(\frac{(r\cos\theta)^2}{r^2}r)drd\theta$$
-	  $$$$
+	  $$\text{or}$$
+	  $$=\int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}(\cos^2\theta\frac{r^2}{2}|_0^2\cos)d\theta$$
 -
