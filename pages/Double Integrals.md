@@ -91,7 +91,7 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 - ## Parametric Areas
   $$\int\int_Rf(x,y)dA=\int_\alpha^\beta\int_a^bf(r\cos\theta,r\sin\theta)r drd\theta$$
   
-  And for more general regions:
+  For more general regions, we can use an equation not too dissimilar to our equation for the Cartesian coordinate system:
   $$D=\{(r, \theta) | \alpha \leq \theta \leq \beta, g(\theta) \leq r \leq h(\theta) \}$$
   \begin{equation}
   F(x,y) = 
@@ -133,4 +133,4 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$\text{or}$$
 	  $$=\int_{\frac{pi}{6}}^{\frac{\pi}{3}}((1+2\cos\theta)^4-16)d\theta$$
 	  $$\text{...}$$
-	  $$\frac{333\sqrt{3} - 186\pi - 368}{}$$
+	  $$=\frac{333\sqrt{3} - 186\pi - 368}{384}$$
