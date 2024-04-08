@@ -90,11 +90,13 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$[-x\cos(x)+sin(x)]|_0^4$$
 - ## Parametric Areas
   $$\int\int_Rf(x,y)dA=\int_\alpha^\beta\int_a^bf(r\cos\theta,r\sin\theta)r drd\theta$$
-	- ## 6.3.E1
+	- ### 6.3.E1
 	  Consider again the first basic example, integrating $f(x,y) = x^2 + y^2$ but rather over the polar rectangle $R = [0,1] x [0,1]$.
 	  
 	  $$\int\int_R(x^2+y^2)dA=\int_0^1\int_0^1 r^2rdrd\theta$$
 	  $$\text{or}$$
-	  $$=\int_0^1d\theta \ r^2rdr$$
+	  $$=\int_0^1d\theta \int_0^1r^2rdr$$
 	  $$\text{or}$$
 	  $$=\frac{1}{4}$$
+	- ### 6.3.E2
+	  Evaluate $\int\int_R\tan^{-1}(\frac{y}{x})dA$ for $R = \{\}$
