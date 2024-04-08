@@ -126,4 +126,7 @@ m\int\int_D(f(x,y))dA \pm M\int\int_D(g(x,y))dA
 	  $$=\int_0^\pi d\theta\int_0^3(\cos(r^2)r)dr$$
 	  $$\text{or}$$
 	  $$=\frac{\pi}{2}\sin(9)$$
-	-
+	- ### 6.4.E3
+	  Evaluate $R = [2, 1 + \sqrt{3}] x [\frac{pi}{6},\frac{pi}{3}]$ $$
+	  
+	  $$V=\int_2^{1 + \sqrt{3}}\int_{\frac{}{}}$$
