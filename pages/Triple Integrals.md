@@ -1,2 +1,2 @@
 ## Definition
-Becomes generalized to have $[a,b] \cross [c,d] x [e,f]$.
+Becomes generalized to have moutnd$[a,b] \times [c,d] \times [e,f]$.
