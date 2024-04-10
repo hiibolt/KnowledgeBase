@@ -9,3 +9,5 @@
   $$\int_{\frac{-\pi}{3}}^{\frac{pi}{3}}\int_{1+\cos\theta}^{3\cos\theta}((r\cos\theta)(r\sin\theta)^2r)drd\theta$$
   $$\text{or}$$
   $$\int_{\frac{-\pi}{3}}^{\frac{pi}{3}}\int_{1+\cos\theta}^{3\cos\theta}(\cos\theta\sin^2\theta r^4)drd\theta$$
+  $$\text{or}$$
+  $$\int_{\frac{-\pi}{3}}^{\frac{pi}{3}(\cos\theta\sin^2\theta \frac{r^5}{5}|_{1+\cos\theta}^{3\cos\theta})d\theta$$
