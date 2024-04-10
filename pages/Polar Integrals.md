@@ -15,6 +15,8 @@
 - ### 7.1.E2
   Find the volume of the solid above the cone $z = \sqrt{x^2+y^2}$ and below the sphere $x^2+y^2+z^2=1$.
   
-  ??
+  ?? dude didn't explain shit LOL
   
   $$\int_0^{2\pi}\int_{0}^{\frac{1}{\sqrt{2}}}((\sqrt{1-r^2}-r)r)drd\theta$$
+  $$\text{...}$$
+  $$\frac{(2-\sqrt{2})\pi}{3}$$
