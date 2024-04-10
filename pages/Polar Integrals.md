@@ -23,4 +23,4 @@
 - ### 7.1.E3
   Evaluate the integral $\int_{-\infty}^\infty (e^{-x^2})dx$
   
-  $$\int_{-\infty}^\infty\int_{-\infty}^\infty(e^{})$$
+  $$\int_{-\infty}^\infty\int_{-\infty}^\infty(e^{-(x^2+y^2)})dydx$$
