@@ -21,4 +21,6 @@
   $$\text{...}$$
   $$\frac{(2-\sqrt{2})\pi}{3}$$
 - ### 7.1.E3
-  Evaluate the integral $\int_{-\infty}^\infty (e^{-x^2})dx$$$
+  Evaluate the integral $\int_{-\infty}^\infty (e^{-x^2})dx$
+  
+  $$\int_{-\infty}^\infty\int_{-\infty}^\infty(e^{})$$
