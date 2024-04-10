@@ -8,3 +8,4 @@
   They are both equal at $\theta = \pm\frac{\pi}{3}$.
   $$\int_{\frac{-\pi}{3}}^{\frac{pi}{3}}\int_{1+\cos\theta}^{3\cos\theta}((r\cos\theta)(r\sin\theta)^2r)drd\theta$$
   $$\text{or}$$
+  $$\int_{\frac{-\pi}{3}}^{\frac{pi}{3}}\int_{1+\cos\theta}^{3\cos\theta}(\cos\theta\sin^2\theta r^4)drd\theta$$
