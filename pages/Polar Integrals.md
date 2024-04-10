@@ -13,3 +13,4 @@
   $$\int_{\frac{-\pi}{3}}^{\frac{pi}{3}}(\cos\theta\sin^2\theta \frac{r^5}{5}|_{1+\cos\theta}^{3\cos\theta})d\theta$$
   $$\text{...}$$
 - ### 7.1.E2
+  Fin dthe volume of the solid above the cone $z = \sqrt{x^2+y^2}$ and below the sphere $x^2+y^2+z^2=1$.
