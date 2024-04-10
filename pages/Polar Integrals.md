@@ -27,4 +27,4 @@
   $$\text{or}$$
   $$\int_{0}^{2\pi}\int_{0}^\infty(e^{-r^2}r)drd\theta$$
   $$\text{or (u-sub)}$$
-  $$\$$
+  $$=\sqrt{\pi}$$
