@@ -20,4 +20,4 @@
 - [[12.3 Predator-Prey Model (1920's)]]
 =======
 - [[12.2 Competitive Hunters]]
->>>>>>> 8a4aa0e (Auto saved by Logseq)
+- [[12.3 Predator-Prey Model (1920's)]]
