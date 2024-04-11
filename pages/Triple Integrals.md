@@ -14,5 +14,6 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
   
   (Use above theorem!)
 - ### Example 8.1.E2
-  Evaluate $$\$$
--
+  Evaluate $${\int\int\int}_E(x^2)dV$$ where $E$ is the region bounded by the graph of $$.
+  
+  $$\int\int\int$$
