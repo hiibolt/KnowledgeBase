@@ -16,4 +16,6 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
 - ### Example 8.1.E2
   Evaluate $${\int\int\int}_E(x^2)dV$$ where $E$ is the region bounded by the graph of $$.
   
-  $$\int_{-1}^1\int_{y^2}^1\int_0^{1-x^2}(x^2)dzdydx$$
+  $$\int_{-1}^1\int_{y^2}^1\int_0^{1-x^2}(x^2)dzdxdy$$
+- ### Example 8.1.E3
+  Express for the region bounded by the graphso f the plane $y=1-x$ and the cylinder$ z = 1-x^2$.
