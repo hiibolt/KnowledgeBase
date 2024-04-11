@@ -14,7 +14,5 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
   
   (Use above theorem!)
 - ### Example 8.1.E2
-  bounded by the plane $3x+2y+z=6$
-  
-  $${\int\int\int}_E(x)V$$
+  Evaluate $$\$$
 -
