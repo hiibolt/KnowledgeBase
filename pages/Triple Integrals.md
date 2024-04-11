@@ -19,5 +19,6 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
   $$\int_{-1}^1\int_{y^2}^1\int_0^{1-x^2}(x^2)dzdxdy$$
 - ### Example 8.1.E3
   Express for the region bounded by the graph so f the plane $y=1-x$ and the cylinder $z = 1-x^2$ as a triple iterated integral.
-  $$D = \{(x,y) | 0 \leq x \leq 1, 0 \leq \}$$
-  $$E=\{ (x,y,z) | ? \leq x \leq ?, ? \leq y \leq ?, 0 \leq z \leq z = 1 - x^2 \}$$
+  $$D = \{(x,y) | 0 \leq x \leq 1, 0 \leq y \leq 1-x \}$$
+  $$E=\{ (x,y,z) | E, 0 \leq z \leq z = 1 - x^2 \}$$
+  $$\int_0^1\int_0^{1-x}\int_0^{1-x^2}(f(x,y,z))dzdydx$$
