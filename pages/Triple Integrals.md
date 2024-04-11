@@ -9,3 +9,5 @@ Thankfully, this can be treated instead as a triple iterated integral in any of 
 Set up the triple integral $$\int\int\int_B(x^2+y^2+z^2)dv\text{ for }B = [0,1]\times[0,2]\times[0,3]$$
 
 $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
+- ### Example 8.1.E1
+  Evaluate the integral $$\int\int\int_Bx^2\sqrt{y}z^3dV$$ for $$$$B = []
