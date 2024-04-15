@@ -23,5 +23,6 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
 	  $$E=\{ (x,y,z) | E, 0 \leq z \leq z = 1 - x^2 \}$$
 	  $$\int_0^1\int_0^{1-x}\int_0^{1-x^2}(f(x,y,z))dzdydx$$
 - ## Cylindrical Coordinates
-  $$E=\{(x,y,z) | (x,y) \in D, u_1(x,y) \leq x \leq u_1(x,y)\}$$
+  $$E=\{(x,y,z) | (x,y) \in D, u_1(x,y) \leq x \leq u_2(x,y)\}$$
   $$D=\{(r,\theta) | \alpha \leq \theta \leq \beta, h_1(\theta) \leq r \leq h_2(\theta)\}$$
+  $$\int_\alpha^\beta\int_{h_1(\theta)}^{h_2(\theta)}g(r\cos\theta,r\sin$$
