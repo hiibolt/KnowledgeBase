@@ -52,4 +52,4 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
 	  Convert the spherical point $(\rho,\theta,\phi) = (2,\frac{\pi}{3},-\frac{\pi}{6})$.
 	  $$x=2\sin(-\frac{\pi}{6})\cos(\frac{\pi}{3})$$
 	  $$y=2\sin(-\frac{\pi}{6})\sin(\frac{\pi}{3})$$
-	  $$z=2\cos(-\frac{\pi}{6})\cos(\frac{\pi}{3})$$
+	  $$z=2\cos(-\frac{\pi}{6})$$
