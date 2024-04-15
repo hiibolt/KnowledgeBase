@@ -43,4 +43,6 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
   $$y=\rho\sin\phi\sin\theta$$
   $$z=\rho\cos\phi$$
 	- ### Example 8.3.E1
-	  Convert the cart
+	  Convert the Cartesian point $(x,y,z) = (\frac{1}{\sqrt{2}},-\sqrt{\frac{3}{2}},\sqrt{2})$ to spherical coordinates.
+	  
+	  $\rho = \sqrt{}$
