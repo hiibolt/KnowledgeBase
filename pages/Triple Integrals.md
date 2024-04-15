@@ -36,4 +36,4 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
 	  
 	  $$\int_0^{2\pi}\int_0^{1}\int_0^{1-r^2}(r^7)dzdrd\theta$$
 - ## Spherical Coordinates
-  All points must satisfying
+  For points on spheres $x^2+y^2+z^2=\rho^2$, for $\rho > 0$, there are two angles that uniquely identify
