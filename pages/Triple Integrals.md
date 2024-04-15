@@ -34,4 +34,4 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
 	- ### Example 8.2.E2
 	  Evaluate $$\int\int\int_E((x^2+y^2)^3)dv$$, for $E$ bounded by $z = 1-x^2-y^2$ and $z \geq 0$.
 	  
-	  $$\int_0^{2\pi}\int_0^{1}\int_0^{r^6}$$
+	  $$\int_0^{2\pi}\int_0^{1}\int_0^{r^6}(r)dzdrd\theta$$
