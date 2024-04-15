@@ -4,3 +4,6 @@
 - [[Planes (NTD)]]
 - [[Lagrange Multipliers]]
 - [[Double Integrals]]
+- [[Volume Over Two Surfaces]]
+- [[Polar Integrals]]
+- [[Triple Integrals]]

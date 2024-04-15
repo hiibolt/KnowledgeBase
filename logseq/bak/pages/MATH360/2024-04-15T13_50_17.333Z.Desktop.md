@@ -14,6 +14,10 @@
 - [[11.0 Differential Equations]]
 - [[11.2 Drug Dosage]]
 - [[11.4 Graphical Solutions]]
+<<<<<<< HEAD
 - [[12.1 Graphing]]
 - [[12.2 Competitive Hunters]]
 - [[12.3 Predator-Prey Model (1920's)]]
+=======
+- [[12.1 Graphing]]
+>>>>>>> 837cd74 (Auto saved by Logseq)
