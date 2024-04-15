@@ -15,9 +15,5 @@
 - [[11.2 Drug Dosage]]
 - [[11.4 Graphical Solutions]]
 - [[12.1 Graphing]]
-<<<<<<< HEAD
-- [[12.2 Competitive Hunters]]
-- [[12.3 Predator-Prey Model (1920's)]]
-=======
 - [[12.2 Competitive Hunters]]
 - [[12.3 Predator-Prey Model (1920's)]]
