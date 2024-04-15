@@ -1101,7 +1101,8 @@
 :nonce 1713193393761
 :italic false}}
 :block/updated-at 1713193399409} 
-{:block/properties 
+{:block/created-at 1713193446190
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -1120,7 +1121,66 @@
 :parentId "65ef7865-aac6-4d79-9e04-68f75747caf4"
 :nonce 1713193430457
 :isComplete true}}
-:block/updated-at 1713193432509})
+:block/updated-at 1713193446190} 
+{:block/created-at 1713193446207
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 34
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [69 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "644d9de0-fb39-11ee-9c6f-47f7a7f8cb63"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1440 960]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65ef7865-aac6-4d79-9e04-68f75747caf4"
+:nonce 1713193440972
+:italic false
+:text "A(3,0)"}}
+:block/updated-at 1713193446207} 
+{:block/created-at 1713193454914
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 35
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [69 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "68777170-fb39-11ee-9c6f-47f7a7f8cb63"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [1208 848]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65ef7865-aac6-4d79-9e04-68f75747caf4"
+:nonce 1713193441046
+:italic false
+:text "A(0,2)"}}
+:block/updated-at 1713193454914})
 :pages (
 {:block/uuid #uuid "65ef7865-aac6-4d79-9e04-68f75747caf4"
 :block/properties 
@@ -1132,8 +1192,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("0a0a68d0-f1d0-11ee-8cf1-311b6685386e" "0d7e0bc2-f1d0-11ee-8cf1-311b6685386e" "13693e60-f1d0-11ee-8cf1-311b6685386e" "21d84fe2-f1d0-11ee-8cf1-311b6685386e" "26f3af62-f1d0-11ee-8cf1-311b6685386e" "3063ea12-f1d0-11ee-8cf1-311b6685386e" "3ad9d4f2-f1d0-11ee-8cf1-311b6685386e" "62f73912-f5bc-11ee-a3d9-0314c8cddcf6" "687970b2-f5bc-11ee-a3d9-0314c8cddcf6" "6b531d90-f5bc-11ee-a3d9-0314c8cddcf6" "6e8a2cb0-f5bc-11ee-a3d9-0314c8cddcf6" "73311f80-f5bc-11ee-a3d9-0314c8cddcf6" "7e482c62-f5bc-11ee-a3d9-0314c8cddcf6" "82b0b6a2-f5bc-11ee-a3d9-0314c8cddcf6" "859957a0-f5bc-11ee-a3d9-0314c8cddcf6" "8c213f70-f5bc-11ee-a3d9-0314c8cddcf6" "8f336170-f5bc-11ee-a3d9-0314c8cddcf6" "a83eaa80-f5bc-11ee-a3d9-0314c8cddcf6" "832bbd90-f5bd-11ee-a3d9-0314c8cddcf6" "880ab052-f5bd-11ee-a3d9-0314c8cddcf6" "8c1aba52-f5bd-11ee-a3d9-0314c8cddcf6" "944dba12-f5bd-11ee-a3d9-0314c8cddcf6" "974cc942-f5bd-11ee-a3d9-0314c8cddcf6" "999bc252-f5bd-11ee-a3d9-0314c8cddcf6" "9d100182-f5bd-11ee-a3d9-0314c8cddcf6" "a3dfeed0-f5bd-11ee-a3d9-0314c8cddcf6" "a5dd4570-f5bd-11ee-a3d9-0314c8cddcf6" "acd8af90-f5bd-11ee-a3d9-0314c8cddcf6" "af4d8020-f5bd-11ee-a3d9-0314c8cddcf6" "b1f3c0f2-f5bd-11ee-a3d9-0314c8cddcf6" "408d1702-fb39-11ee-9c6f-47f7a7f8cb63" "449a61e2-fb39-11ee-9c6f-47f7a7f8cb63" "481d2002-fb39-11ee-9c6f-47f7a7f8cb63" "5dfddd10-fb39-11ee-9c6f-47f7a7f8cb63")}}
-:block/updated-at 1713193432509
+:shapes-index ("0a0a68d0-f1d0-11ee-8cf1-311b6685386e" "0d7e0bc2-f1d0-11ee-8cf1-311b6685386e" "13693e60-f1d0-11ee-8cf1-311b6685386e" "21d84fe2-f1d0-11ee-8cf1-311b6685386e" "26f3af62-f1d0-11ee-8cf1-311b6685386e" "3063ea12-f1d0-11ee-8cf1-311b6685386e" "3ad9d4f2-f1d0-11ee-8cf1-311b6685386e" "62f73912-f5bc-11ee-a3d9-0314c8cddcf6" "687970b2-f5bc-11ee-a3d9-0314c8cddcf6" "6b531d90-f5bc-11ee-a3d9-0314c8cddcf6" "6e8a2cb0-f5bc-11ee-a3d9-0314c8cddcf6" "73311f80-f5bc-11ee-a3d9-0314c8cddcf6" "7e482c62-f5bc-11ee-a3d9-0314c8cddcf6" "82b0b6a2-f5bc-11ee-a3d9-0314c8cddcf6" "859957a0-f5bc-11ee-a3d9-0314c8cddcf6" "8c213f70-f5bc-11ee-a3d9-0314c8cddcf6" "8f336170-f5bc-11ee-a3d9-0314c8cddcf6" "a83eaa80-f5bc-11ee-a3d9-0314c8cddcf6" "832bbd90-f5bd-11ee-a3d9-0314c8cddcf6" "880ab052-f5bd-11ee-a3d9-0314c8cddcf6" "8c1aba52-f5bd-11ee-a3d9-0314c8cddcf6" "944dba12-f5bd-11ee-a3d9-0314c8cddcf6" "974cc942-f5bd-11ee-a3d9-0314c8cddcf6" "999bc252-f5bd-11ee-a3d9-0314c8cddcf6" "9d100182-f5bd-11ee-a3d9-0314c8cddcf6" "a3dfeed0-f5bd-11ee-a3d9-0314c8cddcf6" "a5dd4570-f5bd-11ee-a3d9-0314c8cddcf6" "acd8af90-f5bd-11ee-a3d9-0314c8cddcf6" "af4d8020-f5bd-11ee-a3d9-0314c8cddcf6" "b1f3c0f2-f5bd-11ee-a3d9-0314c8cddcf6" "408d1702-fb39-11ee-9c6f-47f7a7f8cb63" "449a61e2-fb39-11ee-9c6f-47f7a7f8cb63" "481d2002-fb39-11ee-9c6f-47f7a7f8cb63" "5dfddd10-fb39-11ee-9c6f-47f7a7f8cb63" "644d9de0-fb39-11ee-9c6f-47f7a7f8cb63" "68777170-fb39-11ee-9c6f-47f7a7f8cb63")}}
+:block/updated-at 1713193454914
 :block/created-at 1710192741675
 :block/type "whiteboard"
 :block/name "math360 diagrams"
