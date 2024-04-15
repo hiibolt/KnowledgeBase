@@ -27,4 +27,4 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
   $$D=\{(r,\theta) | \alpha \leq \theta \leq \beta, h_1(\theta) \leq r \leq h_2(\theta)\}$$
   $$\int_\alpha^\beta\int_{h_1(\theta)}^{h_2(\theta)}(g(r\cos\theta,r\sin\theta)r)drd\theta$$
 	- ### Example 8.2.E1
-	  Find the volume bounded by the paraboloid z = x^2 + y^2 over the circle of radius 1 centered at $(1,0)$.
+	  Find the volume bounded by the parabola z = x^2 + y^2 over the circle of radius 1 centered at $(1,0)$, *with the region plotted below*.
