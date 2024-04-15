@@ -38,4 +38,8 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
 - ## Spherical Coordinates
   For points on spheres $x^2+y^2+z^2=\rho^2$, for $\rho > 0$, there are two angles that uniquely identify it.
   
-  $$\phi $$
+  $\phi$ is measured from the $z$-axis down.
+  $$x=\rho\sin\phi\cos\theta$$
+  $$x=\rho\sin\phi\sin\theta$$
+  $$x=\rho\sin\phi\cos\theta$$
+-
