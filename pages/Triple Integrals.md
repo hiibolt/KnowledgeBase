@@ -42,4 +42,5 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
   $$x=\rho\sin\phi\cos\theta$$
   $$y=\rho\sin\phi\sin\theta$$
   $$z=\rho\cos\phi$$
--
+	- ### Example 8.3.E1
+	  Convert the cart
