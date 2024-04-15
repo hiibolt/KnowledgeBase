@@ -48,3 +48,5 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
 	  $\rho = \sqrt{\frac{1}{\sqrt{2}}^2+(-\sqrt{\frac{3}{2}})^2+(\sqrt{2})^2} = 2$
 	  $\phi = \cos^{-1}(\frac{\sqrt{2}}{2})=\frac{\pi}{4}$
 	  $\theta = \cos^{-1}(\frac{\frac{1}{\sqrt{2}}}{2\sin(\frac{\pi}{4})})=\frac{\pi}{3}$
+	- ### Example 8.3.E2
+	  Convert the spherical point $(\rho,\theta,\phi) = (2,\frac{\pi}{3},\frac{\pi}{6})$$$
