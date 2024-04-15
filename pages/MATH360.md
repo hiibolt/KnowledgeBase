@@ -17,3 +17,4 @@
 - [[12.1 Graphing]]
 - [[12.2 Competitive Hunters]]
 - [[12.3 Predator-Prey Model (1920's)]]
+- [[7.2 Optimization]]
