@@ -30,4 +30,4 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
 	  Find the volume bounded by the parabola $z = x^2 + y^2$ over the circle of radius 1 centered at $(1,0)$, *with the region plotted below*.
 	  
 	  $$\int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}\int_0^{2\cos\theta}\int_0^{r^2}(r)dzdrd\theta$$
-	  $$\int_0^{2\pi}\int_0^{2\cos\theta}(r^3)drd\theta$$
+	  $$\int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}\int_0^{2\cos\theta}(r^3)drd\theta$$
