@@ -45,4 +45,5 @@ $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
 	- ### Example 8.3.E1
 	  Convert the Cartesian point $(x,y,z) = (\frac{1}{\sqrt{2}},-\sqrt{\frac{3}{2}},\sqrt{2})$ to spherical coordinates.
 	  
-	  $\rho = \sqrt{}$
+	  $\rho = \sqrt{\frac{1}{\sqrt{2}}^2+(-\sqrt{\frac{3}{2}})^2+(\sqrt{2})^2} = 2$
+	  $\phi = \cos^{-1}(\frac{\sqrt}{2})$
