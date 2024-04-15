@@ -9,16 +9,17 @@ Thankfully, this can be treated instead as a triple iterated integral in any of 
 Set up the triple integral $$\int\int\int_B(x^2+y^2+z^2)dv\text{ for }B = [0,1]\times[0,2]\times[0,3]$$
 
 $$\int_0^1\int_0^2\int_0^3(x^2+y^2+z^2)dzdydx$$
-- ### Example 8.1.E1
-  Evaluate the integral $$\int\int\int_Bx^2\sqrt{y}z^3dV$$ for $$B = [-1,3]\times[2,4]\times[1,5]$$.
-  
-  (Use above theorem!)
-- ### Example 8.1.E2
-  Evaluate $${\int\int\int}_E(x^2)dV$$ where $E$ is the region bounded by the graph of $$.
-  
-  $$\int_{-1}^1\int_{y^2}^1\int_0^{1-x^2}(x^2)dzdxdy$$
-- ### Example 8.1.E3
-  Express for the region bounded by the graph so f the plane $y=1-x$ and the cylinder $z = 1-x^2$ as a triple iterated integral.
-  $$D = \{(x,y) | 0 \leq x \leq 1, 0 \leq y \leq 1-x \}$$
-  $$E=\{ (x,y,z) | E, 0 \leq z \leq z = 1 - x^2 \}$$
-  $$\int_0^1\int_0^{1-x}\int_0^{1-x^2}(f(x,y,z))dzdydx$$
+	- ### Example 8.1.E1
+	  Evaluate the integral $$\int\int\int_Bx^2\sqrt{y}z^3dV$$ for $$B = [-1,3]\times[2,4]\times[1,5]$$.
+	  
+	  (Use above theorem!)
+	- ### Example 8.1.E2
+	  Evaluate $${\int\int\int}_E(x^2)dV$$ where $E$ is the region bounded by the graph of $$.
+	  
+	  $$\int_{-1}^1\int_{y^2}^1\int_0^{1-x^2}(x^2)dzdxdy$$
+	- ### Example 8.1.E3
+	  Express for the region bounded by the graph so f the plane $y=1-x$ and the cylinder $z = 1-x^2$ as a triple iterated integral.
+	  $$D = \{(x,y) | 0 \leq x \leq 1, 0 \leq y \leq 1-x \}$$
+	  $$E=\{ (x,y,z) | E, 0 \leq z \leq z = 1 - x^2 \}$$
+	  $$\int_0^1\int_0^{1-x}\int_0^{1-x^2}(f(x,y,z))dzdydx$$
+- ## Cylindrical Coordinates
