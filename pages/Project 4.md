@@ -57,3 +57,6 @@ P(t_0) = P_0
   $$M(P_0-m)+m(M-P_0)e^{-k(M-m)(t-t_0)}=0$$
   $$\text{or}$$
   $$-k(M-m)(t-t_0)=\ln\frac{M(m-P_0)}{m(M-P_0)}$$
+  
+  Next, lets determine the behavior of $P(t)$ as $t \rarr \infty$:
+  $$P(t) = \frac{M(P_0-m) + m(M-B)e^{-k(M-m)(t-t_0)}}{P_0-m+(M-P_0)e^{-k(M-m)(t-t_0)}}$$
