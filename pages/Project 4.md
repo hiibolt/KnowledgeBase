@@ -28,5 +28,5 @@ P(t_0) = P_0
   
   **Graphing**:
   ![image.png](../assets/image_1713367597573_0.png)
-  
   *Remember to add the midpoint for the second derivative, and calculate the signs!*
+-
