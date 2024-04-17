@@ -29,4 +29,8 @@ P(t_0) = P_0
   **Graphing**:
   ![image.png](../assets/image_1713367597573_0.png)
   *Remember to add the midpoint for the second derivative, and calculate the signs!*
--
+- ## 3. Initial Value Problem
+  \begin{cases}
+  \frac{dP}{dt} = k(M-P)(P-m)\\
+  P(t_0) = P_0
+  \end{cases}
