@@ -24,3 +24,4 @@ P(t_0) = P_0
   * P(t) = m
   
   **Second Derivative of P**:
+  $$\frac{d^2P}{dt^2}=$$
