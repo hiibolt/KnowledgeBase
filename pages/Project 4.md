@@ -37,6 +37,10 @@ P(t_0) = P_0
   
   **Solving**:
   $$\int\frac{dP}{(M-P)(P-m)}dP=\int kdt = kt+C$$
+  $$\text{or}$$
   $$\frac{1}{M-m}(-\ln|M-P|+\ln|P-m|)$$
+  $$\text{or}$$
   $$\ln|\frac{P-m}{M-P}|=(M-m)kt+C$$
-  $$$$
+  $$C=\ln|\frac{P_0-m}{M-P_0}|-(M-m)kt_0$$
+  $$\text{so}$$
+  $$\ln|\frac{P-m}{M-P}|=(M-m)kt+\ln|\frac{P_0-m}{M-P_0}|-(M-m)kt_0$$
