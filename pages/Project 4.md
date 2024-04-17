@@ -55,3 +55,5 @@ P(t_0) = P_0
   
   Solve the following way for t:
   $$M(P_0-m)+m(M-P_0)e^{-k(M-m)(t-t_0)}=0$$
+  $$\text{or}$$
+  $$-$$
