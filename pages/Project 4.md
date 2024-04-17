@@ -31,6 +31,6 @@ P(t_0) = P_0
   *Remember to add the midpoint for the second derivative, and calculate the signs!*
 - ## 3. Initial Value Problem
   \begin{cases}
-  \frac{dP}{dt} = k(M-P)(P-m)\\
+  \frac{dP}{dt} = k(M-P)(P-m) \text{, (solve the IVP)}\\
   P(t_0) = P_0
   \end{cases}
