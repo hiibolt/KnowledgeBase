@@ -1,4 +1,4 @@
-## Base Equations
+## 1. Base Equations
 $$\frac{dP}{dt} = (\beta(P)-S(p))P$$
 $$\frac{dP}{dt} = (a - (bP + \frac{c}{P}))P$$
 $$\text{or}$$
@@ -18,3 +18,4 @@ $$\text{so}$$
 \frac{dP}{dt}=k(M-P)(P-m)\\
 P(t_0) = P_0
 \end{cases}
+- ## 2.
