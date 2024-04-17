@@ -60,3 +60,5 @@ P(t_0) = P_0
   
   Next, lets determine the behavior of $P(t)$ as $t \rarr \infty$:
   $$P(t) = \frac{M(P_0-m) + m(M-B)e^{-k(M-m)(t-t_0)}}{P_0-m+(M-P_0)e^{-k(M-m)(t-t_0)}}$$
+  $$\text{so}$$
+  $$\lim_{t \rarr \infty}P(t) = \frac{M(P_0-m)}{P_0-m} = M$$
