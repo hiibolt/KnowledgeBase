@@ -12,4 +12,6 @@ $$M=\frac{a+\sqrt{a^2-4bc}}{2b}$$
 $$m=\frac{a-\sqrt{a^2-4bc}}{2b}$$
 $$M > m$$
 $$\text{so}$$
-$$$$
+$$\frac{dP}{dt}=-b(P-M)(P-m)$$
+$$\text{or}$$
+$$=k(M-P)(m-$$
