@@ -38,7 +38,7 @@ P(t_0) = P_0
   **Solving**:
   $$\int\frac{dP}{(M-P)(P-m)}dP=\int kdt = kt+C$$
   $$\text{or (partial fractions)}$$
-  $$$$
+  $$A=B=\frac{1}{M-m}$$
   $$\frac{1}{M-m}(-\ln|M-P|+\ln|P-m|)$$
   $$\text{or}$$
   $$\ln|\frac{P-m}{M-P}|=(M-m)kt+C$$
@@ -48,3 +48,4 @@ P(t_0) = P_0
   $$\text{or}$$
   $$\frac{P-m}{M-P}=\frac{P_0-m}{M-P_0}e^{k(M-m)(t-t_0)}$$
   $$\text{(solve for P, let the right side equal A(t))}$$
+- ## 4.
