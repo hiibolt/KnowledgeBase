@@ -10,3 +10,4 @@ $$P=\frac{a\pm\sqrt{a^2-4bc}}{2b}$$
 $$\text{so}$$
 $$M=\frac{a+\sqrt{a^2-4bc}}{2b}$$
 $$m=\frac{a-\sqrt{a^2-4bc}}{2b}$$
+$$M > m$$
