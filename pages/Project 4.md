@@ -19,4 +19,6 @@ $$\text{so}$$
 P(t_0) = P_0
 \end{cases}
 - ## 2. Sketching Representative Solutions
-  **Equilibrium Solutions:
+  **Equilibrium Solutions**:
+  * P(t) = M
+  * P(t) = m
