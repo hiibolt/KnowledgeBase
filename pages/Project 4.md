@@ -50,3 +50,5 @@ P(t_0) = P_0
   $$\text{(solve for P, let the right side equal A(t))}$$
 - ## 4. 
   $$P(t) = \frac{M(P_0-m) + m(M-B)e^{-k(M-m)(t-t_0)}}{P_0-m+(M-P_0)e^{-k(M-m)(t-t_0)}}$$
+  
+  We must now find the value of $t$ where $P(t) = 0$ aka ($t^{*}$)
