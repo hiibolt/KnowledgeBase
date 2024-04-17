@@ -22,3 +22,5 @@ P(t_0) = P_0
   **Equilibrium Solutions**:
   * P(t) = M
   * P(t) = m
+  
+  **Second Derivative of P**:
