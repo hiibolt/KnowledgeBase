@@ -13,5 +13,8 @@ $$m=\frac{a-\sqrt{a^2-4bc}}{2b}$$
 $$M > m$$
 $$\text{so}$$
 $$\frac{dP}{dt}=-b(P-M)(P-m)$$
-$$\text{or}$$
-$$=k(M-P)(m-$$
+$$\text{so}$$
+\begin{cases}
+\frac{dP}{dt}=k(M-P)(P-m)\\
+P(t_0) = P_0
+\end{cases}
