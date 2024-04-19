@@ -78,4 +78,7 @@ P(t_0) = P_0
   $\beta(P) = a \rarr  find the average of the values of \beta(P)
   $\delta(P)=bP+\frac{C}{P}\rarr P\delta(P)=bP^2+C$, find *b* and *c* using the values of the table
   
-  $$S(b,c)\sum_{i=1}^{b}[(P\delta)_i]$$
+  $S(b,c)\sum_{i=1}^{b}[(P\delta)_i-bP_i^2-c]^2$ - Use excel or a calculator
+  * $$b = 2x10^{-5}$$
+  * $$c = 2,000$$
+-
