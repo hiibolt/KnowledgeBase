@@ -98,3 +98,4 @@ P(t_0) = P_0
   
   $$\frac{m+M}{2}-4000 > 0$$
 - ## 9.
+  If the fishing is allowed once a year, $$P(1) - \frac{m+M}{2}$$
