@@ -64,3 +64,5 @@ P(t_0) = P_0
   $$\lim_{t \rarr \infty}P(t) = \frac{M(P_0-m)}{P_0-m} = M$$q
 - ## 5.
   $$P(t)\geq \frac{m+M}{2}, t \geq t_0$$
+  
+  Substitute $$P_0=\frac{m+M}{2}$$ into Equation 4 and simplify
