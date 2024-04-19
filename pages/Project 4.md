@@ -65,4 +65,6 @@ P(t_0) = P_0
 - ## 5.
   $$P(t)\geq \frac{m+M}{2}, t \geq t_0$$
   
-  Substitute $$P_0=\frac{m+M}{2}$$ into Equation 4 and simplify
+  Substitute $$P_0=\frac{m+M}{2}$$ into the equation from 4 and simplify!
+  
+  **Why is $$P(t)\geq P_0=\frac{m+M}{2}$$ for all $$t \geq t_0$$
