@@ -86,4 +86,8 @@ P(t_0) = P_0
   
   **Finding m, M if we know a, b, c**:
   (plug in the equations form m, M from #1)
+  
+  **Results**:
+  * m=5300?
+  * M=19888
 -
