@@ -74,3 +74,6 @@ P(t_0) = P_0
   There exists a table with P, \beta(P), and P\delta(P).
   
   We must use [[3.3 LSM]] to estimate \beta(P) and P\delta(P).
+  
+  $\beta(P) = a \rarr  find the average of the values of \beta(P)
+  $\delta(P)=bP+\frac{C}{P}\rarr P\delta(P)=bP^2$
