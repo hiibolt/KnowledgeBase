@@ -79,6 +79,11 @@ P(t_0) = P_0
   $\delta(P)=bP+\frac{C}{P}\rarr P\delta(P)=bP^2+C$, find *b* and *c* using the values of the table
   
   $S(b,c)\sum_{i=1}^{b}[(P\delta)_i-bP_i^2-c]^2$ - Use excel or a calculator
+  
+  **Final Values**:
   * $$b = 2x10^{-5}$$
   * $$c = 2,000$$
+  
+  **Finding m, M if we know a, b, c**:
+  (plug in the equations form m, M from #1)
 -
