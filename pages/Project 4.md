@@ -92,3 +92,4 @@ P(t_0) = P_0
   * M=19888
 - ## 7.
   $$P_0=4000$$
+  We must decide if $$P_0$$ if within (0, m), (m, M), or (M, \infty). (based on problm #2, fish will die, survi)
