@@ -94,4 +94,4 @@ P(t_0) = P_0
   $$P_0=4000$$
   We must decide if $$P_0$$ if within (0, m), (m, M), or (M, \infty). (based on problem #2, fish will die, survive, die)
 - ## 8.
-  If $$P_0 = 4000 < m < \frac{m+M}{2}$$, how many fish does the local government need to add to the safe
+  If $$P_0 = 4000 < m < \frac{m+M}{2}$$, how many fish does the local government need to get to the safety level?
