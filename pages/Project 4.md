@@ -73,4 +73,4 @@ P(t_0) = P_0
 - ## 6.
   There exists a table with P, \beta(P), and P\delta(P).
   
-  We must use LSM
+  We must use [[3.3 LSM]] to estimate \beta(P) and P\delta(P).
