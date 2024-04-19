@@ -69,3 +69,4 @@ P(t_0) = P_0
   
   **Why is** $$P(t)\geq P_0=\frac{m+M}{2}$$ **for all** $$t \geq t_0$$?
   Refer to #2 and the graph, and also recall that $$P'(t) > 0\text{ if }P_0=\frac{m+M}{2}$$
+  @ $$\frac{m+M}{2}, P(t) > P_0$$
