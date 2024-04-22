@@ -24,3 +24,4 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   $$\text{or}$$
   $$\int_a^bf(x)dx$$
 	- ### Example 10.1.E
+	  Evaluate $$\int_C(2x+3xy^2)d$$
