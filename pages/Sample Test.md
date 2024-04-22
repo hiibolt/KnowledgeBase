@@ -20,3 +20,8 @@ $$\text{so}$$
 $$P=(\frac{-20}{-t+2})^2=\frac{400}{(2-t)^2}$$
 
 We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doomsday.
+- ## 2 - Dimensional Analysis
+  \begin{cases}
+  P\\
+  d\\
+  \rho, \mu
