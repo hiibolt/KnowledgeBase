@@ -17,5 +17,8 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   $$\text{or}$$
   $$=\int_a^b f(x(t), y(t))\sqrt{(\frac{dx}{dt})^2+(\frac{dy}{dt})^2}$$
   
-  This can be construed as the "area under the surface", where $$z=f(x,y)$$
+  This can be construed as the "area under the surface", where $$z=f(x,y)$$ "over" the curve.
+  
+  For $$g(x,y) = f(x)$$ for $$a \leq x \leq b$$:
+  $$\int_C g(x,y) dS = \int_a^b g(t,0)\sqrt{(1)^2+(0)^2}dt$$
 	- ### Example 10.1.E
