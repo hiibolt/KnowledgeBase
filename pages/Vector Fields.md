@@ -23,6 +23,9 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   $$=\int_C g(x,y) dS = \int_a^b g(t,0)\sqrt{(1)^2+(0)^2}dt$$
   $$\text{or}$$
   $$\int_a^bf(x)dx$$
+  
+  **N Dimension Extension**:
+  $$=\int_a^b(f(x(t), y(t), z(t), ...)\sqrt{(\frac{dx}{dt})^2+(\frac{dy}{dt})^2}$$
 	- ### Example 10.1.E1
 	  Evaluate $$\int_C(2x+3xy^2)dS$$ for $C$, the portion of the unit circle with $x \geq 0$.
 	  
