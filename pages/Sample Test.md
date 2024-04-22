@@ -36,7 +36,7 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   2a-3b-c+d+e = 0\\
   -3a-c-e = 0\\
   \end{cases}
-  Result:
+  **Resulting basis vectors**:
   \begin{cases}
   a = a\\
   b = -a - c\\
