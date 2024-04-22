@@ -10,4 +10,4 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   
   Then, take a Riemann sum.
   $$\sum_{i=1}^n f(C(t_i^{*}))\Delta S_i$$
-  $$S_i=\int_{z_{i-1}}^{z_i}\sqrt{(\frac{}{})^2}$$
+  $$S_i=\int_{z_{i-1}}^{z_i}\sqrt{(\frac{dx}{dt})^2+(\frac{dy}{dt})^2}dt$$
