@@ -65,3 +65,6 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   $$\frac{d^2P}{dt^2} = (1-P)^2(P-3) - (1-P)(P-3)^2=(1-P)(P-3)(4-2P)$$
   $$= 0 \text{ when } P = 1,2,3$$
   ![image.png](../assets/image_1713800719273_0.png)
+  
+  **Classifying Stability**:
+  $$P=1$$ is (US)
