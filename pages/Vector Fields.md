@@ -43,3 +43,5 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	  $$=\int_{u(0)}^{u(1)}(u^{\frac{1}{2}})du=\int_1^{14}(\frac{u^{\frac{1}{2}}}{4})du$$
 	  $$\text{or}$$
 	  $$=\frac{1}{6}(14^{\frac{3}{2}}-1)$$
+- ### Piecewise Smooth Definition
+  A curve is **piecewise smooth** if it is a finite uni
