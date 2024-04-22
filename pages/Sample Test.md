@@ -47,5 +47,18 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   \begin{equation}
   \begin{bmatrix}
   a\\
-  b\
+  b\\
+  c\\
+  d\\
+  e
+  \end{bmatrix} = a
+  \begin{bmatrix}
+  1\\
+  -1\\
+  0\\
+  -2\\
+  -3
+  \end{bmatrix} + b
+  \begin{bmatrix}
+  \end
   \end{equation}
