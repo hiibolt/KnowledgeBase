@@ -33,5 +33,6 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   
   \begin{cases}
   a+b+c = 0\\
-  2a-3b-d+d+e = 0\\
-  -3a-c-e = 0\
+  2a-3b-c+d+e = 0\\
+  -3a-c-e = 0\\
+  \end{cases}
