@@ -45,20 +45,5 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   e=-3a-c
   \end{cases}
   \begin{equation}
-  \begin{bmatrix}
-  a\\
-  b\\
-  c\\
-  d\\
-  e
-  \end{bmatrix} = a
-  \begin{bmatrix}
-  1\\
-  -1\\
-  0\\
-  -2\\
-  -3
-  \end{bmatrix} + b
-  \begin{bmatrix}
-  \end
+  \begin{bmatrix}a\\b\\c\\d\\e\end{bmatrix} = a\begin{bmatrix}1\\-1\\0\\-2\\-3\end{bmatrix} + b\begin{bmatrix}0\\-1\\1\\-1\\-1\end{bmatrix}
   \end{equation}
