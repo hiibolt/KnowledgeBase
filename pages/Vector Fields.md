@@ -36,4 +36,6 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	  $$\text{or}$$
 	  $$= \int_{\frac{-\pi}{2}}^{\frac{\pi}{2}}(2\cos(t) + 3\cos(t) \sin^2(t))dt$$
 	- ### Example 10.1.E2
-	  Evaluate the line integral $$\int_C(2x+9z)ds$$ for $C$ the twisted cubic, which we defined as $$C(t) = (t, t^2, t^3)$$
+	  Evaluate the line integral $$\int_C(2x+9z)ds$$ for $C$ the twisted cubic, which we defined as $$C(t) = (t, t^2, t^3)$$ for $$0 \leq t \leq 1$$.
+	  
+	   $$=\int_C(f)ds=\int_0^1$$
