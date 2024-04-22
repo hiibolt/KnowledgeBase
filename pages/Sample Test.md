@@ -13,3 +13,6 @@ P(0) = 100
 We are aiming to find **doomsday** (when the population approaches infinity).
 
 $$\frac{dP}{dt}=0.1P^{\frac{3}{2}}$$
+$$\text{or}$$
+$$-2P^{\frac{-1}{2}}=0.1t+C$$
+$$$$
