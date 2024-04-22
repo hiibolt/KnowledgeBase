@@ -44,6 +44,7 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   d = -2a - c\\
   e=-3a-c
   \end{cases}
-  \begin{equation}
-  \begin{bmatrix}a\\b\\c\\d\\e\end{bmatrix} = a\begin{bmatrix}1\\-1\\0\\-2\\-3\end{bmatrix} + b\begin{bmatrix}0\\-1\\1\\-1\\-1\end{bmatrix}
-  \end{equation}
+  \begin{equation}\begin{bmatrix}a\\b\\c\\d\\e\end{bmatrix} = a\begin{bmatrix}1\\-1\\0\\-2\\-3\end{bmatrix} + b\begin{bmatrix}0\\-1\\1\\-1\\-1\end{bmatrix}\end{equation}
+  Our complete set of dimensionless products:
+  $$\Pi_1=\frac{P}{\delta D^2V^3}$$
+  $$\Pi_2=\frac{\mu}{\delta D v}$$
