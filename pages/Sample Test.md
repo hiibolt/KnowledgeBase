@@ -45,9 +45,12 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   e=-3a-c
   \end{cases}
   \begin{equation}\begin{bmatrix}a\\b\\c\\d\\e\end{bmatrix} = a\begin{bmatrix}1\\-1\\0\\-2\\-3\end{bmatrix} + b\begin{bmatrix}0\\-1\\1\\-1\\-1\end{bmatrix}\end{equation}
-  Our complete set of dimensionless products:
+  **Our complete set of dimensionless products**:
   $$\Pi_1=\frac{P}{\delta D^2V^3}$$
   $$\Pi_2=\frac{\mu}{\delta D v}$$
   By the Buckingham Theorem, there exists a function $$f$$ such that $$f(\Pi_1, \Pi_2) = 0$$.
   
   Then, by the Implicit Function Theorem, there is another function $$h$$ such that $$\Pi_1 = h(\Pi_2)$$.
+  
+  **Final solution**:
+  $$P=\delta D^2v^3h(\frac{\mu}{\delta Dv})$$
