@@ -54,3 +54,8 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   
   **Final solution**:
   $$P=\delta D^2v^3h(\frac{\mu}{\delta Dv})$$
+- ## 3 - 
+  \begin{cases}
+  \frac{dP}{dt} = (1-P)(P-3)\\
+  P(0) = P_0 \geq 0
+  \end{cases}
