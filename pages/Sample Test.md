@@ -67,4 +67,5 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   ![image.png](../assets/image_1713800719273_0.png)
   
   **Classifying Stability**:
-  $$P=1$$ is (US)
+  $P=1$ is (US) because we can find solutions that start close to $$P=1$$, but move away as $$t\rarr \infty$$
+  $P=3$ is (S) because all solutions that start close to $$P=3$$ converge to it as $$t\rarr\infty$$.
