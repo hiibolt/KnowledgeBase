@@ -25,7 +25,7 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   $$\int_a^bf(x)dx$$
   
   **N Dimension Extension**:
-  $$=\int_a^b(f(x(t), y(t), z(t), ...)\sqrt{(\frac{dx}{dt})^2+(\frac{dy}{dt})^2}$$
+  $$=\int_a^b(f(x(t), y(t), z(t), ...)\sqrt{(\frac{dx}{dt})^2+(\frac{dy}{dt})^2+(\frac{dz}{dt})^2+...}$$
 	- ### Example 10.1.E1
 	  Evaluate $$\int_C(2x+3xy^2)dS$$ for $C$, the portion of the unit circle with $x \geq 0$.
 	  
@@ -36,3 +36,4 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	  $$\text{or}$$
 	  $$= \int_{\frac{-\pi}{2}}^{\frac{\pi}{2}}(2\cos(t) + 3\cos(t) \sin^2(t))dt$$
 	- ### Example 10.1.E2
+	  Evaluate the line integral $$\int_C(2x+9z)ds$$ for $C$ the twisted cubic, which we defined as $$C(t) = (t, t^2, t^3)$$
