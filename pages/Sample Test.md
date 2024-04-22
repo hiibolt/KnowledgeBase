@@ -50,4 +50,4 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   $$\Pi_2=\frac{\mu}{\delta D v}$$
   By the Buckingham Theorem, there exists a function $$f$$ such that $$f(\Pi_1, \Pi_2) = 0$$.
   
-  By the
+  Then, by the Implicit Function Theorem, there is another function $$h$$ such that $$\Pi_1 = h(\Pi_2)$$.
