@@ -61,4 +61,7 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   \end{cases}
   
   **Equilibrium Solutions**:
-  $$\frac{d}{} P = 1, 3$$
+  $$\frac{dP}{dt} = 0 @ P = 1, 3$$
+  
+  We must find $$\frac{d^2P}{dt^2}$$ now.
+  $$\frac{d^2P}{dt^2} = $$
