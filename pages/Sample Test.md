@@ -9,3 +9,7 @@ P(t), t \geq 0\\
 \frac{dP}{dt} = (\beta(P)-\delta(P))P\\
 P(0) = 100
 \end{cases}
+
+We are aiming to find **doomsday** (when the population approaches infinity).
+
+$$\frac{dP}{dt}=0.1P^{\frac{3}{2}}$$
