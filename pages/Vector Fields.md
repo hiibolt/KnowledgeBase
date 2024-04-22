@@ -9,4 +9,5 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   This will be a sample point in the *image* of $[t_{i-1},t_i]$ on the curve $C$.
   
   Then, take a Riemann sum.
-  $$\sum_{i=}$$
+  $$\sum_{i=1}^n f(C(t_i^{*}))\Delta S_i$$
+  $$S_i=\int_{z_{i-1}}^{z_i}\sqrt{(\frac{}{})^2}$$
