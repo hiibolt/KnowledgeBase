@@ -26,4 +26,6 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	- ### Example 10.1.E
 	  Evaluate $$\int_C(2x+3xy^2)dS$$ for $C$, the portion of the unit circle with $x \geq 0$.
 	  
-	  $$$$
+	  $$C(t) = (\cos(t),\sin(t)) \text{ over }-\frac{\pi}{2}<z<\frac{pi}{2}$$
+	  
+	  Then, integrate $$$$
