@@ -47,4 +47,6 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   A curve is **piecewise smooth** if it is a finite union of smooth curves, and we may write:
   $$C=C_1\cup C_2\cup ... C_n$$
   
-  From there, split
+  From there, subdivide into various integrals for each section between various $$C$$s.
+	- ### Example 10.2.E1
+	  Evaluate $$\int_C$$
