@@ -16,3 +16,6 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   $$\int_C f(x,y)dS = \lim_{n\rarr\infty}\sum_{i=1}^nf(p_i^{*})\Delta S_i$$
   $$\text{or}$$
   $$=\int_a^b f(x(t), y(t))\sqrt{(\frac{dx}{dt})^2+(\frac{dy}{dt})^2}$$
+  
+  This can be construed as the "area under the surface", where $$z=f(x,y)$$
+	- ### Example 10.1.E
