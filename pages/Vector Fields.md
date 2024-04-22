@@ -23,7 +23,7 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   $$=\int_C g(x,y) dS = \int_a^b g(t,0)\sqrt{(1)^2+(0)^2}dt$$
   $$\text{or}$$
   $$\int_a^bf(x)dx$$
-	- ### Example 10.1.E
+	- ### Example 10.1.E1
 	  Evaluate $$\int_C(2x+3xy^2)dS$$ for $C$, the portion of the unit circle with $x \geq 0$.
 	  
 	  $$C(t) = (\cos(t),\sin(t)) \text{ over }-\frac{\pi}{2}<z<\frac{pi}{2}$$
@@ -32,3 +32,4 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	  $$\int_C(f)dS = \int_{\frac{-\pi}{2}}^{\frac{\pi}{2}}((2\cos(t) + 3\cos(t) \sin^2(t))\sqrt{(-\sin(t))^2+(\cos (t))^2})dt$$
 	  $$\text{or}$$
 	  $$= \int_{\frac{-\pi}{2}}^{\frac{\pi}{2}}(2\cos(t) + 3\cos(t) \sin^2(t))dt$$
+	- ### Example 10.1.E2
