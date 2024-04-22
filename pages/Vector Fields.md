@@ -56,4 +56,4 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	  $$C_3(t) = (1-t, 1-t), 0 \leq t \leq 1$$
 	  
 	  Setting up our integrals:
-	  $$\int_C(f)ds = \int_$$
+	  $$\int_C(f)ds = \int_0^1(t^2+t*0+0^2)\sqrt{1^2+0^2}dt + \int_0^1(1^2+1*t)$$
