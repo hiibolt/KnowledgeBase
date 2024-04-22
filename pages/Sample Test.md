@@ -25,6 +25,6 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   P - ML^2T^{-3}\\
   \rho - ML^{-3}\\
   \mu - ML^{-1}T^{-1}\\
-  D - \\
-  v
+  D - L\\
+  v - LT^{-1}
   \end{cases}
