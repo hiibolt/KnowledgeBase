@@ -40,4 +40,6 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	  
 	  $$=\int_C(f)ds=\int_0^1(2(t)+9(t^3))\sqrt{1+9t^2+9t^4}$$
 	  $$\text{or (u-sub)}$$
-	  $$=\int_{u(0)}^{u(1)}(u^{\frac{1}{2}})du=\int_1^{14}()$$
+	  $$=\int_{u(0)}^{u(1)}(u^{\frac{1}{2}})du=\int_1^{14}(\frac{u^{\frac{1}{2}}}{4})du$$
+	  $$\text{or}$$
+	  $$=\frac{1}{6}(14^{\frac{3}{2}}-1)$$
