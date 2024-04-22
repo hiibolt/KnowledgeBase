@@ -64,4 +64,4 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   $$\frac{dP}{dt} = 0\text{ when }P = 1, 3$$
   
   We must find $$\frac{d^2P}{dt^2}$$ now.
-  $$\frac{d^2P}{dt^2} = $$
+  $$\frac{d^2P}{dt^2} = (1-P)^2(P-3) + $$
