@@ -51,6 +51,9 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	- ### Example 10.2.E1
 	  Evaluate $$\int_Cf(x,y)ds$$ for $$f(x,y) = x^2 + xy + y^2$$ over triangle with vertices $$(0,0), (1,0), (1,1)$$.
 	  
-	  $$C_1(t) = (t,0)$$
-	  $$C_2(t) = (1,t)$$
-	-
+	  $$C_1(t) = (t,0), 0\leq t \leq 1$$
+	  $$C_2(t) = (1,t), 0 \leq t \leq 1$$
+	  $$C_3(t) = (1-t, 1-t), 0 \leq t \leq 1$$
+	  
+	  Setting up our integrals:
+	  $$\int_C(f)ds = \int_$$
