@@ -28,3 +28,5 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   D - L\\
   v - LT^{-1}
   \end{cases}
+  
+  $$P^a\rho^b\mu^cD^dv^e=M^0L^0T^0$$
