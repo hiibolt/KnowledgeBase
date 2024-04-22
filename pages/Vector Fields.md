@@ -13,4 +13,6 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   $$S_i=\int_{z_{i-1}}^{z_i}\sqrt{(\frac{dx}{dt})^2+(\frac{dy}{dt})^2}dt\approx \sqrt{(x'(t_i^{*}))^2+(y'(t_i^{*}))^2}\Delta t_i$$
   
   Then taking the limit:
-  $$\int_C f(x,y)dS = $$
+  $$\int_C f(x,y)dS = \lim_{n\rarr\infty}\sum_{i=1}^nf(p_i^{*})\Delta S_i$$
+  $$\text{or}$$
+  $$=\int_a^b f(x(t), y(t))\sqrt{(\frac{dx}{dt})^2}$$
