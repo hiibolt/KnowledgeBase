@@ -57,6 +57,8 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	  
 	  Setting up our integrals:
 	  $$=\int_C(f)dt$$
+	  $$\text{so}$$
 	  $$=\int_0^1(t^2+t*0+0^2)\sqrt{1^2+0^2}dt + \int_0^1(1^2+1*t+t^2)\sqrt{0^2+1^2}dt$$
 	  $$+\int_0^1((1-t)^2+(1-t)(1-t)+(1-t)^2)\sqrt{(-1)^2+(-1)^2}dt$$
 	  $$\text{or}$$
+	  $$=\frac{1}{3}+(t+\frac{t^2}{2}+\frac{t^3}{3})|_0^1+3\sqrt{2}\int_1^0(u^2)$$
