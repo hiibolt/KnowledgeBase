@@ -29,4 +29,6 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	  $$C(t) = (\cos(t),\sin(t)) \text{ over }-\frac{\pi}{2}<z<\frac{pi}{2}$$
 	  
 	  Then, integrate $$f(x,y) = 2x + 3xy^2$$ over $C_i$.
-	  $$\int_C(f)dS = \int_{\frac{-\pi}{2}}^{\frac{\pi}{2}}((2\cos(t) + 3\cos(t) \sin^2(t))\sqrt{(-\sin(t))^2+(\cos t)^2})dt$$
+	  $$\int_C(f)dS = \int_{\frac{-\pi}{2}}^{\frac{\pi}{2}}((2\cos(t) + 3\cos(t) \sin^2(t))\sqrt{(-\sin(t))^2+(\cos (t))^2})dt$$
+	  $$\text{or}$$
+	  $$= \int_{\frac{-\pi}{2}}^{\frac{\pi}{2}}(2\cos(t) + 3\cos(t) \sin^2(t))dt$$
