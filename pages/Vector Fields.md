@@ -20,5 +20,7 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   This can be construed as the "area under the surface", where $$z=f(x,y)$$ "over" the curve.
   
   For $$g(x,y) = f(x)$$ for $$a \leq x \leq b$$:
-  $$\int_C g(x,y) dS = \int_a^b g(t,0)\sqrt{(1)^2+(0)^2}dt$$
+  $$=\int_C g(x,y) dS = \int_a^b g(t,0)\sqrt{(1)^2+(0)^2}dt$$
+  $$\text{or}$$
+  $$\int_a^bf(x)dx$$
 	- ### Example 10.1.E
