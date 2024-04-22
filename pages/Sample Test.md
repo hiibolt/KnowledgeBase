@@ -30,3 +30,8 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   \end{cases}
   
   $$P^a\rho^b\mu^cD^dv^e=M^0L^0T^0$$
+  
+  \begin{cases}
+  a+b+c = 0\\
+  2a-3b-d+d+e = 0\\
+  -3a-c-e = 0\
