@@ -38,4 +38,6 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	- ### Example 10.1.E2
 	  Evaluate the line integral $$\int_C(2x+9z)ds$$ for $C$ the twisted cubic, which we defined as $$C(t) = (t, t^2, t^3)$$ for $$0 \leq t \leq 1$$.
 	  
-	   $$=\int_C(f)ds=\int_0^1$$
+	  $$=\int_C(f)ds=\int_0^1(2(t)+9(t^3))\sqrt{1+9t^2+9t^4}$$
+	  $$\text{or (u-sub)}$$
+	-
