@@ -49,4 +49,8 @@ A vector field is **conservative** if it is the gradient of some differentiable 
   
   From there, subdivide into various integrals for each section between various $$C$$s.
 	- ### Example 10.2.E1
-	  Evaluate $$\int_C$$
+	  Evaluate $$\int_Cf(x,y)ds$$ for $$f(x,y) = x^2 + xy + y^2$$ over triangle with vertices $$(0,0), (1,0), (1,1)$$.
+	  
+	  $$C_1(t) = (t,0)$$
+	  $$C_2(t) = (1,t)$$
+	-
