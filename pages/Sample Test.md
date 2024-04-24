@@ -69,4 +69,10 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   **Classifying Stability**:
   $P=1$ is (US) because we can find solutions that start close to $$P=1$$, but move away as $$t\rarr \infty$$
   $P=3$ is (S) because all solutions that start close to $$P=3$$ converge to it as $$t\rarr\infty$$.
--
+- ## 4
+  \begin{cases}
+  \frac{dx}{dt} = 4(y-1)\\
+  \frac{dy}{dt} = x + 1
+  \end{cases}
+  
+  From this, we can see that the equilibrium solution is $$(-1,1)$$.
