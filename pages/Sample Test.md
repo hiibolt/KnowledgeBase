@@ -160,4 +160,4 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   
   Then, create a compendium of the intersection points and test each. One of these will be your max solution.
   
-  In order to test which of these solutions is the
+  In order to test which of these solutions is the maximum, substitute the points back into $$P(x,y)$$.
