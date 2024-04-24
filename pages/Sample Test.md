@@ -113,4 +113,7 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   **Building our Differential Equation**:
   $$\int\frac{1}{C}dC = -\int dt$$
   $$\text{or}$$
-  $$$$
+  $$C=\frac{1}{t+k}$$
+  
+  **Solving for K**:
+  $$C(0) = 1 = \frac{1}{0+K}$$
