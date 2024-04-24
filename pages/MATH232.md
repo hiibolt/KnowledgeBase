@@ -8,3 +8,4 @@
 - [[Polar Integrals]]
 - [[Triple Integrals]]
 - [[Vector Fields]]
+- [[Line Integrals]]
