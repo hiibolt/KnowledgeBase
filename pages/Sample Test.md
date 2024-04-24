@@ -124,4 +124,6 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   $$R_1 = \frac{1}{4+1} = \frac{1}{5}$$
   
   **Next Period [4, 8]**:
+  $$C(4) = Q + R_1 = 1 + \frac{1}{5} = \frac{6}{5}$$
+  $$R_2 = C(8)$$
 -
