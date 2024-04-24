@@ -155,4 +155,9 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   y \geq 0
   \end{cases}
   
-  **Steps to Complete**
+  **Steps to Complete**:
+  Graph all above lines.
+  
+  Then, create a compendium of the intersection points and test each. One of these will be your max solution.
+  
+  In order to test which of these solutions is the
