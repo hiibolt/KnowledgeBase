@@ -147,6 +147,7 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   |max per week|20|30|16|
   
   \begin{cases}
+  P(x,y) = 3x + 4y\\
   2.5x + y \leq 20\\
   3x + 3y \leq 30\\
   x + 2y \leq 16
