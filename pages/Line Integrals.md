@@ -19,4 +19,5 @@ $$F(x,y,z) = <P(x,y,z), Q(x,y,z), R(x,y,z)>$$
   $$\int_C(Pdx+Qdy) = \frac{7}{6}-1 = \frac{1}{6}$$
 - ## Example 11.1.E2
   Evaluate $$\int_CPdx+Qdy+Rdz$$ for $$P(x,y,z) = 2x-xy$$, $$Q(x,y,z) = xy$$, $$R(x,y,z) = z^2$$ along the helix curve $$C(t,) = (\cos t, \sin t, t)$$ with $$0\leq t \leq 2\pi$$.
-  $$\int_CPdx+=\int_0^{2\pi}((2\cos t - \cos t \sin t)(-\sin t))dt$$
+  $$\int_CPdx+Qdy+Rdz=\int_0^{2\pi}((2\cos t - \cos t \sin t)(-\sin t))dt$$
+  $$+\int_0^{2\pi}(\cos t \sin t\cos t)dt + \int_0^{2\pi}(t^2)dt$$
