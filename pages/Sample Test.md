@@ -84,3 +84,5 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   $$\int(y-1)dy = \frac{-1}{4}\int(x+1)dx$$
   $$\text{or}$$
   $$\frac{(y-1)^2}{2}=-\frac{1}{4}\frac{(x+1)^2}{2}+C$$
+  $$\text{or}$$
+  $$\frac{(x+1)^2}{4}+(y-1)^2 = C$$
