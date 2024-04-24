@@ -12,7 +12,8 @@ When integrating each over the scalar components of a field:
 $$F(x,y,z) = <P(x,y,z), Q(x,y,z), R(x,y,z)>$$
 
 **Theorem**:
-Let $$C$$ be a curev with domi
+Let $$C$$ be a curve with domain $$a\leq t\leq b$$, (of any dimensions):
+$$\int_Cfds = \int_{-C}fds \text{ and } \int_Cfdu = \int_{-C}fdu$$
 - ## Example 11.1.E1
   Evaluate $$\int_C P(x,y)dx, \int_C Q(x,y)dy$$ and $$\int_C(P(x,y) + Q(x,y))dy$$ for $$P(x,y) = x+2y$$ and $$Q(x,y) = 2x^2 - 5xy$$ for $$C(t) = (t,t^2)$$ with $$0\leq t\leq 1$$
   
