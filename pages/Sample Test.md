@@ -87,4 +87,7 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   $$\text{or}$$
   $$\frac{(x+1)^2}{4}+(y-1)^2 = C$$
   
-  **
+  **Graphing**:
+  The above equation is the equation of an ellipse.
+  
+  **Calculating Directions**:
