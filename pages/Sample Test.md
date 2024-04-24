@@ -115,6 +115,7 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   $$\text{or}$$
   $$C=\frac{1}{t+K}$$
   
+  **First Period [0,4]**:
   **Solving for K**:
   $$C(0) = 1 = \frac{1}{0+K}$$
   $$\text{so}$$
@@ -126,4 +127,9 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   **Next Period [4, 8]**:
   $$C(4) = Q + R_1 = 1 + \frac{1}{5} = \frac{6}{5}$$
   $$R_2 = C(8)$$
+  
+  **Solving for K**:
+  $$\frac{6}{5}=\frac{1}{4+k}$$
+  $$\text{or}$$
+  $$K = \frac{5}{6} - \frac{-24}$$
 -
