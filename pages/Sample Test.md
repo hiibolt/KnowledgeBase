@@ -113,7 +113,13 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   **Building our Differential Equation**:
   $$\int\frac{1}{C}dC = -\int dt$$
   $$\text{or}$$
-  $$C=\frac{1}{t+k}$$
+  $$C=\frac{1}{t+K}$$
   
   **Solving for K**:
   $$C(0) = 1 = \frac{1}{0+K}$$
+  $$\text{so}$$
+  $$K = 1$$
+  
+  **First Residual**:
+  $$R_1 = \frac{1}{4+1} = \frac{1}{5}$$
+-
