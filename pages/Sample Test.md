@@ -131,5 +131,10 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   **Solving for K**:
   $$\frac{6}{5}=\frac{1}{4+k}$$
   $$\text{or}$$
-  $$K = \frac{5}{6} - \frac{-24}$$
+  $$K = \frac{5}{6} - \frac{-24}{6} = -\frac{-19}{6}$$
+  $$\text{so}$$
+  $$C(t) = \frac{6}{6t - 19}$$
+  
+  **Second Residual**:
+  $$C(8) = 1$$
 -
