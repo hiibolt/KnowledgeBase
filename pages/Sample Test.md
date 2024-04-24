@@ -138,4 +138,8 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   **Second Residual**:
   $$C(8) = \frac{6}{6(8) - 19} = \frac{6}{29}$$
 - ## 6
-  \begin{cases}\end{cases}
+  * *x* - # of desks ($3)
+  * *y* - # of tables ($4)
+  
+  ||A|B|C|
+  |x|2.5|3|1
