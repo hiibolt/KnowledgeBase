@@ -76,3 +76,6 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   \end{cases}
   
   From this, we can see that the equilibrium solution is $$(-1,1)$$.
+  
+  **Creating our differential equation**:
+  $$\frac{dy}{dx} = \frac{x+1}{-4(y-1)}$$
