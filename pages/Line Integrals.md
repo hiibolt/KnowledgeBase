@@ -17,3 +17,5 @@ $$F(x,y,z) = <P(x,y,z), Q(x,y,z), R(x,y,z)>$$
   $$\int_CQdy = \int_0^1((2t^2-5t(t^2))(2t))dt=-1$$
   $$\text{so}$$
   $$\int_C(Pdx+Qdy) = \frac{7}{6}-1 = \frac{1}{6}$$
+- ## Example 11.1.E2
+  Evaluate $$\int_CPdx+Qdy+Rdz$$ for $$P(x,y,z) = 2x-xy$$, $$Q(x,y,z) = xy$$, $$R(x,y,z) = z^2$$ along the helix curve $$C(t,) = ()$$
