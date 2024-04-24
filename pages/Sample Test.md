@@ -92,7 +92,8 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   
   **Calculating Directions**:
   \begin{cases}
-  x > -1, y > 1: \frac{dx}{dt} < 0, \frac{dy}{dt} > 0\\
-  x > -1, y > 1: \frac{dx}{dt} < 0, \frac{dy}{dt} > 0\\
-  x > -1, y > 1: \frac{dx}{dt} < 0, \frac{dy}{dt} > 0\\
-  x > -1, y > 1: \frac{dx}{dt} < 0, \frac{dy}{dt} > 0\\
+  x > -1, y > 1 \rarr \frac{dx}{dt} < 0, \frac{dy}{dt} > 0\\
+  x < -1, y > 1 \rarr \frac{dx}{dt} < 0, \frac{dy}{dt} < 0\\
+  x > -1, y < 1 \rarr \frac{dx}{dt} > 0, \frac{dy}{dt} > 0\\
+  x < -1, y < 1 \rarr \frac{dx}{dt} > 0, \frac{dy}{dt} < 0
+  \end{cases}
