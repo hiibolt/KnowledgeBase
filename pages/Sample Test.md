@@ -122,4 +122,6 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   
   **First Residual**:
   $$R_1 = \frac{1}{4+1} = \frac{1}{5}$$
+  
+  **Next Period [4, 8]**:
 -
