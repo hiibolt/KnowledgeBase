@@ -99,3 +99,8 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   \end{cases}
   
   **Stability**:
+  $$(-1,1)$$ is (S) because any solution that starts close to $$(-1,1)$$ stays close as $$t \rarr \infty$$.
+- ## 5
+  \begin{cases}
+  \frac{dC}dt
+  T=4, Q = 1\\
