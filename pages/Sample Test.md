@@ -107,5 +107,10 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   \end{cases}
   \begin{cases}
   \frac{dC}{dt} = -C^2\\
-  C(0) = 
+  C(0) = 1 = Q
   \end{cases}
+  
+  **Building our Differential Equation**:
+  $$\int\frac{1}{C}dC = -\int dt$$
+  $$\text{or}$$
+  $$$$
