@@ -142,4 +142,12 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   * *y* - # of tables ($4)
   
   ||A|B|C|
-  |x|2.5|3|1
+  |x|2.5|3|1|
+  |y|1|3|2|
+  |max per week|20|30|16|
+  
+  \begin{cases}
+  2.5x + y \leq 20\\
+  3x + 3y \leq 30\\
+  x + 2y \leq 16
+  \end{cases}
