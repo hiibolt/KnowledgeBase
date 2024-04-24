@@ -79,3 +79,6 @@ We can see that a value approaching $$t = 2$$ from the left is our $$T$$, or Doo
   
   **Creating our differential equation**:
   $$\frac{dy}{dx} = \frac{x+1}{-4(y-1)}$$
+  
+  **Solving our differential equation**:
+  $$\int(y-1)dy = \frac{-1}{4}\int(x+1)dx$$
