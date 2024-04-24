@@ -10,6 +10,9 @@ $$\int_CPdx+Qdy+Rdz$$
 
 When integrating each over the scalar components of a field:
 $$F(x,y,z) = <P(x,y,z), Q(x,y,z), R(x,y,z)>$$
+
+**Theorem**:
+Let $$C$$ be a curev with domi
 - ## Example 11.1.E1
   Evaluate $$\int_C P(x,y)dx, \int_C Q(x,y)dy$$ and $$\int_C(P(x,y) + Q(x,y))dy$$ for $$P(x,y) = x+2y$$ and $$Q(x,y) = 2x^2 - 5xy$$ for $$C(t) = (t,t^2)$$ with $$0\leq t\leq 1$$
   
@@ -21,3 +24,4 @@ $$F(x,y,z) = <P(x,y,z), Q(x,y,z), R(x,y,z)>$$
   Evaluate $$\int_CPdx+Qdy+Rdz$$ for $$P(x,y,z) = 2x-xy$$, $$Q(x,y,z) = xy$$, $$R(x,y,z) = z^2$$ along the helix curve $$C(t,) = (\cos t, \sin t, t)$$ with $$0\leq t \leq 2\pi$$.
   $$\int_CPdx+Qdy+Rdz=\int_0^{2\pi}((2\cos t - \cos t \sin t)(-\sin t))dt$$
   $$+\int_0^{2\pi}(\cos t \sin t\cos t)dt + \int_0^{2\pi}(t^2)dt$$
+-
