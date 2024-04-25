@@ -44,4 +44,4 @@ $$W=\int_CPdx+Qdy+Rdz$$
   
   $$W=\int_C Pdx + Qdy + Rdz = \int_0^1(t^3)(1)dt+\int_0^1(t)(2t)dt+\int_0^1(t^2)(3t^2)dt$$
   $$\text{or}$$
-  $$=\frac{1}{4}$$
+  $$=\frac{1}{4}+\frac{2}{3}-\frac{3}{5}$$
