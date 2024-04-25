@@ -28,4 +28,6 @@ $$W=\int_CF\cdot Tds$$
   $$\int_CPdx+Qdy+Rdz=\int_0^{2\pi}((2\cos t - \cos t \sin t)(-\sin t))dt$$
   $$+\int_0^{2\pi}(\cos t \sin t\cos t)dt + \int_0^{2\pi}(t^2)dt$$
 - ## Example 11.1.E3
-  Find the work done by the field $$F(x,y) = <xy, x^2y^2>$$
+  Find the work done by the field $$F(x,y) = <xy, x^2y^2>$$ in moving a particle over the quarter circle $$r(t) = (\cos(t),\sin(t))$$ for $$0\leq t\leq \frac{\pi}{2}$$.
+  
+  $$W=\int_0^{\frac{\pi}{2}}F(r(t))\cdot$$
