@@ -39,3 +39,5 @@ $$W=\int_CPdx+Qdy+Rdz$$
   $$\text{or}$$
   $$=\int_0^{\frac{\pi}{2}}(-\sin^2 t\cos t+\cos^3 t\sin^2 t)dt$$
   $$=-\frac{1}{5}$$
+- ## Example 11.1.E4
+  Find the work done by the force field $$F(x,y) = <z,x,-y>$$
