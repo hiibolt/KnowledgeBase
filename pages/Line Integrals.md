@@ -49,3 +49,4 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   $$\text{or}$$
   $$=\frac{1}{4}+\frac{2}{3}-\frac{3}{5}$$
 - ## Example 11.2.E1
+  Find the work done by Newton's gravitational field, which we defined as the vector field $$F(x,y,z) = -\frac{mMg}{(x^2+y^2+z^2)^\frac{3}{2}}<x,y,z>$$ in moving an object from the point $$P$$
