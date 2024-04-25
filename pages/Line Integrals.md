@@ -35,3 +35,4 @@ $$W=\int_CF\cdot Tds$$
   $$=\int_0^{\frac{\pi}{2}}<\cos t\sin t,\cos^2 t\sin^2 t>\cdot < -\sin t, \cos t>dt$$
   $$\text{or}$$
   $$=\int_0^{\frac{\pi}{2}}(-\sin^2 t\cos t+\cos^3 t\sin^2 t)dt$$
+  $$=-\frac{1}{5}$$
