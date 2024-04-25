@@ -42,6 +42,6 @@ $$W=\int_CPdx+Qdy+Rdz$$
 - ## Example 11.1.E4
   Find the work done by the force field $$F(x,y) = <z,x,-y>$$ in moving a particle along the twisted cubic $$r(t) = (t, t^2, t^3)$$ for $$0 \leq t \leq 1$$.
   
-  $$W=\int_C Pdx + Qdy + Rdz = \int_0^1(t^3)dt+\int_0^1(t)dt+\int_0^1(t^2)dt$$
+  $$W=\int_C Pdx + Qdy + Rdz = \int_0^1(t^3)(1)dt+\int_0^1(t)(2t)dt+\int_0^1(t^2)(3t^2)dt$$
   $$\text{or}$$
-  $$=\frac{1}{4}+\frac{1}{2}+\frac{1}{3}=\frac{13}{12}$$
+  $$=\frac{1}{4}$$
