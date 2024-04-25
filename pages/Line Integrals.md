@@ -19,6 +19,9 @@ $$\int_Cfds = \int_{-C}fds \text{ and } \int_Cfdu = -\int_{-C}fdu$$
 $$W=\int_CF\cdot Tds$$
 $$\text{or}$$
 $$W=\int_CPdx+Qdy+Rdz$$
+
+**FTC for Line Integrals**:
+\int_C
 - ## Example 11.1.E1
   Evaluate $$\int_C P(x,y)dx, \int_C Q(x,y)dy$$ and $$\int_C(P(x,y) + Q(x,y))dy$$ for $$P(x,y) = x+2y$$ and $$Q(x,y) = 2x^2 - 5xy$$ for $$C(t) = (t,t^2)$$ with $$0\leq t\leq 1$$
   
