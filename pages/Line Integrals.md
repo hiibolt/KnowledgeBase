@@ -30,4 +30,5 @@ $$W=\int_CF\cdot Tds$$
 - ## Example 11.1.E3
   Find the work done by the field $$F(x,y) = <xy, x^2y^2>$$ in moving a particle over the quarter circle $$r(t) = (\cos(t),\sin(t))$$ for $$0\leq t\leq \frac{\pi}{2}$$.
   
-  $$W=\int_0^{\frac{\pi}{2}}F(r(t))\cdot$$
+  $$W=\int_0^{\frac{\pi}{2}}F(r(t))\cdot r'(t)dt$$
+  $$=\int_0^{\frac{\pi}{2}}<\cos t\sin t,\cos^2 t\sin^2 t>\cdot < -\sin t, \cos t>dt$$
