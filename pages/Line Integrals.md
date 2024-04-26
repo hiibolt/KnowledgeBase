@@ -53,3 +53,4 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   
   $$W=\int_C F\cdot df=\int_C \nabla f \cdot dr = f(q) - f(p)$$
   $$=f(6,3,5) - f(3,1,4) = ...$$
+-
