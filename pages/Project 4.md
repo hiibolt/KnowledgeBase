@@ -109,3 +109,8 @@ P(t_0) = P_0
   If the fishing is allowed once a year, $$P(1) - \frac{m+M}{2}$$
   If the fishing is allowed twice a year, $$(P(\frac{1}{2}) - \frac{m+M}{2})2$$
   If the fishing is allowed montly, $$(P(\frac{1}{12}) - \frac{m+M}{2})12$$
+  
+  **Final Values**:
+  * 1 Year - 1096
+  * 1 Month - 1112
+  * 1 Day - 1340
