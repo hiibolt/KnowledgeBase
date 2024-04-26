@@ -99,12 +99,12 @@ P(t_0) = P_0
   $$P_0=4000$$
   We must decide if $$P_0$$ if within (0, m), (m, M), or (M, \infty). (based on problem #2, fish will die, survive, die)
   
-  Because this initial value is lower than $$m$$, the population will die. This requires 8
+  Because this initial value is lower than $$m$$, the population will die. This requires 8460 fish to stay alive.
 - ## 8.
   If $$P_0 = 4000 < m < \frac{m+M}{2}$$, how many fish does the local government need to get to the safety level?
   
   $$\frac{m+M}{2}-4000 > 0$$
-- ## 9.
+  
   If the fishing is allowed once a year, $$P(1) - \frac{m+M}{2}$$
   If the fishing is allowed twice a year, $$(P(\frac{1}{2}) - \frac{m+M}{2})2$$
   If the fishing is allowed montly, $$(P(\frac{1}{12}) - \frac{m+M}{2})12$$
