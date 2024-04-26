@@ -105,6 +105,7 @@ P(t_0) = P_0
   
   $$\frac{m+M}{2}-4000 > 0$$
   
+  **Maximum Fishing Per Year**:
   If the fishing is allowed once a year, $$P(1) - \frac{m+M}{2}$$
   If the fishing is allowed twice a year, $$(P(\frac{1}{2}) - \frac{m+M}{2})2$$
   If the fishing is allowed montly, $$(P(\frac{1}{12}) - \frac{m+M}{2})12$$
