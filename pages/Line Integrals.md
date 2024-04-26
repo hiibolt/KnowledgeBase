@@ -54,7 +54,7 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   $$W=\int_C F\cdot df=\int_C \nabla f \cdot dr = f(q) - f(p)$$
   $$=f(6,3,5) - f(3,1,4) = ...$$
 - ## Example 11.3.E1
-  Show that the vector field $$F(x,y) = <\frac{y}{1+x^2}+2x, \tan^{-1}(x) + 3y^2>$$ is conservative and find $$f$$.
+  Show that the vector field $$F(x,y) = \langle\frac{y}{1+x^2}+2x, \tan^{-1}(x) + 3y^2\rangle$$ is conservative and find $$f$$.
   
   $$=\int(\tan^{-1}(x) + 3y^2)dy$$
   $$\text{or}$$
