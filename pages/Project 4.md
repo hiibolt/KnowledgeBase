@@ -84,6 +84,7 @@ P(t_0) = P_0
   $S(b,c)\sum_{i=1}^{b}[(P\delta)_i-bP_i^2-c]^2$ - Use excel or a calculator
   
   **Final Values**:
+  * 
   * $$b = 2x10^{-5}$$
   * $$c = 2,000$$
   
