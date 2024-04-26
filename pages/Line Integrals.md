@@ -58,4 +58,4 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   
   $$=\int(\tan^{-1}(x) + 3y^2)dy$$
   $$\text{or}$$
-  $$=y$$
+  $$=y\tan^{-1}(x)+y^3+x^2 + K$$
