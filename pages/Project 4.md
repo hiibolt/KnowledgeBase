@@ -48,7 +48,9 @@ P(t_0) = P_0
   $$\text{or}$$
   $$\frac{P-m}{M-P}=\frac{P_0-m}{M-P_0}e^{k(M-m)(t-t_0)}=A(t)$$
   $$\text{or}$$
-  $$P+P$$
+  $$P+PA(t)=m+MA(t)$$
+  $$\text{or}$$
+  $$P=\frac{m+MA(t)}{1+A(t)}=\frac{m+M()}$$
 - ## 4. 
   $$P(t) = \frac{M(P_0-m) + m(M-B)e^{-k(M-m)(t-t_0)}}{P_0-m+(M-P_0)e^{-k(M-m)(t-t_0)}}$$
   
