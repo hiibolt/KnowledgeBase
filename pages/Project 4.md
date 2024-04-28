@@ -50,7 +50,7 @@ P(t_0) = P_0
   $$\text{or}$$
   $$P+PA(t)=m+MA(t)$$
   $$\text{or}$$
-  $$P=\frac{m+MA(t)}{1+A(t)}=\frac{m+M(\frac{P_0-m}{M-P_0}e^{k(M-m)(t-t_0)})}{1+\frac{P_0-m}{M-P_0}e^{k(M-m)(t-t_0)}}$$
+  $$P=\frac{m+MA(t)}{1+A(t)}=\frac{m+M(\frac{P_0-m}{M-P_0}e^{k(M-m)(t-t_0)})}{1+\frac{P_0-m}{M-P_0}e^{k(M-m)(t-t_0)}}=\frac{M(P_0-m)+m(M-P_0)e^{-(M-m)k(t-t_0)}}{(P_0-m)}$$
 - ## 4. 
   $$P(t) = \frac{M(P_0-m) + m(M-B)e^{-k(M-m)(t-t_0)}}{P_0-m+(M-P_0)e^{-k(M-m)(t-t_0)}}$$
   
@@ -64,7 +64,7 @@ P(t_0) = P_0
   Next, lets determine the behavior of $P(t)$ as $t \rarr \infty$:
   $$P(t) = \frac{M(P_0-m) + m(M-B)e^{-k(M-m)(t-t_0)}}{P_0-m+(M-P_0)e^{-k(M-m)(t-t_0)}}$$
   $$\text{so}$$
-  $$\lim_{t \rarr \infty}P(t) = \frac{M(P_0-m)}{P_0-m} = M$$q
+  $$\lim_{t \rarr \infty}P(t) = \frac{M(P_0-m)}{P_0-m} = M$$
 - ## 5.
   $$P(t)\geq \frac{m+M}{2}, t \geq t_0$$
   
