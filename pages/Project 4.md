@@ -89,7 +89,9 @@ P(t_0) = P_0
   $$P(t) = \frac{M(P_0-m) + m(M-P_0)e^{-k(M-m)(t-t_0)}}{P_0-m+(M-P_0)e^{-k(M-m)(t-t_0)}}$$
   $$\text{or}$$
   $$P(t) = \frac{M(\frac{m+M}{2}-m) + m(M-\frac{m+M}{2})e^{-k(M-m)(t-t_0)}}{\frac{m+M}{2}-m+(M-\frac{m+M}{2})e^{-k(M-m)(t-t_0)}}$$
-  **Final Solution**:
+  $$\text{or}$$
+  $$P(t) = \frac{M(\frac{M-m}{2}) + m(\frac{M-m}{2})e^{-k(M-m)(t-t_0)}}{\frac{M-m}{2}+(\frac{M-m}{2})e^{-k(M-m)(t-t_0)}}$$
+  $$\text{or}$$
   $$P(t) = \frac{M+me^{-k(M-m)(t-t_0)}}{1+e^{-k(M-m)(t-t_0)}}$$
 - ## 6.
   There exists a table with P, \beta(P), and P\delta(P).
