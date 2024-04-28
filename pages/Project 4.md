@@ -70,8 +70,11 @@ P(t_0) = P_0
   
   Verifying our equilibrium solutions:
   $$\text{When }P(t) = m, \lim_{t \rarr \infty}P(t) = \frac{M(m-m) + m(M-m)e^{-k(M-m)(t-t_0)}}{m-m+(M-m)e^{-k(M-m)(t-t_0)}}$$
-  $$\text{so}$$
-  $$P(t) = \frac{M(P_0-m)}{P_0-m} = M$$
+  $$\text{so (lots of cancellations)}$$
+  $$P(t) = m$$
+  $$\text{When }P(t) = M, \lim_{t \rarr \infty}P(t) = \frac{M(m-m) + m(M-m)e^{-k(M-m)(t-t_0)}}{m-m+(M-m)e^{-k(M-m)(t-t_0)}}$$
+  $$\text{so (lots of cancellations)}$$
+  $$P(t) = m$$
 - ## 5.
   $$P(t)\geq \frac{m+M}{2}, t \geq t_0$$
   
