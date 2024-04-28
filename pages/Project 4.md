@@ -46,8 +46,9 @@ P(t_0) = P_0
   $$\text{so}$$
   $$\ln|\frac{P-m}{M-P}|=(M-m)kt+\ln|\frac{P_0-m}{M-P_0}|-(M-m)kt_0$$
   $$\text{or}$$
-  $$\frac{P-m}{M-P}=\frac{P_0-m}{M-P_0}e^{k(M-m)(t-t_0)}$$
-  $$\text{(solve for P, let the right side equal A(t))}$$
+  $$\frac{P-m}{M-P}=\frac{P_0-m}{M-P_0}e^{k(M-m)(t-t_0)}=A(t)$$
+  $$\text{or}$$
+  $$P+P$$
 - ## 4. 
   $$P(t) = \frac{M(P_0-m) + m(M-B)e^{-k(M-m)(t-t_0)}}{P_0-m+(M-P_0)e^{-k(M-m)(t-t_0)}}$$
   
