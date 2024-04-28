@@ -67,6 +67,11 @@ P(t_0) = P_0
   $$P(t) = \frac{M(P_0-m) + m(M-P_0)e^{-k(M-m)(t-t_0)}}{P_0-m+(M-P_0)e^{-k(M-m)(t-t_0)}}$$
   $$\text{so}$$
   $$\lim_{t \rarr \infty}P(t) = \frac{M(P_0-m)}{P_0-m} = M$$
+  
+  Verifying our equilibrium solutions:
+  $$P(t) = \frac{M(P_0-m) + m(M-P_0)e^{-k(M-m)(t-t_0)}}{P_0-m+(M-P_0)e^{-k(M-m)(t-t_0)}}$$
+  $$\text{so}$$
+  $$P(t) = \frac{M(P_0-m)}{P_0-m} = M$$
 - ## 5.
   $$P(t)\geq \frac{m+M}{2}, t \geq t_0$$
   
