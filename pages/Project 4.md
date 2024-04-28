@@ -50,7 +50,7 @@ P(t_0) = P_0
   $$\text{or}$$
   $$P+PA(t)=m+MA(t)$$
   $$\text{or}$$
-  $$P=\frac{m+MA(t)}{1+A(t)}=\frac{m+M()}$$
+  $$P=\frac{m+MA(t)}{1+A(t)}=\frac{m+M(\frac{P_0-m}{M-P_0}e^{k(M-m)(t-t_0)})}{1+\frac{P_0-m}{M-P_0}e^{k(M-m)(t-t_0)}}$$
 - ## 4. 
   $$P(t) = \frac{M(P_0-m) + m(M-B)e^{-k(M-m)(t-t_0)}}{P_0-m+(M-P_0)e^{-k(M-m)(t-t_0)}}$$
   
