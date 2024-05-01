@@ -100,4 +100,4 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   **For a region that *does* include (0,0)**:
   $$=\int\int_{D_\rho}(\frac{dQ}{dx}+\frac{dP}{dy})dA + (\int\int_{D_2}(\frac{dQ}{dx}+\frac{dP}{dy})dA = 0)$$
   $$\text{so}$$
-  $$\lim_{\rho \rarr 0^{+}}\oint^\uarr\frac{-ydx + xdy}{x^2+y^2}dA = \int_0^{}$$
+  $$\lim_{\rho \rarr 0^{+}}\oint^\uarr\frac{-ydx + xdy}{x^2+y^2}dA = \int_0^{2\pi}\frac{-\rho\sin(t)(-\rho\sin(t)dt$$
