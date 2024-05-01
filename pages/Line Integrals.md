@@ -75,3 +75,6 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   *(he might have gotten this one wrong, use other examples!!)*
 - ### Example 11.4.E2
   Evaluate $$I = \oint^\uarr x^2ydx+x^4dy$$ for $$C$$ the boundary of the rectangle with vertices $$(0,0,(1,0),(1,4),(0,4)$$, traversed with positive orientation in this order.
+  
+  We can use Green's Theorem to reduce this to a double integral.
+  $$I = \int\int_D(\frac{dQ}{}$$
