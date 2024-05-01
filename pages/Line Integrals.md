@@ -85,4 +85,6 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   $$\text{or}$$
   $$=\frac{8}{3}$$
 - ### Example 11.4.E3
-  Suppose that $$C$$ is a simple piecewise smooth curve, and let $$D$$ denote then interior of the positevly oriented curve. Show that the integral $$\$$
+  Suppose that $$C$$ is a simple piecewise smooth curve, and let $$D$$ denote then interior of the positevly oriented curve. Show that the integral...
+  $$\oint^\uarr_C\frac{-ydx+xdy}{x^2+y^2}$$
+  ...is zero if $$D$$ does not contain the origin $$(0,0)$$ and is $$2\pi$$ if it does.
