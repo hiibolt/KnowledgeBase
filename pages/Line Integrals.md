@@ -23,6 +23,7 @@ $$W=\int_CPdx+Qdy+Rdz$$
 **FTC for Line Integrals**:
 $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
 	- ## Green's Theorem
+	  id:: 66324325-c13a-47b6-92fe-4e5215b7077b
 	  $$\oint^\uarr_CPdx+Qdy = \int\int_D(\frac{dQ}{dx}+\frac{dP}{dy})dA$$
 - ## Example 11.1.E1
   Evaluate $$\int_C P(x,y)dx, \int_C Q(x,y)dy$$ and $$\int_C(P(x,y) + Q(x,y))dy$$ for $$P(x,y) = x+2y$$ and $$Q(x,y) = 2x^2 - 5xy$$ for $$C(t) = (t,t^2)$$ with $$0\leq t\leq 1$$
@@ -78,7 +79,7 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
 - ### Example 11.4.E2
   Evaluate $$I = \oint^\uarr x^2ydx+x^4dy$$ for $$C$$ the boundary of the rectangle with vertices $$(0,0,(1,0),(1,4),(0,4)$$, traversed with positive orientation in this order.
   
-  We can use Green's Theorem to reduce this to a double integral.
+  We can use ((66324325-c13a-47b6-92fe-4e5215b7077b)) to reduce this to a double integral.
   $$I = \int\int_D(\frac{dQ}{dx} - \frac{dP}{dy})dA$$
   $$\text{or}$$
   $$=\int_0^1\int_0^4(4x^3-x^2)dydx$$
@@ -91,4 +92,6 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   $$\oint^\uarr_C\frac{-ydx+xdy}{x^2+y^2}$$
   ...is zero if $$D$$ does not contain the origin $$(0,0)$$ and is $$2\pi$$ if it does.
   
-  We'll apply Green's Threorem
+  We'll apply ((66324325-c13a-47b6-92fe-4e5215b7077b)).
+  
+  $$=\frac{y^2-x^2}{(x^2+y^2)^2}$$
