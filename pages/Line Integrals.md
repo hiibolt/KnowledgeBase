@@ -66,4 +66,4 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   Calculate the area bounded by the astroidal ellipse, which is enclosed by $$C(t)= \langle a\cos(t)^3, b\sin(t)^3\rangle$$, for $$0 \leq t \leq 2\pi$$.
   
   $$A =\frac{1}{2}\oint^\uarr xdy - ydx$$
-  $$=\frac{1}{2}\int_0^{2\pi} (a\cos^]$$
+  $$=\frac{1}{2}\int_0^{2\pi} (a\cos^3(t))(3b\sin^2(t)\cos(t)dt-\frac{1}{2}\int_0^{2\pi}(b\sin^3(t)$$
