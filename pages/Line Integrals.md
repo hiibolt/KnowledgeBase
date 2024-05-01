@@ -62,3 +62,5 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   
   Ignoring that and using our rule:
   $$=f(\sqrt{3},0)-f(0,1)=(\sqrt{3})^2-(1)^3=2$$
+- ### Example 11.4.E1
+  Calculate the area
