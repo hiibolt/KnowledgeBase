@@ -102,4 +102,6 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   $$\text{so}$$
   $$\lim_{\rho \rarr 0^{+}}\oint^\uarr\frac{-ydx + xdy}{x^2+y^2}dA = \int_0^{2\pi}\frac{-\rho\sin(t)(-\rho\sin(t)dt+\rho\cos(t)(\rho\cos(t)dt}{(\rho\cos(t))^2+(\rho\sin(t))^2}$$
   $$\text{or}$$
-  $$\int_0^{2\pi}$$
+  $$=\int_0^{2\pi}(\frac{\rho^2}{\rho^2})(\frac{\sin^2(t)\cos^2(t)}{\sin^2(t)\cos^2(t)})dt$$
+  $$\text{or}$$
+  $$\int_0^{2\pi}dt=$$
