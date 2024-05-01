@@ -77,4 +77,7 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   Evaluate $$I = \oint^\uarr x^2ydx+x^4dy$$ for $$C$$ the boundary of the rectangle with vertices $$(0,0,(1,0),(1,4),(0,4)$$, traversed with positive orientation in this order.
   
   We can use Green's Theorem to reduce this to a double integral.
-  $$I = \int\int_D(\frac{dQ}{}$$
+  $$I = \int\int_D(\frac{dQ}{dx} - \frac{dP}{dy})dA$$
+  $$=\int_0^1\int_0^4(4x^3-x^2)dydx$$
+  $$=\int_0^4dy\int_0^1(4x^3 - x^2)dx$$
+  $$$$
