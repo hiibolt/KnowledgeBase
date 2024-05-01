@@ -67,4 +67,7 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   
   $$A =\frac{1}{2}\oint^\uarr xdy - ydx$$
   $$=\frac{1}{2}\int_0^{2\pi} (a\cos^3(t))(3b\sin^2(t)\cos(t)dt-\frac{1}{2}\int_0^{2\pi}(b\sin^3(t)(3a\cos^2(t))(-\sin(t))dt$$
-  $$=\$$
+  $$=\frac{3ab}{8}\int_0^{2\pi}\frac{1-\cos(4t)}{2}dt$$
+  $$$$
+  
+  *(he might have gotten this one wrong, use other examples!!)*
