@@ -94,4 +94,7 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   
   We'll apply ((66324325-c13a-47b6-92fe-4e5215b7077b)).
   
+  **For a region that doesn't include (0,0)**:
   $$=\frac{y^2-x^2}{(x^2+y^2)^2}-\frac{y^2-x^2}{(x^2+y^2)^2}$$
+  
+  **
