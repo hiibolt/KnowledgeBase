@@ -78,6 +78,9 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   
   We can use Green's Theorem to reduce this to a double integral.
   $$I = \int\int_D(\frac{dQ}{dx} - \frac{dP}{dy})dA$$
+  $$\text{or}$$
   $$=\int_0^1\int_0^4(4x^3-x^2)dydx$$
+  $$\text{or}$$
   $$=\int_0^4dy\int_0^1(4x^3 - x^2)dx$$
-  $$$$
+  $$\text{or}$$
+  $$=\frac{8}{3}$$
