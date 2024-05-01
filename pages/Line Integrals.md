@@ -85,3 +85,4 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
   $$\text{or}$$
   $$=\frac{8}{3}$$
 - ### Example 11.4.E3
+  Suppose that $$C$$ is a simple piecewise smooth curve, and let $$D$$ denote then interior of the positevly oriented curve. Show that the integral $$\$$
