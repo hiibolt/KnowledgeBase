@@ -26,7 +26,7 @@ $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
 	  id:: 66324325-c13a-47b6-92fe-4e5215b7077b
 	  $$\oint^\uarr_CPdx+Qdy = \int\int_D(\frac{dQ}{dx}+\frac{dP}{dy})dA$$
 - ## Example 11.1.E1
-  Evaluate $$\int_C P(x,y)dx, \int_C Q(x,y)dy$$ and $$\int_CP(x,y) + Q(x,y))dy$$ for $$P(x,y) = x+2y$$ and $$Q(x,y) = 2x^2 - 5xy$$ for $$C(t) = (t,t^2)$$ with $$0\leq t\leq 1$$
+  Evaluate $$\int_C P(x,y)dx, \int_C Q(x,y)dy$$ and $$\int_CP(x,y)dx + Q(x,y)dy$$ for $$P(x,y) = x+2y$$ and $$Q(x,y) = 2x^2 - 5xy$$ for $$C(t) = (t,t^2)$$ with $$0\leq t\leq 1$$
   
   $$\int_CPdx = \int_0^1(t+2t^2)(1)dt=\frac{7}{6}$$
   $$\int_CQdy = \int_0^1((2t^2-5t(t^2))(2t))dt=-1$$
