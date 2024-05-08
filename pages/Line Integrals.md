@@ -24,7 +24,7 @@ $$W=\int_CPdx+Qdy+Rdz$$
 $$\int_C\nabla f\cdot dr=f(r(b))-f(r(a))$$
 	- ## Green's Theorem
 	  id:: 66324325-c13a-47b6-92fe-4e5215b7077b
-	  $$\oint^\uarr_CPdx+Qdy = \int\int_D(\frac{dQ}{dx}+\frac{dP}{dy})dA$$
+	  $$\oint^\uarr_CPdx+Qdy = \int\int_D(\frac{dQ}{dx}-\frac{dP}{dy})dA$$
 - ## Example 11.1.E1
   Evaluate $$\int_C P(x,y)dx, \int_C Q(x,y)dy$$ and $$\int_CP(x,y)dx + Q(x,y)dy$$ for $$P(x,y) = x+2y$$ and $$Q(x,y) = 2x^2 - 5xy$$ for $$C(t) = (t,t^2)$$ with $$0\leq t\leq 1$$
   
