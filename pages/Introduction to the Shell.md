@@ -27,5 +27,10 @@
 - ## Program Arguments
   Full `main` function prototype:
   ```cpp
-  int main(int argc, char* argv[] 
+  int main ( int argc, char* argv[] ) {
+       ...
+  }
   ```
+  
+  `argc` indicates the number of arguments.
+  `argv` is an array of passed arguments. `argv[0]` is technically the first argument,
