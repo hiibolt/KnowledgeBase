@@ -1,9 +1,9 @@
 ## Terminology
-	- ## `stdin`
+	- ### `stdin`
 	  Standard input stream
-	- ## `stdout`
+	- ### `stdout`
 	  Standard output stream
-	- ## `stderr`
+	- ### `stderr`
 	  Standard error stream
 - ## Simple Commands
 	- ### `ls`
@@ -13,3 +13,8 @@
 	- ### `clear`
 	  Clears the shell screen
 	- ### `date`
+	  Prints the current date and time
+	- ### `passwd`
+	  Allows you to change your password
+	- ### `exit`
+	  Closes the current SSH session (also applies to other contexts)
