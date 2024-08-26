@@ -25,12 +25,13 @@
 	- ### `exit`
 	  Closes the current SSH session (also applies to other contexts)
 - ## Program Arguments
-  Full `main` function prototype:
-  ```cpp
-  int main ( int argc, char* argv[] ) {
-       ...
-  }
-  ```
-  
-  `argc` indicates the number of arguments.
-  `argv` is an array of passed arguments. `argv[0]` is technically the first argument,
+	- #### Full `main` function prototype:
+	  ```cpp
+	  int main ( int argc, char* argv[] ) {
+	       ...
+	  }
+	  ```
+	- #### Arguments
+	  * `argc` indicates the number of arguments.
+	  * `argv` is an array of the passed arguments.
+	  * `argv[0]` is technically the first argument - the command name.
