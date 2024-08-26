@@ -29,6 +29,13 @@
 	  
 	  Arguments:
 	  * `-r` - Reverses the order of output.
+	- ### `more`
+	  Shows the content of a file, page by page
+	- ### `logout`
+	  Logs you out of the shell
+	- ### `who`
+	  Shows currently logged in users
+	- ### ``
 - ## Program Arguments
 	- #### Full `main` function prototype:
 	  ```cpp
