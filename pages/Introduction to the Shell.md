@@ -6,7 +6,7 @@
 	- ### `stderr`
 	  Standard error stream
 	- ### Dotfile
-	  Directories or files prefaced with a `.`.
+	  Directories or files prefaced with a period (`.<file_name>`).
 - ## Simple Commands
 	- ### `ls`
 	  Lists the contents of the current directory
