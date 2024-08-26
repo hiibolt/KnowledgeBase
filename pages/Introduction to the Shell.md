@@ -8,6 +8,10 @@
 - ## Simple Commands
 	- ### `ls`
 	  Lists the contents of the current directory
+	  
+	  **Arguments**:
+	  * `-a` - Lists all contents
+	  * `-l` - Adds additional information to each entry
 	- ### `pwd`
 	  Prints the path of the current working directory
 	- ### `clear`
