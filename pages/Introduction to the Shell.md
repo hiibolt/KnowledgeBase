@@ -5,6 +5,8 @@
 	  Standard output stream
 	- ### `stderr`
 	  Standard error stream
+	- ### Dotfile
+	  Directories or files prefaced with a `.`.
 - ## Simple Commands
 	- ### `ls`
 	  Lists the contents of the current directory
