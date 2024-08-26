@@ -1,7 +1,8 @@
 ### Refreshers
 	- #### Spaces of Numbers
-	  $$\N \in \Z \in Q \in \R \in C$$
+	  $$\N \subset \Z \in Q \in \R \in C$$
 	  
-	  $+$ and $*$ work fine in all spaces.
-	  $-$ does not always work in $\N$
-	  $/$ $$
+	  **Notable Operations**:
+	  * $+$ and $*$ work fine in all spaces.
+	  * $-$ does not always work in $\N$
+	  * $/$ does not work when dividing by zero
