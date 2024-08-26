@@ -1,3 +1,3 @@
 ### Refreshers
 	- #### Spaces of Numbers
-	  $$\bbn \union \bbz \union \bbq \union \\$$
+	  $$\N \in \Z \in Q \in \R \in C$$
