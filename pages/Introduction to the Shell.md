@@ -25,7 +25,7 @@
 	- ### `exit`
 	  Closes the current SSH session (also applies to other contexts)
 	- ### `sort`
-	  Sorts the provided arguments in alphabetical order.
+	  Sorts the provided arguments in alphabetical order
 	  
 	  Arguments:
 	  * `-r` - Reverses the order of output.
@@ -41,6 +41,9 @@
 	  Prints the current OS information
 	- ### `man`
 	  Prints the manual for a command, if it exists
+	  
+	  Arguments:
+	  * `-s` - Specifies the section to search for the manual in
 - ## Program Arguments
 	- #### Full `main` function prototype:
 	  ```cpp
