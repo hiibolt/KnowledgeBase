@@ -24,3 +24,8 @@
 	  Allows you to change your password
 	- ### `exit`
 	  Closes the current SSH session (also applies to other contexts)
+- ## Program Arguments
+  Full `main` function prototype:
+  ```cpp
+  int main(int argc, char* argv[] 
+  ```
