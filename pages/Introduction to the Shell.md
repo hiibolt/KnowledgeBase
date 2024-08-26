@@ -35,7 +35,12 @@
 	  Logs you out of the shell
 	- ### `who`
 	  Shows currently logged in users
-	- ### ``
+	- ### `script`
+	  Makes a record of a terminal session
+	- ### `uname`
+	  Prints the current OS information
+	- ### `man`
+	  Prints the manual for a command, if it exists
 - ## Program Arguments
 	- #### Full `main` function prototype:
 	  ```cpp
