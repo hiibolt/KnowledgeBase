@@ -24,6 +24,11 @@
 	  Allows you to change your password
 	- ### `exit`
 	  Closes the current SSH session (also applies to other contexts)
+	- ### `sort`
+	  Sorts the provided arguments in alphabetical order.
+	  
+	  Arguments:
+	  * `-r` - Reverses the order of output.
 - ## Program Arguments
 	- #### Full `main` function prototype:
 	  ```cpp
