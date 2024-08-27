@@ -83,7 +83,7 @@
 			  $$2x+3\cdot4=5$$
 			  $$\text{or}$$
 			  $$x=\frac{-7}{2}$$
-			- #### E2. Example Problem
+			- #### E2. Example Problem (Continues 1)
 			  \begin{cases}
 			  
 			  \end{cases}
@@ -93,11 +93,20 @@
 			  0 && 1 \\
 			  2 && 3
 			  \end{bmatrix}
+			  |
 			  \begin{bmatrix}
-			  x \\
-			  y
+			  4 \\
+			  5
 			  \end{bmatrix}
-			  =
+			  \end{equation}
+			  
+			  *Swapping*:
+			  \begin{equation}
+			  \begin{bmatrix}
+			  \not && 1 \\
+			  2 && 3
+			  \end{bmatrix}
+			  |
 			  \begin{bmatrix}
 			  4 \\
 			  5
