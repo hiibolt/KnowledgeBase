@@ -144,5 +144,15 @@
 			  
 			  $$\text{or}$$
 			  
-			  $$x=\frac52-6$$
+			  \begin{equation}
+			  \begin{bmatrix}
+			  1 && 0\\
+			  \not{0} && 1
+			  \end{bmatrix}
+			  |
+			  \begin{bmatrix}
+			  5/2 - 6 or \frac{-7}{2} \\
+			  4
+			  \end{bmatrix}
+			  \end{equation}
 -
