@@ -38,5 +38,5 @@
 		  $$L_{II}\left(x,x^{\prime}\right)=ax+a^{\prime}x^{\prime}$$
 		  * Vector Field
 		  $$L_{III}:\R^2->\R^2$$
-		  $$L_{III}\left(x,x^{\prime}\right)=\left(\right)$$
+		  $$L_{III}\left(x,x^{\prime}\right)=\left(ax+bx^{\prime},cx+\right)$$
 -
