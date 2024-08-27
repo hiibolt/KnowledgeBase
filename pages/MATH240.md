@@ -22,4 +22,6 @@
 			- #### Multiplicity
 			  $$a\left(x\cdot x^{^{\prime}}\right)=\left(ax\right)x^{^{\prime}}=x\left(ax^{^{\prime}}\right)$$
 			  $$\text{or...}$$
-			  $$L_{a}\left(x\cdot x^{\prime}\right)=xL_{a}$$
+			  $$L_{a}\left(x\cdot x^{\prime}\right)=xL_{a}\left(x^{\prime}\right)$$
+			  $L$ *is still linear!*
+-
