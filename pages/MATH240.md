@@ -1,7 +1,4 @@
-- Imports
-  \usepackage{bbold}
-  \bbold{C}
-- ### Refreshers
+### Refreshers
 	- #### Spaces of Numbers
 	  
 	  $$\N \subset \Z \subset Q \subset \R \subset C$$
