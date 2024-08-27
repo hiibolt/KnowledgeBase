@@ -100,7 +100,8 @@
 			  \end{bmatrix}
 			  \end{equation}
 			  
-			  *Swapping*:
+			  $$\text{swapping...}$$
+			  
 			  \begin{equation}
 			  \begin{bmatrix}
 			  2 && 3\\
@@ -112,7 +113,9 @@
 			  4
 			  \end{bmatrix}
 			  \end{equation}
+			  
 			  $$\text{or}$$
+			  
 			  \begin{equation}
 			  \begin{bmatrix}
 			  1 && 3/2\\
