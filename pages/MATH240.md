@@ -21,3 +21,5 @@
 			  $$L_{a}\left(x+x^{^{\prime}}\right)=L_{a}\left(x\right)+L_{a}\left(x^{^{\prime}}\right)$$
 			- #### Multiplicity
 			  $$a\left(x\cdot x^{^{\prime}}\right)=\left(ax\right)x^{^{\prime}}=x\left(ax^{^{\prime}}\right)$$
+			  $$\text{or...}$$
+			  $$L_{a}\left(x\cdot x^{\prime}\right)=xL_{a}$$
