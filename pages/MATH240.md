@@ -38,5 +38,6 @@
 		  $$L_{II}\left(x,x^{\prime}\right)=ax+a^{\prime}x^{\prime}$$
 		  * Vector Field
 		  $$L_{III}:\R^2->\R^2$$
-		  $$L_{III}\left(x,x^{\prime}\right)=\left(ax+bx^{\prime},cx+\right)$$
+		  $$L_{III}\left(x,x^{\prime}\right)=\left(ax+bx^{\prime},cx+\mathrm{d}x^{\prime}\right)$$
+		  *Again, these are the only linear maps.*
 -
