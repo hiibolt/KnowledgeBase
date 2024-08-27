@@ -126,9 +126,9 @@
 			  5/2 \\
 			  4
 			  \end{bmatrix}
-			  \end{equation}$$
+			  \end{equation}
 			  
-			  \text{or}$$
+			  $$\text{or}$$
 			  
 			  \begin{equation}
 			  \begin{bmatrix}
@@ -141,4 +141,8 @@
 			  -6
 			  \end{bmatrix}
 			  \end{equation}
+			  
+			  $$\text{or}$$
+			  
+			  $$x=$$
 -
