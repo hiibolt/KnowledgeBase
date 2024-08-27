@@ -77,4 +77,9 @@
 			  5
 			  \end{bmatrix}
 			  \end{equation}
+			  
+			  **Solving**:
+			  We know that $y=4$, so then we can do the following:
+			  $$2x+3\cdot4=5$$
+			  $$\text{or}$$
 -
