@@ -1,4 +1,5 @@
-- \usepackage{bbold}
+- Imports
+  \usepackage{bbold}
 - ### Refreshers
 	- #### Spaces of Numbers
 	  collapsed:: true
