@@ -100,7 +100,7 @@
 			  \end{bmatrix}
 			  \end{equation}
 			  
-			  $$\text{swapping...}$$
+			  $$\text{swapping}$$
 			  
 			  \begin{equation}
 			  \begin{bmatrix}
@@ -125,6 +125,20 @@
 			  \begin{bmatrix}
 			  5/2 \\
 			  4
+			  \end{bmatrix}
+			  \end{equation}$$
+			  
+			  \text{or}$$
+			  
+			  \begin{equation}
+			  \begin{bmatrix}
+			  1 && 3/2\\
+			  \not{0} && -3/2
+			  \end{bmatrix}
+			  |
+			  \begin{bmatrix}
+			  5/2 \\
+			  -6
 			  \end{bmatrix}
 			  \end{equation}
 -
