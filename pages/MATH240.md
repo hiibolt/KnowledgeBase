@@ -61,4 +61,20 @@
 			  y=4 \\
 			  2x+3y=5
 			  \end{cases}
+			  
+			  \begin{equation}
+			  \begin{bmatrix}
+			  0 && 1 \\
+			  2 && 3
+			  \end{bmatrix}
+			  \begin{bmatrix}
+			  x \\
+			  y
+			  \end{bmatrix}
+			  =
+			  \begin{bmatrix}
+			  4 \\
+			  5
+			  \end{bmatrix}
+			  \end{equation}
 -
