@@ -30,6 +30,8 @@
 		  **Options**:
 		  * Parameterized curve in the plane
 		  $$L_{I}:\mathbb{R}\to\mathbb{R}^2$$
+		  $$L_{I}\left(x\right)=\left(ax,a^{\prime}x\right)$$
+		  $$\text{or}$$
 		  * Scalar Field
 		  $$L_{II}:\R^2->\R$$
 		  * Vector Field
