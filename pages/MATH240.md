@@ -25,5 +25,9 @@
 			  $$L_{a}\left(x\cdot x^{\prime}\right)=xL_{a}\left(x^{\prime}\right)$$
 			  $L$ *is still linear!*
 		- #### E2. Two-Dimensional
-		  We will swap $\mathbb{R}$
+		  We will swap $\mathbb{R}$ for $\mathbb{R}^2$, at least somewhere!
+		  
+		  **Options**:
+		  $$L_{I}:\mathbb{R}\to\mathbb{R}^2$$
+		  $$L_{II}:;$$
 -
