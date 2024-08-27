@@ -8,3 +8,7 @@
 		  * $/$ does not work when dividing by zero
 		- #### Notable Facts
 		  A **field** (Q, $\R$, and $C$) guarantee a conjugate of every set element.
+		- #### Example Equation
+		  $$ax=b$$
+		  
+		  In this case, $ax$ is a **linear expression** in $x$.
