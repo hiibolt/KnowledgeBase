@@ -32,6 +32,6 @@
 		  $$L_{I}:\mathbb{R}\to\mathbb{R}^2$$
 		  * Scalar Field
 		  $$L_{II}:\R^2->\R$$
-		  $$L_{III}:\R^2->\R^2$$ 
-		  (vector field)
+		  * Vector Field
+		  $$L_{III}:\R^2->\R^2$$
 -
