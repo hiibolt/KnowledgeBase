@@ -28,7 +28,10 @@
 		  We will swap $\mathbb{R}$ for $\mathbb{R}^2$, at least somewhere!
 		  
 		  **Options**:
-		  $$L_{I}:\mathbb{R}\to\mathbb{R}^2$$ (paramaterized curve in the plane)
-		  $$L_{II}:\R^2->\R$$ (scalar field)
-		  $$L_{III}:\R^2->\R^2$$
+		  * Parameterized curve in the plane
+		  $$L_{I}:\mathbb{R}\to\mathbb{R}^2$$
+		  * Scalar Field
+		  $$L_{II}:\R^2->\R$$
+		  $$L_{III}:\R^2->\R^2$$ 
+		  (vector field)
 -
