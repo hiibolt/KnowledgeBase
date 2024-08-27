@@ -35,7 +35,8 @@
 		  $$=\left(a,a^{\prime}\right)x$$
 		  * Scalar Field
 		  $$L_{II}:\R^2->\R$$
-		  $$L_{II}\left(x,x^{\prime}\right)=$$
+		  $$L_{II}\left(x,x^{\prime}\right)=ax+a^{\prime}x^{\prime}$$
 		  * Vector Field
 		  $$L_{III}:\R^2->\R^2$$
+		  $$L_{III}\left(x,x^{\prime}\right)=\left(\right)$$
 -
