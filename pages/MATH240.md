@@ -41,7 +41,14 @@
 		  $$L_{III}\left(x,x^{\prime}\right)=\left(ax+bx^{\prime},cx+\mathrm{d}x^{\prime}\right)$$
 		  *Again, these are the only linear maps.*
 		- ### Improving the Syntax
-		  \begin{matrix}
-		  h | a | b
-		  \end{matrix}
+		  \begin{equation}
+		  \begin{bmatrix}
+		  a & b \\
+		  c & d
+		  \end{bmatrix}
+		  \begin{bmatrix}
+		  x_1 \\
+		  x_2
+		  \end{bmatrix}
+		  \end{equation}
 -
