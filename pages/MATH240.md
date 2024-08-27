@@ -112,4 +112,16 @@
 			  4
 			  \end{bmatrix}
 			  \end{equation}
+			  $$\text{or}$$
+			  \begin{equation}
+			  \begin{bmatrix}
+			  1 && 3/2\\
+			  \not{0} && 1
+			  \end{bmatrix}
+			  |
+			  \begin{bmatrix}
+			  5/2 \\
+			  4
+			  \end{bmatrix}
+			  \end{equation}
 -
