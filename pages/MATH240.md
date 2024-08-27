@@ -151,7 +151,7 @@
 			  \end{bmatrix}
 			  |
 			  \begin{bmatrix}
-			  5/2 - 6 or \frac{-7}{2} \\
+			  (5/2 - 6)\text{ or }\frac{-7}{2} \\
 			  4
 			  \end{bmatrix}
 			  \end{equation}
