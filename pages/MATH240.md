@@ -90,7 +90,7 @@
 			  
 			  \begin{equation}
 			  \begin{bmatrix}
-			  0 && 1 \\
+			  \not{0} && 1 \\
 			  2 && 3
 			  \end{bmatrix}
 			  |
@@ -103,13 +103,13 @@
 			  *Swapping*:
 			  \begin{equation}
 			  \begin{bmatrix}
-			  \not && 1 \\
-			  2 && 3
+			  2 && 3\\
+			  \not{0} && 1
 			  \end{bmatrix}
 			  |
 			  \begin{bmatrix}
-			  4 \\
-			  5
+			  5 \\
+			  4
 			  \end{bmatrix}
 			  \end{equation}
 -
