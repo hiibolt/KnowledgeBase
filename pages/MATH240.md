@@ -82,4 +82,25 @@
 			  We know that $y=4$, so then we can do the following:
 			  $$2x+3\cdot4=5$$
 			  $$\text{or}$$
+			  $$x=\frac{-7}{2}$$
+			- #### E2. Example Problem
+			  \begin{cases}
+			  
+			  \end{cases}
+			  
+			  \begin{equation}
+			  \begin{bmatrix}
+			  0 && 1 \\
+			  2 && 3
+			  \end{bmatrix}
+			  \begin{bmatrix}
+			  x \\
+			  y
+			  \end{bmatrix}
+			  =
+			  \begin{bmatrix}
+			  4 \\
+			  5
+			  \end{bmatrix}
+			  \end{equation}
 -
