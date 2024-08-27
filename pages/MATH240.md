@@ -15,4 +15,4 @@
 		  
 		  Consider that by the distributive law, this could also be $a\left(x+x^{^{\prime}}\right)$, or, $ax+ax^{^{\prime}}$.
 		  
-		  This **linear expression** can be notated as $$$$
+		  This **linear expression** can be notated as L:\mathbb{R}\to\mathbb{R}$
