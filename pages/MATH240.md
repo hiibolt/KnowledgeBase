@@ -57,4 +57,8 @@
 		  \end{bmatrix}
 		  \end{equation}
 			- #### E1. Example Problem
+			  \begin{cases}
+			  y=4 \\
+			  2x+3y=5
+			  \end{cases}
 -
