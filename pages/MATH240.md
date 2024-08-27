@@ -1,6 +1,7 @@
 ### Refreshers
 	- #### Spaces of Numbers
-	  $$\N \subset \Z \subset Q \subset \R \subset C$$
+	  collapsed:: true
+	  $$\bboldn \subset \Z \subset Q \subset \R \subset C$$
 		- #### Notable Operations
 		  * $+$ and $*$ work fine in all spaces.
 		  * $-$ does not always work in $\N$
