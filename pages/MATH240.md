@@ -23,7 +23,7 @@
 			  $$a\left(x\cdot x^{^{\prime}}\right)=\left(ax\right)x^{^{\prime}}=x\left(ax^{^{\prime}}\right)$$
 			  $$\text{or...}$$
 			  $$L_{a}\left(x\cdot x^{\prime}\right)=xL_{a}\left(x^{\prime}\right)$$
-			  $L$ *is still linear!*
+			  $L$ *is still linear! On top of this, these are the only linear maps.*
 		- #### E2. Two-Dimensional
 		  We will swap $\mathbb{R}$ for $\mathbb{R}^2$, at least somewhere!
 		  
