@@ -8,7 +8,7 @@
 		  * $/$ does not work when dividing by zero
 		- #### Notable Facts
 		  A **field** (Q, $\R$, and $C$) guarantee a conjugate of every set element.
-		- #### Example Equation
+		- #### E1. Example Equation
 		  $$ax=b$$
 		  
 		  In this case, $ax$ is a **linear expression** in $x$.
@@ -24,4 +24,6 @@
 			  $$\text{or...}$$
 			  $$L_{a}\left(x\cdot x^{\prime}\right)=xL_{a}\left(x^{\prime}\right)$$
 			  $L$ *is still linear!*
+		- #### E2. Two-Dimensional
+		  We will swap $\mathbb{R}$
 -
