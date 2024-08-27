@@ -1,10 +1,10 @@
 - Imports
   \usepackage{bbold}
+  \bbold{C}
 - ### Refreshers
 	- #### Spaces of Numbers
-	  collapsed:: true
 	  
-	  $$\N \subset \mathbbm{Z} \subset Q \subset \R \subset C$$
+	  $$\N \subset \Z \subset Q \subset \R \subset C$$
 		- #### Notable Operations
 		  * $+$ and $*$ work fine in all spaces.
 		  * $-$ does not always work in $\N$
