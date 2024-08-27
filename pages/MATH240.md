@@ -13,4 +13,6 @@
 		  
 		  In this case, $ax$ is a **linear expression** in $x$.
 		  
-		  Consider that by the distributive law, this could also be $a\left(x+x^{^{\prime}}\right)$
+		  Consider that by the distributive law, this could also be $a\left(x+x^{^{\prime}}\right)$, or, $ax+ax^{^{\prime}}$.
+		  
+		  This **linear expression** can be notated as $$$$
