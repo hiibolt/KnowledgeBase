@@ -28,6 +28,7 @@
 		  We will swap $\mathbb{R}$ for $\mathbb{R}^2$, at least somewhere!
 		  
 		  **Options**:
-		  $$L_{I}:\mathbb{R}\to\mathbb{R}^2$$
-		  $$L_{II}:;$$
+		  $$L_{I}:\mathbb{R}\to\mathbb{R}^2$$ (paramaterized curve in the plane)
+		  $$L_{II}:\R^2->\R$$ (scalar field)
+		  $$L_{III}:\R^2->\R^2$$
 -
