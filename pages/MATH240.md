@@ -180,12 +180,12 @@
 	  \begin{bmatrix}
 	  1 & 1 & 1 \\
 	  0 & -2 & 0 \\
-	  1 & -1 & -1
+	  0 & -2 & -2
 	  \end{bmatrix}
 	  |
 	  \begin{bmatrix}
 	  3 \\
 	  -1 \\
-	  \alpha
+	  \alpha - 3
 	  \end{bmatrix}
 	  \end{equation}
