@@ -199,3 +199,7 @@
 	  \end{cases}
 	  
 	  One can verify this claim by choosing an arbitrary value for $\alpha$ to plug in. Likely, it's easiest to use $\alpha = 0$.
+	  
+	  We must also verify without choosing a value, however.
+	  \begin{cases}
+	  \frac{3}{2} + \frac{\alpha}{2} + \frac{1}{2} + 1 - \frac{}
