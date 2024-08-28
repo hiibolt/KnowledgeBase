@@ -66,4 +66,6 @@
 	  * `argv` is an array of the passed arguments.
 	  * `argv[0]` is technically the first argument - the command name.
 - ## Link Types
-  A **hard link** is a link that exists only in the context of a singular drive (with the exception of RAID). These are identified via the `inode`.
+  A **hard link** is a link that exists only in the context of a singular drive (with the exception of RAID). These are identified via the `inode`. They are reple
+  
+  A **symbolic link** is a link that
