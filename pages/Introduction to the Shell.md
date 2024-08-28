@@ -20,6 +20,9 @@
 	  Clears the shell screen
 	- ### `date`
 	  Prints the current date and time
+	  
+	  Argumenst:
+	  * `+%F` - Prints in **YYYY-MM-DD** (useful for chronological sorting)
 	- ### `passwd`
 	  Allows you to change your password
 	- ### `exit`
