@@ -197,3 +197,5 @@
 	  y = \frac{1}{2} \\
 	  z = \frac{2 - \alpha}{2}
 	  \end{cases}
+	  
+	  One can verify this claim by choosing an arbitrary value for $\alpha$ to plug in. Likely, it's easiesteeeeeeeeeeeeeeeeeeeeeeeee
