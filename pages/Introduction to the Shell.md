@@ -21,7 +21,7 @@
 	- ### `date`
 	  Prints the current date and time
 	  
-	  Argumenst:
+	  Arguments:
 	  * `+%F` - Prints in **YYYY-MM-DD** (useful for chronological sorting)
 	- ### `passwd`
 	  Allows you to change your password
