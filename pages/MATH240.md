@@ -157,3 +157,12 @@
 	  x - y + z = 2 \\
 	  x - y - z = \alpha
 	  \end{cases}
+	  
+	  \begin{equation}
+	  \begin{bmatrix}
+	  1 & 1 & 1 \\
+	  1 & -1 & 1 \\
+	  1 & -1 & -1
+	  \end{bmatrix}
+	  |
+	  \begin{}
