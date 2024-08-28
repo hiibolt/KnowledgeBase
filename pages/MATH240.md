@@ -184,7 +184,7 @@
 	  \end{bmatrix}
 	  |
 	  \begin{bmatrix}
-	  \frac{5}{2}  \\
+	  \frac{3 + \alpha}{2}  \\
 	  \frac{1}{2} \\
 	  \frac{2 - \alpha}{2}
 	  \end{bmatrix}
