@@ -158,6 +158,8 @@
 	  x - y - z = \alpha
 	  \end{cases}
 	  
+	  $$\text{so}$$
+	  
 	  \begin{equation}
 	  \begin{bmatrix}
 	  1 & 1 & 1 \\
@@ -165,4 +167,25 @@
 	  1 & -1 & -1
 	  \end{bmatrix}
 	  |
-	  \begin{}
+	  \begin{bmatrix}
+	  3 \\
+	  2 \\
+	  \alpha
+	  \end{bmatrix}
+	  \end{equation}
+	  
+	  $$\text{or}$$
+	  
+	  \begin{equation}
+	  \begin{bmatrix}
+	  1 & 1 & 1 \\
+	  1 & -1 & 1 \\
+	  1 & -1 & -1
+	  \end{bmatrix}
+	  |
+	  \begin{bmatrix}
+	  3 \\
+	  2 \\
+	  \alpha
+	  \end{bmatrix}
+	  \end{equation}
