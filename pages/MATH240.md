@@ -153,5 +153,6 @@
 	  \end{equation}
 	- ### E3. Example Problem
 	  \begin{cases}
+	  x + y + z = 3 \\
 	  
 	  \end{cases}
