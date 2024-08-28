@@ -68,4 +68,4 @@
 - ## Link Types
   A **hard link** is a link that exists only in the context of a singular drive (with the exception of RAID). These are identified via the `inode`. They are replenishing, meaning if the linked-to is deleted, the linked-from will still exist.
   
-  A **symbolic link** is a link that
+  A **symbolic link** is a link that does *not* have an `inode`. Instead, it is a path
