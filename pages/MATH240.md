@@ -178,13 +178,13 @@
 	  
 	  \begin{equation}
 	  \begin{bmatrix}
-	  1 & 1 & 1 \\
+	  1 & 0 & 1 \\
 	  0 & 1 & 0 \\
 	  0 & 0 & 1
 	  \end{bmatrix}
 	  |
 	  \begin{bmatrix}
-	  3 \\
+	  \frac{5}{2} \\
 	  \frac{1}{2} \\
 	  \frac{2 - \alpha}{2}
 	  \end{bmatrix}
