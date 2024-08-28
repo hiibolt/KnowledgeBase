@@ -154,5 +154,6 @@
 	- ### E3. Example Problem
 	  \begin{cases}
 	  x + y + z = 3 \\
-	  
+	  x - y + z = 2 \\
+	  x - y - z = 
 	  \end{cases}
