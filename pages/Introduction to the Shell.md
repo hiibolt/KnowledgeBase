@@ -50,6 +50,7 @@
 	  
 	  Arguments:
 	  * `-s` - Specifies the section to search for the manual in
+	- `ln`
 - ## Program Arguments
 	- #### Full `main` function prototype:
 	  ```cpp
