@@ -151,4 +151,3 @@
 	  4
 	  \end{bmatrix}
 	  \end{equation}
--
