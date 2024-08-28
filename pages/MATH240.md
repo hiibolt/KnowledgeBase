@@ -189,3 +189,11 @@
 	  \frac{2 - \alpha}{2}
 	  \end{bmatrix}
 	  \end{equation}
+	  
+	  $$\text{so}$$
+	  
+	  \begin{cases}
+	  x = \frac{3}{2} + \frac{\alpha}{2} \\
+	  y = \frac{1}{2} \\
+	  z = \frac{2 - \alpha}{2}
+	  \end{cases}
