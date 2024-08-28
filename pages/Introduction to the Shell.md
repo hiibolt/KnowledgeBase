@@ -14,6 +14,9 @@
 	  Arguments:
 	  * `-a` - Lists all contents
 	  * `-l` - Adds additional information to each entry
+	  * `-t` - Sorts by timestamp
+	  * `-s` - Sorts by size
+	  * `-r` - Reverses the current sort order
 	- ### `pwd`
 	  Prints the path of the current working directory
 	- ### `clear`
