@@ -151,4 +151,7 @@
 	  4
 	  \end{bmatrix}
 	  \end{equation}
-	- ### ?
+	- ### E3. Example Problem
+	  \begin{cases}
+	  
+	  \end{cases}
