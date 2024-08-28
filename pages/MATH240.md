@@ -179,13 +179,13 @@
 	  \begin{equation}
 	  \begin{bmatrix}
 	  1 & 1 & 1 \\
-	  1 & -1 & 1 \\
+	  0 & -2 & 0 \\
 	  1 & -1 & -1
 	  \end{bmatrix}
 	  |
 	  \begin{bmatrix}
 	  3 \\
-	  2 \\
+	  -1 \\
 	  \alpha
 	  \end{bmatrix}
 	  \end{equation}
