@@ -84,10 +84,6 @@
 	  $$\text{or}$$
 	  $$x=\frac{-7}{2}$$
 	- #### E2. Example Problem (Continues 1)
-	  \begin{cases}
-	  
-	  \end{cases}
-	  
 	  \begin{equation}
 	  \begin{bmatrix}
 	  \not{0} && 1 \\
