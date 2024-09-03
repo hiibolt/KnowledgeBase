@@ -312,3 +312,9 @@
 		  x + \frac{21}{11}z = \frac{18}{11}\\
 		  y + \frac{15}{11}z = \frac{-17}{11}
 		  \end{cases}
+		  
+		  $$\text{or}$$
+		  \begin{cases}
+		  x = \frac{18}{11} - \frac{21}{11}z \\
+		  y = \frac{-17}{11} - \frac{15}{11}z
+		  \end{cases}
