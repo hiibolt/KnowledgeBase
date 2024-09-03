@@ -209,4 +209,12 @@
 	- ## Inconsistencies in GE
 		- #### E1. Example Problem
 		  \begin{cases}
-		  x + 2y
+		  x + 2y  + 6z = 5 \\
+		  -x + y - 2z = 3 \\
+		  x - 4y - 2z = 1
+		  \end{cases}
+		  
+		  \begin{bmatrix}
+		  1 & 2 & 6 \\
+		  -1 & 1 & -2 \\
+		  1 & -4 & -2
