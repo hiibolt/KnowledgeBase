@@ -284,10 +284,10 @@
 		  \begin{bmatrix}
 		  1 & 3 & 6 \\
 		  0 & -11 & -15 \\
-		  0 & 0 & 12 
+		  0 & 0 & 0 
 		  \end{bmatrix} = \begin{bmatrix}
 		  -3 \\
 		  17 \\
-		  -6
+		  0
 		  \end{bmatrix}
 		  \end{equation}
