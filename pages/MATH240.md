@@ -74,10 +74,18 @@
 		  $$\text{or}$$
 		  \begin{equation}
 		  \begin{bmatrix}
-		  1 
+		  a_1 & a_2 
 		  \end{bmatrix} = \begin{bmatrix}
-		  a \\
-		  b - \frac{a_2a}{a_1}
+		  a
+		  \end{bmatrix}
+		  \end{equation}
+		  
+		  $$\text{or}$$
+		  \begin{equation}
+		  \begin{bmatrix}
+		  1 & \frac{a_2}{a_1} 
+		  \end{bmatrix} = \begin{bmatrix}
+		  \frac{a}{a_1}
 		  \end{bmatrix}
 		  \end{equation}
 		- ### Vector Field
