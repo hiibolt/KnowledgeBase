@@ -297,11 +297,11 @@
 		  $$\text{or}$$
 		  \begin{equation}
 		  \begin{bmatrix}
-		  1 & 0 & 6 - \frac{45}{11} \\
+		  1 & 0 & \frac{21}{11} \\
 		  0 & 1 & \frac{15}{11} \\
 		  0 & 0 & 0 
 		  \end{bmatrix} = \begin{bmatrix}
-		  -3 \\
+		  \frac{18}{11} \\
 		  \frac{-17}{11} \\
 		  0
 		  \end{bmatrix}
