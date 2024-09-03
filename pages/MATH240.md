@@ -40,7 +40,6 @@
 		  \end{cases}
 		  
 		  $$\text{or}$$
-		  
 		  \begin{equation}
 		  \begin{bmatrix}
 		  a_1 \\
@@ -49,7 +48,20 @@
 		  a \\
 		  b
 		  \end{bmatrix}
-		  \end{equations}
+		  \end{equation}
+		  
+		  $$\text{or}$$
+		  \begin{equation}
+		  \begin{bmatrix}
+		  1 \\
+		  a_2
+		  \end{bmatrix} = \begin{bmatrix}
+		  a \\
+		  b
+		  \end{bmatrix}
+		  \end{equation}
+		  
+		  
 		  * Scalar Field
 		  $$L_{II}:\R^2->\R$$
 		  $$L_{II}\left(x,x^{\prime}\right)=ax+a^{\prime}x^{\prime}$$
