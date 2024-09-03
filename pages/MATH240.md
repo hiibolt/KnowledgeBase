@@ -269,4 +269,14 @@
 		  
 		  \begin{equation}
 		  \begin{bmatrix}
-		  3 & -2 & 3 \
+		  3 & -2 & 3 \\
+		  1 & 3 & 6 \\
+		  2 & 6 & 12 
+		  \end{bmatrix} = \begin{bmatrix}
+		  8 \\
+		  -3 \\
+		  -6
+		  \end{bmatrix}
+		  \end{equation}
+		  
+		  $$\text{or}$$
