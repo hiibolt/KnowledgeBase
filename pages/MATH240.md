@@ -283,11 +283,11 @@
 		  \begin{equation}
 		  \begin{bmatrix}
 		  1 & 3 & 6 \\
-		  1 & -8 & -9 \\
-		  2 & 6 & 12 
+		  0 & -11 & -15 \\
+		  0 & 0 & 12 
 		  \end{bmatrix} = \begin{bmatrix}
-		  8 \\
-		  3 \\
+		  -3 \\
+		  17 \\
 		  -6
 		  \end{bmatrix}
 		  \end{equation}
