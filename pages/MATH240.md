@@ -28,7 +28,7 @@
 		  We will swap $\mathbb{R}$ for $\mathbb{R}^2$, at least somewhere!
 		  
 		  **Options**:
-		- Parameterized curve in the plane
+		- ### Parameterized curve in the plane
 		  $$L_{I}:\mathbb{R}\to\mathbb{R}^2$$
 		  $$L_{I}\left(x\right)=\left(ax,a^{\prime}x\right)$$
 		  $$\text{or}$$
@@ -66,11 +66,10 @@
 		  x = \frac{a}{a_1} \\
 		  \frac{a_2a}{a_1} = b
 		  \end{cases}
-		  
-		  * Scalar Field
+		- ### Scalar Field
 		  $$L_{II}:\R^2->\R$$
 		  $$L_{II}\left(x,x^{\prime}\right)=ax+a^{\prime}x^{\prime}$$
-		  * Vector Field
+		- ### Vector Field
 		  $$L_{III}:\R^2->\R^2$$
 		  $$L_{III}\left(x,x^{\prime}\right)=\left(ax+bx^{\prime},cx+\mathrm{d}x^{\prime}\right)$$
 		  *Again, these are the only linear maps.*
