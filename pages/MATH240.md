@@ -258,4 +258,6 @@
 		  Which is a fundamentally incorrect equation. 
 		  
 		  **Because this *one* equation is inconsistent, the *entire* system is inconsistent, and the set of solutions is *empty*.**
+		  
+		  Had that $12$ been $0$
 		- ### E2. Example Problem
