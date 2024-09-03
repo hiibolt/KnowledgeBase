@@ -206,3 +206,7 @@
 	  \frac{3}{2} + \frac{\alpha}{2} - \frac{1}{2} + 1 - \frac{\alpha}{2} = 2 \\
 	  \frac{3}{2} + \frac{\alpha}{2} - \frac{1}{2} - 1 - \frac{\alpha}{2} = a
 	  \end{cases}
+	- ## Inconsistencies in GE
+		- #### E1. Example Problem
+		  \begin{cases}
+		  x + 2y
