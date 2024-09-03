@@ -61,6 +61,11 @@
 		  \end{bmatrix}
 		  \end{equation}
 		  
+		  $$\text{so}$$
+		  \begin{cases}
+		  x = \frac{a}{a_1} \\
+		  \frac{a_2a}{a_1} = b
+		  \end{cases}
 		  
 		  * Scalar Field
 		  $$L_{II}:\R^2->\R$$
