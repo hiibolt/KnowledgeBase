@@ -33,6 +33,13 @@
 		  $$L_{I}\left(x\right)=\left(ax,a^{\prime}x\right)$$
 		  $$\text{or}$$
 		  $$=\left(a,a^{\prime}\right)x$$
+		  
+		  \begin{cases}
+		  a_1x = a \\
+		  a_2x = b
+		  \end{cases}
+		  
+		  
 		  * Scalar Field
 		  $$L_{II}:\R^2->\R$$
 		  $$L_{II}\left(x,x^{\prime}\right)=ax+a^{\prime}x^{\prime}$$
