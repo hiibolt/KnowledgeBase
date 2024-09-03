@@ -291,3 +291,18 @@
 		  0
 		  \end{bmatrix}
 		  \end{equation}
+		  
+		  While this is **redundant**, we do carry on!
+		  
+		  $$\text{or}$$
+		  \begin{equation}
+		  \begin{bmatrix}
+		  1 & 3 & 6 \\
+		  0 & 1 & \frac{15} \\
+		  0 & 0 & 0 
+		  \end{bmatrix} = \begin{bmatrix}
+		  -3 \\
+		  17 \\
+		  0
+		  \end{bmatrix}
+		  \end{equation}
