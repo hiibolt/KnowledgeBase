@@ -214,7 +214,26 @@
 		  x - 4y - 2z = 1
 		  \end{cases}
 		  
+		  \begin{equation}
 		  \begin{bmatrix}
 		  1 & 2 & 6 \\
 		  -1 & 1 & -2 \\
-		  1 & -4 & -2
+		  1 & -4 & -2 
+		  \end{bmatrix} = \begin{bmatrix}
+		  5 \\
+		  3 \\
+		  1
+		  \end{bmatrix}
+		  \end{equation}
+		  $$\text{or}$$
+		  \begin{equation}
+		  \begin{bmatrix}
+		  1 & 2 & 6 \\
+		  0 & -3 & -4 \\
+		  1 & -4 & -2 
+		  \end{bmatrix} = \begin{bmatrix}
+		  5 \\
+		  4 \\
+		  1
+		  \end{bmatrix}
+		  \end{equation}
