@@ -343,3 +343,5 @@
 			  0 \\
 			  0 \\
 			  1
+			  \end{bmatrix}
+			  \end{equation}
