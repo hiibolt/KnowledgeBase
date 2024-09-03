@@ -88,6 +88,9 @@
 		  \frac{a}{a_1}
 		  \end{bmatrix}
 		  \end{equation}
+		  
+		  $$\text{or}$$
+		  $$x_1+\frac{a_2}{a_1}x_2=\frac{a}{a_1}$$
 		- ### Vector Field
 		  $$L_{III}:\R^2->\R^2$$
 		  $$L_{III}\left(x,x^{\prime}\right)=\left(ax+bx^{\prime},cx+\mathrm{d}x^{\prime}\right)$$
