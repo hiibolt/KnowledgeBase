@@ -259,5 +259,7 @@
 		  
 		  **Because this *one* equation is inconsistent, the *entire* system is inconsistent, and the set of solutions is *empty*.**
 		  
-		  Had that $12$ been $0$
+		  Had that $12$ been $0$, the equation would have been **redundant**.
 		- ### E2. Example Problem
+		  \begin{cases}
+		  3x
