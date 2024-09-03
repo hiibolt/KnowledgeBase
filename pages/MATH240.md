@@ -244,10 +244,10 @@
 		  \begin{bmatrix}
 		  1 & 2 & 6 \\
 		  0 & 1 & \frac{4}{3} \\
-		  0 & -6 & -8 
+		  0 & 0 & 0 
 		  \end{bmatrix} = \begin{bmatrix}
 		  5 \\
 		  \frac{8}{3} \\
-		  -4
+		  12
 		  \end{bmatrix}
 		  \end{equation}
