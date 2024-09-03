@@ -54,10 +54,10 @@
 		  \begin{equation}
 		  \begin{bmatrix}
 		  1 \\
-		  a_2
+		  0
 		  \end{bmatrix} = \begin{bmatrix}
 		  a \\
-		  b
+		  b - \frac{a_2a}{a_1}
 		  \end{bmatrix}
 		  \end{equation}
 		  
