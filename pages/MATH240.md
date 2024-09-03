@@ -28,7 +28,7 @@
 		  We will swap $\mathbb{R}$ for $\mathbb{R}^2$, at least somewhere!
 		  
 		  **Options**:
-		  * Parameterized curve in the plane
+		- Parameterized curve in the plane
 		  $$L_{I}:\mathbb{R}\to\mathbb{R}^2$$
 		  $$L_{I}\left(x\right)=\left(ax,a^{\prime}x\right)$$
 		  $$\text{or}$$
