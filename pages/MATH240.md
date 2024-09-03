@@ -319,4 +319,5 @@
 		  y = \frac{-17}{11} - \frac{15}{11}z
 		  \end{cases}
 		  
-		  In this case, the solutions for $x$ and $y$ are determined by $z$. Therefore, there is an **uncountable** number of solutions because $z$ can be and real number
+		  In this case, the solutions for $x$ and $y$ are determined by $z$. Therefore, there is an **uncountable** number of solutions in solution set $S$ because $z$ can be any real number $\in\mathbb{R}$.
+			- ### E2.1
