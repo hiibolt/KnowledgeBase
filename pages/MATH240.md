@@ -307,7 +307,7 @@
 		  \end{bmatrix}
 		  \end{equation}
 		  
-		  So:
+		  $$\text{so}$$
 		  \begin{cases}
 		  x + \frac{21}{11}z = \frac{18}{11}\\
 		  y + \frac{15}{11}z = \frac{-17}{11}
