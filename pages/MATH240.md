@@ -345,3 +345,18 @@
 			  1
 			  \end{bmatrix}
 			  \end{equation}
+			  
+			  $$\text{or}$$
+			  \begin{equation}
+			  \begin{bmatrix}
+			  \frac{18}{11} \\
+			  \frac{-17}{11} \\
+			  0
+			  \end{bmatrix} + 
+			  \alpha
+			  \begin{bmatrix}
+			  \frac{-21}{11} \\
+			  \frac{-15}{11} \\
+			  1
+			  \end{bmatrix}
+			  \end{equation}
