@@ -229,11 +229,11 @@
 		  \begin{equation}
 		  \begin{bmatrix}
 		  1 & 2 & 6 \\
-		  0 & -3 & -4 \\
-		  1 & -4 & -2 
+		  0 & 3 & 4 \\
+		  0 & -6 & -8 
 		  \end{bmatrix} = \begin{bmatrix}
 		  5 \\
-		  4 \\
-		  1
+		  8 \\
+		  -4
 		  \end{bmatrix}
 		  \end{equation}
