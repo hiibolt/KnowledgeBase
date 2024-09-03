@@ -326,4 +326,20 @@
 			  \begin{equation}
 			  \frac{18}{11}-\frac{21}{11}\alpha
 			  \begin{bmatrix}
+			  1 \\
+			  0 \\
+			  0
+			  \end{bmatrix}
+			  +
+			  (-\frac{17}{11} - \frac{15}{11}a)
+			  \begin{bmatrix}
+			  0 \\
+			  1 \\
+			  0
+			  \end{bmatrix}
+			  +
+			  a 
+			  \begin{bmatrix}
+			  0 \\
+			  0 \\
 			  1
