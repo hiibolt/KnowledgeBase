@@ -251,3 +251,6 @@
 		  12
 		  \end{bmatrix}
 		  \end{equation}
+		  
+		  Notice that we currently have an inconsistency. Equation 3 can be interpreted literally as:
+		  $$$$
