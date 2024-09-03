@@ -297,12 +297,12 @@
 		  $$\text{or}$$
 		  \begin{equation}
 		  \begin{bmatrix}
-		  1 & 3 & 6 \\
-		  0 & 1 & \frac{15} \\
+		  1 & 0 & 6 - \frac{45}{11} \\
+		  0 & 1 & \frac{15}{11} \\
 		  0 & 0 & 0 
 		  \end{bmatrix} = \begin{bmatrix}
 		  -3 \\
-		  17 \\
+		  \frac{-17}{11} \\
 		  0
 		  \end{bmatrix}
 		  \end{equation}
