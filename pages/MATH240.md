@@ -262,4 +262,11 @@
 		  Had that $12$ been $0$, the equation would have been **redundant**.
 		- ### E2. Example Problem
 		  \begin{cases}
-		  3x
+		  3x - 2y + 3z = 8 \\
+		  x + 3y + 6z = -3 \\
+		  2x + 6y + 12z = -6
+		  \end{cases}
+		  
+		  \begin{equation}
+		  \begin{bmatrix}
+		  3 & -2 & 3 \
