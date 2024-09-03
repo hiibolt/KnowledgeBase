@@ -253,4 +253,8 @@
 		  \end{equation}
 		  
 		  Notice that we currently have an inconsistency. Equation 3 can be interpreted literally as:
-		  $$$$
+		  $$0x+0y+0z=12$$
+		  
+		  Which is a fundamentally incorrect equation. 
+		  
+		  **Because this *one* equation is inconsistent, the *entire* system is inconsistent, and the.**
