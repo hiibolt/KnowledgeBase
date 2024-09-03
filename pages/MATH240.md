@@ -69,6 +69,17 @@
 		- ### Scalar Field
 		  $$L_{II}:\R^2->\R$$
 		  $$L_{II}\left(x,x^{\prime}\right)=ax+a^{\prime}x^{\prime}$$
+		  $$a_1x_1+a_2b_2=a$$
+		  
+		  $$\text{or}$$
+		  \begin{equation}
+		  \begin{bmatrix}
+		  1 
+		  \end{bmatrix} = \begin{bmatrix}
+		  a \\
+		  b - \frac{a_2a}{a_1}
+		  \end{bmatrix}
+		  \end{equation}
 		- ### Vector Field
 		  $$L_{III}:\R^2->\R^2$$
 		  $$L_{III}\left(x,x^{\prime}\right)=\left(ax+bx^{\prime},cx+\mathrm{d}x^{\prime}\right)$$
