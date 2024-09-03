@@ -321,9 +321,10 @@
 		  
 		  In this case, the solutions for $x$ and $y$ are determined by $z$. Therefore, there is an **uncountable** number of solutions in solution set $S$ because $z$ can be any real number $\in\mathbb{R}$.
 			- ### E2.1 - Example Problem (cont.)
-			  Let $\alpha$ be a real number.
+			  Let $\alpha$ be a real number. (Set $z = \alpha$)
 			  
 			  \begin{equation}
+			  =
 			  \frac{18}{11}-\frac{21}{11}\alpha
 			  \begin{bmatrix}
 			  1 \\
@@ -348,6 +349,7 @@
 			  
 			  $$\text{or}$$
 			  \begin{equation}
+			  =
 			  \begin{bmatrix}
 			  \frac{18}{11} \\
 			  \frac{-17}{11} \\
