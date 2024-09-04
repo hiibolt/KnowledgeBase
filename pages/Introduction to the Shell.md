@@ -87,7 +87,15 @@
 	- ### Links
 	  ((66d1fa78-88f6-4aaa-a9db-7c0818b523d3))
 - ### Wildcard and Question Select
-	- ### `*` - Allows a match for *any* zero or more characters at this position
-	  * `?` - Matches any single character at this position
-	  * `[]` - Allows any of a list (inside the `[]`) of possible characters at this position (use `^` to invert)
-	  * `{}` - Allows any of a list (inside the `{}`, separated by `,`) of possible characters at this position (use `^` to invert)
+	- ### `*`
+	  Allows a match for *any* zero or more characters at this position
+	- ### `?`
+	  Matches any single character at this position
+	- ### `[]`
+	  Allows any of a list (inside the `[]`) of possible characters at this position.
+	  
+	  Use `^` to invert.
+	- ### `{}`
+	  Allows any of a list (inside the `{}`, separated by `,`) of possible characters at this position.
+	  
+	  Use `^` to invert.
