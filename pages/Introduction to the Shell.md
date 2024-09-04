@@ -86,3 +86,6 @@
 	  Contains other ifels
 	- ### Links
 	  ((66d1fa78-88f6-4aaa-a9db-7c0818b523d3))
+- ### Wildcard and Question Select
+  * `*` - Allows a match for *any* zero or more characters at this position
+  * `?`
