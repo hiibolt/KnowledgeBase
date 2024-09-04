@@ -89,5 +89,5 @@
 - ### Wildcard and Question Select
   * `*` - Allows a match for *any* zero or more characters at this position
   * `?` - Matches any single character at this position
-  * `[]` - Allows any of a list (inside the `[]`) of possible characters at this position
-  * `{}` - Allows everything except characters of a list (inside the `{}`, separated by `,`)
+  * `[]` - Allows any of a list (inside the `[]`) of possible characters at this position (use `^` to invert)
+  * `{}` - Allows any of a list (inside the `{}`, separated by `,`)
