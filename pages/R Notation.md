@@ -8,3 +8,14 @@ $$\mathbb{R}_{1x2}$$
 \begin{bmatrix}
 x & y
 \end{bmatrix}
+
+$$\mathbb{R}_{2x1}$$
+\begin{bmatrix}
+x \\
+y
+\end{bmatrix}
+
+...etc.
+
+How would one create a function $L$ which maps
+-
