@@ -19,5 +19,5 @@ y
 
 How would one create a function $L$ which maps $\mathbb{R}_{1x2}\rightarrow\mathbb{R}_{2x1}$?
 
-$$L([ x y]) = \begin{bmatrix} $$
+$$L([ x y]) = \begin{bmatrix} ax + by \\ cx + dy \end{bmatrix}$$
 -
