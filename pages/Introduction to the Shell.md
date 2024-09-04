@@ -66,6 +66,7 @@
 	  * `argv` is an array of the passed arguments.
 	  * `argv[0]` is technically the first argument - the command name.
 - ## Link Types
+  id:: 66d1fa78-88f6-4aaa-a9db-7c0818b523d3
   A **hard link** is a link that exists only in the context of a singular drive (with the exception of RAID). These are identified via the `inode`. They are replenishing, meaning if the linked-to is deleted, the linked-from will still exist.
   
   A **symbolic link** is a link that does *not* have an `inode`. Instead, it is a path to a file. Because of this, symbolic links can be made across various drives.
@@ -82,3 +83,6 @@
 	- ### System Files
 	  Specialized files for devices, networking endpoints, etc
 	- ### Directories
+	  Contains other ifels
+	- ### Links
+	  ((66d1fa78-88f6-4aaa-a9db-7c0818b523d3))
