@@ -419,3 +419,5 @@
 			  \end{equation}
 			  
 			  This describes our set of solutions $S$ from our example in proper notation.
+- [[R Notation]]
+-
