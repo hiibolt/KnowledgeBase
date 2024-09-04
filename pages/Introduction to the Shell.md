@@ -76,4 +76,9 @@
 	  ```bash
 	  ln -s . f
 	  ```
--
+- ## Types of Files
+	- ### Regular Files
+	  Text, binary, or executable files stored as a collection of bytes.
+	- ### System Files
+	  Specialized files for devices, networking endpoints, etc
+	- ### Directories
