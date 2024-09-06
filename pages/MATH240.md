@@ -441,3 +441,10 @@ collapsed:: true
   \end{equation}
   
   To create a modification matrix, use the first result as the first column, and the second result as the second column.
+  
+  To rotate by and arbitrary angle:
+  \begin{bmatrix}
+  \cos{\theta} & -\sin{\theta} \\
+  \sin{\theta} & \cos{\theta}
+  \end{bmatrix}
+-
