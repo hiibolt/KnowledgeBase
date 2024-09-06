@@ -440,8 +440,6 @@ collapsed:: true
   \end{bmatrix}
   \end{equation}
   
-  To create a modification matrix, use the first result as the first column, and the second result as the second column.
-  
   To rotate by an arbitrary angle $\theta$:
   \begin{bmatrix}
   \cos{\theta} & -\sin{\theta} \\
