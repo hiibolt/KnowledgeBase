@@ -67,18 +67,26 @@ impl std::fmt::Debug for Matrice {
 	  \begin{equation}
 	  \begin{bmatrix}
 	  a & b
-	  \end{bmatrix} \text{ is represented by } M_{1\times 2\}end{equation}
+	  \end{bmatrix} \text{ is represented by } M_{1\times 2}\end{equation}
 	  $$\text{and}$$
 	  \begin{equation}\begin{bmatrix}
 	  c \\
 	  d
-	  \end{bmatrix} \text{ is represented by } N_{2\times 1}\end{equation}.
+	  \end{bmatrix} \text{ is represented by } N_{2\times 1}\end{equation}
 	  
 	  To multiply the two, you would recieve:
 	  \begin{equation}
 	  M \times N = 
 	  \begin{bmatrix}
 	  ac+bd
+	  \end{bmatrix}
+	  \end{equation}
+	  $$\text{or}$$
+	  \begin{equation}
+	  N \times M = 
+	  \begin{bmatrix}
+	  ca & cb \\
+	  da & db
 	  \end{bmatrix}
 	  \end{equation}
 		- #### Rust Matrix Multiplication Implementation
