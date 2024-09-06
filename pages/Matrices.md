@@ -64,7 +64,10 @@ impl std::fmt::Debug for Matrice {
 	  $$M_{m\cdot n}\times N_{n\cdot r}$$
 	  
 	  Remember:
-	  \begin[]
+	  \begin{equation}
+	  \begin{bmatrix}
+	  a & b
+	  \end{bmatrix} \text{ is represented by } 1\times 2\end{equation}
 		- #### Rust Matrix Multiplication Implementation
 		  ```rust
 		  pub fn matrix_mult ( self, to_mult: Matrice ) -> Self {
