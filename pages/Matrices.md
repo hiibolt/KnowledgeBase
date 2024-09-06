@@ -68,6 +68,15 @@ impl std::fmt::Debug for Matrice {
 	  \begin{bmatrix}
 	  a & b
 	  \end{bmatrix} \text{ is represented by } 1\times 2\end{equation}
+	  $$\text{and}$$
+	  \begin{equation}\begin{bmatrix}
+	  c \\
+	  d
+	  \end{bmatrix} \text{ is represented by } 2\times 1\end{equation}.
+	  
+	  To multiply the two, you would recieve:
+	  \begin{bmatrix}
+	  ac
 		- #### Rust Matrix Multiplication Implementation
 		  ```rust
 		  pub fn matrix_mult ( self, to_mult: Matrice ) -> Self {
