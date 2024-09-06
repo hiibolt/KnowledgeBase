@@ -440,4 +440,4 @@ collapsed:: true
   \end{bmatrix}
   \end{equation}
   
-  To create a modification matrix, use the first result as the first column, and the second as the second result
+  To create a modification matrix, use the first result as the first column, and the second result as the second column.
