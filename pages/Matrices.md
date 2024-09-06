@@ -61,47 +61,51 @@ impl std::fmt::Debug for Matrice {
 	  }
 	  ```
 	- ### Matrix Multiplication
-	- #### Rust Matrix Multiplication Implementation
-	  ```rust
-	  pub fn matrix_mult ( self, to_mult: Matrice ) -> Self {
-	      if self.cols != to_mult.rows {
-	          panic!("Number of columns in the base matrix must match the number of columns in the second row!");
-	      }
+	  $$M_{m\cdot n}\times N_{n\cdot r}$$
 	  
-	      let mut end_result = Matrice::from_dimensions( self.rows, to_mult.cols );
-	  
-	      for r in 0..end_result.value.len() {
-	          for c in 0..(end_result.value[r].len()) {
-	              let row: Vec<ComplexNumber> = end_result.value[r].clone();
-	              let col: Vec<ComplexNumber> = end_result
-	                  .value
-	                  .clone()
-	                  .into_iter()
-	                  .map(|i| i[c].clone())
-	                  .collect();
-	  
-	              let dot_product: ComplexNumber = row
-	                  .clone()
-	                  .into_iter()
-	                  .enumerate()
-	                  .map(|(ind, mut i)| { // Multiply each row by element of equivalent index in each intersecting column
-	                      i.mult(col[ind].clone());
-	                      i
-	                  })
-	                  .reduce(|total: ComplexNumber, i: ComplexNumber| { // Add each element of the now row to create the final dot product
-	                      total.clone().add(i.clone()).clone()
-	                  })
-	                  .expect("Should never happen given the matrices make it past first check")
-	                  .clone();
-	  
-	  
-	              end_result.value[r][c] = dot_product;
-	          }
-	      }
-	  
-	      end_result
-	  }
-	  ```
+	  Remember:
+	  \begin[]
+		- #### Rust Matrix Multiplication Implementation
+		  ```rust
+		  pub fn matrix_mult ( self, to_mult: Matrice ) -> Self {
+		      if self.cols != to_mult.rows {
+		          panic!("Number of columns in the base matrix must match the number of columns in the second row!");
+		      }
+		  
+		      let mut end_result = Matrice::from_dimensions( self.rows, to_mult.cols );
+		  
+		      for r in 0..end_result.value.len() {
+		          for c in 0..(end_result.value[r].len()) {
+		              let row: Vec<ComplexNumber> = end_result.value[r].clone();
+		              let col: Vec<ComplexNumber> = end_result
+		                  .value
+		                  .clone()
+		                  .into_iter()
+		                  .map(|i| i[c].clone())
+		                  .collect();
+		  
+		              let dot_product: ComplexNumber = row
+		                  .clone()
+		                  .into_iter()
+		                  .enumerate()
+		                  .map(|(ind, mut i)| { // Multiply each row by element of equivalent index in each intersecting column
+		                      i.mult(col[ind].clone());
+		                      i
+		                  })
+		                  .reduce(|total: ComplexNumber, i: ComplexNumber| { // Add each element of the now row to create the final dot product
+		                      total.clone().add(i.clone()).clone()
+		                  })
+		                  .expect("Should never happen given the matrices make it past first check")
+		                  .clone();
+		  
+		  
+		              end_result.value[r][c] = dot_product;
+		          }
+		      }
+		  
+		      end_result
+		  }
+		  ```
 	- ### Determinant
 	  ```rust
 	  pub fn determinant ( &self ) -> f32 {
