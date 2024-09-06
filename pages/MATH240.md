@@ -439,3 +439,5 @@ collapsed:: true
   ga+hc & gb + hd
   \end{bmatrix}
   \end{equation}
+  
+  To create a modification matrix, use the first result as the first column, and the second
