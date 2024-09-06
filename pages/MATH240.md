@@ -423,3 +423,4 @@ collapsed:: true
 			  This describes our set of solutions $S$ from our example in proper notation.
 - [[R Notation]]
 - [[Matrices]]
+  It's worth noting that a matrix function that maps from say, $L:\mathbb{R}_{2\times1}\rightarrow\mathbb{R}_{1\times2}$ is linear, i
