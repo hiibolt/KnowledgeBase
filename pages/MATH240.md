@@ -425,4 +425,10 @@ collapsed:: true
 - [[Matrices]]
   It's worth noting that a matrix function that maps from say, $L:\mathbb{R}_{2\times1}\rightarrow\mathbb{R}_{1\times2}$, is linear if it can be represented by a $2\times2$ matrix!
   
-  For a composition $KL$
+  For a composition $K\dot L$, you would do the matrix product of $K\times L$.
+  
+  \begin{bmatrix}
+  \end{bmatrix} \times \b
+  
+  \begin{bmatrix}
+  ea+fac & eb+fd \\
