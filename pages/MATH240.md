@@ -1,4 +1,5 @@
 ### Refreshers
+collapsed:: true
 	- #### Spaces of Numbers
 	  
 	  $$\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \R \subset \mathbb{C}$$
@@ -96,6 +97,7 @@
 		  $$L_{III}\left(x,x^{\prime}\right)=\left(ax+bx^{\prime},cx+\mathrm{d}x^{\prime}\right)$$
 		  *Again, these are the only linear maps.*
 - ## Gaussian Elimination 
+  collapsed:: true
   \begin{equation}
   \begin{bmatrix}
   a & b \\
@@ -420,4 +422,4 @@
 			  
 			  This describes our set of solutions $S$ from our example in proper notation.
 - [[R Notation]]
--
+- [[Matrices]]
