@@ -54,6 +54,13 @@
 	  Creates a hard link that allows a file or directory to be reference by another name.
 	  
 	  To create a symbolic link, use the `-s` option.
+	- **`wc`**
+	  Prints the word counts for a file.
+	  
+	  Arguments:
+	  * `-l` Lines
+	  * `-c` Bytes
+	  * `-w` Words
 - ## Program Arguments
 	- #### Full `main` function prototype:
 	  ```cpp
