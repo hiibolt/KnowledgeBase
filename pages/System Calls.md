@@ -8,6 +8,6 @@ Possible flags:
 * `O_RDONLY`, `O_WRONLY`, `O_RDWR`
 * `O_TRUNC` - when writing to an existing file, get rid of the data that was there
 * `O_APPEND` - write to the end of the file
-* `O_CREAT` - create the file if it does not e
+* `O_CREAT` - create the file if it does not exist
 
 Modes: System permissions levels.
