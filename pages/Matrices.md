@@ -36,6 +36,22 @@ impl std::fmt::Debug for Matrice {
 	- ### Matrix Addition
 	  \begin{equation}
 	  \begin{bmatrix}
+	  a & b \\
+	  c & d \\
+	  e & f
+	  \end{bmatrix}
+	  + 
+	  \begin{bmatrix}
+	  g & h \\
+	  i & j \\
+	  k & l
+	  \end{bmatrix}
+	  =
+	  \begin{bmatrix}
+	  a + g & b + h \\
+	  c + i & d + j \\
+	  e + k & f + d
+	  \end{bmatrix}
 		- #### Rust Matrix Addition Implementation
 		  ```rust
 		  pub fn add ( &mut self, to_add: Matrice ) -> &Self {
