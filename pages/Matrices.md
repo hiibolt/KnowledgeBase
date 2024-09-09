@@ -267,3 +267,15 @@ impl std::fmt::Debug for Matrice {
 	  \end{bmatrix}
 	  
 	  Around the Y axis:
+	  \begin{bmatrix}
+	  \cos{\theta} & 0 & -\sin{\theta} \\
+	  0 & 1 & 0 \\
+	  \sin{\theta} & 0 & \cos{\theta}
+	  \end{bmatrix}
+	  
+	  Around the X axis:
+	  \begin{bmatrix}
+	  1 & 0 & -\sin{\theta} \\
+	  0 & \cos{\theta} & -\sin{\theta} \\
+	  0 & 0 & \cos{\theta}
+	  \end{bmatrix}
