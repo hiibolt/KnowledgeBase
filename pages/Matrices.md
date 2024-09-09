@@ -83,7 +83,7 @@ impl std::fmt::Debug for Matrice {
 	  \end{bmatrix}
 	  \end{equation}
 	  
-	  This creates a
+	  This example notably creates a **zero matrix**.
 		- #### Rust Matrix Scalar Multiplication Implementation
 		  ```rust
 		  pub fn scalar_mult ( &mut self, to_mult: f32 ) -> &Self {
