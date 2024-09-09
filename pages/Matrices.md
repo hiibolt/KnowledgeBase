@@ -34,20 +34,23 @@ impl std::fmt::Debug for Matrice {
 ```
 - ## Operations
 	- ### Matrix Addition
-	  ```rust
-	  pub fn add ( &mut self, to_add: Matrice ) -> &Self {
-	      if self.rows != to_add.rows || self.cols != to_add.cols {
-	          panic!("Matrix size {}x{} doesn't match the base size {}x{}", to_add.rows, to_add.cols, self.rows, self.cols);
-	      }
-	      for row in 0..self.value.len() {
-	          for col in 0..self.value[row].len() {
-	              self.value[row][col].add(to_add.value[row][col].clone());
-	          }
-	      }
-	  
-	      self
-	  }
-	  ```
+	  \begin{equation}
+	  \begin{bmatrix}
+		- #### Rust Matrix Addition Implementation
+		  ```rust
+		  pub fn add ( &mut self, to_add: Matrice ) -> &Self {
+		      if self.rows != to_add.rows || self.cols != to_add.cols {
+		          panic!("Matrix size {}x{} doesn't match the base size {}x{}", to_add.rows, to_add.cols, self.rows, self.cols);
+		      }
+		      for row in 0..self.value.len() {
+		          for col in 0..self.value[row].len() {
+		              self.value[row][col].add(to_add.value[row][col].clone());
+		          }
+		      }
+		  
+		      self
+		  }
+		  ```
 	- ### Scalar Multiplication
 	  ```rust
 	  pub fn scalar_mult ( &mut self, to_mult: f32 ) -> &Self {
