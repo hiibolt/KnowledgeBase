@@ -34,6 +34,8 @@ impl std::fmt::Debug for Matrice {
 ```
 - ## Operations
 	- ### Matrix Addition
+	  The dimensions of the base and target matrices ***must*** be the same.
+	  
 	  \begin{equation}
 	  \begin{bmatrix}
 	  a & b \\
@@ -52,6 +54,7 @@ impl std::fmt::Debug for Matrice {
 	  c + i & d + j \\
 	  e + k & f + d
 	  \end{bmatrix}
+	  \end{equation}
 		- #### Rust Matrix Addition Implementation
 		  ```rust
 		  pub fn add ( &mut self, to_add: Matrice ) -> &Self {
@@ -68,6 +71,7 @@ impl std::fmt::Debug for Matrice {
 		  }
 		  ```
 	- ### Scalar Multiplication
+	  #### Rust Matr
 	  ```rust
 	  pub fn scalar_mult ( &mut self, to_mult: f32 ) -> &Self {
 	      for row in 0..self.value.len() {
