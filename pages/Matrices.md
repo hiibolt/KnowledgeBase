@@ -265,3 +265,5 @@ impl std::fmt::Debug for Matrice {
 	  \sin{\theta} & \cos{\theta} & 0 \\
 	  0 & 0 & 1
 	  \end{bmatrix}
+	  
+	  Around the Y axis:
