@@ -71,18 +71,31 @@ impl std::fmt::Debug for Matrice {
 		  }
 		  ```
 	- ### Scalar Multiplication
-	  #### Rust Matr
-	  ```rust
-	  pub fn scalar_mult ( &mut self, to_mult: f32 ) -> &Self {
-	      for row in 0..self.value.len() {
-	          for col in 0..self.value[row].len() {
-	              self.value[row][col].scalar_mult(to_mult);
-	          }
-	      }
+	  \begin{equation}
+	  0 \begin{bmatrix}
+	  a & b & c \\
+	  d & e & f
+	  \end{bmatrix}
+	  = 
+	  \begin{bmatrix}
+	  0 & 0 & 0 \\
+	  0 & 0 & 0
+	  \end{bmatrix}
+	  \end{equation}
 	  
-	      self
-	  }
-	  ```
+	  This creates a
+		- #### Rust Matrix Scalar Multiplication Implementation
+		  ```rust
+		  pub fn scalar_mult ( &mut self, to_mult: f32 ) -> &Self {
+		      for row in 0..self.value.len() {
+		          for col in 0..self.value[row].len() {
+		              self.value[row][col].scalar_mult(to_mult);
+		          }
+		      }
+		  
+		      self
+		  }
+		  ```
 	- ### Matrix Multiplication
 	  $$M_{m\cdot n}\times N_{n\cdot r}$$
 	  
