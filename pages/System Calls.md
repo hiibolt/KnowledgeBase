@@ -11,3 +11,9 @@ Possible flags:
 * `O_CREAT` - create the file if it does not exist
 
 Modes: System permissions levels.
+- ### Reading Files
+  ```cpp
+  ssize_t read ( int fd, void *buf, size_t count );
+  ```
+  
+  * `fd` - the file
