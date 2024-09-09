@@ -4,32 +4,32 @@ A 2D array of values with a defined number of rows and values
 **Rust Implementation:**
 ```rust
 struct Matrice {
-    value: Vec<Vec<ComplexNumber>>,
-    rows: usize,
-    cols: usize
+  value: Vec<Vec<ComplexNumber>>,
+  rows: usize,
+  cols: usize
 }
 impl Matrice {
-    fn new(value: Vec<Vec<ComplexNumber>>) -> Self {
-        if !value.iter().all(|i| i.len() == value[0].len()) {
-            panic!("Matrix is not two-dimensional! Ensure all rows are equal in length.");
-        }
-        let rows = value.len();
-        let cols = value[0].len();
-        Self {
-            value,
-            rows,
-            cols
-        }
-    }
+  fn new(value: Vec<Vec<ComplexNumber>>) -> Self {
+      if !value.iter().all(|i| i.len() == value[0].len()) {
+          panic!("Matrix is not two-dimensional! Ensure all rows are equal in length.");
+      }
+      let rows = value.len();
+      let cols = value[0].len();
+      Self {
+          value,
+          rows,
+          cols
+      }
+  }
 }
 impl std::fmt::Debug for Matrice {
-    fn fmt ( &self, f: &mut std::fmt::Formatter<'_> ) -> std::fmt::Result {
-        write!(f, "{}x{}\n", self.rows, self.cols );
-        for row in &self.value {
-            write!(f, "{}\n", row.into_iter().map(|i| format!("{} +{}i", i.a, i.b)).collect::<Vec<String>>().join(", ") );
-        }
-        Ok(())
-    }
+  fn fmt ( &self, f: &mut std::fmt::Formatter<'_> ) -> std::fmt::Result {
+      write!(f, "{}x{}\n", self.rows, self.cols );
+      for row in &self.value {
+          write!(f, "{}\n", row.into_iter().map(|i| format!("{} +{}i", i.a, i.b)).collect::<Vec<String>>().join(", ") );
+      }
+      Ok(())
+  }
 }
 ```
 - ## Operations
@@ -252,3 +252,5 @@ impl std::fmt::Debug for Matrice {
 	  }
 	  ```
 	  **Note:** Could probably implement for $$n * m$$ size matrices according to [this](https://mathforums.com/t/how-do-i-normalize-a-matrix.18218/)
+	- ### Rotation
+	  You can rotate a matrix
