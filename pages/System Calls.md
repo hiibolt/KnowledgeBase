@@ -44,4 +44,6 @@ Modes: System permissions levels.
   ```
   
   Arguments:
-  * `fd`
+  * `fd` - the **file descriptor** of the currently open file to read data from
+  * `buf` - the data read will be stored at the location specified by this pointer
+  * `count` - the number of bytes to attempt to read from the file
