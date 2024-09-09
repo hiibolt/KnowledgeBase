@@ -26,12 +26,15 @@ Modes: System permissions levels.
 	  ```cpp
 	  char strbuf[1024];
 	  int fd _1 = open("file_1", O_RDONLY);
-	  ssize_t howmany = read(fd1, strbuf, 1024);
-	  
-	  if ()
+	  if ( read(fd1, strbuf, 1024) == -1 ) {
+	      perror("Error reading `file_1`!);
+	      exit(1);
+	  }
 	  
 	  struct some_struct data;
 	  int fd_2 = open("file_2", O_RDONLY);
-	  ssize_t = read(fd_2, &data, sizeof(some_struct));
-	  
+	  if read(fd_2, &data, sizeof(some_struct)) == -1 ) {
+	      perror("Error reading `file_1`!);
+	      exit(1);
+	  }
 	  ```
