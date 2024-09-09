@@ -275,7 +275,7 @@ impl std::fmt::Debug for Matrice {
 	  
 	  Around the X axis:
 	  \begin{bmatrix}
-	  1 & 0 & -\sin{\theta} \\
+	  1 & 0 & 0 \\
 	  0 & \cos{\theta} & -\sin{\theta} \\
-	  0 & 0 & \cos{\theta}
+	  0 & \sin{\theta} & \cos{\theta}
 	  \end{bmatrix}
