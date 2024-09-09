@@ -253,4 +253,10 @@ impl std::fmt::Debug for Matrice {
 	  ```
 	  **Note:** Could probably implement for $$n * m$$ size matrices according to [this](https://mathforums.com/t/how-do-i-normalize-a-matrix.18218/)
 	- ### Rotation
-	  You can rotate a matrix
+	  To rotate a $2x2$ matrix by an arbitrary angle $\theta$:
+	  \begin{bmatrix}
+	  \cos{\theta} & -\sin{\theta} \\
+	  \sin{\theta} & \cos{\theta}
+	  \end{bmatrix}
+	  
+	  You can rotate a $3x3$ matrix without around the Z axis by $\theta$ with the following

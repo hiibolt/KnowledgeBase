@@ -438,10 +438,4 @@
   ga+hc & gb + hd
   \end{bmatrix}
   \end{equation}
-  
-  To rotate by an arbitrary angle $\theta$:
-  \begin{bmatrix}
-  \cos{\theta} & -\sin{\theta} \\
-  \sin{\theta} & \cos{\theta}
-  \end{bmatrix}
 -
