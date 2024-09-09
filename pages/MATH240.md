@@ -1,5 +1,4 @@
 ### Refreshers
-collapsed:: true
 	- #### Spaces of Numbers
 	  
 	  $$\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \R \subset \mathbb{C}$$
