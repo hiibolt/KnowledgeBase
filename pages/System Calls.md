@@ -38,3 +38,10 @@ Modes: System permissions levels.
 	      exit(1);
 	  }
 	  ```
+- ### Writing to files
+  ```cpp
+  ssize_t write ( int fd, const void *buf, size_t count );
+  ```
+  
+  Arguments:
+  * `fd`
