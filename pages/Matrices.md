@@ -259,4 +259,9 @@ impl std::fmt::Debug for Matrice {
 	  \sin{\theta} & \cos{\theta}
 	  \end{bmatrix}
 	  
-	  You can rotate a $3x3$ matrix without around the Z axis by $\theta$ with the following
+	  You can rotate a $3x3$ matrix without around the Z axis by $\theta$ with the following formula:
+	  \begin{bmatrix}
+	  \cos{\theta} & -\sin{\theta} & 0 \\
+	  \sin{\theta} & \cos{\theta} & 0 \\
+	  0 & 0 & 1
+	  \end{bmatrix}
