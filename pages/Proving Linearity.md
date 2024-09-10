@@ -1,5 +1,6 @@
 ## Steps
-* 1.) $L(a(x,y)) = aL(x,y)$ for $L\left(x,y\right)=2x+3y$
+$$L\left(x,y\right)=2x+3y$$
+* 1.) $L(a(x,y)) = aL(x,y)$ for 
 $$\text{or}$$
 $$L\left(ax+ay\right)$$
 $$\text{or}$$
