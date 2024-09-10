@@ -1,4 +1,5 @@
 ### Refreshers
+collapsed:: true
 	- #### Spaces of Numbers
 	  
 	  $$\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \R \subset \mathbb{C}$$
@@ -8,6 +9,7 @@
 		  * $/$ does not work when dividing by zero
 		- #### Notable Facts
 		  A **field** (Q, $\R$, and $C$) guarantee a conjugate of every set element.
+	-
 		- #### E1. Example Equation
 		  $$ax=b$$
 		  
@@ -438,4 +440,4 @@
   ga+hc & gb + hd
   \end{bmatrix}
   \end{equation}
--
+- [[Proving Linearity]]
