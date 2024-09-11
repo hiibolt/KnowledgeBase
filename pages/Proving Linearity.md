@@ -15,7 +15,11 @@ $$=\left(x+x^{\prime}\right)\left(y+y^{\prime}\right)$$
 $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
 - ## Three Primary Concepts
 	- #### Onto
+	  id:: 66e1e9fa-12b5-40a3-895a-e427b1ff3aa8
 	  Each element in the range is realized $f(x)$ for some $x$
 	- #### One-to-one
+	  id:: 66e1ea14-8a47-43a0-86ba-4089d9062fe5
 	  No pair in the domain goes to the same element in the range
-	  * invertible
+	- #### Invertible
+	  The function is both ((66e1e9fa-12b5-40a3-895a-e427b1ff3aa8)) and ((66e1ea14-8a47-43a0-86ba-4089d9062fe5))
+-
