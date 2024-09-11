@@ -38,4 +38,8 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   ax + by \\
   cx + dy
   \end{bmatrix}
+  =
+  \begin{bmatrix}
+  e \\ f
+  \end{bmatrix}
   \end{equation}
