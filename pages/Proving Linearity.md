@@ -24,7 +24,11 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
 	  The function is both ((66e1e9fa-12b5-40a3-895a-e427b1ff3aa8)) and ((66e1ea14-8a47-43a0-86ba-4089d9062fe5))
 - ## Is $\mathbb{R}^2 \rarr \mathbb{R}^2$ Invertible?
   \begin{equation}
-  L(\begin{bmatrix}x \\ y\end{bmatrix})
+  L(
+  \begin{bmatrix}
+  x \\ y
+  \end{bmatrix}
+  )
   = 
   \begin{bmatrix}
   a & b \\
@@ -44,6 +48,7 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   \end{bmatrix}
   \end{equation}
   $$\text{or}$$
+  
   \begin{vmatrix}
   a & b & | & e \\
   c & d & | & f
@@ -57,4 +62,5 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   $$a\neq0$$
   \begin{vmatrix}
   1 & \frac{b}{a} & | & \frac{e}{a} \\
-  0 & d - \frac{cdb}{a} & | &
+  0 & d - \frac{cdb}{a} & | & f - \frac{ce}{a}
+  \begin{vmatrix}
