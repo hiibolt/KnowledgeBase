@@ -51,4 +51,5 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   
   * $a=0,c=0,d=0,e\neq 0$: Not invertible
   * $a=0,c=0,e=0,d\neq 0$: Not invertible
-  * For $$$$
+  * $a=0,c=0,d\neq 0$: Not invertible
+  * $b\neq 0
