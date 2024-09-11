@@ -31,5 +31,11 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   c & d
   \end{bmatrix}
   \begin{bmatrix}
-  
+  x \\ y
+  \end{bmatrix}
+  = 
+  \begin{bmatrix}
+  ax + by \\
+  cx + dy
+  \end{bmatrix}
   \end{equation}
