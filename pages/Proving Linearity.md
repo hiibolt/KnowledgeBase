@@ -48,3 +48,6 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   a & b & | & e \\
   c & d & | & f
   \end{vmatrix}
+  
+  * $a=0,c=0,d=0$: Not invertible
+  * $a=0,c=0,d=e$: Not invertibbe
