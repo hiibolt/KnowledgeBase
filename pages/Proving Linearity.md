@@ -14,6 +14,8 @@ $$=F\left(x+x^{\prime},y+y^{\prime}\right)$$
 $$=\left(x+x^{\prime}\right)\left(y+y^{\prime}\right)$$
 $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
 - ## Three Primary Concepts
-  * onto
-  * one-to-one
-  * invertible
+	- #### Onto
+	  Each element in the range is realized $f(x)$ for some $x$
+	- #### One-to-one
+	  No pair in the domain goes to the same element in the range
+	  * invertible
