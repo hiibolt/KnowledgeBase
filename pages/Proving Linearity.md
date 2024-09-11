@@ -13,4 +13,7 @@ $$F\left(\left(x,y\right)+\left(x^{\prime},y^{\prime}\right)\right)$$
 $$=F\left(x+x^{\prime},y+y^{\prime}\right)$$
 $$=\left(x+x^{\prime}\right)\left(y+y^{\prime}\right)$$
 $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
--
+- ## Three Primary Concepts
+  * onto
+  * one-to-one
+  * invertible
