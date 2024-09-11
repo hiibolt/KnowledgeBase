@@ -43,3 +43,8 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   e \\ f
   \end{bmatrix}
   \end{equation}
+  $$\text{or}$$
+  \begin{bmatrix}
+  a & b & | e \\
+  c & d & | f
+  \end{bmatrix}
