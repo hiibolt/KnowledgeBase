@@ -22,4 +22,4 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
 	  No pair in the domain goes to the same element in the range
 	- #### Invertible
 	  The function is both ((66e1e9fa-12b5-40a3-895a-e427b1ff3aa8)) and ((66e1ea14-8a47-43a0-86ba-4089d9062fe5))
--
+- ## Is $\mathbb{R}^2 \rarr \mathbb{R}^2$ Invertible?
