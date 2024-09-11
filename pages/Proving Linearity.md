@@ -49,10 +49,10 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   \end{equation}
   $$\text{or}$$
   
-  \begin{vmatrix}
+  \begin{bmatrix}
   a & b & | & e \\
   c & d & | & f
-  \end{vmatrix}
+  \end{bmatrix}
   
   * $a=0,c=0,d=0,e\neq 0$: Not invertible
   * $a=0,c=0,e=0,d\neq 0$: Not invertible
@@ -60,7 +60,12 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   * $a=0,c=0,b\neq 0$: Not invertible
   
   $$a\neq0$$
-  \begin{vmatrix}
+  \begin{bmatrix}
   1 & \frac{b}{a} & | & \frac{e}{a} \\
   0 & d - \frac{cdb}{a} & | & f - \frac{ce}{a}
-  \begin{vmatrix}
+  \end{bmatrix}
+  $$\text{or}$$
+  \begin{bmatrix}
+  .. & .. & | & \frac{e}{a} \\
+  0 & d - \frac{cdb}{a} & | & f - \frac{ce}{a}
+  \end{bmatrix}
