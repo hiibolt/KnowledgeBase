@@ -49,5 +49,6 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   c & d & | & f
   \end{vmatrix}
   
-  * $a=0,c=0,d=0$: Not invertible
-  * $a=0,c=0,d=e$: Not invertibbe
+  * $a=0,c=0,d=0,e\neq 0$: Not invertible
+  * $a=0,c=0,e=0,d\neq 0$: Not invertible
+  * For $$$$
