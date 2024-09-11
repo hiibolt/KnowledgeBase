@@ -44,7 +44,7 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   \end{bmatrix}
   \end{equation}
   $$\text{or}$$
-  \begin{bmatrix}
-  a & b & | e \\
-  c & d & | f
-  \end{bmatrix}
+  \begin{vmatrix}
+  a & b & | & e \\
+  c & d & | & f
+  \end{vmatrix}
