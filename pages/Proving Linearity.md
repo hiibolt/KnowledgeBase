@@ -74,3 +74,7 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   1 & 0 & | & \frac{de-bf}{ad-bc} \\
   0 & 1 & | & \frac{af-ce}{ad-bc}
   \end{bmatrix}
+  
+  Therefore, we can conclude that, if $ad-bc\neq0$:
+  \begin{cases}
+  x= \frac{}
