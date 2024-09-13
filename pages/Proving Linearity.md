@@ -66,6 +66,6 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   \end{bmatrix}
   $$\text{or}$$
   \begin{bmatrix}
-  1 & 0 & | & \frac{e}{a} - \frac{b}{a}(d-\frac{cb}{a}) \\
+  1 & 0 & | & \frac{e}{a} - \frac{b}{a}\frac{af-ce}{ad-c} \\
   0 & 1 & | & \frac{af-ce}{ad-be}
   \end{bmatrix}
