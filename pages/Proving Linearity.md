@@ -77,4 +77,7 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   
   Therefore, we can conclude that, if $ad-bc\neq0$:
   \begin{cases}
-  x= \frac{}
+  x = \frac{de-bf}{ad-bc} \\
+  y = \frac{af-ce}{ad-bc}
+  \end{cases}
+  \therefore, there
