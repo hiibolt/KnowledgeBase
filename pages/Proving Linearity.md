@@ -102,4 +102,4 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   $$g:B\rightarrow A$$
   $$\therefore\left(g\circ f)(a)=a\right) \text{ and } (f \circ g)(b) = b$$
   
-  This means that the inverse of a $2x2$ linear map
+  This means that the inverse of a $2x2$ linear map commutes interchangeably with that function to create the identity matrix.
