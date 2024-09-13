@@ -96,3 +96,9 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   \begin{equation}
   \frac{1}{ad-bc}\begin{bmatrix}d & -b \\ -c & a\end{bmatrix}
   \end{equation}
+  
+  So, for the functions:
+  $$f:A\rightarrow B$$
+  $$g:B\rightarrow A$$
+  
+  T
