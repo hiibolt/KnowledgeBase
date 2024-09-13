@@ -80,4 +80,4 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   x = \frac{de-bf}{ad-bc} \\
   y = \frac{af-ce}{ad-bc}
   \end{cases}
-  \therefore, there
+  $\therefore$ there is a unique solution.
