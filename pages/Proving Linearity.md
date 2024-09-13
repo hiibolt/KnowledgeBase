@@ -92,4 +92,6 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   $$L\left(\begin{bmatrix}1\\ 0\end{bmatrix}\right)=\begin{bmatrix}a \\ c\end{bmatrix}, 
    L\left(\begin{bmatrix}0\\ 1\end{bmatrix}\right) = \begin{bmatrix}b \\ d\end{bmatrix}$$
   
-  $$\therefore$$, we can assume that the following is the inverse of any given $2x2$
+  $$\therefore$$, we can assume that the following is the inverse of any given $2x2$ matrix:
+  \begin{equation}
+  \frac{1}{ad-bc}\begin{bmatrix}d &
