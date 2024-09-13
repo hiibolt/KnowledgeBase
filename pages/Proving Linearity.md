@@ -100,4 +100,4 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   So, for the functions:
   $$f:A\rightarrow B$$
   $$g:B\rightarrow A$$
-  $$\therefore\left(g\right)$$
+  $$\therefore\left(g\circ f)(a)=a\right) \text{ and } (f \circ g)(b) = b$$
