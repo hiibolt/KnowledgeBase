@@ -101,3 +101,5 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   $$f:A\rightarrow B$$
   $$g:B\rightarrow A$$
   $$\therefore\left(g\circ f)(a)=a\right) \text{ and } (f \circ g)(b) = b$$
+  
+  This means that the inverse of a $2x2$ linear map
