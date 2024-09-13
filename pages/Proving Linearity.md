@@ -85,4 +85,6 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   What about when $ad-bc=0$?
   $$L\left(x\begin{bmatrix}1\\ 0\end{bmatrix}+y\begin{bmatrix}0\\ 1\end{bmatrix})\right)$$
   $$\text{or}$$
-  $$L\left(x\begin{bmatrix}1\\ 0\end{bmatrix})+L(y\begin{bmatrix}0\\ 1\end{bmatrix})\right)$$
+  $$L\left(x\begin{bmatrix}1\\ 0\end{bmatrix}\right) +L\left(y\begin{bmatrix}0\\ 1\end{bmatrix}\right)$$
+  $$\text{or}$$
+  $$xL\left(\begin{bmatrix}1\\ 0\end{bmatrix}\right) +yL\left(\begin{bmatrix}0\\ 1\end{bmatrix}\right)$$
