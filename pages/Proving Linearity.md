@@ -69,3 +69,8 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   1 & 0 & | & \frac{e}{a} - \frac{b}{a}(\frac{af-ce}{ad-c}) \\
   0 & 1 & | & \frac{af-ce}{ad-be}
   \end{bmatrix}
+  $$\text{or}$$
+  \begin{bmatrix}
+  1 & 0 & | & \frac{e}{a} - \frac{b}{a}(\frac{af-ce}{ad-c}) \\
+  0 & 1 & | & \frac{af-ce}{ad-be}
+  \end{bmatrix}
