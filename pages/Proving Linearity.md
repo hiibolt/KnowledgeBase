@@ -104,4 +104,4 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   
   This means that the inverse of a $2x2$ linear map commutes interchangeably with that function to create the identity matrix.
   
-  So what if the determinant is in fact zero
+  So what if the determinant is in fact zero? The answer is simple - the matrix is not invertible.
