@@ -83,3 +83,6 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   $\therefore$ there is a unique solution.
   
   What about when $ad-bc=0$?
+  $$L\left(x\begin{bmatrix}1\\ 0\end{bmatrix}+y\begin{bmatrix}0\\ 1\end{bmatrix})\right)$$
+  $$\text{or}$$
+  $$L\left(x\begin{bmatrix}1\\ 0\end{bmatrix})+L(y\begin{bmatrix}0\\ 1\end{bmatrix})\right)$$
