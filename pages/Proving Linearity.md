@@ -67,10 +67,10 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   $$\text{or}$$
   \begin{bmatrix}
   1 & 0 & | & \frac{e}{a} - \frac{b}{a}(\frac{af-ce}{ad-c}) \\
-  0 & 1 & | & \frac{af-ce}{ad-be}
+  0 & 1 & | & \frac{af-ce}{ad-bc}
   \end{bmatrix}
   $$\text{or}$$
   \begin{bmatrix}
-  1 & 0 & | & \frac{e}{a} - \frac{b}{a}(\frac{af-ce}{ad-c}) \\
-  0 & 1 & | & \frac{af-ce}{ad-be}
+  1 & 0 & | & \frac{de-bf}{ad-bc} \\
+  0 & 1 & | & \frac{af-ce}{ad-bc}
   \end{bmatrix}
