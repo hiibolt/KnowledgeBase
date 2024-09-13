@@ -81,3 +81,5 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   y = \frac{af-ce}{ad-bc}
   \end{cases}
   $\therefore$ there is a unique solution.
+  
+  What about when $ad-bc=0$?
