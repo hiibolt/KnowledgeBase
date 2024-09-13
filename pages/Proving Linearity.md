@@ -100,5 +100,4 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   So, for the functions:
   $$f:A\rightarrow B$$
   $$g:B\rightarrow A$$
-  
-  T
+  $$\therefore\left(g\right)$$
