@@ -25,7 +25,14 @@
   c & d & | & 0 & 1
   \end{vmatrix}
   $$\text{or}$$
+  
   \begin{vmatrix}
   1 & b/a & | & 1/a & 0 \\
   0 & d - bc/a & | & -c/a & 1
+  \end{vmatrix}
+  $$\text{or}$$
+  
+  \begin{vmatrix}
+  1 & 0 & | & \frac{1}{a} & 0 \\
+  0 & 1 & | & \frac{-c/a}}{d-bc/a} & \frac{1}{d-bc/a}
   \end{vmatrix}
