@@ -21,3 +21,11 @@
   Let's consider that for the $2\cdot2$ version first.
   
   \begin{vmatrix}
+  a & b & | & 1 & 0 \\
+  c & d & | & 0 & 1
+  \end{vmatrix}
+  $$\text{or}$$
+  \begin{vmatrix}
+  1 & b/a & | & 1/a & 0 \\
+  0 & d/c & | &  & 1/c
+  \end{vmatrix}
