@@ -441,4 +441,4 @@ collapsed:: true
   \end{bmatrix}
   \end{equation}
 - [[Proving Linearity]]
--
+- [[N-Dimensional Determinants]]
