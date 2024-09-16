@@ -15,3 +15,5 @@
   dx+ey+fz = 0 \\
   gx+hy+iz = 0
   \end{cases}
+  
+  ...and one for each basis vector! Instead, we'll set up a 2D version of [[]]
