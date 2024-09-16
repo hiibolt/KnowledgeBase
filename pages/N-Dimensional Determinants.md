@@ -27,5 +27,5 @@
   $$\text{or}$$
   \begin{vmatrix}
   1 & b/a & | & 1/a & 0 \\
-  0 & d/c & | &  & 1/c
+  0 & d - bc/a & | & -c/a & 1
   \end{vmatrix}
