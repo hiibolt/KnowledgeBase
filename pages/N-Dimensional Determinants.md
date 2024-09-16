@@ -16,4 +16,8 @@
   gx+hy+iz = 0
   \end{cases}
   
-  ...and one for each basis vector! Instead, we'll set up a 2D version of [[]]
+  ...and one for each basis vector! Instead, we'll set up a 2D version of Gaussian elimination.
+  
+  Let's consider that for the $2\cdot2$ version first.
+  
+  \begin{vmatrix}
