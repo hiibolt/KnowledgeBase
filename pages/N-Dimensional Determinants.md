@@ -68,4 +68,5 @@ $$\text{or}$$
   0 & 0 & 1 & | & 1/13 & -9/13 & -5/13
   \end{vmatrix}
   
-  Congrats! You found the inverse for that arbitrary matrix. However, you **must** verify it afterwards by **multiplying out the two matrice**.
+  Congrats! You found the inverse for that arbitrary matrix. However, you **must** verify it afterwards by **multiplying out the two matrices**:
+  ![image.png](../assets/image_1726515842848_0.png)
