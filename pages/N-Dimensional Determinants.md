@@ -33,6 +33,12 @@
   $$\text{or}$$
   
   \begin{vmatrix}
-  1 & 0 & | & \frac{1}{a}-\frac{b}{a}(\frac{-c/a}{d-bc/a}) & \frac{-} \\
+  1 & 0 & | & \frac{1}{a}-\frac{b}{a}(\frac{-c/a}{d-bc/a}) & \frac{-b}{a}(\frac{1}{d-bc/a}) \\
+  0 & 1 & | & \frac{-c/a}{d-bc/a} & \frac{1}{d-bc/a}
+  \end{vmatrix}$$
+  
+  \text{or}$$
+  \begin{vmatrix}
+  1 & 0 & | & \frac{1}{a}-\frac{b}{a}(\frac{-c/a}{d-bc/a}) & \frac{-b}{a}(\frac{1}{d-bc/a}) \\
   0 & 1 & | & \frac{-c/a}{d-bc/a} & \frac{1}{d-bc/a}
   \end{vmatrix}
