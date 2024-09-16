@@ -97,7 +97,7 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   \frac{1}{ad-bc}\begin{bmatrix}d & -b \\ -c & a\end{bmatrix}
   \end{equation}
   
-  Keep in mind for $s\begin{bmatrix}d & -b \\ -c & a\end{bmatrix}$
+  Keep in mind for $s\begin{bmatrix}d & -b \\ -c & a\end{bmatrix}$, it's not $s\cdot\det\left(A\right)$, it's actually $s^2\det\left(A\right)$.
   
   So, for the functions:
   $$f:A\rightarrow B$$
