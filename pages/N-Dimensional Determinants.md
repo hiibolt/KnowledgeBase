@@ -9,4 +9,9 @@
   d & e & f \\
   g & h & i
   \end{bmatrix}
--
+  
+  \begin{cases}
+  ax+by+cz=1 \\
+  dx+ey+fz = 0 \\
+  gx+hy+iz = 0
+  \end{cases}
