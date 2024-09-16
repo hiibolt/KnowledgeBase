@@ -97,6 +97,8 @@ $$=xy+xy^{\prime}+x^{\prime}y+x^{\prime}y^{\prime}$$
   \frac{1}{ad-bc}\begin{bmatrix}d & -b \\ -c & a\end{bmatrix}
   \end{equation}
   
+  Keep in mind for $s\begin{bmatrix}d & -b \\ -c & a\end{bmatrix}$
+  
   So, for the functions:
   $$f:A\rightarrow B$$
   $$g:B\rightarrow A$$
