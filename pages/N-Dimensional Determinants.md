@@ -67,3 +67,5 @@ $$\text{or}$$
   0 & 1 & 0 & | & 2/13 & 8/13 & 3/13 \\
   0 & 0 & 1 & | & 1/13 & -9/13 & -5/13
   \end{vmatrix}
+  
+  Congrats! You found the inverse for that arbitrary matrix. However, you **must** verify it afterwards by **multiplying out the two matrice**.
