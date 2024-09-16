@@ -42,4 +42,7 @@ $$\text{or}$$
   ...and one for each basis vector! Instead, we'll set up a 2D version of Gaussian elimination.
   
   \begin{vmatrix}
-  a & b & c & | & 1
+  a & b & c & | & 1 & 0 & 0 \\
+  d & e & f & | & 0 & 1 & 0 \\
+  g & h & i & | & 0 & 0 & 1
+  \end{vmatrix}
