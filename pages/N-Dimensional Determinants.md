@@ -46,3 +46,10 @@ $$\text{or}$$
   d & e & f & | & 0 & 1 & 0 \\
   g & h & i & | & 0 & 0 & 1
   \end{vmatrix}
+  
+  For example:
+  \begin{vmatrix}
+  1 & 5 & 3 & | & 1 & 0 & 0 \\
+  -1 & 0 & 0 & | & 0 & 1 & 0 \\
+  2 & 1 & -2 & | & 0 & 0 & 1
+  \end{vmatrix}
