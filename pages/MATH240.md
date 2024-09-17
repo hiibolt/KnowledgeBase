@@ -442,3 +442,4 @@ collapsed:: true
   \end{equation}
 - [[Proving Linearity]]
 - [[N-Dimensional Determinants]]
+- [[List Operations]]
