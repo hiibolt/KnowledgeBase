@@ -72,3 +72,5 @@ $$\text{or}$$
   ![image.png](../assets/image_1726515842848_0.png)
 - ## Additional Notes
   It's heavily worth noting that if the Gaussian process aborts, then it means that A is not invertible!
+  
+  The determinant of the identity matrix is $1$.
