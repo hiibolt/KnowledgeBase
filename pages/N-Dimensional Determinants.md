@@ -80,3 +80,5 @@ $$\text{or}$$
   It's heavily worth noting that if the Gaussian process aborts, then it means that A is not invertible!
   
   The determinant of the identity matrix is $1$.
+- ## Is $\det\left(AB\right)=\det\left(A\right)\cdot\det\left(B\right)$?
+  meow
