@@ -81,4 +81,4 @@ $$\text{or}$$
   
   The determinant of the identity matrix is $1$.
 - ## Is $\det\left(AB\right)=\det\left(A\right)\cdot\det\left(B\right)$?
-  meow
+  Yes.
