@@ -71,6 +71,10 @@ $$\text{or}$$
   Congrats! You found the inverse for that arbitrary matrix. However, you **must** verify it afterwards by **multiplying out the two matrices**:
   ![image.png](../assets/image_1726515842848_0.png)
 	- ## Finding the Determinant
+	  \begin{bmatrix}
+	  a & b & c \\
+	  d & e & g \\
+	  h & i & j 
 	  $$\det\left(A\right)=aei+bfg+cdh-gec-hfa-dbi$$
 	  $$\text{or}$$
 	  $$=a\left(ei-fh\right)-b\left(di-fg\right)+c\left(dh-eg\right)$$
