@@ -72,6 +72,8 @@ $$\text{or}$$
   ![image.png](../assets/image_1726515842848_0.png)
 	- ## Finding the Determinant
 	  $$\det\left(A\right)=aei+bfg+cdh-gec-hfa-dbi$$
+	  $$\text{or}$$
+	  $$=a\left(ei-fh\right)+b\left(fg-\right)$$
 - ## Additional Notes
   It's heavily worth noting that if the Gaussian process aborts, then it means that A is not invertible!
   
