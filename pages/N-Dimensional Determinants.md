@@ -75,7 +75,7 @@ $$\text{or}$$
 	  $$\text{or}$$
 	  $$=a\left(ei-fh\right)-b\left(di-fg\right)+c\left(dh-eg\right)$$
 	  $$\text{or}$$
-	  $$=-b\left(\right)$$
+	  $$=-b\left(di-fg\right)+e\left(ai-bg\right)-h\left(af-cd\right)$$
 - ## Additional Notes
   It's heavily worth noting that if the Gaussian process aborts, then it means that A is not invertible!
   
