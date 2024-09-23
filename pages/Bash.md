@@ -27,4 +27,10 @@
 	  * `?` - Return code (status) of last command
 	  * `$` - Process ID (PID) of current shell
 	- #### Event History
-	  * `% !!`
+	  `history`
+	  
+	  **Re-runs**:
+	  * `$ !!` - By last command
+	  * `$ 5` - By the event numebr
+	  * `$ !-3`
+	  * `$ !ls` - By the text of the command used
