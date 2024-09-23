@@ -18,5 +18,8 @@
 	  * `PWD` - Current working directory
 	  * `EDITOR` - Default editor to use when needed
 	  * `DISPLAY` - Where GUI apps should show (X server)
+	  * `BASH` - The absolute path of the
 	  * `RANDOM` - Returns a random number
-	  * ``
+	  * `HOSTNAME` - Returns the t
+	  * `?` - Return code (status) of last command
+	  * `$` - Process ID (PID) of current shell
