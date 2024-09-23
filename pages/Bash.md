@@ -36,5 +36,8 @@
 	  * `$ !ls` - By the text of the command used
 - ## Syntax
 	- ### Command Substitution
-	  A command surrounded by backticks is substituted for Bash syntax.
+	  A command surrounded by backticks is substituted for Bash syntax. You can also use `$()`.
+	  
+	  Examples:
+	  ````
 -
