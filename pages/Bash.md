@@ -8,3 +8,6 @@
 	  `$ <variable>=<string_value>`
 	- #### Retrieving a variable
 	  `$ echo $<variable>`
+	- #### Predefined Variables
+	  * `EDITOR` - 
+	  * `DISPLAY` - Where GUI apps should show (X server)
