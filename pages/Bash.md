@@ -18,3 +18,5 @@
 	  * `PWD` - Current working directory
 	  * `EDITOR` - Default editor to use when needed
 	  * `DISPLAY` - Where GUI apps should show (X server)
+	  * `RANDOM` - Returns a random number
+	  * ``
