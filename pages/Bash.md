@@ -3,6 +3,7 @@
 * `~/.bashrc` if invoked from command line
 - ### Variables
   * Always stored as strings or arrays of strings
+  * Strings with quotes should have quotes around them
 	- #### Setting a variable:
 	  `$ <variable>=<string_value>`
 	- #### Retrieving a variable
