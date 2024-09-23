@@ -10,8 +10,10 @@
 	  `$ echo $<variable>`
 	- #### Predefined Variables
 	  * `HOME` - The path to the user's home directory
-	  * `PATH` - 
-	  * `USER` - 
+	  * `PATH` - List of directories to search for commands
+	  * `MAIL` - Absolute path to your system mailbox
+	  * `USER` - Your username
+	  * `SHELL` - Absolute path to your *login shell*
 	  * `TERM` - Format of terminal being used
 	  * `PWD` - Current working directory
 	  * `EDITOR` - Default editor to use when needed
