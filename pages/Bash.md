@@ -1,3 +1,7 @@
-## Customization
+#### Customization
 * `~/.bash_profile` is login session shell
-* `~/.bashrc` if invoked from command line`
+* `~/.bashrc` if invoked from command line
+- ### Variables
+  * Always stored as strings or arrays of strings
+	- #### Setting a variable:
+	  ``
