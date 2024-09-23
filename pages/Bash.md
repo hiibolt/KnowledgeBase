@@ -9,5 +9,10 @@
 	- #### Retrieving a variable
 	  `$ echo $<variable>`
 	- #### Predefined Variables
-	  * `EDITOR` - 
+	  * `HOME` - The path to the user's home directory
+	  * `PATH` - 
+	  * `USER` - 
+	  * `TERM` - Format of terminal being used
+	  * `PWD` - Current working directory
+	  * `EDITOR` - Default editor to use when needed
 	  * `DISPLAY` - Where GUI apps should show (X server)
