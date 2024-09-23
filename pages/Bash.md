@@ -23,5 +23,6 @@
 	  * `HOSTNAME` - Returns the name of the host
 	  * `HOSTTYPE` - Platform type
 	  * `PS1` - Changes the shell prompt
+	  * `HISTSIZE` - Number of command lines to remember
 	  * `?` - Return code (status) of last command
 	  * `$` - Process ID (PID) of current shell
