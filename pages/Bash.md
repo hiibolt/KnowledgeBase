@@ -35,3 +35,5 @@
 	  * `$ !-3`- By the number relative to
 	  * `$ !ls` - By the text of the command used
 - ## Syntax
+	- ### Command Substitution
+	  A command surrounded by backticks is substituted for Bash syntax.
