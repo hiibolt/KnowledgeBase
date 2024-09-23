@@ -39,5 +39,8 @@
 	  A command surrounded by backticks is substituted for Bash syntax. You can also use `$()`.
 	  
 	  Examples:
-	  ````
+	  ```bash
+	  echo '$PWD'
+	  echo $($PWD)
+	  ```
 -
