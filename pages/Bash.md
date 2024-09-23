@@ -34,3 +34,4 @@
 	  * `$ 5` - By the event numebr
 	  * `$ !-3`- By the number relative to
 	  * `$ !ls` - By the text of the command used
+- ## Syntax
