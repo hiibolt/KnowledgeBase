@@ -26,3 +26,5 @@
 	  * `HISTSIZE` - Number of command lines to remember
 	  * `?` - Return code (status) of last command
 	  * `$` - Process ID (PID) of current shell
+	- #### Event History
+	  * `% !!`
