@@ -25,3 +25,12 @@ You must notate it as:
 	  x+3y-z=v\\
 	  y+2z=w
 	  \end{cases}
+	  
+	  Is also representable as:
+	  \begin{equation}
+	  \begin{bmatrix}
+	  1 & 2 & -2 \\
+	  1 & 3 & -1 \\
+	  0 & 1 & 2
+	  \end{bmatrix}
+	  \begin{bma}
