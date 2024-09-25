@@ -14,3 +14,5 @@ You must notate it as:
 \frac{3}{2} \\ \frac{1}{2}
 \end{bmatrix}_{B}
 \end{equation}
+- ### Matrix-Based Equations
+-
