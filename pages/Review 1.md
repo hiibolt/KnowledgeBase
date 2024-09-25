@@ -16,4 +16,6 @@ You must notate it as:
 \end{equation}
 - ### Matrix-Based Equations
 	- #### Communicative Law
-	  If $A$ is invertible, and $A_{n\cdot n}X_{n\cdot m}=B_{n\cdot m}$, then $\left(A^{-1}\right)\left(AX\right)=A^{-1}B$
+	  If $A$ is invertible, and $A_{n\cdot n}X_{n\cdot m}=B_{n\cdot m}$, then $\left(A^{-1}\right)\left(AX\right)=A^{-1}B$ and thus $$$$.
+	  
+	  Most helpful when $m = 1$.
