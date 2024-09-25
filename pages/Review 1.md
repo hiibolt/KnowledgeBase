@@ -33,4 +33,26 @@ You must notate it as:
 	  1 & 3 & -1 \\
 	  0 & 1 & 2
 	  \end{bmatrix}
-	  \begin{bma}
+	  \begin{bmatrix}
+	  x \\ y \\ z 
+	  \end{bmatrix}
+	  =
+	  \begin{bmatrix}
+	  u \\ v \\ w
+	  \end{bmatrix}
+	  \end{equation}
+	  $$\text{or}$$
+	  \begin{equation}
+	  \begin{bmatrix}
+	  x \\ y \\ z 
+	  \end{bmatrix}
+	  =
+	  \begin{bmatrix}
+	  1 & 2 & -2 \\
+	  1 & 3 & -1 \\
+	  0 & 1 & 2
+	  \end{bmatrix}^{-1}
+	  \begin{bmatrix}
+	  u \\ v \\ w
+	  \end{bmatrix}
+	  \end{equation}
