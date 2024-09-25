@@ -59,3 +59,5 @@ You must notate it as:
 	- #### Determinants
 	  If both a matrix $A$ and a matrix $B$ are invertible:
 	  $$\det\left(AB\right)=\det\left(A\right)\det\left(B\right)$$
+	  $$\text{and}$$
+	  $$\left(AB\right)^{-1}=B^{-1}A^{-1}$$
