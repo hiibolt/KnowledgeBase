@@ -443,4 +443,4 @@ collapsed:: true
 - [[Proving Linearity]]
 - [[N-Dimensional Determinants]]
 - [[List Operations]]
-- RE
+- **REVIEW THUS FAR**: [[Review 1]]
