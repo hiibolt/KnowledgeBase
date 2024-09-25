@@ -56,3 +56,6 @@ You must notate it as:
 	  u \\ v \\ w
 	  \end{bmatrix}
 	  \end{equation}
+	- #### Determinants
+	  If both a matrix $A$ and a matrix $
+	  $$\det\left(AB\right)=\det\left(A\right)\det\left(B\right)$$
