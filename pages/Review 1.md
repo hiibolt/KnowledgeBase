@@ -57,5 +57,5 @@ You must notate it as:
 	  \end{bmatrix}
 	  \end{equation}
 	- #### Determinants
-	  If both a matrix $A$ and a matrix $
+	  If both a matrix $A$ and a matrix $B$ are invertible:
 	  $$\det\left(AB\right)=\det\left(A\right)\det\left(B\right)$$
