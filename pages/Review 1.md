@@ -19,3 +19,9 @@ You must notate it as:
 	  If $A$ is invertible, and $A_{n\cdot n}X_{n\cdot m}=B_{n\cdot m}$, then $\left(A^{-1}\right)\left(AX\right)=A^{-1}B$ and thus $X=A^{-1}B$.
 	  
 	  Most helpful when $m = 1$.
+	- #### Systems in Matrix Notation
+	  \begin{cases}
+	  x+2y-2z=u\\
+	  x+3y-z=v\\
+	  y+2z=w
+	  \end{cases}
