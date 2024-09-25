@@ -443,3 +443,4 @@ collapsed:: true
 - [[Proving Linearity]]
 - [[N-Dimensional Determinants]]
 - [[List Operations]]
+- RE
