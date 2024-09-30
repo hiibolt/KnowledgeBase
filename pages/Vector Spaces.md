@@ -10,4 +10,7 @@ Each vector pair $u,v$ must produce another vector $u+v$.
   
   In this case, it becomes immediately apparent that it's not going to work.
   For example,
-  $$\left(-1,1\right)$$
+  $$\left(-1,1\right)=a\left(1,1\right)+b\left(1,-1\right)$$
+  $$\text{or}$$
+  $$\left(-1,1\right)=\left(0\right)\left(1,1\right)+\left(-1\right)\left(1,-1\right)$$
+-
