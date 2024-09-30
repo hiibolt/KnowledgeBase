@@ -21,3 +21,5 @@ Each vector pair $u,v$ must produce another vector $u+v$.
   * $v+w=w+v$
   * $1v=v$
   * $(u+v)+w=u+(v+w)$
+  * $s(tv) = (st)v$
+  * $s(u+v)=su+sv$
