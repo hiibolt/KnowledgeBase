@@ -31,4 +31,4 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	  \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix}
 	  \end{equation}
 - ## Traces
-  $$\tr{\begin{bmatrix}a & b\\ c & d\end{bmatrix}}$$
+  $$\text{tr}{\begin{bmatrix}a & b\\ c & d\end{bmatrix}}=a+d$$
