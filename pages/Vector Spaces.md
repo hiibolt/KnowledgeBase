@@ -26,6 +26,7 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	- ### Example in $\mathbb{R}_{2*2}$:
 	  \begin{equation}
 	  \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} = x
-	  \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} = y
-	  \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} = z
-	  \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} =
+	  \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix} + y
+	  \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix} + z
+	  \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix}
+	  \end{equation}
