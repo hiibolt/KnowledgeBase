@@ -9,3 +9,5 @@ Each vector pair $u,v$ must produce another vector $u+v$.
   $$\left(x,y\right)=s_1\left(1,1\right)+s_2\left(1,-1\right)+s_3\left(-1,1\right)$$
   
   In this case, it becomes immediately apparent that it's not going to work.
+  For example,
+  $$\left(-1,1\right)$$
