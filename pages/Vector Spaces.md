@@ -23,3 +23,9 @@ Each vector pair $u,v$ must produce another vector $u+v$.
   * $(u+v)+w=u+(v+w)$
   * $s(tv) = (st)v$
   * $s(u+v)=su+sv$
+	- ### Example in $\mathbb{R}_{2*2}$:
+	  \begin{equation}
+	  \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} = x
+	  \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} = y
+	  \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} = z
+	  \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} =
