@@ -32,3 +32,5 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	  \end{equation}
 - ## Traces
   $$\text{tr}{\begin{bmatrix}a & b\\ c & d\end{bmatrix}}=a+d$$
+  
+  Basis vectors only need hit vectors that are within the vector space (trace = 0)
