@@ -13,4 +13,6 @@ Each vector pair $u,v$ must produce another vector $u+v$.
   $$\left(-1,1\right)=a\left(1,1\right)+b\left(1,-1\right)$$
   $$\text{or}$$
   $$\left(-1,1\right)=\left(0\right)\left(1,1\right)+\left(-1\right)\left(1,-1\right)$$
+  
+  As a result, we derive that a basis is a collection of vectors that **span** the vector space but has **no redundant vectors**.
 -
