@@ -42,3 +42,6 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	  $$=x\begin{bmatrix}0 & 0\\ 1 & 0\end{bmatrix}+y\begin{bmatrix}0 & 0\\ 1 & 0\end{bmatrix}+z\begin{bmatrix}1 & 0\\ 0 & -1\end{bmatrix}$$
 	- #### "$V$" Space
 	  $$V=\{v\in M_{2*2}\text{ | }\det(v)=0\}$$
+	  
+	  We verify that the scalars exist:
+	  $$s\begin{bmatrix}a & b\\ c & d\end{bmatrix}=\begin{bmatrix}sa & sb\\ sc & sd\end{bmatrix}$$
