@@ -280,6 +280,7 @@ impl std::fmt::Debug for Matrice {
 	  0 & \sin{\theta} & \cos{\theta}
 	  \end{bmatrix}
 	- ### Trace
+	  id:: 66fc4beb-e6bb-4622-ba4c-cb9d1938d5c8
 	  $$\text{tr}{\begin{bmatrix}a & b\\ c & d\end{bmatrix}}=a+d$$
 	  
 	  Basis vectors only need hit vectors that are within the vector space (trace = 0)
