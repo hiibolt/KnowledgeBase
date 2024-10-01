@@ -43,12 +43,24 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	- #### "$V$" Space
 	  $$V=\{v\in M_{2*2}\text{ | }\det(v)=0\}$$
 	  
-	  Does it have a zero:
+	  **Does it have a zero matrix**:
 	  Yes.
 	  
-	  We verify that they stay in the space even with scalar multiplication:
+	  **We verify that they stay in the space even with scalar multiplication**:
 	  $$\det(s\begin{bmatrix}a & b\\ c & d\end{bmatrix})=\det(\begin{bmatrix}sa & sb\\ sc & sd\end{bmatrix})=s^2(ad-bc)$$
 	  Yes.
 	  
-	  We verify that they stay in the space even with matrix addition:
-	  It does not! There exist examples of matrix addition where two matrices with determinant of zero, when added,
+	  **We verify that they stay in the space even with matrix addition**:
+	  It does not! There exist examples of matrix addition where two matrices with determinant of zero, when added, do not create a result with a determinant of zero.
+	  
+	  For example:
+	  \begin{equation}
+	  \begin{bmatrix}
+	  1 & 0 \\
+	  0 & 0
+	  \end{bmatrix}
+	  +
+	  \begin{bmatrix}
+	  0 & 0 \\
+	  0 & 1
+	  \end{bmatrix}
