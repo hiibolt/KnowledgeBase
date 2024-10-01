@@ -64,3 +64,9 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	  0 & 0 \\
 	  0 & 1
 	  \end{bmatrix}
+	  =
+	  \begin{bmatrix}
+	  1 & 0 \\
+	  0 & 1
+	  \end{bmatrix}
+	  \end{equation}
