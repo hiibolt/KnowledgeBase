@@ -50,4 +50,5 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	  $$\det(s\begin{bmatrix}a & b\\ c & d\end{bmatrix})=\det(\begin{bmatrix}sa & sb\\ sc & sd\end{bmatrix})=s^2(ad-bc)$$
 	  Yes.
 	  
-	  We verify that
+	  We verify that they stay in the space even with matrix addition:
+	  It does not! There exist examples of matrix addition where two matrices with determinant of zero, when added,
