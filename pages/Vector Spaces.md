@@ -74,4 +74,5 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	  **Does it have a zero matrix**:
 	  Yes, $0$.
 	  
-	  **Does it stay in
+	  **Does it stay in the space even with scalar multiplication**:
+	  Yes.
