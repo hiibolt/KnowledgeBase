@@ -69,3 +69,4 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	  \end{bmatrix}
 	  \end{equation}
 	- #### Quadratic Space
+	  $$\{a+bx+cx^2\text{ | }\begin{cases}a,b,c\in\mathbb{R}\\ x\in\mathbb{R}\end{cases}\}$$
