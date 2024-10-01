@@ -70,3 +70,8 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	  \end{equation}
 	- #### Quadratic Space
 	  $$\{a+bx+cx^2\text{ | }\begin{cases}a,b,c\in\mathbb{R}\\ x\in\mathbb{R}\end{cases}\}$$
+	  
+	  **Does it have a zero matrix**:
+	  Yes, $0$.
+	  
+	  **Does it stay in
