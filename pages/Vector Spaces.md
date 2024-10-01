@@ -31,7 +31,7 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 		  \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix}
 		  \end{equation}
 	- ### Characteristics Of A Valid Vector Space
-	  The linear map of the constraint *must* be **linear**. For example, a ((66fc4beb-e6bb-4622-ba4c-cb9d1938d5c8)) is **linear**, but a ((66edcc70-f62b-44f4-8f05-c83445efa4ec))
+	  The linear map of the constraint *must* be **linear**. For example, a ((66fc4beb-e6bb-4622-ba4c-cb9d1938d5c8)) is **linear**, but a ((66e8828d-8b04-4463-b479-f87150ad4c58)) is not.
 - ### Common Spaces
 	- #### "$U$" Space
 	  $$U=\{u\in M_{2*2} | \text{tr}(u)=0\}$$

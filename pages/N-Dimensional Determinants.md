@@ -1,4 +1,5 @@
-## 2x2
+## 2x2 Determinant
+id:: 66e8828d-8b04-4463-b479-f87150ad4c58
 \begin{equation}
 \frac{1}{ad-bc}\begin{bmatrix}a & b \\ c & d\end{bmatrix}
 \end{equation}
@@ -25,7 +26,7 @@ $$\text{or}$$
 1 & 0 & | & \frac{d}{ad-bc} & \frac{-b}{ad-bc} \\
 0 & 1 & | & \frac{-c}{ad-bc} & \frac{a}{ad-bc}
 \end{vmatrix}
-- ## 3x3
+- ## 3x3 Determinant
   For a matrix like:
   \begin{bmatrix}
   a & b & c \\
