@@ -41,4 +41,4 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	  The common basis vectors are the following three:
 	  $$=x\begin{bmatrix}0 & 0\\ 1 & 0\end{bmatrix}+y\begin{bmatrix}0 & 0\\ 1 & 0\end{bmatrix}+z\begin{bmatrix}1 & 0\\ 0 & -1\end{bmatrix}$$
 	- #### "V" Space
-	  $$V=$$
+	  $$V=\{v\in M_{2*2}\text{ | }\det(v)=0\}$$
