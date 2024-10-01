@@ -30,10 +30,6 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 		  \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix} + z
 		  \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix}
 		  \end{equation}
-- ## Traces
-  $$\text{tr}{\begin{bmatrix}a & b\\ c & d\end{bmatrix}}=a+d$$
-  
-  Basis vectors only need hit vectors that are within the vector space (trace = 0)
 - ### Common Spaces
 	- #### "$U$" Space
 	  $$U=\{u\in M_{2*2} | \text{tr}(u)=0\}$$
