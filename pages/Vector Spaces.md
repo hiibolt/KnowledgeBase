@@ -76,3 +76,6 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	  
 	  **Does it stay in the space even with scalar multiplication**:
 	  Yes.
+	  
+	  **What are the basis vectors?**
+	  $$1,x,x^2$$
