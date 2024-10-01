@@ -30,7 +30,8 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 		  \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix} + z
 		  \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix}
 		  \end{equation}
-	- ### Characteristics of Constraints
+	- ### Characteristics of Constraints for Valid Vector Spaces
+	  The linear map of the constraint *must* be **linear**.
 - ### Common Spaces
 	- #### "$U$" Space
 	  $$U=\{u\in M_{2*2} | \text{tr}(u)=0\}$$
