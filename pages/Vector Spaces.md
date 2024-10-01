@@ -35,4 +35,4 @@ Each vector pair $u,v$ must produce another vector $u+v$.
   
   Basis vectors only need hit vectors that are within the vector space (trace = 0)
 - #### $u$ Space
-  $$U=\{u\in M_{2*2}|\text{tr}(u)=0\}$$
+  $$U=\{u\in M_{2*2} | \text{tr}(u)=0\}$$
