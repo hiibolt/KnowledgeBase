@@ -43,5 +43,7 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	- #### "$V$" Space
 	  $$V=\{v\in M_{2*2}\text{ | }\det(v)=0\}$$
 	  
-	  We verify that the scalars exist:
+	  Does it have a zero? Yes.
+	  
+	  We verify that the s
 	  $$\det(s\begin{bmatrix}a & b\\ c & d\end{bmatrix})=\det(\begin{bmatrix}sa & sb\\ sc & sd\end{bmatrix})=s^2(ad-bc)$$
