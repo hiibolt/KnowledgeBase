@@ -1,0 +1,7 @@
+### Important Calls
+* `fork`
+Starts a child process with the same binary the parent started with
+* `wait`
+Waits until *a* child process finishes
+* `exec`
+Replaces current process image with a new process image
