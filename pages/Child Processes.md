@@ -6,8 +6,8 @@
 	- #### `exec`
 	  Replaces current process image with a new process image
 		- #### `execlp`
-		  Takes a `nullptr`-terminated list of arguments and tries to call the provided program, also checking the user's `$PATH`.
+		  Takes a `nullptr`-terminated argument lists and tries to call the provided program, also checking the user's `$PATH`.
 		- #### `execl`
 		  The same as above, but does not check the user's `$PATH`.
 		- #### `execp`
-		  Take
+		  Takes only the program name and an array of arguments, also checking the `$PATH`.
