@@ -3,7 +3,7 @@
 	  Starts a child process with the same binary the parent started with
 	- #### `wait`
 	  Waits until *a* child process finishes
-	- #### `exec`
+	- #### `exec` Family
 	  Replaces current process image with a new process image
 		- #### `execlp`
 		  Takes a `nullptr`-terminated argument lists and tries to call the provided program, also checking the user's `$PATH`.
