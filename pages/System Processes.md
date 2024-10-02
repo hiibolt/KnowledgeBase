@@ -13,6 +13,8 @@
 		  Takes only the program name and an array of arguments.
 		- #### `execvp`
 		  Takes only the program name and an array of arguments, checking the `$PATH`.
+	- #### `pipe`
+	  Creates a pipe which chains two file descriptors.
 - ### Spawning Additional Processes
   It's not possible to spawn an additional process with only one system call.
   
