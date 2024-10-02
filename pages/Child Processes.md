@@ -14,4 +14,8 @@
 		- #### `execvp`
 		  Takes only the program name and an array of arguments, checking the `$PATH`.
 - ### Spawning Additional Processes
-  It's not possible to spawn a
+  It's not possible to spawn an additional process with only one system call.
+  
+  Instead, you must:
+  * Fork into a child process
+  * Morph the child process into the desired one
