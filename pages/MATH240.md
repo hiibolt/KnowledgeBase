@@ -97,23 +97,8 @@ collapsed:: true
 		  $$L_{III}:\R^2->\R^2$$
 		  $$L_{III}\left(x,x^{\prime}\right)=\left(ax+bx^{\prime},cx+\mathrm{d}x^{\prime}\right)$$
 		  *Again, these are the only linear maps.*
-- ## Gaussian Elimination 
+- ## Gaussian Elimination
   collapsed:: true
-  \begin{equation}
-  \begin{bmatrix}
-  a & b \\
-  c & d
-  \end{bmatrix}
-  \begin{bmatrix}
-  x_1 \\
-  x_2
-  \end{bmatrix}
-  =
-  \begin{bmatrix}
-  e \\
-  f
-  \end{bmatrix}
-  \end{equation}
 	- #### E1. Example Problem
 	  \begin{cases}
 	  y=4 \\
@@ -424,22 +409,6 @@ collapsed:: true
 			  This describes our set of solutions $S$ from our example in proper notation.
 - [[R Notation]]
 - [[Matrices]]
-  It's worth noting that a matrix function that maps from say, $L:\mathbb{R}_{2\times1}\rightarrow\mathbb{R}_{1\times2}$, is linear if it can be represented by a $2\times2$ matrix!
-  
-  For a composition $K\times L$ (aka $\left(K\cdot L\right)\left(v\right)$), you would do the matrix product of $K\times L$.
-  \begin{equation}
-  \begin{bmatrix}
-  e & f \\ 
-  g & h
-  \end{bmatrix} \times \begin{bmatrix}
-  a & b \\
-  c & d
-  \end{bmatrix} = 
-  \begin{bmatrix}
-  ea+fac & eb+fd \\
-  ga+hc & gb + hd
-  \end{bmatrix}
-  \end{equation}
 - [[Proving Linearity]]
 - [[N-Dimensional Determinants]]
 - [[List Operations]]
