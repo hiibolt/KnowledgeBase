@@ -1,5 +1,5 @@
 ## Template `Makefile`
-Example Makefile
+Example Makefile:
 ```Makefile
 # Compiler Flags
 CXX = g++
@@ -10,5 +10,7 @@ prog: main.o foo.o
       $(CXX) $(CXXFLAGS) main.o foo.o
 
 main.o: main.cc foo.h
-      $(CXX) $(CXXFLAGS) -o main.cc
+      $(CXX) $(CXXFLAGS) -c main.cc
 ```
+
+**Do not ever put a header in your build directives, only ever as a dependency!**
