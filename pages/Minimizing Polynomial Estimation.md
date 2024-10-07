@@ -9,3 +9,4 @@ $$a,b,\text{ and }c$$ are assumed to be arbitrary constants we must find to mini
 	- ### Step 2 - Expand
 	  Second, expand the integrand:
 	  $$\ldots\left(x^3-a-bx-c^2\right)^2\ldots$$
+	- ### 3 - Gradient
