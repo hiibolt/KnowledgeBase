@@ -11,7 +11,9 @@ prog: main.o foo.o
 
 main.o: main.cc foo.h
 	$(CXX) $(CXXFLAGS) -c main.cc
-      
+
+foo.o: foo.cc foo.h
+	$(CXX) $(CXXFLAGS) -c foo.cc
 
 ```
 
