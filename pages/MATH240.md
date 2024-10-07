@@ -414,3 +414,4 @@ collapsed:: true
 - [[List Operations]]
 - **REVIEW THUS FAR**: [[Review 1]]
 - [[Vector Spaces]]
+- [[Minimizing Polynomial Estimation]]
