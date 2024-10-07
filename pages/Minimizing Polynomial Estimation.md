@@ -12,5 +12,7 @@ $$a,b,\text{ and }c$$ are assumed to be arbitrary constants we must find to mini
 	- ### 3 - Gradient
 	  Next, create the gradient of the new integral with respect to each $a,b,\text{ and }c$.
 	  \begin{cases}
-	  \frac{d}{da}L(a,b,c)
-	  \frac{d}{}
+	  \frac{d}{da}\left(L(a,b,c)\right) \\
+	  \frac{d}{db}\left(L(a,b,c)\right) \\
+	  \frac{d}{dc}\left(L(a,b,c)\right)
+	  \end{cases}
