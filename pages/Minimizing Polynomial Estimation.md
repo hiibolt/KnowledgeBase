@@ -1,2 +1,3 @@
 ## Steps
-First, you must take the function you wish to minimize against:
+First, define the function measuring error based on a loss function:
+$$$$
