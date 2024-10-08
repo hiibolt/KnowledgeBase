@@ -83,7 +83,10 @@ Each vector pair $u,v$ must produce another vector $u+v$.
   Let's say that we have two vector spaces, $V$ and $W$.
   
   $V$ has the basis $\beta=b_1,\ldots,b_{n}$
-  $W$ has the basis $\gamma=c_1,...c_{n}$
+  $W$ has the basis $\alpha=c_1,...c_{n}$
   
   We have a linear map:
   $$L:V\rightarrow W$$
+  $$\left\lbrack L\right\rbrack_{\beta}^{\alpha}$$
+  $$\therefore$$
+  $$L\left(b_1)=\alpha_1c$$
