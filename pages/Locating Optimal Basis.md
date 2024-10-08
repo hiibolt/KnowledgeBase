@@ -17,3 +17,7 @@ $$f(x)=\frac{1}{20}(1-12x+30x^2)$$
   
   So, the system we must solve is:
   \begin{cases}
+  x = \frac{1}{2\lambda} \\
+  y = \frac{1}{\lambda} \\
+  x^2 + y^2 = 1
+  \end{cases}
