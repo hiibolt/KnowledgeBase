@@ -10,3 +10,5 @@ $$f(x)=\frac{1}{20}(1-12x+30x^2)$$
 - ## Maximizing $f\left(x,y\right)=x+2y$ subject to $x^2+y^2=1$
   First, let's find our **Lagrangian equation**:
   $$L(x,y,\lambda)=(x+2y)-\lambda(x^2+y^2-1)$$
+  
+  Next, let's take the partial derivatives:
