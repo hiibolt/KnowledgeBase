@@ -82,4 +82,8 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 - ## ?
   Let's say that we have two vector spaces, $V$ and $W$.
   
-  $$V$$ has the basis $\beta=b_1,\ldots,b_{n}$
+  $V$ has the basis $\beta=b_1,\ldots,b_{n}$
+  $W$ has the basis $\gamma=c_1,...c_{n}$
+  
+  We have a linear map:
+  $$L:V\rightarrow W$$
