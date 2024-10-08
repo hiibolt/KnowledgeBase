@@ -27,4 +27,6 @@ $$f(x)=\frac{1}{20}(1-12x+30x^2)$$
   
   Now that we have our $\lambda$ value:
   \begin{cases}
-  x = \frac{1}{2\frac{\sqrt{3}}{2}} = \frac{}
+  x = \frac{1}{2\frac{\sqrt{3}}{2}} = \frac{1}{\sqrt{5}}
+  y = \frac{1}{\frac{\sqrt{3}}{2}} = \frac{2}{\sqrt{5}}
+  \end{cases}
