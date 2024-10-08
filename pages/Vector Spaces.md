@@ -92,5 +92,10 @@ Each vector pair $u,v$ must produce another vector $u+v$.
   $$L(b_1)=\alpha_1c_1+\ldots+\alpha_mc_m$$
   
   Our matrix ($M_{m\cdot n}$):
+  \begin{equation}
   \begin{bmatrix}
-  \alpha
+  \alpha_{11} & \ldots & \alpha_{1n} \\
+  \ldots & \ldots & \ldots \\
+  \alpha_{m1} & \ldots & \alpha_{mn}
+  \end{bmatrix}_\beta^\gamma
+  \end{equation}
