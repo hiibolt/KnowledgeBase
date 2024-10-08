@@ -79,3 +79,7 @@ Each vector pair $u,v$ must produce another vector $u+v$.
 	  
 	  **What are the basis vectors?**
 	  $$1,x,x^2$$
+- ## ?
+  Let's say that we have two vector spaces, $V$ and $W$.
+  
+  $$V$$ has the basis $\beta=b_1,\ldots,b_{n}$
