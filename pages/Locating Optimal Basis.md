@@ -8,4 +8,4 @@ $$f(x)=(\int_0^1{(x^3)(1)}dx)(1)+(\int_0^1(x^3)(\sqrt{3}(1-2x))dx)(\sqrt{3}(1-2x
 $$\text{or}$$
 $$f(x)=\frac{1}{20}(1-12x+30x^2)$$
 - ## Maximizing $f\left(x,y\right)=x+2y$ subject to $x^2+y^2=1$
-  First, let's take the gradie
+  First, let's find our La
