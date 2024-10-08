@@ -83,10 +83,14 @@ Each vector pair $u,v$ must produce another vector $u+v$.
   Let's say that we have two vector spaces, $V$ and $W$.
   
   $V$ has the basis $\beta=b_1,\ldots,b_{n}$
-  $W$ has the basis $\alpha=c_1,\ldots,c_m$
+  $W$ has the basis $\gamma=c_1,\ldots,c_m$
   
   We have a linear map:
   $$L:V\rightarrow W$$
-  $$\left\lbrack L\right\rbrack_{\beta}^{\alpha}$$
+  $$\left\lbrack L\right\rbrack_{\beta}^{\gamma}$$
   $$\therefore$$
   $$L(b_1)=\alpha_1c_1+\ldots+\alpha_mc_m$$
+  
+  Our matrix ($M_{m\cdot n}$):
+  \begin{bmatrix}
+  \alpha
