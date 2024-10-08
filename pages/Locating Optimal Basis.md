@@ -4,4 +4,4 @@ By minimizing $a+bx+cx^2$ against $x^3$, we get $\left\lbrace1,\sqrt3(1-2x),\sqr
 To find the new $a,b,\text{ and }c$ for $x^3$ over $\left\lbrack0,1\right\rbrack$ in this new basis, take the dot product of each basis vector and add them together multiplied by each of those basis vector.
 
 For example:
-$$\int_0^1{(x^3)(1)}dx(1)+\int_0^1(x^3)($$
+$$\int_0^1{(x^3)(1)}dx(1)+\int_0^1(x^3)(\sqrt{3}(1-2x))dx(\sqrt{3}(1-2x))+\int_0^1{(x^3)}$$
