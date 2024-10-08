@@ -12,3 +12,8 @@ $$f(x)=\frac{1}{20}(1-12x+30x^2)$$
   $$L(x,y,\lambda)=(x+2y)-\lambda(x^2+y^2-1)$$
   
   Next, let's take the partial derivatives:
+  $$\frac{\partial L}{\partial x}=1-2\lambda x=0$$
+  $$\frac{\partial L}{\partial y}=2-2\lambda x=0$$
+  
+  So, the system we must solve is:
+  \begin{cases}
