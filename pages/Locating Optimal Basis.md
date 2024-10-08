@@ -21,3 +21,4 @@ $$f(x)=\frac{1}{20}(1-12x+30x^2)$$
   y = \frac{1}{\lambda} \\
   x^2 + y^2 = 1
   \end{cases}
+  $$(\frac{1}{2\lambda})^2+(\frac{1}{\lambda})^2=1$$
