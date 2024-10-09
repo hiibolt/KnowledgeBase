@@ -44,6 +44,8 @@
 	  echo $($PWD)
 	  ```
 - ## Shell Scripting
+	- #### Other Escape Characters
+		- #### `\n`
 	- ### Shebangs
 	  A shebang specifies the binary for which the program should be interpreted by.
 	  
