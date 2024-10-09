@@ -44,3 +44,7 @@
 	  echo $($PWD)
 	  ```
 - ## Shell Scripting
+	- ### Shebangs
+	  ```bash
+	  #!/usr/bin/env python3
+	  ```
