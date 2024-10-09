@@ -45,6 +45,16 @@
 	  ```
 - ## Shell Scripting
 	- ### Shebangs
+	  A shebang specifies the binary for which the program should be interpreted by.
+	  
+	  For Python:
 	  ```bash
 	  #!/usr/bin/env python3
+	  
+	  print(":3")
+	  ```
+	  
+	  For Bash:
+	  ```bash
+	  
 	  ```
