@@ -46,6 +46,13 @@
 - ## Shell Scripting
 	- #### Other Escape Characters
 		- #### `\n`
+		  Newline Character
+		- #### `\t`
+		  Tab Character
+		- #### `\a`
+		  Plays an alert sound
+		- #### `\b`
+		  Moves the cursor back one, allowing you to overwrite characters
 	- ### Shebangs
 	  A shebang specifies the binary for which the program should be interpreted by.
 	  
