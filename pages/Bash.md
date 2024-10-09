@@ -56,5 +56,7 @@
 	  
 	  For Bash:
 	  ```bash
+	  #!/bin/bash
 	  
+	  echo ':3' 
 	  ```
