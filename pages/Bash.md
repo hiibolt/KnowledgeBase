@@ -69,4 +69,10 @@
 	  
 	  echo ':3' 
 	  ```
-	- ### Command Line Argumenst
+	- ### Command Line Arguments
+		- ### Positional Paramenters
+		  Example:
+		  ```bash
+		  #!/bin/bash
+		  echo $1
+		  ```
