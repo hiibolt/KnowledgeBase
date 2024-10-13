@@ -416,3 +416,4 @@ collapsed:: true
 - [[Vector Spaces]]
 - [[Minimizing Polynomial Estimation]]
 - [[Locating Optimal Basis]]
+- [[Maps Between Spaces of Differing Basis]]
