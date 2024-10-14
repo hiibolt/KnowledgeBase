@@ -40,7 +40,7 @@
 	  
 	  Examples:
 	  ```bash
-	  echo '$PWD'
+	  echo `$PWD`
 	  echo $($PWD)
 	  ```
 - ## Shell Scripting

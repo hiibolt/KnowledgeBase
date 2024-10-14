@@ -60,3 +60,91 @@
 	  $$\lambda^2 - (a+d)\lambda + ad - bc = 0$$
 	  $$\text{or}$$
 	  $$\lambda^2 - \text{trace}(A) + \det(A)=0$$
+	  
+	  To solve this, we can use the Quadratic Formula:
+	  $$\lambda = \frac{a+d}{2}\pm\sqrt{(\frac{a+d}{2})^2-(ad-bc)}$$
+	  $$\text{or}$$
+	  $$=\frac{a+d}{2}\pm\sqrt{(\frac{a-d}{2})^2+bc}$$
+	  
+	  However, we can immediately note that this only applies in the scenario where $(\frac{a-d}{2})^2 + bc >= 0$ because of the square root.
+	- ## Relationship Between the Basis and Characteristic Polynomial
+	  $$\det(B^{-1}AB=\lambda I) = 0$$
+	  $$\text{or}$$
+	  $$\det(B^{-1}AB - \lambda B^{-1}B) = 0$$
+	  $$\det(B^{-1}(A-\lambda I)B) = 0$$
+	  $$\text{so}$$
+	  $$\det(B^{-1})\det(A-\lambda I)\det(B) = 0$$
+	  $$\text{or}$$
+	  $$\det(A-\lambda I) = 0$$
+	  
+	  This means that the characteristic polynomial does not care about the basis!
+	- ### Example Conversion
+	  So, to make our matrix easier to deal with, let's use this process!
+	  
+	  \begin{bmatrix}
+	  0 & 1 \\
+	  2 & 3
+	  \end{bmatrix}
+	  $$\text{or}$$
+	  \begin{equation}\det(\begin{bmatrix}
+	  0 - \lambda & 1 \\
+	  2 & 3 - \lambda
+	  \end{bmatrix}) = 0\end{equation}
+	  $$\text{so}$$
+	  $$\lambda^2-3\lambda-2 = 0$$
+	  $$\text{so}$$
+	  $$\lambda = \frac{3}{2}\pm\sqrt{\frac{9}{4}+2} = \frac{3 \pm \sqrt{17}}{2}$$
+	  
+	  Therefore:
+	  \begin{equation}
+	  \begin{bmatrix}
+	  0 & 1 \\
+	  2 & 3
+	  \end{bmatrix}
+	  \begin{bmatrix}
+	  x \\ y
+	  \end{bmatrix}
+	  =
+	  \frac{3 \pm \sqrt{17}}{2}
+	  \begin{bmatrix}
+	  x \\ y
+	  \end{bmatrix}
+	  \end{equation}
+	  $$\text{or}$$
+	  \begin{equation}
+	  \begin{bmatrix}
+	  y \\ 2x + 3y
+	  \end{bmatrix}
+	  =
+	  \frac{3\pm\sqrt{17}}{2}
+	  \begin{bmatrix}
+	  x \\ y
+	  \end{bmatrix}
+	  \end{equation}
+	  $$\text{so}$$
+	  \begin{cases}
+	  y = \frac{3\pm\sqrt{17}}{2}x \\
+	  2x+3y=\frac{3-\sqrt{17}}{2}y
+	  \end{cases}
+	  
+	  We know one of these cases will be redundant, so we can throw one out. We'll throw out the second one, as it's significantly messier.
+	  
+	  This creates our two basis:
+	  \begin{equation}\begin{bmatrix} 2 \\ 3-\sqrt{17}\end{bmatrix}, \begin{bmatrix}2 \\ 3 + \sqrt{17}\end{bmatrix}\end{equation}
+	  
+	  Now, we need our $B$!
+	  
+	  \begin{equation}
+	  B = \begin{bmatrix}
+	  2 & 2 \\
+	  3 - \sqrt{17} & 3 + \sqrt{17}
+	  \end{bmatrix}\end{equation}
+	  
+	  Plugging it into our original equation:
+	  $$B^{-1}\begin{bmatrix}0 & 1 \\ 2 & 3\end{bmatrix}B$$
+	  $$\text{or}$$
+	  $$B^{-1}\begin{bmatrix}0 & 1 \\ 2 & 3\end{bmatrix}\begin{bmatrix}2 & 2 \\ 3 - \sqrt{17} & 3 + \sqrt{17}\end{bmatrix} = B^{-1}\begin{bmatrix}3 - \sqrt{17} & 3+\sqrt{17} \\ 13-3\sqrt{17} & 13 + 3\sqrt{17}\end{bmatrix}$$
+	  $$\text{and}$$
+	  $$B^{-1}=\frac{1}{4\sqrt{17}}\begin{bmatrix}3+\sqrt{17} & -2 \\ -3 + \sqrt{17} & 2\end{bmatrix}$$
+	  $$\text{so}$$
+	  $$\frac{1}{4\sqrt{17}}\begin{bmatrix}3+\sqrt{17} & -2 \\ -3 + \sqrt{17} & 2\end{bmatrix}\begin{bmatrix}3 - \sqrt{17} & 3+\sqrt{17} \\ 13-3\sqrt{17} & 13 + 3\sqrt{17}\end{bmatrix}$$

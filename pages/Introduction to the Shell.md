@@ -50,11 +50,11 @@
 	  
 	  Arguments:
 	  * `-s` - Specifies the section to search for the manual in
-	- **`ln`**
+	- ### `ln`
 	  Creates a hard link that allows a file or directory to be reference by another name.
 	  
 	  To create a symbolic link, use the `-s` option.
-	- **`wc`**
+	- ### `wc`
 	  Prints the word counts for a file.
 	  
 	  Arguments:
