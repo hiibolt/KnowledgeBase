@@ -76,3 +76,58 @@
 		  #!/bin/bash
 		  echo $1
 		  ```
+	- ## Conditionals
+	  * `1 || 2` - `2` is run only if `1` fails
+	  * `1 && 2` - `2` is run only if `1` succeeds
+		- #### Compound Logical Expressions
+		  * `!` - Negates the output of the expression
+		  * `-a` - True if both of the two expressions are true
+		  * `-o`- True if one of the two expressions is true
+		- ### Conditional Statements
+			- #### If:
+			  ```bash
+			  if [ condition-1 ]; then
+			  	statement-1
+			  elif [ condition-2 ]; then
+			      statement-2
+			  else
+			  	statement-3
+			  fi
+			  ```
+			- #### While
+			  Executes while the condition is true
+			  ```bash
+			  while [ condition ]; do
+			  	statement
+			  done
+			  ```
+			- #### Until
+			  Executes while the condition isn't true
+			  ```
+			  until [ condition ]; do
+			  	statement
+			  done 
+			  ```
+			- #### For
+			  Executes a statement as many times as the number of words in the `word_list`
+			  ```bash
+			  for num in 1 2 3 4 5 6 7 8 9; do
+			  	statement
+			  done
+			  ```
+		- #### Relational Operators
+		  *Note: Must use `test` to check whether an operator is true!*
+			- #### Numeric
+			  * `-gt` - Greater than
+			  * `-ge` - Greater than or equal to
+			  * `-lt` - Less than
+			  * `-le` - Less than or equal to
+			  * `-eq` - Equal to
+			  * `-ne` - Not equal to
+			- #### String
+			  * `=` - Equal to
+			  * `!=` - Not equal to
+			  * `-z str` - String length is zero
+			  * `-n str` - String length is non-zero
+			  * `file1 -nt file2` - `file1` is newer than `file2`
+			  * `file1 -ot file2` - `file1` is older than `file2`
