@@ -35,6 +35,10 @@
 	  * `$ !-3`- By the number relative to
 	  * `$ !ls` - By the text of the command used
 - ## Syntax
+	- ### Command Line Arguments
+	  * `$#` - Returns the number of arguments
+	  * `$0` - Returns the name of the command
+	  * `$<n>` - Returns the `n`th argument
 	- ### Command Substitution
 	  A command surrounded by backticks is substituted for Bash syntax. You can also use `$()`.
 	  
@@ -129,6 +133,8 @@
 			  	statement
 			  done
 			  ```
+			  
+			   Alternatively, if you don't give it an `in`, it will loop over any contextual arguments.
 		- #### Relational Operators
 		  *Note: Must use `test` to check whether an operator is true!*
 			- #### Numeric
@@ -145,3 +151,6 @@
 			  * `-n str` - String length is non-zero
 			  * `file1 -nt file2` - `file1` is newer than `file2`
 			  * `file1 -ot file2` - `file1` is older than `file2`
+			  * `-f` - Is a file
+			  * `-r` - Is a readable file
+			  * `-d` - Is a directory
