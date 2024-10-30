@@ -94,6 +94,20 @@
 			  	statement-3
 			  fi
 			  ```
+			- #### Case
+			  ```bash
+			  case expression in
+			  	match_1)
+			      	statement_1
+			          ;;
+			      match_2)
+			      	statement_2
+			          ;;
+			      *)
+			      	default_statement
+			          ;;
+			  esac
+			  ```
 			- #### While
 			  Executes while the condition is true
 			  ```bash
