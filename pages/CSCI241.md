@@ -28,3 +28,5 @@
   ...you can't only write one, sadly. Index needs a const and non-const reference return type.
   
   If the `rhs` of an operator is left unmodified, be sure to specify `const`. Similarly, if the host class is left untouched, add `const` to the end of the function signature just before the semicolon.
+  
+  Operators which aren't members of a class must be `friend` functions in order to access otherwise private data members.
