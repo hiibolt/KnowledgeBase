@@ -112,6 +112,8 @@
 	- ### Print Formatting
 	  * `$ awk '{print $1, $2}' grades` - Would print `john 98`
 	  * `$ awk '{print $1 "," $2}' grades` - Would print `john,98`
+	  * `$ awk '{OFS="-"; print $1, $2}' grades` - Would print `john-98`
+	  * `$ awk '{OFS="-"; print $1 "," $2}' grades` - Would print `john,98`
 	  ...but, you can also use more specific specifiers with `printf` or `sprintf`:
 	  
 	  **Format Specifiers**:
@@ -132,13 +134,26 @@
 	  result = sprintf("The character is %c\n", x)
 	  print(result)
 	  ```
-	- ### Piping
+	- ### Piping and Redirection
 	  ```
 	  $ awk '{print $1,$2 | "sort"}' grades
 	  andrea 89
 	  jasper 84
 	  john 85
 	  ```
+	  ...and to output:
+	  
+	  ```bash
+	  $ awk '{print $1 , $2 > "file"}' grades
+	  $ ls
+	  file grades
+	  $ cat grades
+	  jasper 84
+	  john 85
+	  andrea 89
+	  ```
 	- ### Builtins
 	  * `tolower(string)` - Returns lowercase copy of input
 	  * `toupper(string)` - Returns uppercase copy of input
+	- ### Arrays
+	  Array elements default to `0` or an empty string.

@@ -30,3 +30,44 @@
   If the `rhs` of an operator is left unmodified, be sure to specify `const`. Similarly, if the host class is left untouched, add `const` to the end of the function signature just before the semicolon.
   
   Operators which aren't members of a class must be `friend` functions in order to access otherwise private data members.
+  
+  It's worth noting that the `delete` operator works slightly different for an array:
+  ```cpp
+  delete [] some_pointer
+  ```
+  ...that being that it requires the `[]` you see above.
+  
+  For the assignment operator, it must always return a reference to the class object. For example:
+  ```cpp
+  O & operator= ( const O & rhs );
+  ```
+  ...noting that reference at the beginning.
+  
+  In general, there are 5 basic steps for overloading the assignment operator:
+  * 1.) Check for self-assignment (cloning self)
+  ```cpp
+  if ( this != &rhs ) {
+  	return *this;
+  }
+  ```
+  * 2.) Free up memory (`delete`)
+  * 3.) Get new memory (`new`)
+  * 4.) Copy the information to memory
+  * 5.) Return the object itself (`return *this`)
+  ...this is likely on the exam. No way she'd go this in-depth otherwise, right?
+  
+  **Linked Lists**:
+  Know how to:
+  * Insert a node into a given list
+  * Delete a node into a given list
+  * Search a given list
+  * Print a given list (iteratively or recursively)
+  * Count the number of nodes in a given list (iteratively or recursively)
+  ...it's worth practicing this on LC or locally.
+  
+  **Stacks**:
+  Know how to:
+  * Use both FIFO or LIFO
+  * Understand overflow (too many items) and underflow (no items to pop)
+  * Implement an item addition algorithm
+  * Implement an item removal algorithm
