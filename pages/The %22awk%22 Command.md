@@ -155,5 +155,23 @@
 	- ### Builtins
 	  * `tolower(string)` - Returns lowercase copy of input
 	  * `toupper(string)` - Returns uppercase copy of input
+	  * `sqrt` and `rand`
+	  * `index`, `length`,`substr`, `sprintf`, `tolower`, `toupper`
+		- ### `split`
+		  `split("26:Miller:Comedian", a, ":")` returns `["26", "Miller", "Comedian"]`
 	- ### Arrays
 	  Array elements default to `0` or an empty string.
+	  
+	  It's worth noting that many arrays are "1-indexed", sorta, because in many contexts, the 0th element is the full pattern match.
+	- ### Loops
+	  ```bash
+	  $ cat sales.awk
+	  {
+	  	deptSales[$2] += $3
+	  }
+	  END {
+	  	for (x in deptSales)
+	      		pritn x, deptSales[x]
+	  }
+	  $ awk -f sales.awk sales
+	  ```
