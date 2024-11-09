@@ -153,4 +153,5 @@
 			  * `file1 -ot file2` - `file1` is older than `file2`
 			  * `-f` - Is a file
 			  * `-r` - Is a readable file
+			  * `-w` - Is a writable file
 			  * `-d` - Is a directory
