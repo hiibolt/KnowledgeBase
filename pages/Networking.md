@@ -15,6 +15,12 @@ Layers are organized into levels of increasing complexities. This means that low
 	  Also uses the ARP to convert addresses from the data link layer to compatible addresses.
 	  
 	  This introduces the idea of a global address. This primarily is where IP addresses are implemented.
+		- #### Endianness
+			- #### Big-endian
+			  * Motorola or IBM architecture
+			  * Network Order
+			- #### Little-endian
+			  * Intel Architecture and ARM
 	- ### Data link
 	  Checks that you are getting consistent and reliable connections via the link. This also arbitrates various conversations.
 	  
