@@ -38,3 +38,11 @@ Layers are organized into levels of increasing complexities. This means that low
 	  Controls the distribution of raw bit streams over the medium in question.
 	  
 	  Primarily handled by modems (shorthand for modulator/de-modulator).
+- ## Socket Communication (UDP)
+  A socket is an IP Address + Port.
+	- ### System Calls
+	  * `socket` - Creates a new connection endpoint
+	  * `bind` - Attaches a local address to a socket
+	  * `sendto` - Write data over the connection
+	  * `recvfrom` - Read data over the connection
+	  * `close` - Releases the connection
