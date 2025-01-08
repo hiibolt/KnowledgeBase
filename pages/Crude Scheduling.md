@@ -5,7 +5,7 @@
   Two constants for each crude - Gravity and Sulphur
   One variable per crude - Volume
 - ### Constraints
-  40-42 degree gravity
+  Average Gravity must be 40-42.9 degree gravity
 -
 - Getka takes in .25% sulfer and has 39 degree gravity, 200k BBLs/day
 - Blending 4 - 6 different type of crudes to make a Domestic Sweet Barrel to run at a Phillips 66 Refinery in Bartlesville.
