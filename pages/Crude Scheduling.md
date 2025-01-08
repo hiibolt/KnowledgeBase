@@ -1,5 +1,6 @@
 - First day - # of BBL of each grade that must be delivered
-  Jan 1st - Hunting barrels that would move or be moved in Feb
+  Jan 1st - Hunting barrels that would move or be moved in Feb (3 weeks).
+  On the 25th of each month,
 - Getka takes in .25% sulfer and has 39 degree gravity, 200k BBLs/day
 - Blending 4 - 6 different type of crudes to make a Domestic Sweet Barrel to run at a Phillips 66 Refinery in Bartlesville.
 - Domestic Sweet Barrel must be approximately 42 degree gravity and less than .42 % Sulphur content.
