@@ -10,7 +10,8 @@
   Average Sulphur must be between 0.25-0.42 percent Sulphur
   No more than 35,000 BBLs/day inputs
   Must be able to set an upper limit on each grade type
-  25k/day
+  25k/day Nio
+  5k/day P 66
 - ### Carryover Volume
   There need to be three carryover crudes - one for each of the three tanks.
   
