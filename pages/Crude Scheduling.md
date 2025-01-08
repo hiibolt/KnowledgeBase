@@ -3,6 +3,8 @@
   On the 25th of each month, we have to formally tell the pipeline companies how many BBLs of each grade we will move or receive on the first of the next month.
 - ### Constants and Variables
   Two constants for each crude - Gravity and Sulphur
+  One variable per crude - Volume
+-
 - Getka takes in .25% sulfer and has 39 degree gravity, 200k BBLs/day
 - Blending 4 - 6 different type of crudes to make a Domestic Sweet Barrel to run at a Phillips 66 Refinery in Bartlesville.
 - Domestic Sweet Barrel must be approximately 42 degree gravity and less than .42 % Sulphur content.
