@@ -8,7 +8,6 @@
 - ### Constraints
   Average Gravity must be between 40-42.9 degree gravity - 42.9 is the hard upper limit
   Average Sulphur must be between 0.25-0.42 percent Sulphur
-  No more than 35,000 BBLs/day inputs
   Must be able to set an upper limit on each grade type
   25k/day Nio
   5k/day P 66
