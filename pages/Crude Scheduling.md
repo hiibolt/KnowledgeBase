@@ -4,8 +4,7 @@
 	- **BEE Truck Terminal** - 7 Truck unloading stations and a 80,000 barrel crude tank.
 	- **P-66 Buxton Terminal** - 1 - 150,000 bbl crude tank and a 250,000 bbl crude tank
 - ### Distances
-	- The **BEE Truck Terminal (Getka)** is approximately 1 mile from the **P-66 Buxton terminal** and is connected to **P-66 Buxton Terminal** by the **O-Line** crude 
-	  pipeline.
+	- The **BEE Truck Terminal (Getka)** is approximately 1 mile from the **P-66 Buxton terminal** and is connected to **P-66 Buxton Terminal** by the **O-Line** crude pipeline.
 	- The **P-66 Buxton Terminal** is connect to the **Phillip’s Refinery** by the **Cush - Bo** pipeline.
 - Terminals and Pipelines that we will be receiving crude from:
 	- P-4 / L2 Connection from Energy Transfer (North Cushing)
