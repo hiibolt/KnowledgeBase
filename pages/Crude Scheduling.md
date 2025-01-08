@@ -2,7 +2,7 @@
   Jan 1st - Hunting barrels that would move or be moved in Feb (3 weeks).
   On the 25th of each month, we have to formally tell the pipeline companies how many BBLs of each grade we will move or receive on the first of the next month.
 - ### Constants and Variables
-  Two constants for each crude - Gravity and Sulphur
+  Three constants for each crude - Gravity and Sulphur
   One variable per crude - Volume
   Each barrel MUST also have a carryover constant
 - ### Constraints
