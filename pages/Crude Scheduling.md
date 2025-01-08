@@ -11,12 +11,11 @@
 - Terminals and Pipelines that we will be receiving crude from:
 	- P-4 / L2 Connection from Energy Transfer (North Cushing)
 	- Magellan Terminal
-- Plains Terminal
--
+	- Plains Terminal
 - BATCH’s of CRUDE
-- WCS crude or (Western Canadian Select Crude) is delivered into P-66 Buxton 150,000 bbl tank in 10,000 bbl batches from Plains.
-- P-66 Lease Crude 55 degree gravity is delivered daily pro ratable at 4,700 bbls per day from Plains terminal into P-66 Buxton 	150,000 tank.
-- NIO Crude is delivered into BEE Terminal from the P4 / L2 pipeline in 50,000 bbl batches.  Then it will move from BEE terminal 	into P-66 Buxton via the O-Line interconnect at what ever rate you need it.
+	- WCS crude or (Western Canadian Select Crude) is delivered into P-66 Buxton 150,000 bbl tank in 10,000 bbl batches from Plains.
+	- P-66 Lease Crude 55 degree gravity is delivered daily pro ratable at 4,700 bbls per day from Plains terminal into P-66 Buxton 	150,000 tank.
+	- NIO Crude is delivered into **BEE Terminal** from the **P4 / L2** pipeline in 50,000 bbl batches.  Then it will move from **BEE terminal** into P-66 Buxton via the O-Line interconnect at what ever rate you need it.
 -
 - M-V Condensate is moved by trucks into the BEE Terminal via the truck unloading stations. Then it will move from BEE terminal 	into P-66 Buxton via the O-Line interconnect at what ever rate you need it.
 -
