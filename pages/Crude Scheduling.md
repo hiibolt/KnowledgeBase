@@ -18,13 +18,10 @@
 	- WCS crude or (Western Canadian Select Crude) is delivered into P-66 Buxton 150,000 bbl tank in 10,000 bbl batches from Plains.
 	- **P-66 Lease Crude 55 degree gravity** is delivered daily pro ratable at 4,700 bbls per day from **Plains terminal** into **P-66 Buxton** 150,000 tank.
 	- **NIO Crude** is delivered into **BEE Terminal** from the **P4 / L2** pipeline in 50,000 bbl batches.  Then it will move from **BEE terminal** into **P-66 Buxton** via the **O-Line** interconnect at what ever rate you need it.
--
 - M-V Condensate is moved by trucks into the BEE Terminal via the truck unloading stations. Then it will move from BEE terminal 	into P-66 Buxton via the O-Line interconnect at what ever rate you need it.
--
 - Heavy Skim Oil is moved by trucks into the BEE Terminal via the truck unloading stations. Then it will move from BEE terminal 	into P-66 Buxton via the O-Line interconnect at whatever rate you need it.
 - BLENDING OPERATIONS OF THE CRUDE
-- All
-  Crude will be received into the P-66 150,000 bbl tank to be blended. 
+- All Crude will be received into the P-66 150,000 bbl tank to be blended. 
   One we meet Specifications 42 Gravity and less that .42 percentage 
   Sulphur the Domestic Sweet bbl will be transferred into the 250,000 bbl 
   tank for staging and then will be moved to 	Phillips 66 Refinery in 50,000 bbl batches.
