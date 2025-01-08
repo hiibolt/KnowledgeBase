@@ -4,6 +4,7 @@
 - ### Constants and Variables
   Two constants for each crude - Gravity and Sulphur
   One variable per crude - Volume
+  Each barrel MUST also have a carryover constant
 - ### Constraints
   Average Gravity must be between 40-42.9 degree gravity - 42.9 is the hard upper limit
   Average Sulphur must be between 0.25-0.42 percent Sulphur
