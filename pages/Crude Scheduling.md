@@ -7,10 +7,10 @@
 	- The **BEE Truck Terminal** is approximately 1 mile from the** P-66 Buxton 
 	  terminal** and is connected to **P-66 Buxton Terminal** by the **O-Line** crude 
 	  pipeline.
-	  The P-66 Buxton Terminal is connect to the Phillip’s Refinery by the Cush - Bo pipeline.
+	- The **P-66 Buxton Terminal** is connect to the **Phillip’s Refinery** by the **Cush - Bo** pipeline.
 - Terminals and Pipelines that we will be receiving crude from:
-- P-4 / L2 Connection from Energy Transfer (North Cushing)
-- Magellan Terminal
+	- P-4 / L2 Connection from Energy Transfer (North Cushing)
+	- Magellan Terminal
 - Plains Terminal
 -
 - BATCH’s of CRUDE
