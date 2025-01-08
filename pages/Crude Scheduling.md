@@ -1,10 +1,10 @@
 - Blending 4 - 6 different type of crudes to make a Domestic Sweet Barrel to run at a Phillips 66 Refinery in Bartlesville.
 - Domestic Sweet Barrel must be approximately 42 degree gravity and less than .42 % Sulphur content.
 - Attached is a diagram of the two terminals that we will be receiving crude into:
-	- BEE Truck Terminal - 7 Truck unloading stations and a 80,000 barrel crude tank.
-	  P-66 Buxton Terminal - 1 - 150,000 bbl crude tank and a 250,000 bbl crude tank
-- The
-  BEE Truck Terminal is approximately 1 mile from the P-66 Buxton 
+	- **BEE Truck Terminal** - 7 Truck unloading stations and a 80,000 barrel crude tank.
+	- **P-66 Buxton Terminal** - 1 - 150,000 bbl crude tank and a 250,000 bbl crude tank
+- ### Distances
+  The BEE Truck Terminal is approximately 1 mile from the P-66 Buxton 
   terminal and is connected to P-66 Buxton Terminal by the O-Line crude 
   pipeline.
   The P-66 Buxton Terminal is connect to the Phillip’s Refinery by the Cush - Bo pipeline.
