@@ -12,6 +12,8 @@
   Must be able to set an upper limit on each grade type
   25k/day Nio
   5k/day P 66
+  2.5k/day M-V / Hal
+  2.5k/day WCS
 - ### Carryover Volume
   There need to be three carryover crudes - one for each of the three tanks.
   
