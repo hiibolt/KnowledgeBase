@@ -1,4 +1,3 @@
-- Baseload of 4 crudes (once per month) - need to be 40-42 API Gravity .42
 - Blending 4 - 6 different type of crudes to make a Domestic Sweet Barrel to run at a Phillips 66 Refinery in Bartlesville.
 - Domestic Sweet Barrel must be approximately 42 degree gravity and less than .42 % Sulphur content.
 - Attached is a diagram of the two terminals that we will be receiving crude into:
