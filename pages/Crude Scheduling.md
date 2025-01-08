@@ -6,7 +6,7 @@
   One variable per crude - Volume
 - ### Constraints
   Average Gravity must be between 40-42.9 degree gravity - 42.9 is the hard upper limit
-  Average Sulphur must be between 0.000.0042
+  Average Sulphur must be between 0.0025-0.0042
 - Getka takes in .25% sulfer and has 39 degree gravity, 200k BBLs/day
 - Blending 4 - 6 different type of crudes to make a Domestic Sweet Barrel to run at a Phillips 66 Refinery in Bartlesville.
 - Domestic Sweet Barrel must be approximately 42 degree gravity and less than .42 % Sulphur content.
