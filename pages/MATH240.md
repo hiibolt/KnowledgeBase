@@ -7,6 +7,10 @@ For example, the derivative operation is linear:
 $$\int(f+g) = \int{f} + \int{g}$$
 $$\int(cf) = c\int{f}$$
 - ### Matrices
+	- ### Column Vector
+	  A vertical set.
+	- #### Row Vector
+	  A horizontal set.
 - #### old
   collapsed:: true
 	- ### Refreshers
