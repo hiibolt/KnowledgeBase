@@ -15,7 +15,7 @@ $$\int(cf) = c\int{f}$$
   **Examples**:
   * Scalars
     * Q - The field of rational numbers
-    *
+    * \bb
 - #### old
   collapsed:: true
 	- ### Refreshers
