@@ -57,12 +57,12 @@ $$\int(cf) = c\int{f}$$
 		  b_{21} & b_{22} & ... & b_{2m} \\
 		  ... & ... & ... & ... \\
 		  b_{n1} & b_{n2} & ... & b_{nm} \\
-		  \end{bmatrix}
+		  \end{bmatrix} =
 		  \begin{bmatrix}
 		  a_{11} + b_{11} & a_{12} + b_{12} & ... & a_{1m} + b_{1m}\\
 		  a_{21} + b_{21} & a_{22} + b_{22} & ... & a_{2m} + b_{2m} \\
 		  ... & ... & ... & ... \\
-		  a_{n1} + b_{n1} & a_{n2} + b_{n2} & ... & ca_{nm} \\
+		  a_{n1} + b_{n1} & a_{n2} + b_{n2} & ... & a_{nm} + b_{nm}\\
 		  \end{bmatrix}
 		  \end{equation}
 - ### Fields
