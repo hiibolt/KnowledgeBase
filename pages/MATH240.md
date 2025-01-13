@@ -14,10 +14,10 @@ $$\int(cf) = c\int{f}$$
 - ### Fields
   **Examples**:
   * Scalars
-    * Q - The field of rational numbers
-    * \bb
+    * \mathbb{Q} - The field of rational numbers
+    * \mathbb{R} - Real numbers
+    * \mathbb{}
 - #### old
-  collapsed:: true
 	- ### Refreshers
 	  collapsed:: true
 		- #### Spaces of Numbers
