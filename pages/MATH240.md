@@ -66,7 +66,11 @@ $$\int(cf) = c\int{f}$$
 		  \end{bmatrix}
 		  \end{equation}
 	- #### Visualization
-	  Action of column vectors \begin{vmatrix}x \\ y
+	  Action of column vectors...
+	  \begin{vmatrix}x \\ y \end{vmatrix}
+	  ...on $$\mathbb{R}^2$$.
+	  
+	  \begin{vmatrix}2
 - ### Fields
   **Examples**:
   * Scalars
