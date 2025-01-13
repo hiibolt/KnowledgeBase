@@ -292,11 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
-<<<<<<<< HEAD:logseq/bak/logseq/config/2024-01-29T20_04_11.101Z.Desktop.edn
- :favorites ["ltre194" "econ260" "csci240" "math232" "math360"]
-========
- :favorites ["Psyc 102" "Comms 100" "Math 206" "Physics 253"]
->>>>>>>> e766fd4 (Auto saved by Logseq):logseq/bak/logseq/config/2024-01-29T14_02_39.884Z.Desktop.edn
+ :favorites ["csci240" "math232" "math360"]
 
  ;; Set flashcards interval.
  ;; Expected value:
