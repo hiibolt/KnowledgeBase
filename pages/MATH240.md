@@ -65,6 +65,8 @@ $$\int(cf) = c\int{f}$$
 		  a_{n1} + b_{n1} & a_{n2} + b_{n2} & ... & a_{nm} + b_{nm}\\
 		  \end{bmatrix}
 		  \end{equation}
+	- #### Visualization
+	  Action of column vectors \begin{vmatrix}x \\ y
 - ### Fields
   **Examples**:
   * Scalars
