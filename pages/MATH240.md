@@ -27,6 +27,21 @@ $$\int(cf) = c\int{f}$$
 	  
 	  Notationally, this is described as $$M_{n,m}(\mathbb{R})$$.
 	- #### Operations
+		- #### Scalar Multiplication
+		  IF $$c \in \mathbb{R}$$, then \begin{equation}c
+		  \begin{vmatrix}
+		  a_{11} & a_{12} & ... & a_{1m} \\
+		  a_{21} & a_{22} & ... & a_{2m} \\
+		  ... & ... & ... & ... \\
+		  a_{n1} & a_{n2} & ... & a_{nm} \\
+		  \end{vmatrix}=
+		  \begin{vmatrix}
+		  a_{11} & a_{12} & ... & a_{1m} \\
+		  a_{21} & a_{22} & ... & a_{2m} \\
+		  ... & ... & ... & ... \\
+		  a_{n1} & a_{n2} & ... & a_{nm} \\
+		  \end{vmatrix}
+		  \end{equation}
 - ### Fields
   **Examples**:
   * Scalars
