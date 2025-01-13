@@ -20,7 +20,12 @@ $$\int(cf) = c\int{f}$$
 	  A matrix of $n$ vertical size and $m$ horizontal size appears as:
 	  \begin{vmatrix}
 	  a_{11} & a_{12} & ... & a_{1m} \\
-	  \end
+	  a_{21} & a_{22} & ... & a_{2m} \\
+	  ... & ... & ... & ... \\
+	  a_{n1} & a_{n2} & ... & a_{nm} \\
+	  \end{vmatrix}
+	  
+	  Notationally, this is described as $$M_{n,m}(\mathbb{R})$$
 - ### Fields
   **Examples**:
   * Scalars
