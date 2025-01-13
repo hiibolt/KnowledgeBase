@@ -16,7 +16,11 @@ $$\int(cf) = c\int{f}$$
 		  A horizontal set.
 		  
 		  For example, for the set of row vectors with elements of $$\mathbb{R}$$ is $$\mathbb{R}_{n}$$.
-		-
+	- #### Content
+	  A matrix of $n$ vertical size and $m$ horizontal size appears as:
+	  \begin{vmatrix}
+	  a_{11} & a_{12} & ... & a_{1m} \\
+	  \end
 - ### Fields
   **Examples**:
   * Scalars
