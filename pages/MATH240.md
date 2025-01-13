@@ -25,7 +25,7 @@ $$\int(cf) = c\int{f}$$
 	  a_{n1} & a_{n2} & ... & a_{nm} \\
 	  \end{vmatrix}
 	  
-	  Notationally, this is described as $$M_{n,m}(\mathbb{R})$$
+	  Notationally, this is described as $$M_{n,m}(\mathbb{R})$$.
 - ### Fields
   **Examples**:
   * Scalars
