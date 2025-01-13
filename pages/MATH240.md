@@ -1,4 +1,5 @@
-## Linners
+## old
+collapsed:: true
 	- ### Refreshers
 	  collapsed:: true
 		- #### Spaces of Numbers
@@ -415,6 +416,6 @@
 	- [[List Operations]]
 	- **REVIEW THUS FAR**: [[Review 1]]
 	- [[Vector Spaces]]
-- [[Minimizing Polynomial Estimation]]
-- [[Locating Optimal Basis]]
-- [[Maps Between Spaces of Differing Basis]]
+	- [[Minimizing Polynomial Estimation]]
+	- [[Locating Optimal Basis]]
+	- [[Maps Between Spaces of Differing Basis]]
