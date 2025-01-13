@@ -70,7 +70,13 @@ $$\int(cf) = c\int{f}$$
 	  \begin{vmatrix}x \\ y \end{vmatrix}
 	  ...on $$\mathbb{R}^2$$.
 	  
-	  \begin{vmatrix}2
+	  \begin{equation}
+	  \begin{vmatrix}2 \\ 1 \end{vmatrix}
+	  ...moves...
+	  \begin{vmatrix}1 \\ 0\end{vmatrix}
+	  ...to...
+	  \begin{vmatrix}3 \\ 1\end{vmatrix}
+	  \end{equation}
 - ### Fields
   **Examples**:
   * Scalars
