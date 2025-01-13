@@ -1,4 +1,7 @@
 ### Linearity
+For a function $$L$$, it must satisfy:
+$$L(x+y)=L(x) + L(y)$$
+$$L(cX) = cL(x)$$
 - #### old
   collapsed:: true
 	- ### Refreshers
