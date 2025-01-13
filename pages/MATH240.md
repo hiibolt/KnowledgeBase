@@ -44,6 +44,27 @@ $$\int(cf) = c\int{f}$$
 		  ca_{n1} & ca_{n2} & ... & ca_{nm} \\
 		  \end{bmatrix}
 		  \end{equation}
+		- #### Addition
+		  \begin{equation}
+		  \begin{bmatrix}
+		  a_{11} & a_{12} & ... & a_{1m} \\
+		  a_{21} & a_{22} & ... & a_{2m} \\
+		  ... & ... & ... & ... \\
+		  a_{n1} & a_{n2} & ... & a_{nm} \\
+		  \end{bmatrix}+
+		  \begin{bmatrix}
+		  b_{11} & a_{12} & ... & a_{1m} \\
+		  b_{21} & a_{22} & ... & a_{2m} \\
+		  ... & ... & ... & ... \\
+		  a_{n1} & a_{n2} & ... & a_{nm} \\
+		  \end{bmatrix}
+		  \begin{bmatrix}
+		  ca_{11} & ca_{12} & ... & ca_{1m} \\
+		  ca_{21} & ca_{22} & ... & ca_{2m} \\
+		  ... & ... & ... & ... \\
+		  ca_{n1} & ca_{n2} & ... & ca_{nm} \\
+		  \end{bmatrix}
+		  \end{equation}
 - ### Fields
   **Examples**:
   * Scalars
