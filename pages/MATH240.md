@@ -9,8 +9,12 @@ $$\int(cf) = c\int{f}$$
 - ### Matrices
 	- #### Column Vector
 	  A vertical set.
+	  
+	  For example, for the set of column vectors with elements of $$\mathbb{R}$$ is $$\mathbb{R}^{n}$$.
 	- #### Row Vector
 	  A horizontal set.
+	  
+	  For example, for the set of row vectors with elements of $$\mathbb{R}$$ is $$\mathbb{R}_{n}$$.
 - ### Fields
   **Examples**:
   * Scalars
