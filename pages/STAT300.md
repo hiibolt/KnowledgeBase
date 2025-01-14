@@ -4,3 +4,4 @@
 	  * **Population** is a collection of objects
 	  * **Census** is a method of gathering that surveys *all* candidates.
 	  * **Study/Sample Survey** is gathering information from a smaller subset of candidates.
+	  * A **variable** is a characteristic that is variadic in nature
