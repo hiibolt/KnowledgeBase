@@ -92,6 +92,15 @@ $$\int(cf) = c\int{f}$$
 		  
 		  In $$\mathbb{R}^3$$:
 		  $$||\vec{v}|| = \sqrt{a^2 + b^2 + c^2}$$
+		  
+		  In $$\mathbb{R}^n$$:
+		  $$||\vec{v}|| = \sqrt{a_1^2 + a_2^2 + ... + a_n^2}$$
+		- #### Dot Product
+		  $$(a_1,...,a_n)^{(T)}\cdot (b_1,...,b_n)^{(T)}=a_1b_1+...+a_nb_n$$
+			- #### Special Properties
+			  $$\vec{u}\cdot(\vec{v}+\vec{w})=a_1(b_1+c_1)+...+a_n(b_n+c_n)$$
+			  $$\text{or}$$
+			  $$=\vec{u}\cdot\vec{v}+\vec{u}\cdot\vec{w}$$
 	- #### Visualization
 	  Action of column vectors...
 	  \begin{vmatrix}x \\ y \end{vmatrix}
