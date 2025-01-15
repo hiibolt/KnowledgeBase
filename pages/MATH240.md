@@ -85,6 +85,7 @@ $$\int(cf) = c\int{f}$$
   * Complex
     * $\mathbb{C}$ - Complex numbers ($$\{x+iy : x,y \in \mathbb{R}, i^2=-1\}$$)
 - #### old
+  collapsed:: true
 	- ### Refreshers
 	  collapsed:: true
 		- #### Spaces of Numbers
