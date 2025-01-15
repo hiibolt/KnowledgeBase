@@ -26,6 +26,12 @@ $$\int(cf) = c\int{f}$$
 	  \end{vmatrix}
 	  
 	  Notationally, this is described as $$M_{n,m}(\mathbb{R})$$.
+	  
+	  A vector can be distinguished from a standard matrix by the arrow over the variable.
+	  
+	  For example: $$v \text{ vs. } \vec{v}$$.
+	  
+	  A **position vector** is found by placing a vector to act on the origin.
 	- #### Operations
 		- #### Scalar Multiplication
 		  IF $$c \in \mathbb{R}$$, then 
@@ -65,6 +71,27 @@ $$\int(cf) = c\int{f}$$
 		  a_{n1} + b_{n1} & a_{n2} + b_{n2} & ... & a_{nm} + b_{nm}\\
 		  \end{bmatrix}
 		  \end{equation}
+		- #### Transpose
+		  \begin{equation}
+		  \begin{bmatrix}
+		  a_{11} & ... & a_{1m} \\
+		  ... & ... & ... \\
+		  a_{n1} & ... & a_{nm}
+		  \end{bmatrix}^T = 
+		  \begin{bmatrix}
+		  a_{11} & ... & a_{m1} \\
+		  ... & ... & ... \\
+		  a_{1n} & ... & a_{mn}
+		  \end{bmatrix} 
+		  \end{equation}
+		- #### Vector Length
+		  Denoted by $$||\vec{v}||$$.
+		  
+		  For example, in $$\mathbb{R}^2$$:
+		  $$||\vec{v}|| = \sqrt{a^2 + b^2}$$
+		  
+		  In $$\mathbb{R}^3$$:
+		  $$||\vec{v}|| = \sqrt{a^2 + b^2 + c^2}$$
 	- #### Visualization
 	  Action of column vectors...
 	  \begin{vmatrix}x \\ y \end{vmatrix}
