@@ -98,6 +98,9 @@ $$\int(cf) = c\int{f}$$
 		- #### Dot Product
 		  $$(a_1,...,a_n)^{(T)}\cdot (b_1,...,b_n)^{(T)}=a_1b_1+...+a_nb_n$$
 		  $$\vec{x}\cdot\vec{y} = ||\vec{x}||*||\vec{y}||\cos{\theta}$$
+			- #### Cauchy-Schwarz
+			  Guarantees that for any $\vec{x},\vec{y}\in\mathbb{R}^n$,
+			  $$-1<\frac{\vec{x}\cdot\vec{y}}{||\vec{x}||||\vec{y}||}<1$$
 			- #### Implications
 			  Firstly, we must recall the ((67893c87-26ba-4786-9c07-c8155c2f7015)).
 			  
@@ -112,6 +115,10 @@ $$\int(cf) = c\int{f}$$
 			  $$\vec{u}\cdot(\vec{v}+\vec{w})=a_1(b_1+c_1)+...+a_n(b_n+c_n)$$
 			  $$\text{or}$$
 			  $$=\vec{u}\cdot\vec{v}+\vec{u}\cdot\vec{w}$$
+		- #### Projection
+		  $$P_{\vec{v}}{\vec{u}}=\frac{\vec{u}\cdot\vec{v}}{\vec{v}\cdot\vec{v}}\vec{v}$$
+		  
+		  $P_{\vec{v}}\vec{u}$ is read as "projecting $\vec{u}$ onto $\vec{v}$.
 	- #### Visualization
 	  Action of column vectors...
 	  \begin{vmatrix}x \\ y \end{vmatrix}
