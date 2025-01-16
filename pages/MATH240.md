@@ -99,10 +99,15 @@ $$\int(cf) = c\int{f}$$
 		  $$(a_1,...,a_n)^{(T)}\cdot (b_1,...,b_n)^{(T)}=a_1b_1+...+a_nb_n$$
 		  $$\vec{x}\cdot\vec{y} = ||\vec{x}||*||\vec{y}||\cos{\theta}$$
 			- #### Implications
-			  Firstly, we must recall the **law of cosines**.
-				- #### Law of Cosines
-				  For a triangle with sides $a$ and $b$ with angle $\theta$:
-				  $$c^2 = a^2+b^2-2ab\cos{\theta}$$
+			  Firstly, we must recall the ((67893c87-26ba-4786-9c07-c8155c2f7015)).
+			  
+			  By knowing this, we can use the dot product to find perpendicular vectors by solving.
+			  
+			  In general, this formula is represented for a $$\mathbb{R}^2$$ vector $$\vec{x}={a,b}$$, you should select a vector $$\vec{s} = {\pm b,\pm a}$$ where *one of* $a$ or $b$ is negative.
+			  
+			  The length of a vector squared is the same vector dot itself, giving the following:
+				- ### Hypotenuse Theorem
+				  $${||\vec{x}||}^2=\vec{x}\cdot\vec{x}$$
 			- #### Special Properties
 			  $$\vec{u}\cdot(\vec{v}+\vec{w})=a_1(b_1+c_1)+...+a_n(b_n+c_n)$$
 			  $$\text{or}$$
@@ -126,6 +131,11 @@ $$\int(cf) = c\int{f}$$
     * $\mathbb{R}$ - Real numbers
   * Complex
     * $\mathbb{C}$ - Complex numbers ($$\{x+iy : x,y \in \mathbb{R}, i^2=-1\}$$)
+- _unorganized
+	- #### Law of Cosines
+	  id:: 67893c87-26ba-4786-9c07-c8155c2f7015
+	  For a triangle with sides $a$ and $b$ with angle $\theta$:
+	  $$c^2 = a^2+b^2-2ab\cos{\theta}$$
 - #### old
   collapsed:: true
 	- ### Refreshers
