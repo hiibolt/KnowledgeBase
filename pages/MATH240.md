@@ -97,7 +97,7 @@ $$\int(cf) = c\int{f}$$
 		  $$||\vec{v}|| = \sqrt{a_1^2 + a_2^2 + ... + a_n^2}$$
 		- #### Dot Product
 		  $$(a_1,...,a_n)^{(T)}\cdot (b_1,...,b_n)^{(T)}=a_1b_1+...+a_nb_n$$
-		  $$\vec{x}\cdot\vec{y} = ||\vec{x}||*||\vec{y}||\cos{\theta}$$
+		  $$\vec{x}\cdot\vec{y} = ||\vec{x}||||\vec{y}||\cos{\theta}$$
 			- #### Cauchy-Schwarz
 			  Guarantees that for any $\vec{x},\vec{y}\in\mathbb{R}^n$,
 			  $$-1<\frac{\vec{x}\cdot\vec{y}}{||\vec{x}||||\vec{y}||}<1$$
