@@ -96,6 +96,7 @@ $$\int(cf) = c\int{f}$$
 		  In $$\mathbb{R}^n$$:
 		  $$||\vec{v}|| = \sqrt{a_1^2 + a_2^2 + ... + a_n^2}$$
 		- #### Dot Product
+		  id:: 6787f568-1935-41ae-a8f4-adcc0fe55c86
 		  $$(a_1,...,a_n)^{(T)}\cdot (b_1,...,b_n)^{(T)}=a_1b_1+...+a_nb_n$$
 		  $$\vec{x}\cdot\vec{y} = ||\vec{x}||||\vec{y}||\cos{\theta}$$
 			- #### Cauchy-Schwarz
@@ -119,6 +120,8 @@ $$\int(cf) = c\int{f}$$
 		  $$P_{\vec{v}}{\vec{u}}=\frac{\vec{u}\cdot\vec{v}}{\vec{v}\cdot\vec{v}}\vec{v}$$
 		  
 		  $P_{\vec{v}}\vec{u}$ is read as "projecting $\vec{u}$ onto $\vec{v}$.
+		- #### Matrix Multiplication
+		  The general process is to go *down* the rows of the first (left) matrix and *across* the columns of the second (right) matrix, and take the ((6787f568-1935-41ae-a8f4-adcc0fe55c86)) of the two.
 	- #### Visualization
 	  Action of column vectors...
 	  \begin{vmatrix}x \\ y \end{vmatrix}
