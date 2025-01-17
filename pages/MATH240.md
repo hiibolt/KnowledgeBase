@@ -122,6 +122,37 @@ $$\int(cf) = c\int{f}$$
 		  $P_{\vec{v}}\vec{u}$ is read as "projecting $\vec{u}$ onto $\vec{v}$.
 		- #### Matrix Multiplication
 		  The general process is to go *down* the rows of the first (left) matrix and *across* the columns of the second (right) matrix, and take the ((6787f568-1935-41ae-a8f4-adcc0fe55c86)) of the two.
+			- #### Transformations
+			  Transformations can be thought of as functions, and accordingly, the transformation matrix should always be on the left.
+			  
+			  Remember that matrix order-of-operations is *right-to-left*.
+		- #### Determinant
+			- #### 2x2
+			  \begin{equation}
+			  \det
+			  \begin{bmatrix}
+			  a & b \\
+			  c & d
+			  \end{bmatrix}
+			   = ad - bc
+			  \end{equation}
+			  
+			  This has the special property where 
+			  \begin{equation}
+			  |\det\begin{bmatrix}u_1 & v_1 \\ u_2 & v_2\end{bmatrix}|
+			  \end{equation} is the area of the parallelogram described by vertices $\vec{u}$ and $\vec{v}$.
+			- #### 3x3 
+			  \begin{equation}
+			  \det
+			  \begin{bmatrix}
+			  a & b & c \\
+			  d & e & f \\
+			  g & h & i
+			  \end{bmatrix} = 
+			  a\begin{vmatrix} e & f \\ h & i\end{vmatrix}
+			  -b\begin{vmatrix} d & f \\ g & i\end{vmatrix}
+			  +c\begin{vmatrix} d & e \\ g & h\end{vmatrix}
+			  \end{equation}
 	- #### Visualization
 	  Action of column vectors...
 	  \begin{vmatrix}x \\ y \end{vmatrix}
