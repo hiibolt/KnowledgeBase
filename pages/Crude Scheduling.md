@@ -41,3 +41,20 @@
   One we meet Specifications 42 Gravity and less that .42 percentage 
   Sulphur the Domestic Sweet bbl will be transferred into the 250,000 bbl 
   tank for staging and then will be moved to 	Phillips 66 Refinery in 50,000 bbl batches.
+-
+- ## SECONDARY APPLICATION
+  **Currently Capacity**
+  80k - I have 20kBBLs at 43deg gravity and .2% sulphur
+  150k - I have 90kBBLs at 37deg gravity and .9% sulphur
+  250k - I have 100kBBLs at 42deg gravity and .4% sulphur
+  
+  **To Recieve**
+  80k - 50k NIO - 39deg gravity and .25% sulphur
+  150k - 10k WCS - 19deg gravity and 3.5% sulphur
+  
+  **Constraints**
+  70k max, 10k min on the 80k
+  130k max, 25k min on the 150k
+  200k max, 35k min on the 250k
+  
+  Maximize the number of barrels coming out of the 150k.
