@@ -1,0 +1,200 @@
+{:blocks (
+{:block/created-at 1737321446046
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [216 72]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Dog"
+:id "812f9ba0-d6aa-11ef-9387-512189acc13d"
+:fontWeight 400
+:noFill false
+:point [401.60003662109375 240]
+:fontSize 20
+:parentId "678d6a9e-5279-40cc-a936-1571bd760bd2"
+:nonce 1737321327298
+:italic false}}
+:block/updated-at 1737321446046} 
+{:block/created-at 1737321487071
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 2
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [122.39996337890625 36]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "ID #"
+:id "d6e80910-d6aa-11ef-9387-512189acc13d"
+:fontWeight 400
+:noFill false
+:point [526.4000244140625 159.20001220703125]
+:fontSize 20
+:parentId "678d6a9e-5279-40cc-a936-1571bd760bd2"
+:nonce 1737321478742
+:italic false}}
+:block/updated-at 1737321487071} 
+{:block/created-at 1737321488761
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d6e83020-d6aa-11ef-9387-512189acc13d"
+:fontWeight 400
+:noFill true
+:point [541.18 199.2]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 36.8]
+:bindingId "d6e83021-d6aa-11ef-9387-512189acc13d"}
+:end 
+{:id "end"
+:canBind true
+:point [29.05 0]
+:bindingId "d6e83022-d6aa-11ef-9387-512189acc13d"}}
+:decorations 
+{:start nil
+:end nil}
+:parentId "678d6a9e-5279-40cc-a936-1571bd760bd2"
+:nonce 1737321471094
+:italic false}}
+:block/updated-at 1737321488761} 
+{:block/created-at 1737321507635
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 4
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [101.60003662109375 46.4000244140625]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Name"
+:id "e3c9eae0-d6aa-11ef-9387-512189acc13d"
+:fontWeight 400
+:noFill false
+:point [388 152.00003051757812]
+:fontSize 20
+:parentId "678d6a9e-5279-40cc-a936-1571bd760bd2"
+:nonce 1737321497266
+:italic false}}
+:block/updated-at 1737321507635} 
+{:block/created-at 1737321509238
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e3ca11f0-d6aa-11ef-9387-512189acc13d"
+:fontWeight 400
+:noFill true
+:point [457.9 202.4]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [23.6 33.6]
+:bindingId "e3ca11f1-d6aa-11ef-9387-512189acc13d"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "e3ca11f2-d6aa-11ef-9387-512189acc13d"}}
+:decorations 
+{:start nil
+:end nil}
+:parentId "678d6a9e-5279-40cc-a936-1571bd760bd2"
+:nonce 1737321492720
+:italic false}}
+:block/updated-at 1737321509238})
+:pages (
+{:block/uuid #uuid "678d6a9e-5279-40cc-a936-1571bd760bd2"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "678d6a9e-5279-40cc-a936-1571bd760bd2"
+:name "csci466-diagrams"
+:bindings 
+{:d6e83021-d6aa-11ef-9387-512189acc13d 
+{:id "d6e83021-d6aa-11ef-9387-512189acc13d"
+:type "line"
+:fromId "d6e83020-d6aa-11ef-9387-512189acc13d"
+:toId "812f9ba0-d6aa-11ef-9387-512189acc13d"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:d6e83022-d6aa-11ef-9387-512189acc13d 
+{:id "d6e83022-d6aa-11ef-9387-512189acc13d"
+:type "line"
+:fromId "d6e83020-d6aa-11ef-9387-512189acc13d"
+:toId "d6e80910-d6aa-11ef-9387-512189acc13d"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:e3ca11f1-d6aa-11ef-9387-512189acc13d 
+{:id "e3ca11f1-d6aa-11ef-9387-512189acc13d"
+:type "line"
+:fromId "e3ca11f0-d6aa-11ef-9387-512189acc13d"
+:toId "812f9ba0-d6aa-11ef-9387-512189acc13d"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e3ca11f2-d6aa-11ef-9387-512189acc13d 
+{:id "e3ca11f2-d6aa-11ef-9387-512189acc13d"
+:type "line"
+:fromId "e3ca11f0-d6aa-11ef-9387-512189acc13d"
+:toId "e3c9eae0-d6aa-11ef-9387-512189acc13d"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("812f9ba0-d6aa-11ef-9387-512189acc13d" "d6e83020-d6aa-11ef-9387-512189acc13d" "d6e80910-d6aa-11ef-9387-512189acc13d" "e3ca11f0-d6aa-11ef-9387-512189acc13d" "e3c9eae0-d6aa-11ef-9387-512189acc13d")}}
+:block/updated-at 1737321509253
+:block/created-at 1737321118436
+:block/type "whiteboard"
+:block/name "csci466-diagrams"
+:block/original-name "CSCI466-Diagrams"})}
