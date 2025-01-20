@@ -7,7 +7,7 @@ For example, the derivative operation is linear:
 $$\int(f+g) = \int{f} + \int{g}$$
 $$\int(cf) = c\int{f}$$
 - ### Matrices
-	- #### Definitions
+	- ### Definitions
 		- #### Column Vector
 		  A vertical set.
 		  
@@ -16,6 +16,22 @@ $$\int(cf) = c\int{f}$$
 		  A horizontal set.
 		  
 		  For example, for the set of row vectors with elements of $$\mathbb{R}$$ is $$\mathbb{R}_{n}$$.
+		- #### Diagonal Matrix
+		  A matrix where all elements $m_{ij} = 0\text{ when }i\ne j$.
+			- #### Scalar Diagonal Matrix
+			  A diagonal matrix, but all elements are the same number.
+			- #### Identity Matrix
+			  A diagonal matrix, but all non-zero elements are 1.
+		- ### Symmetric Matrix
+		  A matrix where $A=A^T$
+			- ### Skew Symmetric Matrix
+			  A matrix where $A^T= -A$.
+		- ### Nonsingular/Invertible Matrix
+		  A matrix $A$ where there exists a matrix $B$ such that $AB = I_n$.
+		  
+		  This matrix $B$ is also called the *inverse* of $A$.
+		- ### Singular/Noninvertible Matrix
+		  A matrix $A$ where there exists *no* matrix $B$ such that $AB=I_n$.
 	- #### Notation
 	  A matrix of $n$ vertical size and $m$ horizontal size appears as:
 	  \begin{vmatrix}
@@ -120,12 +136,8 @@ $$\int(cf) = c\int{f}$$
 		  $$P_{\vec{v}}{\vec{u}}=\frac{\vec{u}\cdot\vec{v}}{\vec{v}\cdot\vec{v}}\vec{v}$$
 		  
 		  $P_{\vec{v}}\vec{u}$ is read as "projecting $\vec{u}$ onto $\vec{v}$.
-		- #### Matrix Multiplication
+		- ### Matrix Multiplication
 		  The general process is to go *down* the rows of the first (left) matrix and *across* the columns of the second (right) matrix, and take the ((6787f568-1935-41ae-a8f4-adcc0fe55c86)) of the two.
-			- #### Transformations
-			  Transformations can be thought of as functions, and accordingly, the transformation matrix should always be on the left.
-			  
-			  Remember that matrix order-of-operations is *right-to-left*.
 		- #### Determinant
 			- #### 2x2
 			  \begin{equation}
@@ -153,6 +165,7 @@ $$\int(cf) = c\int{f}$$
 			  -b\begin{vmatrix} d & f \\ g & i\end{vmatrix}
 			  +c\begin{vmatrix} d & e \\ g & h\end{vmatrix}
 			  \end{equation}
+	-
 	- #### Visualization
 	  Action of column vectors...
 	  \begin{vmatrix}x \\ y \end{vmatrix}
@@ -165,6 +178,24 @@ $$\int(cf) = c\int{f}$$
 	  ...to...
 	  \begin{vmatrix}3 \\ 1\end{vmatrix}
 	  \end{equation}
+	- ### Transformations
+	  Transformations can be thought of as functions, and accordingly, the transformation matrix should always be on the left.
+	  
+	  Remember that matrix order-of-operations is *right-to-left*.
+	  
+	  The result of a transformation is often called the *image*, and the set of all possible images is the *range*.
+		- ### Common Transformations
+			- ### Dilation and Contractions
+			  Both take the form $rI_n$.
+			  
+			  A *dilation* occurs when $r > 1$, and a *contraction* takes place when $1 > r > 0$.
+			- ### Rotation
+			  A rotation $\theta$ for a matrix in $\mathbb{R}^2$ is the following:
+			  \begin{bmatrix}
+			  \cos{\theta} && -\sin{\theta} \\
+			  \sin{\theta} && \cos{\theta}
+			  \end{bmatrix}
+	-
 - ### Fields
   **Examples**:
   * Scalars
