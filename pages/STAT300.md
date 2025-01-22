@@ -6,6 +6,8 @@
 	  * **Study/Sample Survey** is gathering information from a smaller subset of candidates.
 	  * A **variable** is a characteristic that is variadic in nature. These use capital letters. For the actual data, use the lowercase equivalent of them.
 	  * A **univariate, bivariate dataset** is a dataset consisting of just one and two variables respectively. A **multivariate dataset** is a dataset consisting of two or more variables.
+	  * A **sample space** is the set of all possible outcomes of an experiment. 
+	    *Use set builder notation if possible*.
 	- #### Types of Variables
 		- #### Quantitative 
 		  A *measure* of something.
