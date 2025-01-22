@@ -32,6 +32,11 @@ $$\int(cf) = c\int{f}$$
 		  This matrix $B$ is also called the *inverse* of $A$.
 		- ### Singular/Noninvertible Matrix
 		  A matrix $A$ where there exists *no* matrix $B$ such that $AB=I_n$.
+		- ### Zero Vector
+		  id:: 67912a9e-2bd7-4de0-ae70-fea77995ff98
+		  $$\vec{0}\in\mathbb{R}^n$$
+		  $$\vec{0}\in\mathbb{R}_m$$
+		  Both are column/row vectors respectively with all elements set to 0.
 	- #### Notation
 	  A matrix of $n$ vertical size and $m$ horizontal size appears as:
 	  \begin{vmatrix}
@@ -138,6 +143,14 @@ $$\int(cf) = c\int{f}$$
 		  $P_{\vec{v}}\vec{u}$ is read as "projecting $\vec{u}$ onto $\vec{v}$.
 		- ### Matrix Multiplication
 		  The general process is to go *down* the rows of the first (left) matrix and *across* the columns of the second (right) matrix, and take the ((6787f568-1935-41ae-a8f4-adcc0fe55c86)) of the two.
+			- #### Algebraic Properties
+			  Let $A$, $B$, and $C$ be $mxn$ matrices. Then,
+			  $$A+B = B + A$$
+			  $$A+(B+C)=(A+B)+C$$
+			  $$\text{There exists a unique matrix }0_{mn}\text{ such that } A+0_{mn}=A$$
+			  ...where $0_{mn}$ is a ((67912a9e-2bd7-4de0-ae70-fea77995ff98)).
+			  $$A+(-A)=0$$
+			  $$-A=(-1)*A$$
 		- #### Determinant
 			- #### 2x2
 			  \begin{equation}
@@ -195,6 +208,10 @@ $$\int(cf) = c\int{f}$$
 			  \cos{\theta} && -\sin{\theta} \\
 			  \sin{\theta} && \cos{\theta}
 			  \end{bmatrix}
+			- ### Affine Transformations
+			  $$f(\vec{v})=A\vec{v}+\vec{x}$$
+			  
+			  It's worth noting that this is a common operation in machine learning.
 	- ### Functions
 	  A function $f : S \rarr T$ is a set of ordered pairs $(s,t)$ where $s\in S$ and $t \in T$, such that for every $s \in S$, there exists exactly one $t\in T$ for which $f(x)=t$.
 	  
