@@ -195,7 +195,16 @@ $$\int(cf) = c\int{f}$$
 			  \cos{\theta} && -\sin{\theta} \\
 			  \sin{\theta} && \cos{\theta}
 			  \end{bmatrix}
-	-
+	- ### Functions
+	  A function $f : S \rarr T$ is a set of ordered pairs $(s,t)$ where $s\in S$ and $t \in T$, such that for every $s \in S$, there exists exactly one $t\in T$ for which $f(x)=t$.
+	  
+	  $S$ can be defined as the *domain*
+	  $T$ can be defined as the *codomain*, **not** to be confused with the term *range*.
+		- ### Linear Functions
+		  $$f : \mathbb{R}^n \rarr \mathbb{R}m$$
+		  $$\vec{v} \mapsto A\vec{v}$$
+		  It's worth noting that the above notation is *maps-to* notation, which can be re-written as:
+		  $$f(\vec{v})=A\vec{v}$$
 - ### Fields
   **Examples**:
   * Scalars
