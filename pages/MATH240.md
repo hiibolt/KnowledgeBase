@@ -205,6 +205,10 @@ $$\int(cf) = c\int{f}$$
 		  $$\vec{v} \mapsto A\vec{v}$$
 		  It's worth noting that the above notation is *maps-to* notation, which can be re-written as:
 		  $$f(\vec{v})=A\vec{v}$$
+		  
+		  Requirements to be a linear function:
+		  $$f(\vec{v}_1+\vec{v}_2)=f(\vec{v}_1)+f(\vec{v}_2)$$
+		  $$f(c\vec{v})=cf(\vec{v})$$
 - ### Fields
   **Examples**:
   * Scalars
