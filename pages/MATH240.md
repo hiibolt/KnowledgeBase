@@ -161,9 +161,20 @@ $$\int(cf) = c\int{f}$$
 			  $$A+(-A)=0$$
 			  $$-A=(-1)*A$$
 			- #### Properties
-			  $$A(BC)=(AB)C$$
-			  $$(A+B)C=AC+BC$$
-			  $$C(A+B)=CA+CB$$
+				- #### Property 1
+				  $$A(BC)=(AB)C$$
+				  ...is proven by:
+				  
+				  For $A_{mxn}$, $B_{nxp}$, and $pxq$:
+				  $$BC=(\sum_{s=1}^pb_{js}c_{sk})$$
+				  $$A(BC)=(\sum_{r=1}^na_{ir}\sum_{s=1}^pb_{rs}c_{sk})=\sum_{s=1}^p\sum_{r=1}^na_{ir}b_{rs}c_{sk}$$
+				- #### Property 2/3
+				  $$(A+B)C=AC+BC$$
+				  $$C(A+B)=CA+CB$$
+				  ...is proven by:
+				  
+				  For $A_{mxn}$, $B_{mxn}$, and $C_{nxp}$:
+				  $$\sum_{r=1}^n(a_{ir}+b{ir}c_{rj}=....=AC+BC$$
 			- #### Using Sigma Notation
 			  $$c_{ij}=\sum_{\lambda=1}^n(a_{i\lambda}b_{i\lambda})$$
 		- #### Determinant
