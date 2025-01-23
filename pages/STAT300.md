@@ -53,6 +53,8 @@
 	  The probability is *always* a number between $0$ and $1$ inclusively.
 	  
 	  The *short-term* is not accurate - it's the *long-term* that matters.
+	  
+	  Do not confuse the *chance* of event $A$ ($P(A)*100%$) with the **probalility**.
 		- ### Axioms
 		  * Let $S$ be the sample space for an experiment and $A$ be any event.
 		  * Let $P$ be a function that assigns a probability to an event $A$, denoted $P(A)$.
