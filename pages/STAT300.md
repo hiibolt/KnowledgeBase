@@ -46,6 +46,8 @@
 		  Two events $A$ and $B$ are disjoint or mutually exclusive if the two events have no elements in common.
 		  
 		  This is notationally represented as $A\cap B=\emptyset$
+		- #### Addition Rule
+		  $$P(A\cup B) = P(A) + P(B) - P(A\cap B)$$
 	- ## Probability
 	  Let $N(A)$ be the number of times $A$ occurs in the $n$ repeats.
 	  $$P(A)=\lim_{n\rarr\infty}\frac{N(A)}{n}$$
