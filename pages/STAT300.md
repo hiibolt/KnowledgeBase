@@ -36,6 +36,19 @@
 		  Constructed by drawing a line on a number line between the lowest and highest entry, followed by a two boxes sharing a midpoint (the set mean) and a left side of the *lower fourth* (median of the smaller half) and a right side of the *upper fourth* (median of the upper half).
 		  
 		  It's worth noting that they can also display outliers by not drawing the line to certain points, instead opting to render them as filled circles (mild outliers) or no-fill circles (extreme outliers).
+		- ### Venn Diagrams
+		  The large block around a *Venn Diagram* is the **sample space**.
+			- #### Union
+			  The union of two events $A$ and $B$ is the event consisting of all outcomes that are either in $A$, $B$, or both.
+			  
+			  This is represented by $A\cup B$, or the logical operator *OR*.
+		- #### Mutually Exclusive or Disjoint
+		  Two events $A$ and $B$ are disjoint or mutually exclusive if the two events have no elements in common.
+		  
+		  This is notationally represented as $A\cap B=\emptyset$
+	- ## Probability
+	  Let $N(A)$ be the number of times $A$ occurs in the $n$ repeats.
+	  $$P(A)=\lim_{n\rarr\infty}\frac{N(A)}{n}$$
 	- ## Dataset Indicators
 		- ### Mean
 		  The computational average of a set.
