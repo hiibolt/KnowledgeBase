@@ -49,6 +49,18 @@
 	- ## Probability
 	  Let $N(A)$ be the number of times $A$ occurs in the $n$ repeats.
 	  $$P(A)=\lim_{n\rarr\infty}\frac{N(A)}{n}$$
+	  
+	  The probability is *always* a number between $0$ and $1$ inclusively.
+	  
+	  The *short-term* is not accurate - it's the *long-term* that matters.
+		- ### Axioms
+		  * Let $S$ be the sample space for an experiment and $A$ be any event.
+		  * Let $P$ be a function that assigns a probability to an event $A$, denoted $P(A)$.
+		  
+		  The three primary *axioms* are the following:
+		  $$P(A)\ge 0$$
+		  $$P(S)=1$$
+		  $$\text{(For mutually exclusive event }A_i\text{): }P(A_1,...A_n)=\sum_{i=1}^nP(A_i)$$
 	- ## Dataset Indicators
 		- ### Mean
 		  The computational average of a set.
