@@ -42,8 +42,26 @@
 			  The union of two events $A$ and $B$ is the event consisting of all outcomes that are either in $A$, $B$, or both.
 			  
 			  This is represented by $A\cup B$, or the logical operator *OR*.
-				- #### Addition Rule (Union In Terms of Disjoint)
+				- #### Addition Rule (Union In Terms of Intersection)
 				  $$P(A\cup B) = P(A) + P(B) - P(A\cap B)$$
+				- #### Example 1.1
+				  $P(\text{coffee}) = 0.55)$, $P(\text{soda}), and $P(\text{coffee}\cup\text{soda})$ = 0.45$.
+				  
+				  The probability that someone drinks both is the following:
+				  $$P(\text{coffee}\cup \text{soda})=P(\text{coffee}) + P(\text{soda}) - P(\text{coffee}\cap\text{soda})$$
+				  
+				  Solving for $P(\text{coffee}\cap\text{soda})$, we get $0.30$.
+				- #### Example 1.2
+				  The probability that someone does not drink one or more of these is:
+				  $$1 - P(\text{coffee}\cup\text{soda}) = 0.30$$
+				- #### Example 1.3
+				  Are coffee and soda mutually exclusive? Why or why not?
+				  
+				  The answer is no, because $P(\text{coffee}\cup\text{soda})\ne 0$.
+			- #### Intersection
+			  The intersection of two events $A$ and $B$ are the event outcomes that are in both $A$ and $B$.
+			  
+			  This is represented by $A \cap B$ or the logical operator *AND*.
 		- #### Mutually Exclusive or Disjoint
 		  Two events $A$ and $B$ are disjoint or mutually exclusive if the two events have no elements in common.
 		  
