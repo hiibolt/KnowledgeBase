@@ -152,7 +152,7 @@ $$\int(cf) = c\int{f}$$
 		  $P_{\vec{v}}\vec{u}$ is read as "projecting $\vec{u}$ onto $\vec{v}$.
 		- ### Matrix Multiplication
 		  The general process is to go *down* the rows of the first (left) matrix and *across* the columns of the second (right) matrix, and take the ((6787f568-1935-41ae-a8f4-adcc0fe55c86)) of the two.
-			- #### Algebraic Properties
+			- #### Algebraic Properties (of addition, technically)
 			  Let $A$, $B$, and $C$ be $mxn$ matrices. Then,
 			  $$A+B = B + A$$
 			  $$A+(B+C)=(A+B)+C$$
@@ -160,6 +160,12 @@ $$\int(cf) = c\int{f}$$
 			  ...where $0_{mn}$ is a ((67912a9e-2bd7-4de0-ae70-fea77995ff98)).
 			  $$A+(-A)=0$$
 			  $$-A=(-1)*A$$
+			- #### Properties
+			  $$A(BC)=(AB)C$$
+			  $$(A+B)C=AC+BC$$
+			  $$C(A+B)=CA+CB$$
+			- #### Using Sigma Notation
+			  $$c_{ij}=\sum_{\lambda=1}^n(a_{i\lambda}b_{i\lambda})$$
 		- #### Determinant
 			- #### 2x2
 			  \begin{equation}
