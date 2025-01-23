@@ -57,7 +57,7 @@
 				- #### Example 1.3
 				  Are coffee and soda mutually exclusive? Why or why not?
 				  
-				  The answer is no, because $P(\text{coffee}\cup\text{soda})\ne 0$.
+				  The answer is no, because $P(\text{coffee}\cap\text{soda})\ne 0$.
 			- #### Intersection
 			  The intersection of two events $A$ and $B$ are the event outcomes that are in both $A$ and $B$.
 			  
