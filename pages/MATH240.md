@@ -259,6 +259,17 @@ $$\int(cf) = c\int{f}$$
 			  x \\ y
 			  \end{bmatrix}
 			  \end{equation}
+				- #### Example
+				  Let $T_\theta:\mathbb{R}^2\rarr\mathbb{R}^2$ be rotation by $\theta$. Then,
+				  \begin{equation}
+				  T_\theta(\vec{u})=
+				  \begin{bmatrix}
+				  \cos\theta & -\sin\theta \\
+				  \sin\theta & \cos\theta
+				  \end{bmatrix}
+				  =
+				  A\vec{}
+				  \end{equation}
 			- ### Affine Transformations
 			  $$f(\vec{v})=A\vec{v}+\vec{x}$$
 			  
