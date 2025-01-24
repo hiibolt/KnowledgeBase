@@ -230,9 +230,17 @@ $$\int(cf) = c\int{f}$$
 			  A *dilation* occurs when $r > 1$, and a *contraction* takes place when $1 > r > 0$.
 			- ### Rotation
 			  A rotation $\theta$ for a matrix in $\mathbb{R}^2$ is the following:
+			  
+			  **Clockwise**:
 			  \begin{bmatrix}
-			  \cos{\theta} && -\sin{\theta} \\
-			  \sin{\theta} && \cos{\theta}
+			  \cos{\theta} && \sin{\theta} \\
+			  -\sin{\theta} && \cos{\theta}
+			  \end{bmatrix}
+			  
+			  **Clockwise**:
+			  \begin{bmatrix}
+			  \cos{\theta} && \sin{\theta} \\
+			  -\sin{\theta} && \cos{\theta}
 			  \end{bmatrix}
 			- ### Affine Transformations
 			  $$f(\vec{v})=A\vec{v}+\vec{x}$$
