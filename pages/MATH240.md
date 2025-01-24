@@ -288,6 +288,8 @@ $$\int(cf) = c\int{f}$$
 		  Requirements to be a linear function:
 		  $$f(\vec{v}_1+\vec{v}_2)=f(\vec{v}_1)+f(\vec{v}_2)$$
 		  $$f(c\vec{v})=cf(\vec{v})$$
+		- ### Composition
+		  Let $f:A\rarr B$ be a function and $g:B\rarr C$ be another function.
 - ### Fields
   **Examples**:
   * Scalars
