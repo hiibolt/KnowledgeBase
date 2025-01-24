@@ -290,6 +290,11 @@ $$\int(cf) = c\int{f}$$
 		  $$f(c\vec{v})=cf(\vec{v})$$
 		- ### Composition
 		  Let $f:A\rarr B$ be a function and $g:B\rarr C$ be another function.
+		  
+		  The composition of *f and g* is the function:
+		  $(g\circ f)(x)=g(f(x))$ where $g\circ f:A\rarr C$
+		  
+		  This is read as "*g composed with f*".
 - ### Fields
   **Examples**:
   * Scalars
