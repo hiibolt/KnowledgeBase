@@ -294,7 +294,7 @@ $$\int(cf) = c\int{f}$$
 		  The composition of *f and g* is the function:
 		  $(g\circ f)(x)=g(f(x))$ where $g\circ f:A\rarr C$
 		  
-		  This is read as "*g composed with f*".
+		  This is read as "$g$ composed with $f$". This composition is *only* valid if the *image* of $f$ is contained in the domain of $g$.
 - ### Fields
   **Examples**:
   * Scalars
