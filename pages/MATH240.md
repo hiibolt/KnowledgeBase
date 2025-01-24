@@ -237,10 +237,10 @@ $$\int(cf) = c\int{f}$$
 			  -\sin{\theta} && \cos{\theta}
 			  \end{bmatrix}
 			  
-			  **Clockwise**:
+			  **Counter-Clockwise**:
 			  \begin{bmatrix}
-			  \cos{\theta} && \sin{\theta} \\
-			  -\sin{\theta} && \cos{\theta}
+			  \cos{\theta} && -\sin{\theta} \\
+			  \sin{\theta} && \cos{\theta}
 			  \end{bmatrix}
 			- ### Affine Transformations
 			  $$f(\vec{v})=A\vec{v}+\vec{x}$$
