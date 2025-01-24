@@ -268,7 +268,7 @@ $$\int(cf) = c\int{f}$$
 				  \sin\theta & \cos\theta
 				  \end{bmatrix}
 				  =
-				  A\vec{}
+				  A\vec{u}
 				  \end{equation}
 			- ### Affine Transformations
 			  $$f(\vec{v})=A\vec{v}+\vec{x}$$
