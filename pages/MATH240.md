@@ -242,6 +242,23 @@ $$\int(cf) = c\int{f}$$
 			  \cos{\theta} && -\sin{\theta} \\
 			  \sin{\theta} && \cos{\theta}
 			  \end{bmatrix}
+			  
+			  There's a helpful formula gathered from this process:
+			  $$T(a\vec{u}+b\vec{v}) = aT(\vec{u})+bT(\vec{v})$$
+			  $$T((x,y)^T)=xT((1,0)^T)+yT((0,1)^T)$$
+			  $$\text{or}$$
+			  $$x(\cos{\theta},\sin{\theta})^T=y(-\sin{\theta},\cos{\theta})^T$$
+			  $$\text{or}$$
+			  \begin{equation}
+			  =
+			  \begin{bmatrix}
+			  \cos\theta & -\sin\theta \\
+			  \sin\theta & \cos\theta
+			  \end{bmatrix}
+			  \begin{bmatrix}
+			  x \\ y
+			  \end{bmatrix}
+			  \end{equation}
 			- ### Affine Transformations
 			  $$f(\vec{v})=A\vec{v}+\vec{x}$$
 			  
