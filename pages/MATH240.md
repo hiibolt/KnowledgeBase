@@ -174,7 +174,7 @@ $$\int(cf) = c\int{f}$$
 				  ...is proven by:
 				  
 				  For $A_{mxn}$, $B_{mxn}$, and $C_{nxp}$:
-				  $$\sum_{r=1}^n(a_{ir}+b{ir}c_{rj}=....=AC+BC$$
+				  $$\sum_{r=1}^n(a_{ir}+b{ir}c_{rj})=....=AC+BC$$
 			- #### Using Sigma Notation
 			  $$c_{ij}=\sum_{\lambda=1}^n(a_{i\lambda}b_{i\lambda})$$
 		- #### Determinant
