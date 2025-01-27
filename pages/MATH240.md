@@ -204,6 +204,18 @@ $$\int(cf) = c\int{f}$$
 			  -b\begin{vmatrix} d & f \\ g & i\end{vmatrix}
 			  +c\begin{vmatrix} d & e \\ g & h\end{vmatrix}
 			  \end{equation}
+		- #### Cross Product
+		  $$A\times B = ||A||||B||\sin\theta$$
+		  
+		  The cross product of two vectors $\vec{u}_{2x1}$ and $\vec{v}_{2x1}$ is:
+		  \begin{equation}
+		  A \times B =
+		  |\det
+		  \begin{bmatrix}
+		  u_11 & v_11 \\
+		  u_21 & v_21
+		  \end{bmatrix}|
+		  \end{equation}
 	-
 	- #### Visualization
 	  Action of column vectors...
