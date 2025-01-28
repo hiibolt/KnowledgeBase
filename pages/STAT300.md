@@ -1,4 +1,5 @@
 ## Chapter 1
+collapsed:: true
 	- ### Definitions
 	  * **Statistics** is the science of gathering data to help draw a conclusion based on said data
 	  * **Population** is a collection of objects
@@ -107,3 +108,4 @@
 			  $$S_{xx}=\sum{x_i^2}-\frac{(\sum{x_i})^2}{n}$$
 			  
 			  Note - this is an equivalent of the *numerator* of the above operations. This is not a standalone operation!
+- [[Conditional Probability]]
