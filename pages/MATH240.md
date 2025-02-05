@@ -40,6 +40,7 @@ $$\int(cf) = c\int{f}$$
 		  
 		  This matrix $B$ is also called the *inverse* of $A$.
 		- ### Singular/Noninvertible Matrix
+		  id:: 67a25d50-6c70-43fd-bfae-9e0e7ebcd07e
 		  A matrix $A$ where there exists *no* matrix $B$ such that $AB=I_n$.
 		- ### Zero Vector
 		  id:: 67912a9e-2bd7-4de0-ae70-fea77995ff98
@@ -215,6 +216,43 @@ $$\int(cf) = c\int{f}$$
 		  u_11 & v_11 \\
 		  u_21 & v_21
 		  \end{bmatrix}|
+		  \end{equation}
+		- #### Inverses
+		  To compute the inverse of a matrix, take the *RREF* (Row-Reduced Echelon Form) of the matrix augmented with the identity matrix of identical proportions on the right. The end result of this operation will replace the identity matrix on the right.
+		  
+		  If there is a row of zeros in the *RREF*, the given matrix is a ((67a25d50-6c70-43fd-bfae-9e0e7ebcd07e)).
+		  
+		  \begin{equation}
+		  A = 
+		  \begin{bmatrix}
+		  1 & 0 & 2 \\
+		  2 & -1 & 3 \\
+		  4 & 1 & 8
+		  \end{bmatrix}
+		  \end{equation}
+		  $$\text{so}$$
+		  \begin{equation}
+		  rref(
+		  \begin{bmatrix}
+		  1 & 0 & 2 & 1 & 0 & 0 \\
+		  2 & -1 & 3 & 0 & 1 & 0\\
+		  4 & 1 & 8 & 0 & 0 & 1
+		  \end{bmatrix})
+		  =
+		  \begin{bmatrix}
+		  1 & 0 & 0 & -11 & 2 & 2 \\
+		  0 & 1 & 0 & -4 & 0 & 1 \\
+		  0 & 0 & 1 & 6 & -1 & -1
+		  \end{bmatrix}
+		  \end{equation}
+		  $$\text{so}$$
+		  \begin{equation}
+		  A^{-1}=
+		  \begin{bmatrix}
+		  -11 & 2 & 2 \\
+		  -4 & 0 & 1 \\
+		  6 & -1 & -1
+		  \end{bmatrix}
 		  \end{equation}
 	-
 	- #### Visualization

@@ -109,3 +109,4 @@ collapsed:: true
 			  
 			  Note - this is an equivalent of the *numerator* of the above operations. This is not a standalone operation!
 - [[Conditional Probability]]
+- [[Variables]]
