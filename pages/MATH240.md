@@ -36,6 +36,7 @@ $$\int(cf) = c\int{f}$$
 			- ### Skew Symmetric Matrix
 			  A matrix where $A^T= -A$.
 		- ### Nonsingular/Invertible Matrix
+		  id:: 67a25d50-5203-40c8-a7c3-f3e65c7e765d
 		  A matrix $A$ where there exists a matrix $B$ such that $AB = I_n$.
 		  
 		  This matrix $B$ is also called the *inverse* of $A$.
@@ -47,6 +48,10 @@ $$\int(cf) = c\int{f}$$
 		  $$\vec{0}\in\mathbb{R}^n$$
 		  $$\vec{0}\in\mathbb{R}_m$$
 		  Both are column/row vectors respectively with all elements set to 0.
+		- #### Homogeneous
+		  An equation $A\vec{x} = \vec{0}$ is called a *homogeneous* equation.
+		- #### Inhomogeneous
+		  An equation $A\vec{x} = \vec{b}$, where $\vec{b} \ne \vec{0}$, is called an *inhomogeneous* equation.
 	- #### Notation
 	  A matrix of $n$ vertical size and $m$ horizontal size appears as:
 	  \begin{vmatrix}
@@ -254,6 +259,8 @@ $$\int(cf) = c\int{f}$$
 		  6 & -1 & -1
 		  \end{bmatrix}
 		  \end{equation}
+			- #### Properties
+			  If a matrix $A$ is a ((67a25d50-5203-40c8-a7c3-f3e65c7e765d)), then $A\vec{x}=\vec{0}$ has only the solution $\vec{x} = \vec{0}$ - which is called the *trivial solution*.
 	-
 	- #### Visualization
 	  Action of column vectors...
