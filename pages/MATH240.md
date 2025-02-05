@@ -232,7 +232,7 @@ $$\int(cf) = c\int{f}$$
 		  \end{equation}
 		  $$\text{so}$$
 		  \begin{equation}
-		  rref(
+		  RREF(
 		  \begin{bmatrix}
 		  1 & 0 & 2 & 1 & 0 & 0 \\
 		  2 & -1 & 3 & 0 & 1 & 0\\
