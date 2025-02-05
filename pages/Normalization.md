@@ -22,3 +22,11 @@ There are various potential anomalies that should be avoided.
 	  This is read as either:
 	  * $X$ functionally determines $Y$
 	  * $Y$ is functionally dependant on $X$
+		- #### Armstrong's Axioms
+		  $$\text{If }Y\subseteq X\text{ then }X\rarr$$
+		  $$\text{If }X\rarr Y,\text{ then }XZ\rarr YZ\text{ for any }Z$$
+		  $$\text{If }X\rarr Y\text{ and }Y\rarr Z\text{, then }X \rarr Z$$
+		  $$\text{If }X\rarr YZ\text{ then }X\rarr Y\text{ and }X\rarr Z$$
+		  $$\text{If }X\rarr Y\text{ and }A\rarr B\text{ then }XA\rarr YB$$
+		  $$\text{If }X\rarr Y\text{ and }YZ\rarr W\text{ then }XZ\rarr W$$
+		  $$I\rarr I\text{ for any }I$$
