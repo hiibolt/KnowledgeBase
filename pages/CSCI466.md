@@ -41,12 +41,6 @@ Stands for Entity-Relationship, which models the structure data by how they are 
 		  * (1,m) = **one-to-many**
 		  * (m,m) = **many-to-many**
 		  ...etc.
-		- #### Recursive Relationships
-		  Entities can be related to themselves.
-		  
-		  * Many to many - *Network*
-		  * One to many - *Tree*
-		  * One to one - *Chain*
 	- ### Attributes
 	  A *singular* piece of data attached to a relationship or entity.
 	  
@@ -66,3 +60,6 @@ Stands for Entity-Relationship, which models the structure data by how they are 
 	  Data is indexed via indices.
 	- #### OO
 	  Data is stored as objects.
+- [[Recursive Relationships]]
+- [[Relational Database Structure]]
+- [[Normalization]]
