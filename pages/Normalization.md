@@ -48,3 +48,5 @@ There are various potential anomalies that should be avoided.
 	  Given a violating **FD**, split the RHS into its own relation with the LHS as the primary key.
 	- ### Third Normal Form (3NF)
 	  Finally, we must address any remaining **FD**s of which the LHS is not a prime - in other words, which are not relations at this point.
+	  
+	  As with the past forms, we then *decompose* further.
