@@ -42,3 +42,9 @@ There are also some data structures that cannot be iterated over without modifyi
 	  Allows you to use `++`, `--`, and `[]`
 	- ### Const Iterator (`const_iterator`)
 	  Prevents the modification of elements
+- ## STL Algorithmic Functions
+  * `std::find`
+  * `std::count`, `std::count_if`
+  * `std::sort`
+  * `std::for_each`
+  * `std::transform`

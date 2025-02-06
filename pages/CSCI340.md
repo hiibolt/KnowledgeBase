@@ -1,3 +1,5 @@
 - [[Algorithms]]
 - [[Common Containers]]
 - [[Iterators]]
+- [[Lambda Functions]]
+- [[Functional Programming]]
