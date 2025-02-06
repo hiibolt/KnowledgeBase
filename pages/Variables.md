@@ -57,10 +57,49 @@ A function whose domain is the sample space S, and whose range is the set of rea
 	  \begin{equation}
 	  F(x) = 
 	  \begin{cases}
-	  0 \text{ if }x\le 0\\
-	  0.125 \text{ if }x\le 1\\
-	  0.500 \text{ if }x\le 2\\
-	  0.870 \text{ if }x\le 3\\
-	  1.000 \text{ otherwise }
+	  0 \text{ if }x< 0\\
+	  0.125 \text{ if }0\le x<1\\
+	  0.500 \text{ if }1\le x<2\\
+	  0.870 \text{ if }2\le x<3\\
+	  1.000 \text{ if }3\le x
 	  \end{cases}
 	  \end{equation}
+	  \begin{equation}
+	  p(x) = 
+	  \begin{cases}
+	  0.125\text{ if }x=0\\
+	  0.375\text{ if }x=1\\
+	  0.375\text{ if }x=2\\
+	  0.125\text{ if }x=3\\
+	  0\text{ ow}
+	  \end{cases}
+	  \end{equation}
+	- ### Example 2
+	  |X|13.5|15.9|19.1|ow|
+	  |p(x)|0.2|0.5|0.3|0|
+	  
+	  **Find the expected value of X**:
+	  $$E(x) = \mu = \text{mean} = \sum xp(x)$$
+	  $$\text{or}$$
+	  $$=13.5(0.2)+15.9(0.5)+19.1(0.3)$$
+	  $$E(x) = \mu = 16.380\text{ft}^3$$
+	  
+	  **Find** $E(X^2)$:
+	  $$E(X^2)=\sum x^2p(x)$$
+	  $$\text{or}$$
+	  $$=(13.5)^2(0.2)+(15.9)^2(0.5)+(19.1)^2(0.3)=\dots$$ 
+	  
+	  **Find the variance and standard deviation of** $X$:
+	  $$V(X)=E(X^2)-E(X)^2 =3.9936(\text{ft}^3)^2$$
+	  $$\sigma = \sqrt{V(x)} = 1.9984\text{ft}^3$$
+	  
+	  **If the price of a freezer having capacity $X$ cubic feet is $25X - 8.5$, find the expected price paid by the next customer to buy a freezer**:
+	  $$E(\text{price}) = E(25X-8.5) = 25E(X) - 8.5$$
+	  $$\text{or}$$
+	  $$=401.00$$
+	  
+	  **Find the variance and standard deviation of the price paid by the next customer**:
+	  $$V(p) = V(25X-8.5)=25^2V(X)=\$^22496.00$$
+	  $$\sigma_p=\sqrt{V(p)} = \$49.96$$
+- ## Variance and Standard Deviation
+  $$Var(X) = \sigma^2 = E(X^2)-E(X)^2$$
