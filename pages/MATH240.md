@@ -43,6 +43,9 @@ $$\int(cf) = c\int{f}$$
 		- ### Singular/Noninvertible Matrix
 		  id:: 67a25d50-6c70-43fd-bfae-9e0e7ebcd07e
 		  A matrix $A$ where there exists *no* matrix $B$ such that $AB=I_n$.
+		- ### Triangle Matrix
+		  id:: 67a6470d-b340-4c59-b950-7d56e59bb513
+		  A matrix $A$ where all elements above or below the diagonal are $0$.
 		- ### Zero Vector
 		  id:: 67912a9e-2bd7-4de0-ae70-fea77995ff98
 		  $$\vec{0}\in\mathbb{R}^n$$
@@ -192,7 +195,16 @@ $$\int(cf) = c\int{f}$$
 		  \dots & \dots & \dots & \dots
 		  \end{bmatrix}
 		  
-		  If a row or column of the matrix is 0, the determinant is also zero.
+		  * If a row or column of the matrix is 0, the determinant is also zero.
+		  * The determinant is zero if and only for a ((67a25d50-6c70-43fd-bfae-9e0e7ebcd07e)).
+		  * $|A|=|A^T|$
+		  * $|AB|=|A||B|$
+		  * $|I| = 1$
+		  * If two rows or columns of $A$ are equal, then $|A| = 0$
+		  * If you interchange two rows or columns, the determinant changes sign.
+		  * If $B$ is the matrix obtained by multiplying a row or column of $A$ by a scalar $c\in \mathbb{R}$, then $|B| = c|A|$
+		  * The determinant of an upper ((67a6470d-b340-4c59-b950-7d56e59bb513)) $A_{nxn}\text{ is }\sum_{i=1}^na_{ii}$.
+		  * If you add a multiple of one row or column to another, the determinant is unchanged.
 			- #### 2x2
 			  \begin{equation}
 			  \det
