@@ -45,4 +45,27 @@ Entities will become relations. How they do so varies on the type!
 		  **Entity_A**($$\underline{\text{A-ID}}$$, A-attr)
 		  **Entity_B**($$\underline{\text{B-ID}}$$, B-attr)
 		  **A_B_Intersection**($$\underline{\text{A-ID}}^\dagger$$, $$\underline{\text{B-ID}}^\dagger$$)
+		  
+		  *Note*:
+		  For certain M2M relationships, you should specify whether a link is *directed* or *un-directed*, as this would change whether ($$\underline{\text{A-ID}}^\dagger$$, $$\underline{\text{B-ID}}^\dagger$$) implies ($$\underline{\text{B-ID}}^\dagger$$, $$\underline{\text{A-ID}}^\dagger$$). Directed implies **no**, un-directed implies **yes**.
 	- ### Non-Binary
+	  All require a new intersection table, but how many potential options largely depends on how many *one-legs* you have.
+	  
+	  For example, for a ternary relationship with entities *A*, *B*, and *C*, and **three** *one-legs*:
+	  |Functional Dependancy|Potential Relationship|
+	  |$$A,B\rarr C$$|**A_B_to_C**($$\underline{\text{A-ID}}^\dagger$$, $$\underline{\text{B-ID}}^\dagger$$, $$\text{C-ID}^\dagger$$)|
+	  |$$B,C\rarr A$$|**B_C_to_A**($$\underline{\text{B-ID}}^\dagger$$, $$\underline{\text{C-ID}}^\dagger$$, $$\text{A-ID}^\dagger$$)|
+	  |$$C,A\rarr B$$|**C_A_to_B**($$\underline{\text{C-ID}}^\dagger$$, $$\underline{\text{A-ID}}^\dagger$$, $$\text{B-ID}^\dagger$$)|
+	  
+	  **Two One-Legs A and B**:
+	  |Functional Dependancy|Potential Relationship|
+	  |$$A,C\rarr B$$|**A_C_to_B**($$\underline{\text{A-ID}}^\dagger$$, $$\underline{\text{C-ID}}^\dagger$$, $$\text{B-ID}^\dagger$$)|
+	  |$$B,C\rarr A$$|**B_C_to_A**($$\underline{\text{B-ID}}^\dagger$$, $$\underline{\text{C-ID}}^\dagger$$, $$\text{A-ID}^\dagger$$)|
+	  
+	  **One One-Legs, A**:
+	  |Functional Dependancy|Relationship|
+	  |$$B,C\rarr A$$|**B_C_to_A**($$\underline{\text{B-ID}}^\dagger$$, $$\underline{\text{C-ID}}^\dagger$$, $$\text{A-ID}^\dagger$$)|
+	  
+	  **No One-Legs**:
+	  |Functional Dependancy|Potential Relationship|
+	  |None|**A_B_C_Relationship**($$\underline{\text{A-ID}}^\dagger$$, $$\underline{\text{B-ID}}^\dagger$$, $$\underline{\text{C-ID}}^\dagger$$)|
