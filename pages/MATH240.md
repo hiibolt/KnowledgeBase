@@ -229,12 +229,7 @@ $$\int(cf) = c\int{f}$$
 			  2 & -1 & 4
 			  \end{bmatrix}
 			  =
-			  \frac{1}{6}
-			  \begin{bmatrix}
-			  4 & -1 & -1 \\
-			  0 & 1 & 0 \\
-			  -2 & 2 & 2
-			  \end{bmatrix}
+			  6
 			  \end{equation}
 			  
 			  **Example 2**:
@@ -246,12 +241,7 @@ $$\int(cf) = c\int{f}$$
 			  0 & 2 & 1
 			  \end{bmatrix}
 			  =
-			  \frac{1}{3}
-			  \begin{bmatrix}
-			  3 & -3 & 3 \\
-			  -1 & -2 & -1 \\
-			  2 & -4 & 5
-			  \end{bmatrix}
+			  3
 			  \end{equation}
 			- #### 4x4
 			  \begin{equation}
