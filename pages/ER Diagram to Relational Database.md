@@ -11,6 +11,12 @@ Entities will become relations. How they do so varies on the type!
 	  
 	  **Method 2**:
 	  You can place them into three different relations:
-	  **Super_Type**($$\underline{SPR-ID}$$, SPR-attr)
-	  **Sub_Type_1**($$\underline{SPR-ID}^t$$, ST-1-attr)
-	  **Sub_Type_2**($$\underline{SPR-ID}^t$$, ST-2-attr)
+	  **Super_Type**($$\underline{\text{SPR-ID}}$$, SPR-attr)
+	  **Sub_Type_1**($$\underline{\text{SPR-ID}}^t$$, ST-1-attr)
+	  **Sub_Type_2**($$\underline{\text{SPR-ID}}^t$$, ST-2-attr)
+	- ### Weak Entity
+	  Given a weak entity *WE* that relies on a strong entity *SE*, you *must* include the SE's identifier as a part of the primary key.
+	  
+	  For example:
+	  **Strong_Entity**($$\underline{\text{SE-ID}}$$, SE-attr)
+	  **Weak_Entity**($$\underline{\text{SE-ID}}$$, $$\underline{\text{WE-ID}}$$, WE-attr)
