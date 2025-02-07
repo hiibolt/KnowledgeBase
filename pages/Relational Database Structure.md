@@ -19,6 +19,7 @@ Each *attribute* becomes a **column**, and the *Relation_Name* becomes the **hea
 	  Rendered in the tuple by underlining:
 	  \begin{equation}\textbf{Relation\_Name}(\underline{A_1},\underline{A_2},A_3,\dots,A_N)\end{equation}
 	- ### Foreign Key
+	  id:: 67a3dd0f-27ee-4a5c-8a49-58b13acb6f14
 	  Points to a unique tuple in a another relation - labeled the *home relation*.
 - ## Attributes
   It's worth nothing that attributes do not need to be sorted. As long that two tuples have schemas have the same *name*, *attributes*, and *primary key*, they are equivalent - a property known as *order independence*.
