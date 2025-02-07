@@ -219,6 +219,40 @@ $$\int(cf) = c\int{f}$$
 			  -b\begin{vmatrix} d & f \\ g & i\end{vmatrix}
 			  +c\begin{vmatrix} d & e \\ g & h\end{vmatrix}
 			  \end{equation}
+			  
+			  **Example 1**:
+			  \begin{equation}
+			  \det
+			  \begin{bmatrix}
+			  2 & 0 & 1 \\
+			  0 & 1 & 0 \\
+			  2 & -1 & 4
+			  \end{bmatrix}
+			  =
+			  \frac{1}{6}
+			  \begin{bmatrix}
+			  4 & -1 & -1 \\
+			  0 & 1 & 0 \\
+			  -2 & 2 & 2
+			  \end{bmatrix}
+			  \end{equation}
+			  
+			  **Example 2**:
+			  \begin{equation}
+			  \det
+			  \begin{bmatrix}
+			  2 & 1 & -1 \\
+			  1 & 3 & 0 \\
+			  0 & 2 & 1
+			  \end{bmatrix}
+			  =
+			  \frac{1}{3}
+			  \begin{bmatrix}
+			  3 & -3 & 3 \\
+			  -1 & -2 & -1 \\
+			  2 & -4 & 5
+			  \end{bmatrix}
+			  \end{equation}
 			- #### 4x4
 			  \begin{equation}
 			  \det
