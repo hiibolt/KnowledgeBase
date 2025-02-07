@@ -63,4 +63,4 @@ Stands for Entity-Relationship, which models the structure data by how they are 
 - [[Recursive Relationships]]
 - [[Relational Database Structure]]
 - [[Normalization]]
-- [[Converting an ER Diagram to Relational Database]]
+- [[ER Diagram to Relational Database]]
