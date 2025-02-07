@@ -87,7 +87,7 @@ A function whose domain is the sample space S, and whose range is the set of rea
 	  **Find** $E(X^2)$:
 	  $$E(X^2)=\sum x^2p(x)$$
 	  $$\text{or}$$
-	  $$=(13.5)^2(0.2)+(15.9)^2(0.5)+(19.1)^2(0.3)=\dots$$ 
+	  $$=(13.5)^2(0.2)+(15.9)^2(0.5)+(19.1)^2(0.3)=272.2980$$ 
 	  
 	  **Find the variance and standard deviation of** $X$:
 	  $$V(X)=E(X^2)-E(X)^2 =3.9936(\text{ft}^3)^2$$
@@ -101,5 +101,11 @@ A function whose domain is the sample space S, and whose range is the set of rea
 	  **Find the variance and standard deviation of the price paid by the next customer**:
 	  $$V(p) = V(25X-8.5)=25^2V(X)=\$^22496.00$$
 	  $$\sigma_p=\sqrt{V(p)} = \$49.96$$
+	  
+	  **Suppose that although the rated capacity of a freezer is** $X$**, the actual capacity is given by:**
+	  $$h(x) = X - 0.01X^2$$
+	  **Find the expected actual capacity of the freezer purchased by the next customer**:
+	  $$E(X-0.01X^2)=E(X)-0.01E(X^2)=16.380-0.01(272.2980)$$
+	  $$=13.66\text{ft}^3$$
 - ## Variance and Standard Deviation
   $$Var(X) = \sigma^2 = E(X^2)-E(X)^2$$
