@@ -184,6 +184,13 @@ $$\int(cf) = c\int{f}$$
 			- #### Using Sigma Notation
 			  $$c_{ij}=\sum_{\lambda=1}^n(a_{i\lambda}b_{i\lambda})$$
 		- #### Determinant
+		  In general, the pattern for determining the signs of a determinant matrix is:
+		  \begin{bmatrix}
+		  + & - & + & \dots \\
+		  - & + & - & \dots \\
+		  + & - & + & \dots \\
+		  \dots & \dots & \dots & \dots
+		  \end{bmatrix}
 			- #### 2x2
 			  \begin{equation}
 			  \det
