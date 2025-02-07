@@ -191,6 +191,8 @@ $$\int(cf) = c\int{f}$$
 		  + & - & + & \dots \\
 		  \dots & \dots & \dots & \dots
 		  \end{bmatrix}
+		  
+		  If a row or column of the matrix is 0, the determinant is also zero.
 			- #### 2x2
 			  \begin{equation}
 			  \det
