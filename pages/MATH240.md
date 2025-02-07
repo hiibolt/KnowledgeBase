@@ -217,6 +217,37 @@ $$\int(cf) = c\int{f}$$
 			  -b\begin{vmatrix} d & f \\ g & i\end{vmatrix}
 			  +c\begin{vmatrix} d & e \\ g & h\end{vmatrix}
 			  \end{equation}
+			- #### 4x4
+			  \begin{equation}
+			  \det
+			  \begin{bmatrix}
+			  a & b & c & d \\
+			  e & f & g & h \\
+			  i & j & k & l \\
+			  m & n & o & p
+			  \end{bmatrix}
+			  =
+			  a\det\begin{bmatrix}
+			  f & g & h \\
+			  j & k & l \\
+			  m & n & o
+			  \end{bmatrix}
+			  -b\det\begin{bmatrix}
+			  e & g & h \\
+			  i & k & l \\
+			  m & o & p
+			  \end{bmatrix}
+			  +c\det\begin{bmatrix}
+			  e & f & h \\
+			  i & j & l \\
+			  m & n & p
+			  \end{bmatrix}
+			  -d\det\begin{bmatrix}
+			  e & f & g \\
+			  i & j & k \\
+			  m & n & o
+			  \end{bmatrix}
+			  \end{equation}
 		- #### Cross Product
 		  $$A\times B = ||A||||B||\sin\theta$$
 		  
