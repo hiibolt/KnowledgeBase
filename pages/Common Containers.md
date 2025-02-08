@@ -29,12 +29,27 @@ An array with a size known at compile time. Extremely efficient.
 	  $$O(n)$$
 	  $O(n)$ as each element must be copied into the new chunk of memory.
 - ## Singly Linked List
+  id:: 67a50613-434c-4717-8ba9-9c831d8baa79
+	- ### Insertion
+	  id:: 67a69ecd-40e3-40e9-b547-a56f407db31d
+	  $$O(1)\text{ or }O(n)$$
+	  $O(1)$ in the scenario that you're inserting at the start, $O(n)$ at the worst case (last element).
 	- ### Access
+	  id:: 67a50678-c8e5-4415-8a9c-235c1cc0d883
 	  $$O(n)$$
 	  In the worst case, it's $O(n)$ when it's the last element.
 	- ### Deletion
+	  id:: 67a50791-4588-4b18-85b0-2b513af3741e
 	  $$O(n)$$
 	  $O(n)$ otherwise at the worst case (it's the last element)
+- ## Doubly Linked List
+  The same as a ((67a50613-434c-4717-8ba9-9c831d8baa79)), but also adds some overhead in the form of a *prev* pointer to the prior element.
+  
+  Generally speaking, the same complexity, but for operations involving the last element, drops complexity. For example, ((67a69ecd-40e3-40e9-b547-a56f407db31d)), ((67a50791-4588-4b18-85b0-2b513af3741e)), and ((67a50678-c8e5-4415-8a9c-235c1cc0d883)) can drop to $O(1)$.
+	- ### C++ Implementation
+	  Can be found as the `std::list` container.
+	- ### Rust Implementation
+	  The `std::collections::LinkedList` type. ([Link](https://doc.rust-lang.org/std/collections/linked_list/struct.LinkedList.html))
 - ## Stack
   A LIFO (last in, first out) data structure.
 	- ### Push
