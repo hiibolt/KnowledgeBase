@@ -18,6 +18,15 @@ For variadic queries:
 INSERT INTO <table_name>
 	<another_query>;
 ```
+	- ### Example
+	  ```SQL
+	  INSERT INTO Person
+	  	Values('123456789',
+	            'Inigo',
+	            'Montoya'
+	            '555555555555'
+	            );
+	  ```
 - ## Updating
 - ## Deletion
 - ## Selection
