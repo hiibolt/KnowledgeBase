@@ -42,6 +42,12 @@
 	  ```SQL
 	  ALTER TABLE <table_name> DROP <column_name>;
 	  ```
+	  ...note that this is *very* different from dropping an *entire* table.
+	  
+	  To drop an entire table:
+	  ```SQL
+	  DROP TABLE <table_name>;
+	  ```
 - ## Views
 	- ### CREATE VIEW
 	  ```Rust
