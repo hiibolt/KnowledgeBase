@@ -40,5 +40,18 @@ INSERT INTO <table_name>
 	            );
 	  ```
 - ## Updating
+  ```SQL
+  UPDATE <table_name>
+  	SET <attr> = <value> [, <attr> = <value> ...]
+      [ WHERE <expression> ];
+  ```
+	- ### Example
+	  ```SQL
+	  UPDATE Student
+	  	SET CLSYEAR = 'Senior'
+	      WHERE TOTALHRS > 90;
+	  ```
 - ## Deletion
 - ## Selection
+- ## `WHERE` Clause
+  Useful for specifying which rows to affect - commonly used with `UPDATE` and `SELECT` commands.
