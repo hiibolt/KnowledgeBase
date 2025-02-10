@@ -40,18 +40,43 @@ INSERT INTO <table_name>
 	            );
 	  ```
 - ## Updating
+  Allows you to update one or more rows.
+  
   ```SQL
   UPDATE <table_name>
   	SET <attr> = <value> [, <attr> = <value> ...]
       [ WHERE <expression> ];
   ```
-	- ### Example
+	- ### Example 1
+	  This would update *everybody* to the following:
+	  ```SQL
+	  UPDATE Person
+	  	SET FNAME='Spartacus'
+	      	LNAME=''
+	          PHONE='';
+	  ```
+	- ### Example 2
 	  ```SQL
 	  UPDATE Student
 	  	SET CLSYEAR = 'Senior'
 	      WHERE TOTALHRS > 90;
 	  ```
+	- ### Example 3
+	  ```SQL
+	  UPDATE Student
+	  	SET GPA = 4.000
+	      WHERE SSN='9999999999';
+	  ```
 - ## Deletion
+  ```SQL
+  DELETE FROM <table_name> [ WHERE <expression> ]
+  ```
+	- ### Example
+	  Deletes every `Person`
+	  ```SQL
+	  DELETE FROM Person
+	  ```
+	-
 - ## Selection
 - ## `WHERE` Clause
   Useful for specifying which rows to affect - commonly used with `UPDATE` and `SELECT` commands.
