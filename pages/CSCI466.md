@@ -5,3 +5,4 @@
 - [[Normalization]]
 - [[ER Diagram to Relational Database]]
 - [[DDL]]
+- [[DML]]
