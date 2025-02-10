@@ -11,7 +11,7 @@ INSERT INTO <table_name>
 	(<attr_list>)
 	VALUES (<value_list>);
 ```
-...note that both of these values are pre-determined.
+...note that both of these options require pre-determined values.
 
 For variadic queries:
  ```SQL
