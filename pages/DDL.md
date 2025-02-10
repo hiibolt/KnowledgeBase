@@ -26,7 +26,10 @@
 		    	PHONE CHAR(10)             # Phone #
 		  );
 		  ```
-	- ### ALTER TABLE
+	- ### Alteration
+		- #### Adding
+		  * `ALTER TABLE <table_name> ADD <attr> <type>;` - for a single column
+		  * `ALTER TABLE <table_name> ADD (<attr1>, <type1>, ...);` - for multiple columns
 	- ### DROP TABLE
 - ## Views
 	- ### CREATE VIEW
