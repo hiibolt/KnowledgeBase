@@ -4,3 +4,4 @@
 - [[Relational Database Structure]]
 - [[Normalization]]
 - [[ER Diagram to Relational Database]]
+- [[DDL]]
