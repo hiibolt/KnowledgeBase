@@ -1,4 +1,7 @@
 ## Insertion
+*[Docs](https://mariadb.com/kb/en/insert/)*
+
+There are multiple options for insertion syntax:
 ```SQL
 INSERT INTO <table_name>
 	VALUES (<value_list>);
@@ -18,13 +21,22 @@ For variadic queries:
 INSERT INTO <table_name>
 	<another_query>;
 ```
-	- ### Example
+	- ### Example 1
 	  ```SQL
 	  INSERT INTO Person
 	  	Values('123456789',
 	            'Inigo',
-	            'Montoya'
+	            'Montoya',
 	            '555555555555'
+	            );
+	  ```
+	- ### Example 2
+	  ```SQL
+	  INSERT INTO Person
+	  	(LNAME,FNAME,SSN)
+	      Values('Inigo',
+	            'Montoya',
+	            '123456789'
 	            );
 	  ```
 - ## Updating
