@@ -27,13 +27,30 @@
 		  );
 		  ```
 	- ### Alteration
-		- #### Adding
+		- ### Adding
 		  * `ALTER TABLE <table_name> ADD <attr> <type>;` - for a single column
 		  * `ALTER TABLE <table_name> ADD (<attr1>, <type1>, ...);` - for multiple columns
-	- ### DROP TABLE
+			- #### Example
+			  ```SQL
+			  ALTER TABLE Person ADD Birthday DATE;
+			  ```
+		- ### Modifying
+		  ```SQL
+		  ALTER TABLE <table_name> MODIFY <column_name> <new_options>;
+		  ```
+	- ### Dropping
+	  ```SQL
+	  ALTER TABLE <table_name> DROP <column_name>;
+	  ```
 - ## Views
 	- ### CREATE VIEW
+	  ```Rust
+	  todo!();
+	  ```
 	- ### DROP VIEW
+	  ```Rust
+	  todo!();
+	  ```
 - ## Datatypes
   * `INT/INTEGER`
   * `FLOAT`
