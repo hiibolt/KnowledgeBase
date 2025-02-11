@@ -6,3 +6,5 @@ std::vector<int> v = { 1, 2, 3};
 int sum = 0;
 std::for_each(v.begin(), v.end(), [&sum](int x) { sum += x; })
 ```
+- ### Anonymous
+  Not able to be referenced inside of itself!
