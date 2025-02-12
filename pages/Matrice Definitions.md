@@ -1,7 +1,36 @@
-#### Column Vector
-A vertical set.
-
-For example, for the set of column vectors with elements of $$\mathbb{R}$$ is $$\mathbb{R}^{n}$$.
+## Matrix
+	- ### Notation
+	  A matrix of $n$ vertical size and $m$ horizontal size appears as:
+	  \begin{vmatrix}
+	  a_{11} & a_{12} & ... & a_{1m} \\
+	  a_{21} & a_{22} & ... & a_{2m} \\
+	  ... & ... & ... & ... \\
+	  a_{n1} & a_{n2} & ... & a_{nm} \\
+	  \end{vmatrix}
+	  
+	  Notationally, this is described as $$M_{n,m}(\mathbb{R})$$.
+	  
+	  A vector can be distinguished from a standard matrix by the arrow over the variable.
+	  
+	  For example: $$v \text{ vs. } \vec{v}$$.
+	  
+	  A **position vector** is found by placing a vector to act on the origin.
+	- ### Visualization
+	  Action of column vectors...
+	  \begin{vmatrix}x \\ y \end{vmatrix}
+	  ...on $$\mathbb{R}^2$$.
+	  
+	  \begin{equation}
+	  \begin{vmatrix}2 \\ 1 \end{vmatrix}
+	  ...moves...
+	  \begin{vmatrix}1 \\ 0\end{vmatrix}
+	  ...to...
+	  \begin{vmatrix}3 \\ 1\end{vmatrix}
+	  \end{equation}
+- #### Column Vector
+  A vertical set.
+  
+  For example, for the set of column vectors with elements of $$\mathbb{R}$$ is $$\mathbb{R}^{n}$$.
 - #### Row Vector
   A horizontal set.
   
