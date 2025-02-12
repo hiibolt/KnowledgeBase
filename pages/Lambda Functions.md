@@ -8,3 +8,5 @@ std::for_each(v.begin(), v.end(), [&sum](int x) { sum += x; })
 ```
 - ### Anonymous
   Not able to be referenced inside of itself!
+  
+  To do so, you need *y combinators*.
