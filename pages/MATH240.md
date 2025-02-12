@@ -159,6 +159,8 @@ $$\int(cf) = c\int{f}$$
 		  $$P_{\vec{v}}{\vec{u}}=\frac{\vec{u}\cdot\vec{v}}{\vec{v}\cdot\vec{v}}\vec{v}$$
 		  
 		  $P_{\vec{v}}\vec{u}$ is read as "projecting $\vec{u}$ onto $\vec{v}$.
+		- ### Null Space
+		  For a given matrix $A$, it is the solution set of $A\vec{x}=\vec{0}$
 		- ### Matrix Multiplication
 		  The general process is to go *down* the rows of the first (left) matrix and *across* the columns of the second (right) matrix, and take the ((6787f568-1935-41ae-a8f4-adcc0fe55c86)) of the two.
 			- #### Algebraic Properties (of addition, technically)
