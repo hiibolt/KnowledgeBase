@@ -2,6 +2,9 @@
 A view is a virtual table which derives data from other tables (or views!) via a query that is a part of its definition.
 
 They are *virtual* - meaning that they don't contain their own data.
+	- ### Advantages
+	  * Simply user's otherwise complicated [[DML]] operations 
+	  * Users can be denied base tables for additional security
 - ## Creation
   ```SQL
   CREATE VIEW <view_name>
@@ -26,3 +29,7 @@ They are *virtual* - meaning that they don't contain their own data.
 	      	FROM transcript
 	          GROUP BY grade;
 	  ```
+- ## Dropping
+  ```SQL
+  DROP VIEW <view_name>;
+  ```
