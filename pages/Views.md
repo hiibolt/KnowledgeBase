@@ -33,3 +33,19 @@ They are *virtual* - meaning that they don't contain their own data.
   ```SQL
   DROP VIEW <view_name>;
   ```
+- ## Select
+  There are two options for selection, the first of which is for row data:
+  ```SQL
+  SELECT [DISTINCT|ALL] <column_list>
+  	FROM <table_list>
+      [ WHERE <where_exp> ]
+      [ GROUP BY <group_key> ]
+      [ HAVING <having_exp> ]
+      [ ORDER BY <sort_columns> ] ;
+  ```
+  ...but what about more variable expressions?
+  
+  This option shows the results of the supplied expression:
+  ```SQL
+  SELECT <any_expression ;
+  ```
