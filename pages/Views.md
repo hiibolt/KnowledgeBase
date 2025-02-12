@@ -10,11 +10,19 @@ They are *virtual* - meaning that they don't contain their own data.
       	FROM <source_table_or_view> [, ...]
       	WHERE <condition>;
   ```
-	- ### Example
+	- ### Example 1
 	  ```SQL
 	  CREATE VIEW Dekalb_People
 	  	(SSN, first_name, last_name) # Renames tuple columns
 	      AS SELECT SSN, FNAME, LNAME
 	      	FROM Person
 	          WHERE ZIP = '60115';
+	  ```
+	- ### Example 2
+	  ```SQL
+	  CREATE VIEW grade_tally
+	  	(grade, howmany)
+	      AS SELECT grade, COUNT(*)
+	      	FROM transcript
+	          GROUP BY grade;
 	  ```
