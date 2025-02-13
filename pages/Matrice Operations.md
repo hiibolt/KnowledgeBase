@@ -134,11 +134,14 @@ ca_{n1} & ca_{n2} & ... & ca_{nm} \\
   \dots & \dots & \dots & \dots
   \end{bmatrix}
   
+  **Base Laws**:
   * If a row or column of the matrix is 0, the determinant is also zero.
   * The determinant is zero if and only for a ((67a25d50-6c70-43fd-bfae-9e0e7ebcd07e)).
   * $|A|=|A^T|$
   * $|AB|=|A||B|$
   * $|I| = 1$
+  
+  **Row/Column Operations and Determinants**:
   * If two rows or columns of $A$ are equal, then $|A| = 0$
   * If you interchange two rows or columns, the determinant changes sign.
   * If $B$ is the matrix obtained by multiplying a row or column of $A$ by a scalar $c\in \mathbb{R}$, then $|B| = c|A|$
