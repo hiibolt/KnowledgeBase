@@ -27,21 +27,6 @@ A *vector space* consists of two *abelian groups* $(V, \oplus)$ and $(\mathbb{R}
 	  $$\left(-1,1\right)=\left(0\right)\left(1,1\right)+\left(-1\right)\left(1,-1\right)$$
 	  
 	  As a result, we derive that a basis is a collection of vectors that **span** the vector space but has **no redundant vectors**.
-	- ### Steps To Verify a Vector Space?
-	  All algebraic laws must be satisfied:
-	  * $0+v=v$
-	  * $v+w=w+v$
-	  * $1v=v$
-	  * $(u+v)+w=u+(v+w)$
-	  * $s(tv) = (st)v$
-	  * $s(u+v)=su+sv$
-		- ### Example in $\mathbb{R}_{2*2}$:
-		  \begin{equation}
-		  \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} = x
-		  \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix} + y
-		  \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix} + z
-		  \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix}
-		  \end{equation}
 	- ### Characteristics Of A Valid Vector Space
 	  The linear map of the constraint *must* be **linear**. For example, a ((66fc4beb-e6bb-4622-ba4c-cb9d1938d5c8)) is **linear**, but a ((66e8828d-8b04-4463-b479-f87150ad4c58)) is not.
 - ### Common Spaces
