@@ -1,4 +1,18 @@
 ## General Definition
+A real *vector space* on a set $V$ on a set of elements for which there are two operations - $\oplus$ and $\odot$ - defined with the following properties, where elements of $V$ are written with arrows worn as hats:
+**For all $\vec{u}, \vec{v}, \vec{w} \in V$**:
+* *(a)* $\vec{u}, \vec{v} \in V \rarr \vec{u}+\vec{v}\in V$ (closed under \oplus, stated concisely as $(V, \oplus)$ is an *abelian group*)
+   * *(1)* $\vec{u}+\vec{v} = \vec{v} + \vec{u}$ (commutative law)
+   * *(2)* $\vec{u} + (\vec{u}+\vec{w})=(\vec{u}+\vec{v})+\vec{w}$ (associative law)
+   * *(3)* There exists an element $\vec{0}\in V$ such that $\vec{u}+\vec{0}=\vec{0}+\vec{u}=\vec{u}$ (there exists an identity)
+   * *(4)* For each $\vec{u}\in V$, there is an element $-\vec{u}\in V$ such that $\vec{u}+-\vec{u}=-\vec{u}+\vec{u}=\vec{0}$ (inverses exist)
+* *(b)* If $\vec{u}\in V$ and $c\in\mathbb{R}$, then $c\vec{u}\in V$. (closed under scalar multiplication)
+   * *(1)* $c(\vec{u}+\vec{v}=c\vec{u}+c\vec{v}$. (distributive law 1)
+   * *(2)* $(c+d)\vec{u} = c\vec{u}+d\vec{u}$. (distributive law 2)
+   * *(3)* $c(d\vec{u})=(cd)\vec{u}$. (The group ($\mathbb{R}^x,\odot$) where $\mathbb{R}^x$ are non-zero real numbers acts on $V$)
+   * *(4)* $1\vec{u}=\vec{u}$. (addendum to *3*)
+
+
 A collection of vectors, where there exists one zero vector. 
 Each vector $v$ has a sibling $sv$ (where $s$ is some scalar).
 Each vector pair $u,v$ must produce another vector $u+v$.

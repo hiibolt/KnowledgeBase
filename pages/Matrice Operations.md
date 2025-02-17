@@ -145,7 +145,7 @@ ca_{n1} & ca_{n2} & ... & ca_{nm} \\
   * If two rows or columns of $A$ are equal, then $|A| = 0$
   * If you interchange two rows or columns, the determinant changes sign.
   * If $B$ is the matrix obtained by multiplying a row or column of $A$ by a scalar $c\in \mathbb{R}$, then $|B| = c|A|$
-  * The determinant of an upper ((67a6470d-b340-4c59-b950-7d56e59bb513)) $A_{nxn}\text{ is }\sum_{i=1}^na_{ii}$.
+  * The determinant of an upper ((67a6470d-b340-4c59-b950-7d56e59bb513)) $A_{nxn}\text{ is }\sum_{i=1}^na_{ii}$ (The ((66fc4beb-e6bb-4622-ba4c-cb9d1938d5c8)) ).
   * If you add a multiple of one row or column to another, the determinant is unchanged.
 	- ### 2x2
 	  \begin{equation}

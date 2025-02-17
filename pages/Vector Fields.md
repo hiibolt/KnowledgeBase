@@ -66,3 +66,10 @@ A vector field is **conservative** if it is the gradient of some differentiable 
 	  $$=\frac{1}{3}+(1+\frac{1}{2}+\frac{1}{3})+3\sqrt{2}\frac{1}{3}$$
 	  $$\text{or}$$
 	  $$=\frac{13}{6}+\sqrt{2}$$
+- ## Fields
+  **Examples**:
+  * Scalars
+  * $\mathbb{Q}$ - The field of rational numbers
+  * $\mathbb{R}$ - Real numbers
+  * Complex
+  * $\mathbb{C}$ - Complex numbers ($$\{x+iy : x,y \in \mathbb{R}, i^2=-1\}$$)
