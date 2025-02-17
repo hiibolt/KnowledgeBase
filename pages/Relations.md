@@ -2,6 +2,7 @@
 An ordered pair $( a, b )$ becomes 
 $$\{\{a\}\text{, }\{a,b\}\}$$
 - ### Cartesian Product
+  id:: 67b3ab81-2888-4a43-a9fe-9336dc72ada4
   A * B = {(a, b): a $$\epsilon$$A and b $$\epsilon$$ B}
   
   Example: A = {1, 2}, B = {3, 4, d}

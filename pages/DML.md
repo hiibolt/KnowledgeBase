@@ -78,7 +78,9 @@ INSERT INTO <table_name>
 	  ```
 	-
 - ## Selection
-  See ((67b3ab81-e18b-4fd4-9570-402e058cf68a))
+  See ((67b3ab81-e18b-4fd4-9570-402e058cf68a)).
+  
+  Note that selecting from two different tables is the ((67b3ab81-2888-4a43-a9fe-9336dc72ada4)).
 	- ## `WHERE` Clause
 	  Useful for specifying which rows to affect - commonly used with `UPDATE` and `SELECT` commands.
 	  
