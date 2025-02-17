@@ -94,3 +94,20 @@ INSERT INTO <table_name>
 	  ```
 	  
 	  Sorts the results by the comma-separated list of attributes.
+	- ## Subqueries
+	  One option to ensure that the subquery returns *true*:
+	  ```SQL
+	  SELECT ...
+	  	...
+	      WHERE EXISTS
+	      	(SELECT ...)
+	  ```
+	  ...but what about where it returns *false*?
+	  
+	  One can simply convert `EXISTS` to `NOT EXISTS`:
+	  ```SQL
+	  SELECT ...
+	  	...
+	      WHERE NOT EXISTS
+	      	(SELECT ...)
+	  ```
