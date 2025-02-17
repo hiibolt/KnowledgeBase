@@ -96,6 +96,13 @@ INSERT INTO <table_name>
 	  Sorts the results by the comma-separated list of attributes.
 	- ## `UNION` Clause
 	  Merges two select statements akin to the union operator from [[Set Theory]].
+	  
+	  A statement getting all past and present senators:
+	  ```SQL
+	  SELECT FNAME FROM CurrentSenators
+	  UNION
+	  SELECT FNAME FROM PastSenators
+	  ```
 - ## Subqueries
   One option to ensure that the subquery returns *true*:
   ```SQL
