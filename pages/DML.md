@@ -4,22 +4,22 @@
 There are multiple options for insertion syntax:
 ```SQL
 INSERT INTO <table_name>
-	VALUES (<value_list>);
+VALUES (<value_list>);
 ```
 ...note the lack of attribute list!
 
 With an attribute list:
 ```SQL
 INSERT INTO <table_name>
-	(<attr_list>)
-	VALUES (<value_list>);
+(<attr_list>)
+VALUES (<value_list>);
 ```
 ...note that both of these options require pre-determined values.
 
 For variadic queries:
- ```SQL
+```SQL
 INSERT INTO <table_name>
-	<another_query>;
+<another_query>;
 ```
 	- ### Example 1
 	  ```SQL
@@ -78,5 +78,17 @@ INSERT INTO <table_name>
 	  ```
 	-
 - ## Selection
-- ## `WHERE` Clause
-  Useful for specifying which rows to affect - commonly used with `UPDATE` and `SELECT` commands.
+  See ((67b3ab81-e18b-4fd4-9570-402e058cf68a))
+	- ## `WHERE` Clause
+	  Useful for specifying which rows to affect - commonly used with `UPDATE` and `SELECT` commands.
+	  
+	  Logical operators:
+	  * `>=`, `<=`
+	  * `=`, `!=`
+	  * `AND`, `OR`, `IN`
+	- ## `ORDER BY` Clause
+	  ```SQL
+	  ORDER BY <attrs>
+	  ```
+	  
+	  Sorts the results by the comma-separated list of attributes.

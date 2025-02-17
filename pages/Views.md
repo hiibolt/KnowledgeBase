@@ -34,6 +34,7 @@ They are *virtual* - meaning that they don't contain their own data.
   DROP VIEW <view_name>;
   ```
 - ## Select
+  id:: 67b3ab81-e18b-4fd4-9570-402e058cf68a
   There are two options for selection, the first of which is for row data:
   ```SQL
   SELECT [DISTINCT|ALL] <column_list>
