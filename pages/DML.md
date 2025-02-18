@@ -120,3 +120,12 @@ INSERT INTO <table_name>
       WHERE NOT EXISTS
       	(SELECT ...)
   ```
+- ## Group Functions
+  * `SUM(<x>`
+  * `AVG(<x>)`
+  * `COUNT(<x>)`
+  * `MAX(<x>)`
+  * `MIN(<x>)`
+  * `STDDEV(<x>)`
+  * `VARIANCE(<x>)`
+  ...all of which return a single value.
