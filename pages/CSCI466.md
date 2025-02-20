@@ -7,3 +7,5 @@
 - [[DDL]]
 - [[DML]]
 - [[Views]]
+- ## Assignments
+	- [[Assignment 3 - CSCI466]]
