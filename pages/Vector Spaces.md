@@ -23,7 +23,11 @@ A *vector space* consists of two *abelian groups* $(V, \oplus)$ and $(\mathbb{R}
 	- ### Example
 	  $$V=\{ae^{bx}:a,b\in\mathbb{R}\}$$
 	  
-	  **Closure under **$\bold{+}$:
+	  **Closure under** $\bold{+}$:
+	  * [x] Follows the **Communative Axiom**
+	  * [x] Follows the **Associative Axiom**
+	  * [x] There *is* a ((67912a9e-2bd7-4de0-ae70-fea77995ff98)) ($a=1,b=0$)
+	  * [x] There *is* an inverse ($a_1=\frac{1}{a_2},b_1=-b_2$)
 - ## Givens of Vector Spaces
   * The elements of a vector space $V$ are called *vectors*.
   * The elements of $\mathbb{R}$ are called *scalars*. 
