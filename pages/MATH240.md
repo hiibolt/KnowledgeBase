@@ -7,6 +7,7 @@
 - [[Matrice Functions]]
 - [[Vector Fields]]
 - [[Vector Spaces]]
+- [[Vector Subspaces]]
 - _unorganized
 	- #### Law of Cosines
 	  id:: 67893c87-26ba-4786-9c07-c8155c2f7015

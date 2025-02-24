@@ -36,6 +36,13 @@ A *vector space* consists of two *abelian groups* $(V, \oplus)$ and $(\mathbb{R}
   * $\vec{0}$ is called the ((67912a9e-2bd7-4de0-ae70-fea77995ff98)).
   * $-\vec{u}$ is called the *negative of* $\it{\vec{u}}$.
   * If we allow scalars to be ((67b36c72-a64a-48f2-ad2e-9960e1e2830b)), then we obtain a *complex vector space*.
+  ...additional theorems:
+  
+  **Theorem**: Let $V$ be a vector space (v.s.), then 
+  * $0\vec{u}=\vec{0}$ for $V\vec{u}\in V$
+  * $c\vec{0}=\vec{0}$ for $V c\in \mathbb{R}$
+  * If $c\vec{u}=\vec{0}$, then either $c=0$ or $\vec{u}=\vec{0}$
+  * $(-1)\vec{u}=-\vec{u}$, $V\vec{u}\in V$$$
 - ### Basis Vectors
   A choice of n vectors $b_1,b_2,\ldots,b_{n}$. It may be that an arbitrary vector $v$ can be written as $v=s_1,b_1+,\cdots,+s_{n}b_{n}$. In which case, vector **spans** the vector space.
   
