@@ -1,5 +1,7 @@
 ## Definition
 Let $V$ be a *vector space* and $\empty \ne W \subseteq V$. If $W$ is a vector space with respect to the operations in $V$, then $W$ is called a *subspace* of $V$. Every vector space has two subspaces $\{\vec{0}\}$ and $V$ itself.
+
+Let $V_1,\dots ,v_k \in V$. $\vec{v}$ is said to be a *linear combination* of $\vec{v_1},\dots,\vec{v}_n$ if $\vec{v}=a_1\vec{v_1}+\dots +a_k \vec{v}_k$ for some $a_1,\dots a_k\in\mathbb{R}$.
 - ## Determining Vector Space Validity
   **Theorem**: Let $V$ be a vector space with operations $\oplus$ and $\odot$. Let $W$ be a non-empty subset of $V$. Then $W$ is a subspace if and only if:
   * $W$ is closed under $\oplus$
