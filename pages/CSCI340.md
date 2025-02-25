@@ -4,3 +4,5 @@
 - [[Lambda Functions]]
 - [[Functional Programming]]
 - [[Recursion]]
+- [[Maps/Sets/Hashing]]
+- [[Dynamic Programming]]
