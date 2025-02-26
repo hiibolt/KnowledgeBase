@@ -79,21 +79,32 @@ INSERT INTO <table_name>
 	-
 - ## Selection
   See ((67b3ab81-e18b-4fd4-9570-402e058cf68a)).
-  
-  Note that selecting from two different tables is the ((67b3ab81-2888-4a43-a9fe-9336dc72ada4)).
+	- ## Multiple Tables
+	  Selecting from two different tables is the ((67b3ab81-2888-4a43-a9fe-9336dc72ada4)) of the table's values.
+	  ```SQL
+	  SELECT DISTINCT P, CITY
+	  	FROM SP, S
+	      WHERE SP.S = S.S;
+	  ```
 	- ## `WHERE` Clause
 	  Useful for specifying which rows to affect - commonly used with `UPDATE` and `SELECT` commands.
 	  
 	  Logical operators:
 	  * `>=`, `<=`
 	  * `=`, `!=`
-	  * `AND`, `OR`, `IN`
+	  * `AND`, `OR`, `IN`, `NOT`
 	- ## `ORDER BY` Clause
 	  ```SQL
-	  ORDER BY <attrs>
+	  ORDER BY <attrs> [ DESC | ASC ]
 	  ```
-	  
-	  Sorts the results by the comma-separated list of attributes.
+	  Sorts the results by the comma-separated list of attributes, sorting in ascending order by default.
+		- ### Example
+		  ```SQL
+		  SELECT S, STATUS
+		  	FROM S
+		      WHERE CITY = 'Paris'
+		      ORDER BY STATUS DESC;
+		  ```
 	- ## `UNION` Clause
 	  Merges two select statements akin to the union operator from [[Set Theory]].
 	  
