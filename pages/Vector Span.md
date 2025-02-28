@@ -4,6 +4,8 @@ If $$S=\{\vec{v}_1,\dots,\vec{v}_k\}$$ is a set of vectors in a vector space $V$
 Notated as:
 $$\text{span }S$$
 $$\text{span }\{\vec{v_1},\dots,\vec{v}_k\}$$
+
+*Note*: When checking if something is in a span, if after RREF the system is inconsistent, then the given vector $\vec{v}$ is *not* in the span.
 - ## Example
   \begin{equation}
   \text{span }
