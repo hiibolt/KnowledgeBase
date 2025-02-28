@@ -9,3 +9,17 @@ $$\int(cf) = c\int{f}$$
 - ## Linear Dependence
   Vector $\vec{v}_1,\dots\vec{v}_k\in V$ are said to be *linearly dependent* (LD) is there exist constants $a_1,\dots,a_k\in\mathbb{R}$, not all equal to $0$, such that:
   $$a_1\vec{v}_1+\dots+a_2\vec{v}_k=\vec{0}$$
+	- ### Example 1
+	  $(1,1)^T\text{ and }(1,2)^T$ are linearly independent.
+	  
+	  **Proof**:
+	  $$c_1(1, 1)^T+c_2(1,2)^T=(0,0)^T$$
+	  By RREF, we get $c_1=c_2=0$.
+	- ### Example 3
+	  $$\vec{v}_1=(1,2,3)^T,\vec{v}_2=(2,0,2)^T,\vec{v}_3(9,2,7)^T,\vec{v}_4=(-2,2,1)^T$$
+	  
+	  Since assigning $a_n$ as a coefficient to each vector $\vec{v}_n$ creates a system with more unknowns than equations, they are not linearly independent - they are *linearly dependent*.
+	- ## Theorems
+	  Let $S_1$ and $S_2$ be finite subsets of a vector space and assume $S_1\subseteq S_2$. Then:
+	  * (a) IF $S_1$ is linearly dependent then so is $S_2$
+	  * (b) If $S_2$ is linearly independent, then so is $S_1$
