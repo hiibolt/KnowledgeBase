@@ -23,3 +23,5 @@ $$\int(cf) = c\int{f}$$
 	  Let $S_1$ and $S_2$ be finite subsets of a vector space and assume $S_1\subseteq S_2$. Then:
 	  * (a) IF $S_1$ is linearly dependent then so is $S_2$
 	  * (b) If $S_2$ is linearly independent, then so is $S_1$
+	  
+	  If the nonzero vectors $\vec{v}_1,\dots\vec{v}_n$ in a vector space $V$ are linearly dependent, then one of the vectors, say $\vec{v}_j (j\ge 2)$ is a linear combination of the preceeding vectors.
