@@ -9,6 +9,7 @@
 - [[Vector Spaces]]
 - [[Vector Subspaces]]
 - [[Vector Span]]
+- [[Vector Bases and Dimensions]]
 - _unorganized
 	- #### Law of Cosines
 	  id:: 67893c87-26ba-4786-9c07-c8155c2f7015
