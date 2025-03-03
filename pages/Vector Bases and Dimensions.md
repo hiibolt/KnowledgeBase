@@ -2,6 +2,8 @@
 The vectors $\vec{v}_1,\dots,\vec{v}_n\in V$ are said to form a basis of $V$ if:
 (a) $\vec{v}_1,\dots,\vec{v}_n$ span $V$.
 (b) $\vec{v}_1,\dots,\vec{v}_n$ are *linearly independent*.
+
+A *vector space* $V$ is *finite dimensional* if there is a finite subset of $V$ that is a basis of $V$. Otherwise $V$ is called *infinite dimensional*.
 - ## Examples
 	- ### Example 1
 	  Check that $S=\{t^2+1,t-1,2t+2\}$ spans $P_2 (at^2+bt+c\in P_2)$.
@@ -24,3 +26,6 @@ The vectors $\vec{v}_1,\dots,\vec{v}_n\in V$ are said to form a basis of $V$ if:
 	  Solve, then set $a_1 = a_2 = a_3 = 0$.
 	- ### Example 2
 	  Find a basis for the subspace $V$ of $P_2$ consisting of all vectors of the form $at^2+bt+c$ where $c=a-b$.
+	  
+	  $$at+bt+(a-b)=a(t^2+1)+b(t-1)$$
+	  $\therefore$ the subspace has basis $t_2+1, t-1$.
