@@ -4,6 +4,8 @@ The vectors $\vec{v}_1,\dots,\vec{v}_n\in V$ are said to form a basis of $V$ if:
 (b) $\vec{v}_1,\dots,\vec{v}_n$ are *linearly independent*.
 
 A *vector space* $V$ is *finite dimensional* if there is a finite subset of $V$ that is a basis of $V$. Otherwise $V$ is called *infinite dimensional*.
+
+If you have a vector basis of $V$ called $S$, then every vector in $V$ can be written in one and only one way as a linear combination of elements of $S$.
 - ## Examples
 	- ### Example 1
 	  Check that $S=\{t^2+1,t-1,2t+2\}$ spans $P_2 (at^2+bt+c\in P_2)$.
