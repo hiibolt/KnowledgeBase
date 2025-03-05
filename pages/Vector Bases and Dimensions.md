@@ -6,6 +6,8 @@ The vectors $\vec{v}_1,\dots,\vec{v}_n\in V$ are said to form a basis of $V$ if:
 A *vector space* $V$ is *finite dimensional* if there is a finite subset of $V$ that is a basis of $V$. Otherwise $V$ is called *infinite dimensional*.
 
 If you have a vector basis of $V$ called $S$, then every vector in $V$ can be written in one and only one way as a linear combination of elements of $S$.
+
+The dimension of a non-zero vector space $V$ is the number of vectors in a basis for $V$. We write $\text{dim }V$ for the dimension of $V$. We define the dimension of the trivial vector space $\{\vec{0}\}$ to be 0.
 - ## Theorems
 	- ### 1
 	  Let $S=\{\vec{v}_1,\dots,\vec{v}_n\}$ be a set of non-zero vectors in a vector space $V$ and let $W=\text{span }S$. Then some subset of $S$ is a basis for $W$.
