@@ -19,12 +19,12 @@ $$\int(cf) = c\int{f}$$
 	  $$\vec{v}_1=(1,2,3)^T,\vec{v}_2=(2,0,2)^T,\vec{v}_3(9,2,7)^T,\vec{v}_4=(-2,2,1)^T$$
 	  
 	  Since assigning $a_n$ as a coefficient to each vector $\vec{v}_n$ creates a system with more unknowns than equations, they are not linearly independent - they are *linearly dependent*.
-	- ## Theorems
-		- ### 1 
-		  Let $S_1$ and $S_2$ be finite subsets of a vector space and assume $S_1\subseteq S_2$. Then:
-		  * (a) IF $S_1$ is linearly dependent then so is $S_2$
-		  * (b) If $S_2$ is linearly independent, then so is $S_1$
-		- ### 2
-		  If the nonzero vectors $\vec{v}_1,\dots\vec{v}_n$ in a vector space $V$ are linearly dependent, then one of the vectors, say $\vec{v}_j (j\ge 2)$ is a linear combination of the preceeding vectors.
-		- ### 3
-		  Non-zero vectors $\vec{v}_1,\dots,\vec{v}_n\in V$ are *linearly dependent* if and only if $\exists j \ge 2$ such that $\vec{v}_j$ is a linear combination of $\vec{v}_i,\dots,\vec{v}_{j-1}$.
+- ## Theorems
+	- ### 1 
+	  Let $S_1$ and $S_2$ be finite subsets of a vector space and assume $S_1\subseteq S_2$. Then:
+	  * (a) IF $S_1$ is linearly dependent then so is $S_2$
+	  * (b) If $S_2$ is linearly independent, then so is $S_1$
+	- ### 2
+	  If the nonzero vectors $\vec{v}_1,\dots\vec{v}_n$ in a vector space $V$ are linearly dependent, then one of the vectors, say $\vec{v}_j (j\ge 2)$ is a linear combination of the preceeding vectors.
+	- ### 3
+	  Non-zero vectors $\vec{v}_1,\dots,\vec{v}_n\in V$ are *linearly dependent* if and only if $\exists j \ge 2$ such that $\vec{v}_j$ is a linear combination of $\vec{v}_i,\dots,\vec{v}_{j-1}$.
