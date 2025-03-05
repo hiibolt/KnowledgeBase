@@ -9,6 +9,8 @@ If you have a vector basis of $V$ called $S$, then every vector in $V$ can be wr
 - ## Theorems
 	- ### 1
 	  Let $S=\{\vec{v}_1,\dots,\vec{v}_n\}$ be a set of non-zero vectors in a vector space $V$ and let $W=\text{span }S$. Then some subset of $S$ is a basis for $W$.
+	- ### 2
+	  If $S=\{\vec{v}_1,\dots,\vec{v}_n\}$ is a basis of a vector space $V$ and $T=\{\vec{w}_1,\dots,\vec{w}_r\}$ is a linearly independent set of vectors in $V$. Then $r\le n$.
 - ## Examples
 	- ### Example 1
 	  Check that $S=\{t^2+1,t-1,2t+2\}$ spans $P_2 (at^2+bt+c\in P_2)$.
