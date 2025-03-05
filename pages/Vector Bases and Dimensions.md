@@ -12,6 +12,9 @@ If you have a vector basis of $V$ called $S$, then every vector in $V$ can be wr
 	- ### 2
 	  If $S=\{\vec{v}_1,\dots,\vec{v}_n\}$ is a basis of a vector space $V$ and $T=\{\vec{w}_1,\dots,\vec{w}_r\}$ is a linearly independent set of vectors in $V$. Then $r\le n$.
 	  
+	  **Corollary**:
+	  If $S=\{\vec{v}_1,\dots,\vec{v}_n\}$ and $T=\{\vec{w}_1,\dots,\vec{w}_m\}$ are bases for a vector space $V$, then $n = m$.
+	  
 	  In other words, *all basis have the same number of elements*.
 - ## Examples
 	- ### Example 1
