@@ -8,7 +8,7 @@ A real *vector space* on a set $V$ on a set of elements for which there are two 
 * *(3)* There exists an element $\vec{0}\in V$ such that $\vec{u}+\vec{0}=\vec{0}+\vec{u}=\vec{u}$ (there exists an identity)
 * *(4)* For each $\vec{u}\in V$, there is an element $-\vec{u}\in V$ such that $\vec{u}+-\vec{u}=-\vec{u}+\vec{u}=\vec{0}$ (inverses exist)
 * **(b)** If $\vec{u}\in V$ and $c\in\mathbb{R}$, then $c\vec{u}\in V$. (closed under scalar multiplication, stated as the *abelian group* ($V, \odot$))
-* *(1)* $c(\vec{u}+\vec{v}=c\vec{u}+c\vec{v}$. (distributive law 1)
+* *(1)* $c(\vec{u}+\vec{v})=c\vec{u}+c\vec{v}$. (distributive law 1)
 * *(2)* $(c+d)\vec{u} = c\vec{u}+d\vec{u}$. (distributive law 2)
 * *(3)* $c(d\vec{u})=(cd)\vec{u}$. (The group ($\mathbb{R}^x,\odot$) where $\mathbb{R}^x$ are non-zero real numbers acts on $V$)
 * *(4)* $1\vec{u}=\vec{u}$. (addendum to *3*)
@@ -42,7 +42,7 @@ A *vector space* consists of two *abelian groups* $(V, \oplus)$ and $(\mathbb{R}
   * $0\vec{u}=\vec{0}$ for $V\vec{u}\in V$
   * $c\vec{0}=\vec{0}$ for $V c\in \mathbb{R}$
   * If $c\vec{u}=\vec{0}$, then either $c=0$ or $\vec{u}=\vec{0}$
-  * $(-1)\vec{u}=-\vec{u}$, $V\vec{u}\in V$$$
+  * $(-1)\vec{u}=-\vec{u}$, $V\vec{u}\in V$
 - ### Basis Vectors
   A choice of n vectors $b_1,b_2,\ldots,b_{n}$. It may be that an arbitrary vector $v$ can be written as $v=s_1,b_1+,\cdots,+s_{n}b_{n}$. In which case, vector **spans** the vector space.
   
