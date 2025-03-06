@@ -14,10 +14,13 @@ The dimension of a non-zero vector space $V$ is the number of vectors in a basis
 	- ### 2 "Bob Theorem"
 	  If $S=\{\vec{v}_1,\dots,\vec{v}_n\}$ is a basis of a vector space $V$ and $T=\{\vec{w}_1,\dots,\vec{w}_r\}$ is a linearly independent set of vectors in $V$. Then $r\le n$.
 	  
-	  **Corollary**:
+	  **Corollary 1**:
 	  If $S=\{\vec{v}_1,\dots,\vec{v}_n\}$ and $T=\{\vec{w}_1,\dots,\vec{w}_m\}$ are bases for a vector space $V$, then $n = m$.
 	  
 	  In other words, *all basis have the same number of elements*.
+	  
+	  **Corollary 2**:
+	  If the vector space $V$ has dimension $n$, then maximally independent subsets of $V$ contain $n$ vectors.
 	- ### 3
 	  Let $S$ be a set of vectors in a vector space $V$.
 	  A subset $T\subseteq S$ is called a *maximally independent subset* of $S$ if $T$ is linearly independent and is not properly contained in any other linearly independent subset of $S.$
