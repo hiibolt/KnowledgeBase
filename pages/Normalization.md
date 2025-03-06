@@ -5,7 +5,7 @@ There are various potential anomalies that should be avoided.
 	  
 	  This is an anomaly because it violates the ((67a3dfa2-7699-493a-8df8-2c0f68c18b9e)) constraint.
 	- ### Deletion Anomalies
-	  When removing part of a record, it can create a *deletion anomaly* when you wish to delete in a manner that makes sense logically, but happens to remove part of all of a primary key.
+	  When removing part of a record, it can create a *deletion anomaly* when you wish to delete in a manner that makes sense logically, but happens to remove part or all of a primary key.
 	  
 	  This is an anomaly because it also violates the ((67a3dfa2-7699-493a-8df8-2c0f68c18b9e)) constraint.
 	- ### Update Anomalies
@@ -34,7 +34,7 @@ There are various potential anomalies that should be avoided.
 - ## Normalization
   Normalization is a more systematic method for ensuring database integrity and preventing issues before they surface.
 	- ### First Normal Form (1NF)
-	  The sole requirement for the *first normal form* is that the database must be **atomic**.
+	  The sole requirement for the *first normal form* is that the database must be **atomic** (only one entry per field).
 	  
 	  This is achieved by duplicating records - which will likely introduce one or more ((67a3e009-9b2a-4130-8d24-d756071d5806)). However, this is okay - the next forms will patch any such issues out.
 	- ### Second Normal Form (2NF)

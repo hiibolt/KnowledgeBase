@@ -18,6 +18,9 @@ The dimension of a non-zero vector space $V$ is the number of vectors in a basis
 	  If $S=\{\vec{v}_1,\dots,\vec{v}_n\}$ and $T=\{\vec{w}_1,\dots,\vec{w}_m\}$ are bases for a vector space $V$, then $n = m$.
 	  
 	  In other words, *all basis have the same number of elements*.
+	- ### 3
+	  Let $S$ be a set of vectors in a vector space $V$.
+	  A subset $T\subseteq S$ is called a *maximally independent subset* of $S$ if $T$ is linearly independent and is not properly contained in any other linearly independent subset of $S.$
 - ## Examples
 	- ### Example 1
 	  Check that $S=\{t^2+1,t-1,2t+2\}$ spans $P_2 (at^2+bt+c\in P_2)$.
