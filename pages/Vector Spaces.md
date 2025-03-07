@@ -39,10 +39,19 @@ A *vector space* consists of two *abelian groups* $(V, \oplus)$ and $(\mathbb{R}
   ...additional theorems:
   
   **Theorem**: Let $V$ be a vector space (v.s.), then 
-  * $0\vec{u}=\vec{0}$ for $V\vec{u}\in V$
-  * $c\vec{0}=\vec{0}$ for $V c\in \mathbb{R}$
-  * If $c\vec{u}=\vec{0}$, then either $c=0$ or $\vec{u}=\vec{0}$
-  * $(-1)\vec{u}=-\vec{u}$, $V\vec{u}\in V$
+  * **(1)** $0\vec{u}=\vec{0}$ for $V\vec{u}\in V$
+  * **(2)** $c\vec{0}=\vec{0}$ for $V c\in \mathbb{R}$
+  * **(3)** If $c\vec{u}=\vec{0}$, then either $c=0$ or $\vec{u}=\vec{0}$
+  * **(4)** $(-1)\vec{u}=-\vec{u}$, $V\vec{u}\in V$
+  ...although *Axiom 3* deserves proof.
+  
+  **Proof of Axiom 3**:
+  This can be proven by the fact that, if $c=0$, *Axiom 1* $(0*\vec{u}=\vec{0})$ states that for any vector $\vec{u}\in\mathbb{R}$, the result is $\vec{0}$.
+  
+  For $c\ne 0$, we must consider that for the vector space $\mathbb{R}$, there exists the *identity axiom* stating there is a $c^{-1}\in\mathbb{R}$. We can multiply both sides on the left by $c^{-1}$.
+  Then, by the *associativity axiom* stating that $c(d\vec{u})=(cd)\vec{u}$, we can eliminate $c$, leaving $1\vec{u}=\vec{0}$. 
+  
+  By the *identity axiom*, which states that $1\vec{u}=\vec{u}$, this proves $\vec{u}=\vec{0}$.
 - ### Basis Vectors
   A choice of n vectors $b_1,b_2,\ldots,b_{n}$. It may be that an arbitrary vector $v$ can be written as $v=s_1,b_1+,\cdots,+s_{n}b_{n}$. In which case, vector **spans** the vector space.
   
