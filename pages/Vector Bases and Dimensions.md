@@ -24,6 +24,8 @@ The dimension of a non-zero vector space $V$ is the number of vectors in a basis
 	- ### 3
 	  Let $S$ be a set of vectors in a vector space $V$.
 	  A subset $T\subseteq S$ is called a *maximally independent subset* of $S$ if $T$ is linearly independent and is not properly contained in any other linearly independent subset of $S.$
+	- ### 4
+	  Let $S=\{\vec{v}_1,\dots,\vec{v}_n\}$ be a set of non-zero vectors in a vector space $V$. Let $W = \text{span }S$. Then some subset of $S$ is a basis for $W$.
 - ## Examples
 	- ### Example 1
 	  Check that $S=\{t^2+1,t-1,2t+2\}$ spans $P_2 (at^2+bt+c\in P_2)$.
