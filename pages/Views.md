@@ -42,7 +42,7 @@ They are *virtual* - meaning that they don't contain their own data.
       [ WHERE <where_exp> ]
       [ GROUP BY <group_key> ]
       [ HAVING <having_exp> ]
-      [ ORDER BY <sort_columns> ] ;
+      [ ORDER BY <sort_columns> ];
   ```
   ...but what about more variable expressions?
   

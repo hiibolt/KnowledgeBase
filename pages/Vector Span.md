@@ -45,4 +45,4 @@ $$\text{span }\{\vec{v_1},\dots,\vec{v}_k\}$$
 	  
 	  **Proof**:
 	  $$v=at^2+bt+c$$
-	  ...and no $a_1$ and $a_2$ $a_1\vec{v}_1+a_2\vec{v}_2=\vec{v}$.
+	  ...and no $a_1$ and $a_2$ such that $a_1\vec{v}_1+a_2\vec{v}_2=\vec{v}$.

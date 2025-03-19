@@ -69,12 +69,12 @@ INSERT INTO <table_name>
 	  ```
 - ## Deletion
   ```SQL
-  DELETE FROM <table_name> [ WHERE <expression> ]
+  DELETE FROM <table_name> [ WHERE <expression> ];
   ```
 	- ### Example
 	  Deletes every `Person`
 	  ```SQL
-	  DELETE FROM Person
+	  DELETE FROM Person;
 	  ```
 	-
 - ## Selection
